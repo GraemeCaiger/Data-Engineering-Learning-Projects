@@ -3,6 +3,7 @@ import pandas as pd
 
 
 Schedule_URL = "https://www.emfcamp.org/schedule/2026.json"
+MQTT_Broker = "mqtt://mqtt.emf.camp" # + emf/weather/ + humidity etc 
 
 def get_json():
 	try:
