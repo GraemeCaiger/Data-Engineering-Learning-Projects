@@ -1,10 +1,13 @@
 import requests
 import pandas as pd
+import paho.mqtt.client as mqtt
 
 
-Schedule_URL = "https://www.emfcamp.org/schedule/2026.json"
+Schedule_URL = "https://www.emfcamp.org/api/villages"#"https://www.emfcamp.org/schedule/2026.json"
 MQTT_Broker = "mqtt://mqtt.emf.camp" # + emf/weather/ + humidity etc 
 
+
+# Get Scedule data 
 def get_json():
 	try:
 		response = requests.get(Schedule_URL, timeout=30) # Send a web request to the schedule URL and stop waiting after 30 seconds.
@@ -14,11 +17,12 @@ def get_json():
 		print(f"Request failed: {exc}") # Show the error message to help explain why the download failed.
 		return None
 
-
-
 json_data = get_json()
 if json_data is not None:
 	df = pd.DataFrame(json_data)
 	print(df.head())
 	print(df.columns)
 	print(df.info())
+df.to_csv('schedule.csv', index=False)
+
+

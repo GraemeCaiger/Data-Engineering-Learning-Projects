@@ -1,0 +1,59 @@
+{
+	"Main_Event_topics": { 
+
+	"bar_RobotArms_NullSector": { 
+		"type": "stocktype",
+		"key": "the objects websocket key",
+		"id": "an integer uniquely identifying the stock type",
+		"department": "the Department object associated with the stock type",
+		"manufacturer": "a string naming the manufacturer",
+		"name": "a string describing this type of stock; unique per manufacturer",
+		"abv": "an optional Decimal giving the alcohol by volume",
+		"fullname": "manufacturer, name and abv combined into a single string",
+		"price": "the sale price as a Decimal, including VAT where appropriate, for a sale_unit_name of this type of stock",
+		"logo": "the path to a PNG logo, or null if not present",
+		"tasting_notes": "tasting notes as HTML, or null if not present",
+		"base_units_bought": "the amount of stock bought in base units as a Decimal",
+		"base_units_remaining": "the amount of stock remaining in base units as a Decimal",
+		"base_unit_name": "a string giving the unit in which we count how much of this stock we have bought and sold, e.g. pint or ml",
+		"sale_unit_name": "a string giving the unit in which we sell this type of stock, e.g. bottle or pint",
+		"sale_unit_name_plural": "plural form of sale_unit_name",
+		"base_units_per_sale_unit": "the number of base units per sale unit as a Decimal",
+		"stock_unit_name": "a string giving the unit in which we count this type of stock, e.g. pint or 1l carton",
+		"stock_unit_name_plural": "plural form of stock_unit_name",
+		"base_units_per_stock_unit": "the number of base units per stock unit as a Decimal",
+		"stocklines": "a list of stockline-brief objects describing places stock of this type is being sold"
+	},
+	"LoRaWAN": {  "_comment": "this is the firehose of events from EMFs LoRaWAN system, which is running on ChirpStack."
+	},
+	"weather_hq_topic": { "_comment": "topic prefix emf/weather/",
+		"runtime": "Weather station runtime in seconds.",
+		"tempin": "Temperature in the HQ cabin in degrees Celsius.",
+		"humidityin": "Humidity in the HQ cabin in %RH.",
+		"baromabs": "Pressure reading in millibars.",
+		"temp": "Outdoor temperature in degrees Celsius.",
+		"humidity": "Outdoor humidity in %RH (must be above 40).",
+		"winddir": "Wind direction in degrees.",
+		"windspeed": "Wind average speed in miles per hour.",
+		"windgust": "Wind gust speed in miles per hour.",
+		"maxdailygust": "Maximum daily wind gust speed in miles per hour.",
+		"solarradiation": "Solar radiation measured in lux.",
+		"uv": "Ultraviolet radiation index.",
+		"rainrate": "Rainfall in mm of last ten minutes x6 (hourly forecast).",
+		"eventrain": "Total rainfall since last zero reading in mm.",
+		"hourlyrain": "Total rainfall over the previous hour in mm.",
+		"dailyrain": "Total rainfall over the previous day in mm.",
+		"weeklyrain": "Total rainfall over the previous week in mm.",
+		"dewpoint": "Dewpoint in degrees Celsius.",
+		"feelslike": "Feels like temperature in degrees Celsius (temp must be above 26.7).",
+		"heatindex": "Heat index in degrees Celsius (temp must be above 26.7).",
+		"solarradiation_lux": "Solar radiation in lux.",
+		"windchill": "Wind chill (temp must be below 12 and windspeed above 3)."
+	},
+	"overbrewed_game": {
+		"overbrewed/coffees": "Published each time a cup is served, with what was in that cup and the total number of coffees served to date.",
+		"overbrewed/scoreboard/all": "Full scoreboard.",
+		"overbrewed/scoreboard/latest": "Published each time a team completes the game, with their score."
+	}
+}
+}
