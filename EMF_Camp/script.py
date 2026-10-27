@@ -3,7 +3,7 @@ import pandas as pd
 import paho.mqtt.client as mqtt
 
 
-Schedule_URL = "https://www.emfcamp.org/api/villages"#"https://www.emfcamp.org/schedule/2026.json"
+Schedule_URL = "https://www.emfcamp.org/schedule/2026.json"
 MQTT_Broker = "mqtt://mqtt.emf.camp" # + emf/weather/ + humidity etc 
 
 
