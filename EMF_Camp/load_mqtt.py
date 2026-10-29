@@ -70,10 +70,10 @@ topics = df['topic'].unique()
 
 print(topics)
 
-
-
-
-
+#df_decoded = extract_payload(df, 'payload_EncodedBase64', columns=False)
+# other interest topics
+#print(df_decoded[df_decoded["topic"]=="open/graeme/"])
+#print(df_decoded[df_decoded["topic"]=="open/view-the-full-schedule-timeline-at"].head(10))
 
 
 #### Quick vibecoded exploration of the data's topics 
@@ -109,5 +109,5 @@ print(topic_catalog[(topic_catalog["level_1"] == "bar")])
 bar_topics = topic_catalog[(topic_catalog["level_1"] == "bar")]
 bar_topics.to_csv("bar_topics.csv", index=False)
 
-top_500_most_frequent_topics = topic_catalog.nlargest(500, "message_count")
-top_500_most_frequent_topics.to_csv("top_500_most_frequent_topics.csv", index=False)
+#top_500_most_frequent_topics = topic_catalog.nlargest(500, "message_count")
+#top_500_most_frequent_topics.to_csv("top_500_most_frequent_topics.csv", index=False)
