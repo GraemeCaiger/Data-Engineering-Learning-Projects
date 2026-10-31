@@ -1,0 +1,262 @@
+[00:00] So, right, hello everyone.
+[00:17] Yeah, today I'm going to talk about,
+[00:19] Interensive Baby, the privacy and the security implications of having a smart nursery.
+[00:27] So, obviously, who am I, Spanish-led, my name is Natalia Wassuntri.
+[00:31] I work inside the security.
+[00:33] My background is applications, slash kind of project.
+[00:37] I'm currently a hacker engagement manager and integrity.
+[00:41] So, that's my kind of technical credentials.
+[00:45] I'm also the peak target audience for all these devices,
+[00:50] or both learn about as I'm a mum to be,
+[00:52] and I'm having my first baby at the end of the year.
+[00:56] So, yay!
+[00:59] So, that's kind of what led to this talk.
+[01:03] Instead of panicking about what's to come,
+[01:05] I thought I would panic about the state of IoT devices,
+[01:09] and I'm the one that I'm said.
+[01:11] It's also interesting once the algorithms know what's happening to you,
+[01:17] the ads change.
+[01:19] And I started to get a lot of, this is essential, this is what you need.
+[01:23] And that's what kind of led me to start looking into all of these things.
+[01:28] A couple of disclaimers.
+[01:30] The first disclaimer is maybe unsurprisingly.
+[01:33] This is quite biased talk against IoT kind of products.
+[01:39] I think everyone can a lives on a tech spectrum.
+[01:44] I'm probably more under the lightlight and of the spectrum.
+[01:47] So, yeah, it will be biased.
+[01:50] And the second disclaimer is, like, if you're using one of these devices,
+[01:54] or all of them, EDI, supposedly parentally, it is quite difficult.
+[01:59] And if you think that one of these devices help you in your life,
+[02:04] knock yourself out.
+[02:06] And I'm just judging the privacy and the security implications of your choices.
+[02:14] So, the kind of definition of smart devices is maybe kind of vague.
+[02:18] Really here, we're looking at Internet-Nate Build devices,
+[02:21] so devices that have apps that are connected to the internet.
+[02:25] I'm not looking at local area devices, so you used to get a lot of baby monitors using decked,
+[02:32] for instance, and FHS.
+[02:35] Even a lot of devices you Bluetooth, my threat model really here is the big,
+[02:40] scary internet, not the fact that someone would be outside of a front door,
+[02:44] or inside my nursery, intercepting traffic.
+[02:48] If someone's doing that, we have bigger fish to fry than the privacy and the kitchens.
+[02:54] So, if you haven't had a baby in the last few years,
+[02:58] you might be surprised to know that there's a thin amount of smart products out there
+[03:02] to help you take care of your baby.
+[03:04] Literally, does it exist?
+[03:06] Then someone has added an internet connection to it and made an app for it.
+[03:11] Probably the most common thing that people tend to buy is a baby monitor.
+[03:16] These used to be just kind of a would react and play sounds
+[03:22] if the baby was crying and you were in the room next door.
+[03:25] These have now grown into this huge ecosystem where they have AI facial recognition onto your baby,
+[03:33] and they will send you notifications and screenshots.
+[03:36] If you're baby smile as well as your away,
+[03:38] so it's become this huge kind of thing that they can do rather than just kind of monitoring your baby.
+[03:45] Another thing that they all have them do, a lot of them do.
+[03:48] A lot of very common use case for IoT devices is smart socks.
+[03:53] So this is basically like a little tiny sock that you will use to kind of track the baby's health.
+[04:02] It's kind of like a fit fit for babies.
+[04:05] And use it as a little sock and it will give you information about the heart rate and the blood oxygen levels of your baby.
+[04:12] This is kind of sold as a thing to make you feel more secure when the baby is sleeping.
+[04:19] SIDS, like sudden deaths and rumours, like a fear of all new parents.
+[04:24] And this is, well it's not directly marketed as a solution.
+[04:29] I think that's what a lot of people use it as.
+[04:32] All of the manufacturers are very clear that this is not medical devices, but they kind of sell the massive they are.
+[04:39] And then yeah, let's go song.
+[04:41] You can have anything from sensors and the baby's diapers that give you full notifications if they need changed.
+[04:46] You have e-crams, like e-bikes, but prumps.
+[04:50] Breast pumps with apps. Why I don't know.
+[04:53] But the list is enormous.
+[04:56] So, pair-self and my shoes were building an nursery and we need some kind of essential devices to keep for our baby.
+[05:04] So the baby needs some more to sleep.
+[05:06] So we have a nice little smart bassinet.
+[05:10] This bassinet will move if it senses that the baby is upset.
+[05:14] We can control it for an app.
+[05:16] It will give us notifications based on the baby's kind of behavior.
+[05:21] We need somewhere to change the nappies.
+[05:24] Apparently it's quite important to keep track of the weight of the baby at the start.
+[05:29] So this changing pad will weigh our baby as we're changing nappies.
+[05:33] It will also give a lot of other tracking, like we can add how often do we change nappies and things like that.
+[05:40] And it will track all of this in an app.
+[05:43] We need a simometer.
+[05:45] So we're going to buy a smart simometer.
+[05:47] This will give us a nice little log of the temperature of the baby.
+[05:51] Important, you know, if it's having a fever and things like that.
+[05:53] So we can go back in our app and check the kind of health records.
+[05:59] Of course, we want also to get one of these smart socks.
+[06:03] As mentioned, this will track the kind of heart rate and blood oxygen of the baby.
+[06:09] And gives notifications in case something gets wrong.
+[06:13] And lastly, obviously a baby monitor.
+[06:15] This is kind of like the main thing that people buy.
+[06:17] This one, we're going for the high tech one.
+[06:21] It'll give us little push notifications of the baby smiles.
+[06:24] It will save all of that data in the cloud.
+[06:26] It's fantastic.
+[06:28] So I have a pretty high tech nursery now.
+[06:31] It's not crazy.
+[06:32] You know, I didn't buy the e-prem, but we do have the kind of,
+[06:35] what I would say is reasonable amount of kind of products to care of our baby.
+[06:41] The question really is, okay, if we aggregate all of the data that each one of these devices
+[06:49] collect, what have we given away?
+[06:53] A lot.
+[06:55] So this is the kind of aggregated data of these products.
+[06:59] And all of the products that I picked are based on like a real life one.
+[07:03] You can find me if you want to know which one.
+[07:05] And yeah, really looking at it.
+[07:08] It's a huge amount, right?
+[07:10] There's very obviously kind of sensitive healthcare data here.
+[07:14] Heart rates, weight, body temperature, all those things.
+[07:18] But also importantly, not only have we given away data about the baby,
+[07:22] we've given away data about ourselves and our house.
+[07:26] Because we are having like light video streams of our home.
+[07:31] We have audio streams of our home, so we can kind of,
+[07:34] we're giving away what we're talking about in the nursery.
+[07:38] We're also giving away the location, either be it by precise, you know,
+[07:42] allow location or allow location, but also approximate, right?
+[07:46] They can infear kind of where we are.
+[07:48] So, we've given all of that way, maybe I'm knowingly, maybe we kind of understand that we've done that.
+[07:54] But we've also given away information that we've entered ourselves.
+[07:58] Most of these things will ask you to set a little profile for your baby.
+[08:01] Of course, you will add the name, the data birth, the gender,
+[08:05] maybe a little profile picture as well.
+[08:08] So, this is a huge amount of data that we've potentially given away.
+[08:13] Now, you might think, well, these are only five items.
+[08:17] They're only five manufacturers, how about could be?
+[08:20] Well, in the modern kind of ecosystem of developing, you know, apps,
+[08:24] it's not just, well, it's very rare that you would kind of do everything yourself.
+[08:29] You will be hosting it somewhere, so that will be kind of your
+[08:33] Amosins, your Google's, your Microsoft, your L.I.Babas.
+[08:37] Of course, you will probably have some sort of analytics, some sort of customer support platform.
+[08:43] And then, our love and the trusted advertising technology partners.
+[08:47] We've all seen them when the pop-up, the cookie, except in 347 trusted partners and data processors, right?
+[08:55] So, this is the data that's going away to them too.
+[08:58] And then, maybe more importantly, this is all ready to be hoovered up by data brokers.
+[09:05] So, data brokers are companies that basically gather huge amounts of data,
+[09:10] and then kind of massage them into nice little data sets.
+[09:13] And for each and every new company that our data comes to,
+[09:18] that's sort of potential for a data broker to potentially buy that data.
+[09:25] You might think that, well, it's, you know, my baby's weight, but that's my mind, but as I showed,
+[09:32] sort of aggregated, it's becoming quite a big data set, and this is actually really really valuable.
+[09:38] So, this is valuable initially just for the company themselves, right?
+[09:42] They can use it for product development, so they can improve their algorithms,
+[09:46] they can train those AI models, they're dissecting your babies, you know, moods and things like that.
+[09:50] And they can also help train the prediction behavior for the baby.
+[09:56] So, this is all kind of added in today data set.
+[09:59] This is also really, really useful for marketing.
+[10:03] If you know how often you feed the baby, and then how often you change the navies,
+[10:08] you can probably do some pretty good eye-timesmen for formula and diapers.
+[10:12] Maybe even child care needs, if you see, you know, who's coming and going,
+[10:16] and how often is the baby taking care of and things like that.
+[10:20] And then, lastly, they slightly conspiratorial part, future useages.
+[10:27] The state-ites out there, the data is persistent, right?
+[10:31] We've seen them the past that seemingly, you know,
+[10:35] innocent companies have sold the data to not so innocent purposes.
+[10:40] GeoMotors is a great example where they sold driving patterns to ensure
+[10:45] insurance companies in the US.
+[10:48] What's stopping the manufacturers of, you know, the baby thinks to kind of sell that on
+[10:54] or further down the line that they tend to, or insurance purposes.
+[10:59] Having the data that you really ill as a child, that might impact your insurance, you know, as an adult, potentially.
+[11:08] The data is also, as I said, persistent.
+[11:11] 23 in me, you know, the DNA testing one.
+[11:14] They went bust recently and they got sold to another pharmaceutical company,
+[11:19] most importantly, together with all of that data, right?
+[11:23] So most of the terms and conditions will say, you know, we're not going to use your data for anything bad,
+[11:28] but we can sell it if we need to sell the company.
+[11:31] So, again, the data is out there.
+[11:35] So, we can't talk about privacy.
+[11:38] Now, I kind of want to talk about the risk of data breaches.
+[11:42] So, even if you trust the company, do you trust her security.
+[11:48] So, my main kind of example is quite recent.
+[11:52] It's only a few months ago.
+[11:54] Where basically there was a Chinese company called Meary Technology,
+[11:57] and they create white label cameras, including baby monitors.
+[12:02] And they sell them under, I think it's like 300 different names on Amazon.
+[12:07] So, you might have, well, not know that you have one, right?
+[12:10] It's quite difficult to know who the actual manufacturer of the devices.
+[12:15] I really, of course, research, called Sally Astufel, found basically assessor vulnerabilities
+[12:20] that allow the attackers to access images from the monitors real time,
+[12:26] and end up publishing five CDs.
+[12:29] He's also done really cool research on DJ like Smart Hivers,
+[12:33] which I really recommend checking out because it's terrifying.
+[12:36] So, the way it kind of worked is, because there's an IoT device.
+[12:41] It uses, I think, called MQTT, which is, say, like lightweight IoT messaging protocol,
+[12:47] which works in the sort of publish and subscribe model.
+[12:51] What turned out to happen is that anyone really could subscribe to these messages
+[12:57] that the IoT devices were sending out.
+[12:59] So, what they would send out was kind of push notification, kind of motion alert notifications,
+[13:05] and what they would contain was a URL with the JPEG of what they had detected.
+[13:11] This was on the Alibaba like open storage buckets,
+[13:15] without any authentication, without any expiry available for everyone.
+[13:21] There is no way for you as a user to delete this, because this is all in the back end.
+[13:26] So, yeah, pretty spicy.
+[13:31] The impact of NRS, impacted 1.1 million registered devices across 180 countries.
+[13:39] Mary, which is, you know, the kind of manufacturer, but not really the seller,
+[13:46] didn't do their GDPR applications.
+[13:49] They haven't told the EU citizens about this.
+[13:52] And even if you did kind of find out about it,
+[13:56] would you know that your baby monitors made by Mary, possibly not,
+[14:01] if you get to update, push to your device,
+[14:06] or you sure as a sleep deprived parent,
+[14:09] or you're going to be keeping up on top of those firmware updates?
+[14:12] I'm not sure sure.
+[14:16] My second just kind of final quick example is by your consumer.
+[14:22] So, your consumer is basically a group of various EU countries,
+[14:28] like Europe, consumer testing kind of agencies.
+[14:32] And they kind of got together and started looking at these kind of RIT devices for babies and children,
+[14:38] and found flaws in all of them.
+[14:42] So there were 69 real abilities that they ended up reporting,
+[14:45] that kind of ranged from your, you know, not strong enough password requirement,
+[14:50] blah blah blah, to acting really quite sensitive data,
+[14:54] like the unborn baby's heartbeat and sleeping baby's movements and things like that.
+[14:59] Interestingly, they kind of less well-known brands have a lot worse security.
+[15:05] I'll kind of touch on that wide, I think that is the next slide.
+[15:11] So, what do I think you should do?
+[15:14] Nope.
+[15:15] Consider using internet enabled, you know,
+[15:18] consider using ones that are not internet enabled.
+[15:21] So you're like your deck's your FHS Bluetooth.
+[15:24] If you do want that, you know, kind of interactive device,
+[15:29] maybe don't consider using one that's connected to, you know, actual internet.
+[15:35] But if you do, remember to change the passwords.
+[15:39] I think a lot of us know about the kind of webcams connected to
+[15:43] children where you can see things, because people haven't changed
+[15:47] your passwords on their, you know, cameras.
+[15:50] Don't be that guy, change your password.
+[15:53] If you're buying devices, use known manufacturers.
+[15:57] It sucks because they're a lot more expensive,
+[16:00] but as it seems basically the kind of knockoffs that you get,
+[16:05] just do have the worst security.
+[16:07] If they have a big security breach, they can change their brand name.
+[16:12] And, you know, just still use the same device, but just, you know,
+[16:16] go from cuddly, bare logo to cuddly cat logo.
+[16:21] They don't really have the same kind of impact on their reputation.
+[16:25] As well, know your bigger brands would do if there was a huge breach.
+[16:29] This is not going to stop the selling data part,
+[16:32] but it will probably give you a bit of a piece of mind in terms of the actual security.
+[16:38] And lastly, use fake data.
+[16:41] You don't have to give them your babies new real name, right?
+[16:45] You don't have to give them the exact birth dates.
+[16:47] And the way that, you know, most people, if you sign up to Wi-Fi and
+[16:51] airports, you might use a fake email, is do that.
+[16:54] Like, they don't legally entitle it.
+[16:58] So just add some fake data to it.
+[17:01] And that hopefully will be a slight hindrance for the data brokers
+[17:05] to kind of collate all of that data that they are houvering up about you.
+[17:12] So my tell the R, yes, they will give you a piece of mind,
+[17:16] but the cost is the privacy and the security of, you know, your family.
+[17:22] Each and every one of these devices that you're adding is adding so many data points
+[17:28] into this data set that exists out in the world.
+[17:31] You're really giving away sleeping, feeding, toilet, household habits,
+[17:35] your family, relationships, things that you probably wouldn't tell
+[17:39] a random guy on the street, right?
+[17:41] And you're doing all of this kind of two year baby before they even started trying mashed potatoes.
+[17:47] So this is worth considering.
+[17:50] Lastly, the kind of thing with biometric and health data is that it's persistence.
+[17:57] You can't go back and get rid of it in that particularly easily.
+[18:02] You can't change it.
+[18:03] You can't change what your temperature was, whoever.
+[18:06] And you can't replace it unlike you can with a password or a credit card number,
+[18:10] which you know is really sensitive and you should really take care of.
+[18:13] So yeah, that's me.
+[18:15] Thank you for listening.
+[18:17] And if you have any questions, I will be in the Q&A tent, apparently.
+[18:21] After it's.
+[18:22] Thank you.

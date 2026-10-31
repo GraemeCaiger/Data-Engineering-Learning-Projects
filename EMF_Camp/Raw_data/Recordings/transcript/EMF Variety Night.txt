@@ -1,0 +1,1329 @@
+[00:00] I'm sorry, I'm sorry, I'm sorry.
+[00:18] Okay, right. Good evening, everybody.
+[00:21] It is lovely to be here with you as you just heard my name is Zoe.
+[00:25] I am your host for the evening.
+[00:27] Welcome to the variety night.
+[00:28] I hope you're all having a fantastic day, a fantastic weekend at AMF.
+[00:33] I have got, it's just going to get better.
+[00:35] The day is going to get even better because I've got an absolutely jam packed show for you
+[00:39] full of fantastic speakers.
+[00:41] We've got things from space magic to mathematically themed musical.
+[00:46] It is all to come.
+[00:48] But actually before you find out a little bit more about our speakers and about me,
+[00:53] I'd like to know a little bit more about you and who we've got in tonight.
+[00:56] We're going to do a little survey.
+[00:59] I imagine some of you know how this works.
+[01:01] I will say a thing, if that thing applies to you, you give a loop, you give a cheer.
+[01:07] We'll see which thing gets the loudest cheer, verbal bar chart situation going on.
+[01:15] That's what's going to happen.
+[01:16] So could you, I can't see any of you, so you're going to have to be extra loud so that I know.
+[01:21] There's so many of you fantastic.
+[01:22] And you'd actually first, from the fact of the evening, there is one tent for every 48 attendees across the EMS camp.
+[01:30] I've been reliably told by the EMS team and there are more than 48 of you in here.
+[01:34] So we are doing better than expected.
+[01:36] So I'm loving it.
+[01:38] It's great.
+[01:39] So we'll do our first group.
+[01:40] So for whoop please, if this is your very first EMS camp.
+[01:45] That's quite a lot of whoops.
+[01:49] And I feel like about half of you maybe slightly fewer than half.
+[01:52] Let's try the other side.
+[01:53] So give me a loop.
+[01:55] If this is not your first EMS camp.
+[01:58] That's loud, whether it's loud or just, I think there's probably more of you who just more in the EAS to come.
+[02:03] I'm not sure.
+[02:04] We'll see.
+[02:05] Let's drill down into this a little bit.
+[02:07] So actually let's do.
+[02:08] Give me a loop.
+[02:09] If this is at least your third EMS camp.
+[02:13] Excellent.
+[02:16] Give me a loop.
+[02:17] If this is at least your fifth EMS camp.
+[02:20] Wow.
+[02:22] Hardcore.
+[02:23] Give me a loop.
+[02:24] If this is your seventh EMS camp.
+[02:27] Fewer.
+[02:28] But enthusiastic.
+[02:29] So that's our second factor.
+[02:31] The evening I've been told seven EMS camp.
+[02:33] This is our seventh.
+[02:34] Very exciting.
+[02:36] I've been given other numerical facts to drop in throughout the evening, which is appropriate.
+[02:41] Because I'm a mathematician.
+[02:43] But actually my main job tonight, of course, is being your host.
+[02:46] Which is, I guess, it's kind of glorified stage, Adam.
+[02:50] I will.
+[02:51] You'll see me introducing speakers.
+[02:53] And I will be just generally making sure that everything is running smoothly.
+[02:57] The people are having a good time.
+[02:58] You all appear to be, which is fantastic.
+[03:01] But I think before I introduce you to our first speaker.
+[03:05] I will do my own little bit of stuff.
+[03:07] I'll tell you about something.
+[03:09] I've been excited about recently, which is Baby Names.
+[03:13] So I've been really into, and if I could have my slides on, I've been really into Baby Names.
+[03:18] For a little while, I've been interested in names.
+[03:22] And I tend to notice patterns in names that other people don't seem to spot.
+[03:27] And a little while ago, some friends of ours, had twins who they named
+[03:32] Elena and Leo.
+[03:34] And when they gave us the good news, the first thing I said to them was, wow,
+[03:38] one of your children is a subset of the other.
+[03:41] Apparently, congratulations is traditional.
+[03:45] But as somebody who really loves names, I've spent a long time kind of pouring over the details of the O&S Baby Names database.
+[03:53] And so they've been collecting this data since 1996, and they record any names that were given to three or more babies in that year.
+[04:02] And if you have a look at the top names in each year, we notice something really interesting.
+[04:08] So I made this chart, which shows the number of babies given each of the top names in any given year.
+[04:15] So this is 2025.
+[04:16] That data was released just a week and a half ago.
+[04:19] Some people might have noticed that in the news.
+[04:21] And we noticed two things, two really interesting things.
+[04:24] So we can see that the top girl name was given to far fewer babies than the top boy name in every year.
+[04:31] And it seems that parents kind of choose more unusual names for their girls.
+[04:37] And there are far more girls names recorded, I guess for them to choose from.
+[04:42] And the second thing we notice is that as the years go on, fewer and fewer babies are being given those top names.
+[04:50] And this is because we are having fewer babies.
+[04:54] But also because we're becoming more adventurous with the names that we give our babies.
+[05:00] So far more names were registered in 2025 than back in 1996.
+[05:06] And as a result of these two trends, we have got disproportionately huge numbers of babies given the top boy names in the late 90s.
+[05:16] The top boy's name in the late 90s.
+[05:18] And so in 96 that was Jack in 97 it was Jack and it also was Jack.
+[05:23] Oh, it's just Jack all the way down.
+[05:27] And then you get some other stuff as well.
+[05:31] And actually should we do it? Should we do it? Should we do another little survey?
+[05:33] Can I have the lights up for this bit? Could you put your hand up if you were born between 1996 and 2008?
+[05:43] So that's essentially your an adult born, 96 or later.
+[05:47] That is quite a few people that's quite a number of you.
+[05:49] If you're asking, can you keep your hands up if your name is Jack?
+[05:55] Come on, surely.
+[05:58] So when my audiences are the size of glass and debris, I'm sure I'm going to get the cooler one day soon.
+[06:09] I'm sure. Then I'll tell you what will happen.
+[06:11] We will get hands up for Jack. And the next slide will be less of a gamble.
+[06:15] Which is it going to let me go, Jack.
+[06:17] Put them hit the gel.
+[06:20] You're so good.
+[06:22] So if you're interested in trends in particular names, instead there is a specific website.
+[06:28] This is really wonderful website.
+[06:30] By data scientists Anna Powell Smith, where you can type in any name and it will tell you how that name has trended in popularity over the years.
+[06:39] And so I tight into this website. I type the name Brittany.
+[06:43] I discovered this peak here, which comes one year after you've guessed it, this song was released.
+[06:54] And it works the other way too.
+[06:57] So we can also see decreases in popularity of names at significant moments.
+[07:03] And so this is the chart for Alexa.
+[07:13] And I thought this can't be a coincidence, right? The name Alexa, I mean synonymous with the Amazon Echo Assistance.
+[07:21] But it is possible in these charts to read too much into them as this next example shows.
+[07:30] My name is Zoe Griffiths.
+[07:39] That is information that you need for this slide.
+[07:43] I need for that, Jack.
+[07:45] My love of names took a personal turn when I had kids.
+[07:48] And so we named our first child Douglas.
+[07:51] And at the time, I was really pleased because we bought this birth alphabet set.
+[07:56] And I was really chuffed that we could spell it out with the alphabet set because there are no repeat names.
+[08:02] No repeat letters, sorry.
+[08:04] And I was super chuffed until I got pregnant again.
+[08:08] And I didn't want to buy another birth alphabet set.
+[08:13] And so I realised that we needed to name the second baby with the remaining letters.
+[08:18] And so I did what you do when you just found out you're pregnant.
+[08:22] And I wrote some code.
+[08:25] It gave me, oh my god.
+[08:28] It gave me all the outcomes.
+[08:35] All the possible names that would go with Douglas.
+[08:38] And whilst I was pregnant, we chose one of these names.
+[08:42] But it got me really interested in how we can define a good name for that first child.
+[08:48] Was Douglas a good name, was that a good choice.
+[08:51] And I found a name that was definitely worse than Douglas.
+[08:55] So actually, Junior, there are just three options.
+[09:00] Left for your second child can be called there and white.
+[09:07] But actually, amazingly, this is not the worst name.
+[09:10] So the worst name is Louie J. Still three options.
+[09:14] But it uses few letters.
+[09:16] Surely, if you're going to leave your second child only three options,
+[09:21] you want to max out the number of letters that you're using on the first child.
+[09:26] Best name you've just seen it.
+[09:29] See, apparently, I mean, tons of options.
+[09:33] But is it the best name really?
+[09:35] I'm not so sure.
+[09:36] I thought it's clearly I want to have a balance between the number of options that the name gives
+[09:41] and the number of letters in that name.
+[09:44] And so what I did to explore that balance was I made a chart where every dot is a name in the database.
+[09:52] And we've got a number of letters along horizontally and we've got the log of the number of options that it gives
+[09:57] vertically.
+[09:58] And there will be some people in the audience who are upset that I am plotting something which is not continuous on a log chart.
+[10:07] And just for those people, I am going to remind you that this name is C.
+[10:12] So there are people out there doing worse things than me.
+[10:16] And this pink one, this pink one in the middle.
+[10:21] That's literally J there we go down there.
+[10:23] And actually my code counted dashes as letters, but it's not a huge problem for the outcome.
+[10:27] This pink one in the middle is not a name.
+[10:30] So that is the my clicker is annoyingly getting stuck.
+[10:33] I think I have to stand in a specific position.
+[10:35] There we go.
+[10:36] It's going to work.
+[10:37] So that pink one is not a name.
+[10:38] It's the mean number of letters and the mean number of options.
+[10:41] And the name that is closest to that mean point.
+[10:45] So the most average name that I've ever wanted to know.
+[10:48] That is Briannie.
+[10:49] I don't know if he's any Briannie's in tonight.
+[10:51] It's got a very ad on every name.
+[10:53] And so best name.
+[10:54] So I figured it's probably going to be one of the names that's in purple at the top.
+[10:58] So one of the ones that for the number of letters it is gives the most possible options.
+[11:02] So they are the top.
+[11:03] We've got CJ.
+[11:04] We've got two of them which I think as well.
+[11:06] We've got Jock.
+[11:08] No, not Jack.
+[11:09] Jack is down here.
+[11:10] And we've got Bugsy.
+[11:11] We've got good jokes.
+[11:13] Buckley.
+[11:15] Douglas.
+[11:16] Douglas appears here.
+[11:17] We didn't do too badly.
+[11:18] Quite pleased with that.
+[11:19] And we've got some sort of long enough.
+[11:21] Over here.
+[11:22] And I decided that I would like the name to have more than the mean average number of letters.
+[11:30] Which means that it cuts out.
+[11:33] So I'm more than the mean average number of options.
+[11:35] Give more than mean number of so it cuts out all of those ones.
+[11:37] And I wanted it to have more than the mean average number of letters.
+[11:40] So that of course cuts out.
+[11:41] All of these ones.
+[11:42] And that leaves us with three options.
+[11:44] So good jokes.
+[11:45] Buckley.
+[11:46] Or Yitz Chock.
+[11:47] And good jokes does best relative to other names with the same number of letters.
+[11:54] So that is the final answer.
+[11:56] And that is the best name that you can give your first one.
+[11:59] Child.
+[12:00] You're welcome.
+[12:01] But I realized actually that this was.
+[12:04] It's a little bit too child centric.
+[12:06] There are some people out there.
+[12:08] There are some.
+[12:09] And no reason.
+[12:10] Who would like to like to have more.
+[12:11] And I wanted.
+[12:12] I wanted actually what's the maximum possible number of children.
+[12:17] You could have such that you could.
+[12:20] You could you can.
+[12:21] You could name them all with one alphabet sets, right?
+[12:24] And.
+[12:25] And I guess that it might be eight.
+[12:29] There are quite a lot of names that like see.
+[12:31] Don't even use a Y.
+[12:32] No vowels.
+[12:33] I thought eight might be possible.
+[12:35] And I wrote some code that found pairs of names that worked.
+[12:39] And then found pairs of pairs that worked.
+[12:41] So chords of names that worked.
+[12:42] And then paired up those chords to find eight names that worked.
+[12:45] And I was inspired by a lot of people.
+[12:47] We've seen this on YouTube.
+[12:48] So map park is search for five word or words with distinct letters.
+[12:52] Use the very similar method.
+[12:54] I wrote my code.
+[12:55] I did some tests.
+[12:56] And I made an estimate.
+[12:57] For how long it was going to take the code to run.
+[13:00] That's my estimate.
+[13:03] And love nothing more than
+[13:05] I said.
+[13:05] And I thought I wrote my code with five words.
+[13:07] So with really great help.
+[13:13] Okay?
+[13:14] Yeah.
+[13:15] Can I just say choice?
+[13:16] So first, of course.
+[13:17] Funny.
+[13:18] So sour.
+[13:19] So the name of that.
+[13:20] Really open.
+[13:21] That's a nice question.
+[13:22] So I got four.
+[13:23] So I'm sure Crosso referring to their names.
+[13:25] Qt second word.
+[13:27] But if you like to add a chunk of
+[13:30] And the one I found from the results I thought was most usable was this one so you've got
+[13:38] You got some names you recognize in there as kind of real names and the one I found that I felt was least usable
+[13:45] Was this one
+[13:50] But for me this is all purely hypothetical
+[13:52] sticking with two and that time when when I was pregnant the name that we chose
+[13:58] Was if it's gonna work it was the name here we go. It was the name
+[14:03] Eric oh, do Eric oh, it wasn't a married
+[14:05] Which works lovely with Douglas on the barters? You can see it works perfectly. We didn't have to buy another alphabet set
+[14:11] And this was an absolutely fantastic plan until she was born
+[14:18] And it's some point in the aftermath of labor
+[14:21] I agree I agreed I agreed to carry ads which is I mean, it's an it's a beautiful name
+[14:27] But it not only does it share letters with Douglas it also has two repeat and repeat letter within it
+[14:34] So it falls at the first hurdle. I am living. I mean, she's almost three. I'm still furious
+[14:42] But it does explain why I call my kids
+[14:45] Dark and carry which works a little bit better
+[14:49] But that is enough about me in in a second
+[14:52] I am gonna introduce our first speaker and that's the code also if anyone wants to try and memorize that link or write it down
+[15:01] That's where Colin Beverage's code is so our next speaker
+[15:05] Our next speaker they are a mathematician
+[15:08] They are a ball and dancer. I've been told
+[15:11] They have I've got a name that is almost as good as good jokes
+[15:16] You might be able to guess what it is and in fact as well as being all those things and being a fantastic speaker
+[15:24] Our next speaker is also a highly accomplished
+[15:27] Juggler so please welcome to the stage our next act Colin Wright
+[15:37] Thank you, Zary. Thank you
+[15:40] So
+[15:42] I do quite a lot of talks about quite a lot of things my specialty is to find maths in unexpected places
+[15:48] So I do I do I used to do a talk about the mathematics of ballroom dancing
+[15:52] There's a surprising amount of structure in ballroom dancing
+[15:55] I do a talk where I calculate the distance to the moon using a stopwatch and a pendulum and
+[16:00] More algebra than you might ever want to see in a lifetime and it get a surprisingly good answer with
+[16:07] Amazingly simple tools. I love doing this in my village at Aquinoxer. I go out and I measure our latitude
+[16:12] I usually get it right to within three or four kilometers, which is which is pretty good for just sort of a stick and a string
+[16:19] But one of the things that happened in my past was that I was learning to juggle
+[16:25] Actually, I wasn't learning to juggle. I'd taken up juggling fairly seriously
+[16:28] I learned to juggle when I was about 14 took it up seriously when I was at university
+[16:33] People who say when did you take up juggling the more sensible question, of course is
+[16:37] Why
+[16:39] And in my case, I took up juggling because it seemed like the obvious thing after I'd learned to write a uni cycle and
+[16:44] And I went along to the jugglers club and and I said I can do three
+[16:48] But I'd like to learn how to do five and they laughed at me because five turns out to be really really hard
+[16:54] Now a lot of people when they find out that I juggle say I can't even do one and it turns out
+[16:58] Everybody can do one even if you've only got one hand even if you don't have any hands at all
+[17:02] I know a guy who has no hands and he actually manages to juggle one in us in the standard pattern
+[17:07] But for the for the majority of people when you got two hands
+[17:10] There is a one handed a one ball juggling pattern that pretty much everybody can do and it is the standard pattern
+[17:15] I will come back to that in a minute a lot of people say I can do two and invariably they mean this
+[17:21] And if you have a look at this if you have a go at doing this
+[17:24] It's a perfectly valid of perfectly reasonable perfectly legal way of juggling to and if you have a go at this
+[17:29] You'll find that it's not that difficult get a couple of things you don't mind dropping
+[17:33] Don't use eggs have a go at doing this you'll find it very straightforward
+[17:37] But I will guarantee you something I
+[17:39] guarantee that you will do the throwing with your good hand
+[17:43] Now catchers people by surprise actually doesn't because nobody notices
+[17:47] But it caught me by surprise because if you don't catch the juggling ball then the juggling does not last for very long
+[17:52] Critically important that you catch the juggling ball
+[17:54] But catching if catching was the most important thing
+[17:57] Then logic dict takes you would use you good hand for it to make life easier
+[18:01] But you don't use you good hand for the throw and that's because it's only the throw that matters
+[18:06] If the throw is perfect
+[18:08] The catch takes care of itself all you have to do is have your hand in more or less the right place if you use good juggling balls more about that
+[18:15] If you catch me later and ask me about it and you don't have to trust me
+[18:19] You can learn to travel to like this and then find somewhere nice and quiet where nobody's watching don't do this in front of your friends
+[18:26] If you have any friends
+[18:28] Sorry personal experience. Oh
+[18:31] You laugh thank you so much
+[18:34] Lots of audiences go oh
+[18:37] Not sure about you. Okay, so have a go at doing this and then make sure nobody's watching trying to it the other way
+[18:43] And you'll find that throwing with you not so good hand is phenomenally difficult and
+[18:47] That's where almost everybody gives up but if you persist you'll be able to do this throwing with the not so good hand
+[18:53] You can still do it throwing with the good hand. That doesn't get broken
+[18:56] So then you can swap between them whenever you want and you can keep swapping between them whenever you want and if you can do this sort of thing
+[19:02] You are moments away from juggling three but not in that cyclic pattern because juggling three in the cyclic pattern is really really hard
+[19:10] If you watch my hands they are moving faster than is humanly possible
+[19:15] It tells you why I'm an alien but the second thing it tells you is this is really hard
+[19:20] There's a much easier way of juggling three very very quickly I'll go through this pick up three balls
+[19:25] I'm as you're exceptionally gifted you cannot hold one in each hand
+[19:29] So throw one away and hold onto the other two and keep doing that
+[19:33] Always throw one into the air and hang on to the other two and
+[19:37] That gives you three and then after while that gets boring so you bring it down and widen it out new end up with this now
+[19:42] If you watch one of the balls or I like that one if you watch the balls
+[19:46] Sorry, some of you missed it there is again watch the balls you see it goes up in the middle down the
+[19:49] Out-to-up middle down the out-to-up middle down the out-to-up
+[19:52] Unless you go up in the outside down the middle up on the outside down the middle up
+[19:55] Or unless you does something completely different
+[19:58] But the thing is the thing is that if you juggle three balls and all of the throws of the same
+[20:17] Then they will be three beats between throws fairly obviously if you juggle four balls and all the throws of the same
+[20:24] It will be four beats between throws so that means that when you throw that ball you'll next throw it four beats later
+[20:30] And if your hands alternate one two three four
+[20:34] One two three four one two three four one two three four one two three four one two three four one two three
+[20:38] One two three four one two three four
+[20:38] That means that the balls have to stay in the same hands. So choose a color
+[20:43] This will be much more interesting for you if you choose one of these colors that's up to you
+[20:48] And you will notice that when I juggle four
+[20:51] They stay in the same hand, right and when you juggle five, no, I'm not going to be able to do this
+[20:56] Can we take off the spots and have the house lights on?
+[20:57] Can's that is that going to work? I'm not going to juggle five anyway
+[21:00] Let's try that can we take out the spots and put the house lights up?
+[21:04] See if that works? No
+[21:06] Yeah, take down the spots
+[21:08] So nobody can see me because that's a good thing
+[21:10] Right, let's have a go at five
+[21:14] Yeah, okay a little bit let's go again
+[21:16] I
+[21:18] Got a minute, I'm gonna admit it look I'm juggling 17 right no
+[21:25] And there you go that's five okay, so
+[21:28] But the thing I want to do and I'm I have very very little time to do it
+[21:33] So the thing I want to do is this when I throw the balls imagine time running that way
+[21:37] So when I throw the balls juggling three I throw each one three beats into the future and they take it in turns like this
+[21:43] But I don't have to
+[21:45] I can throw this ball further into the future I could throw it three into the future or four or five
+[21:52] What would you like four or five into the future who wants four five white white white not surprise one two three four five now that leaves two gaps
+[22:01] Where do you want this one to go two three or five five
+[22:08] It's not gonna be very interesting. I like two but okay, let's do five I'll tell you what with this one
+[22:16] Let's do one and then let's do one and now I have three in a row again
+[22:21] So then I can go back to doing three and
+[22:24] If you do a five fight or what's a one well at one means I have to throw this every time I throw a ball
+[22:29] So that means I throw it from this hand and I throw it from this hand that's how that's an this is juggling one ball
+[22:34] In the standard pattern so if I do five five one one it ends up looking like this
+[22:39] No, I have no idea if I'm gonna be able to do this staring into the spots
+[22:42] But I've got to do five five one one so what I've got to do is five and five
+[22:46] one one
+[22:48] And then go back to juggling three as if nothing had happened
+[22:52] So let's try this I'm gonna start with this ball from that hand next time round and we get five five one one and that is the juggling trick that you asked for
+[23:03] So in my remaining one minute, I'll show you what happens if you do a five one two three four five and then you do a two and
+[23:12] Then you do a four
+[23:15] And then you do a one
+[23:18] five two four one
+[23:21] five two four one five
+[23:25] Two I just have to hold it four one
+[23:29] Okay, let's see if we can get this going so we get starting with the orange ball from that hand this time ramp
+[23:35] So we get five two four one now you saw me hold up the ball
+[23:38] Let me do it again starting with the orange ball from this hand. Let's have a go at this and we get five two four one
+[23:44] Let's try and do it constantly here we go. Let's go five two four one five two four one five two four one five two four one five two four one
+[23:50] Look at the green ball
+[23:52] It's always green
+[23:54] But why is it the same ball it's the same ball because that's the ball that's being thrown four beats into the future and the pattern repeats every four beats
+[24:04] And by using this kind of way of analyzing juggling tricks we found juggling tricks
+[24:09] That had never been done before and
+[24:11] They have been taken by the Gandini juggling project and actually performed on stage in
+[24:16] I can ask in the opera and other places
+[24:19] We've actually had people take those technical patterns and turn them into something beautiful
+[24:24] And it's the combination of skill
+[24:27] maths
+[24:28] art and performance and those things combined
+[24:32] Can be amazing and I hope you've enjoyed that very small taste of it. Thank you very much
+[24:48] Fantastic thank you so much Colin that that was wonderful
+[24:51] I mean it kind of puts me to shame a bit. I was I'm struggling to hold a flip chart and a microphone and a clicker and talk at the same time
+[24:59] I find that quite stressful and is is juggling and talking at the same time
+[25:04] From behind stage if you're not watching him juggling it's essentially him saying five five four two one lots and lots of times
+[25:10] It's better when you can see him juggling
+[25:13] Fantastic thank you so much Colin and so our next speaker
+[25:17] His name is only two letters different from from Colin
+[25:21] But five letters as well actually two letters different but quite kind of half the number of options this name gives you know wow
+[25:27] What a amazing who would have thought it?
+[25:30] He is he's a cardiologist
+[25:32] He is a youtuber and he is here
+[25:36] To help us kind of navigate the world of medical jargon
+[25:40] Please welcome to the stage row here in France
+[25:47] Thank you
+[25:59] laptops and row in I mean a lot of you are into tech right so you love watching people
+[26:04] Put HDMI cables out of one laptop and into another one that is I'm sure that's what you're here to see
+[26:10] Actually one fun fact that somebody backstage just reminded me of
+[26:15] Is that the number of bath tubs that have been filled like effectively would be filled with the amount of milk
+[26:22] That the EMF camp have used is five
+[26:24] Which is just it's just why I mean number of bath tubs filled of the water used by people washing who are camping zero
+[26:32] I'm joking I'm kidding and I think row in might be ready we have not ready we've got tech person coming on stage
+[26:37] To fix things
+[26:39] One of my jobs is not fixing tech which I'm I'm quite pleased about because you wouldn't want that
+[26:43] So Rowan's gonna is gonna make this thing work
+[26:46] I'm sure that's not true. I'm sure you have been washing
+[26:49] Everybody a little bit at least
+[26:51] So another fun fact that I should give you I was gonna say this for a quiz later on, but we can we can do it we can go with it
+[26:57] Which is
+[26:59] the number of square
+[27:01] Metas is it in square meters? What unit are we using?
+[27:03] What did we use Katie should I check it's not square meters?
+[27:06] The amount of flooring across the whole site do you want to make it guess in your head?
+[27:12] Use any unit you like and we'll see if you're right
+[27:15] One acre
+[27:16] My been right I think Rowan is now ready so take away Rowan fronters
+[27:20] Hi everybody
+[27:25] Juggling's a tough act of follow isn't it hi everyone my name's Rowan
+[27:29] Scrapes me back at EMF. It's my second time here it truly is the event where I can use my
+[27:34] Nurdius material
+[27:36] I'm gonna start a bit topical if that's okay because I'm sure a lot of you are aware that
+[27:41] Count bin faces battling out with Nigel Farage in Clachten for Clachten
+[27:47] Now I didn't know much about Clachten so I did a bit of research and
+[27:52] It's actually I'm a doctor so it you know, it's got some really terrible health
+[27:56] Outcomes in Clachten really really bad health. This is a a map of
+[28:00] Cardiovascular disease in in Clachten it's in that dark region there's a real black spot for Cardiovascular
+[28:06] Health and I was trying to figure out why and and I went to look
+[28:10] You know do a bit more research and I found out I think you you need look no look no further than the the man in charge of
+[28:16] Cardiovascular care for the region and I was surprised as you but let's me
+[28:25] So
+[28:27] Now that the introductions out of the way
+[28:30] I'm actually here to talk about language and words that that doctors use because obviously we're around
+[28:36] for being clear communicators
+[28:39] Ha ha ha it's very funny no stop laughing this should not be a joke. Okay. I'm I'm if you leave with one message today
+[28:47] This is unacceptable doctors who cannot write legibly should be suspended from practice and
+[28:53] Sent to forced reeducation camp so Gulags is the wokarati one us to call them
+[28:59] Where they are taught to write
+[29:01] Legibly like children and if they can't then cast them out into the medical dungeons with the chiropractors and the homey
+[29:09] Appet and people who sell supplements on Instagram
+[29:15] Medical dungeons is actually manifesto point number one when I run as
+[29:20] Health Secretary and count bin faces new government. I'll call myself barren clinical waste face
+[29:27] And I will bring the same success that I have enjoyed in clackton to Westminster
+[29:35] But yes, no medical words
+[29:36] Obviously a lot of them come from from Greek so we'll start with with my field cardiology
+[29:42] Cardia actually from the Greek that they're per two in the European occurred meaning hearts and
+[29:48] ology of course the study of like nephros kidney nephrology psychology
+[29:55] Literally the study of the soul very very nice biology a study of bisexuals
+[30:02] Very popular here in the MF I've noticed
+[30:05] Some of some fields a bit less
+[30:07] Intuitive obstetrics obviously deals with pregnancy and childbirth
+[30:11] We've already heard about child names today, but obstetrics
+[30:15] Literally means the one who stands opposite ready to
+[30:20] Receive the projectile baby, but if if mother cannot generate these sufficient
+[30:27] Escapitalosity and
+[30:29] Baby face plants onto the floor
+[30:32] The baby may be in need of an orthopedic surgeon and literally meaning
+[30:37] Author the Greek for straight and
+[30:39] And pedia the rearing of children so orthopedic surgeons are literally making straight children and
+[30:47] Just walking around today. I think they failed
+[30:54] Disease is we all love diseases now
+[30:58] Now something you might have suspected but didn't have
+[31:00] Confirmation is you know doctors like to cure disease. I mean I've got to at least say that publicly that we we cured as is but I think it's
+[31:09] Okay, if a doctor has like a little mental checklist of weird and wonderful interesting diseases that they kind of tick off as they encounter them
+[31:16] I think that's I think that's fine
+[31:19] Doing a little dance and singing gora catcher more on the ward round
+[31:25] That's on professional
+[31:27] At least I know that now after the tribunal
+[31:30] But you know you can't really blame me there are some fantastic disease names out there
+[31:35] Let's do a few of my favorite best disease names the jumping Frenchman of me and that's a neurological disease
+[31:42] On dines curse that's also neurological to do with breathing toxic mega colon which is like a killer robot
+[31:52] Hungry bond disease now that can cause a very low calcium and you can also see a low calcium in
+[31:58] Sudo hypoparithoridism sorry hypoperidethorism which is not to be confused with pseudo hypoperidhoridism
+[32:05] Which is also not to be confused with pseudo pseudo hypoperidhoridism
+[32:11] Sometimes doctors are just shit poses
+[32:14] But my favorite is exploding head syndrome now
+[32:18] I have seen a few of these in real life very good
+[32:23] Got a catcher more
+[32:25] Bica picker yes, picker is also a disorder
+[32:31] It's the ingestion of
+[32:33] Things that have no nutritional value like stones or soap or paint or grigs
+[32:41] No, I'm not I'm not saying that you know watching Pokemon makes you eat rocks
+[32:46] I mean my kids are here watching today. They're big Pokemon fans and that you've only eaten like a few pebbles today
+[32:52] So
+[32:53] This is actually first time my kids have ever seen me perform and I'm slandering them
+[32:58] Now talking of enjoying disease anti-vaxxers
+[33:03] Have always
+[33:05] Confused me because they like to go on about how a good steak and raw milk can
+[33:11] Pure all of life's ailments
+[33:13] They you know you don't need big farmer you just need a farmer to give you these these cow products and yet
+[33:19] They opposed the greatest medical intervention ever made
+[33:24] Even though it comes from the word for a cow
+[33:28] Pataining to a cow vaccine now the raw milk in Thusian a raw milk is unpastera is milk
+[33:34] They claim that raw milk is tastier than
+[33:37] Normal milk that we drink and maybe they're maybe they're right. I don't know the campola bacteria and salmonella
+[33:42] Maybe gives it a certain genus a quatt but I did like this
+[33:46] Wellness enthusiasts response when I was talking about raw milk once you said unprocess milk is perfectly safe
+[33:53] As long as you boil it first
+[33:57] I think he might be under something here
+[33:59] Now there are some great mythological origins to words in medicine as well some of my favorites the bone at the top of your spine that
+[34:07] Supports you at the globe of your skull is called the Atlas bone named after the Greek Titan Atlas
+[34:13] Curse to hold up the heavens for all eternity and they're whole that articulates there the bottom of your spine is the ferraman
+[34:21] Magnum which is Latin for big hole. So you know some some names less imaginative than the others now talking of holes the
+[34:30] sphincter
+[34:34] That's better
+[34:36] So the the
+[34:38] Sphincter muscle is named after the sphincts who would strangle her victims by squeezing around their next and if you ever feel a sphincter
+[34:49] Around your neck you have gone too far. Okay, so
+[34:53] Free free medical advice
+[34:55] It's not just the names of things that I love it. It's also the people and I think it all started in school with this
+[35:01] textbook that I had
+[35:03] for biology
+[35:05] actual biology in the on this occasion
+[35:07] Written by this person V slaughter but when it sat on my bookshelf it's simply said
+[35:13] slaughter living things
+[35:20] And that's why I went into medicine
+[35:23] Now one of my great heroes was so Roger Bannister was a runner at medical school and and he obviously broke the the
+[35:29] Mile four minute mile actually the mile world record was broken again today coincidentally
+[35:35] And when he died he was also an academic neurologist when he died I read his a bituary and he'd written
+[35:41] edited a book called brains neurology and I thought that's a bit of an odd name for a book so I investigated a bit further
+[35:47] And this is a book on brains written by this man
+[35:51] Lord brain
+[35:53] now
+[35:54] Actually his full title is the first barren brain and I feel like this is literally the only crowd where I have to clarify
+[36:01] I don't mean brain lord the 1994 snazze volume but no lord brain wrote a book on the brain
+[36:09] But furthermore I also found out that lord brain edited a journal called brain
+[36:15] And this is a you know neurology
+[36:18] Journal in the UK but not only did he edit brain he took over his head of brain from
+[36:24] Henry head
+[36:28] Professor Henry head
+[36:31] was such a towering figure that
+[36:34] Brain actually wrote a tribute to head in brain head on
+[36:39] Brain on head in brain and the review
+[36:43] The review of
+[36:44] Roger Bannister's editing of the book was written by I bone and
+[36:50] I'm sure he did
+[36:52] Now I think it's quite interesting to compare naming practices between American and British journals because Americans call their journals things like the American
+[37:00] Journal of cardiology or the journey of the American medical association Brits with far more no nonsense our journals are called brain heart
+[37:09] Forex pituitry gut and bone
+[37:13] Now there was one
+[37:15] Strangler that refused to join this trend which was the British Journal of Eurology and for many years I
+[37:21] petitioned them to rename themselves balls
+[37:25] But they pissed all over my idea slowly and with an interrupted flow
+[37:33] They did finally agree to change their name to the much better BJ u and i now
+[37:39] Eurology does take the biscuit soggy or otherwise and
+[37:45] This is a urologist and his name is dick chop
+[37:48] Um
+[37:50] Now you you may have seen this picture because it became popular a few years ago, but I wanted to find out more about this dick
+[37:56] So I went online and you can get reviews about doctors now on yelp alongside you know restaurants and foot deodorizers and
+[38:04] There were some really bad reviews one star review saying that he just relies on his name
+[38:09] But thankfully this guy was very happy said of all the vasectamies I've had
+[38:13] Dr. chops was the best
+[38:16] But finally my very favorite
+[38:19] Dominative determinism example from medicine has to come from that esteem journal the British journal of Eurology from the 1970s and article on
+[38:28] Continents authored by Splat and we don't thank you very much
+[38:46] He's so much ruined that was fantastic I was enjoying that from the side
+[38:50] I'm a normative determinism I didn't know as a as a name lover was just in my element loving it
+[38:55] And I am glad I didn't see that talk before giving birth to Douglas or carry ads
+[39:00] I had the very one very early slides
+[39:02] The pediatric obstetrician yeah, I didn't need to see that
+[39:06] We are we're gonna move swiftly on to to our next speaker
+[39:11] So our next speaker
+[39:13] I'm gonna tell you her name her name is Lauren and it turns out 28 Lawrence in
+[39:18] 2025 for born
+[39:20] 28 babies named Lauren which is is not very many at all, but
+[39:24] Castrimines back to 1996 those of you who were alive
+[39:29] 6303 Lawrence quite quite the change
+[39:33] Which is fun fact is almost double the number of attendees at the EMF campus
+[39:39] I mean that is a lot of Lawrence right?
+[39:41] It's a lot of people it's a lot of Lawrence
+[39:43] Anyway, so Lauren is she is an award winning sci-fi author and she is here
+[39:49] To read us a short story so please go warm welcome to Lauren Buchas
+[40:06] Hi everyone it's my first EMF it's really starting to be here
+[40:10] And I was looking for a short story to read they found the most EMF one I could it's from my first novel
+[40:16] Moxilam it's a 7.7 k-town and came out in 2008 so it's a little raw a little punk
+[40:22] But we're gonna go with it. I have this it is a very EMF story
+[40:27] Exhibitionist I'm feeling fractal by the time I reach for Pella
+[40:32] There is a ready spillage out the doors which can only be a good sign
+[40:36] Sing as it's just gone 630 but it makes me feel injured
+[40:41] Your late Jonathan latches onto my arm at the door and switches me in through the crowd
+[40:46] I can't believe how many people I hear crowded into the gallery
+[40:50] But of course it's not just for me. Hopefully my retro friend photographs
+[40:54] It's gonna pause I see there are kids in the audience there is a bit of gore and some swearing so please be advised
+[41:00] Most people here to see Kanye and Cozy sound insulation fresh return from her south halu show and all the resulting controversy
+[41:09] It's the very first time I've seen it in the flesh the thing is gourd deluxe red and meaty
+[41:16] Like something dead turned inside out and mangled half collapsed in on itself with spines and ridges and
+[41:23] Fleshy strings and some kind of built-in speakers
+[41:26] Which makes the name even more disturbing?
+[41:29] Woof and tweet I
+[41:31] Don't understand how it works, but it's to do with reverb and built-in resonator speakers
+[41:36] It's calling sounds from around us remixing ambient audio
+[41:40] Conversation footsteps glasses clinking rustling clothing through the systems of its body
+[41:46] Just jointed parts of it in flating like it's breathing
+[41:50] It's hard to hear it over herbub but sometimes it's like words
+[41:54] Almost recognizable
+[41:56] The most he has just noise
+[41:59] Little bit of resonance there as well a
+[42:01] Fractured music under cut with jarring sounds it seemed to come at random
+[42:06] Sometimes it sounds like pain
+[42:08] It's an animal rights or a lie if at any rate some lab manufactured plastic biobreebe
+[42:15] With just enough brainstem to respond to input in different ways so it's unpredictable
+[42:20] But not enough to feel pain apparently
+[42:23] It's gratuitous I say she could have done it any other way it could have looked like anything it could have been beautiful
+[42:29] Like something you put in your lounge Jonathan says please Kendra it is supposed to be revolting
+[42:34] It's that whole Tokyo tech bird test thing actually it's so freaking derivative. I can't stand it can we move along
+[42:42] I run my hand along one of the ridges and the thing quivers
+[42:45] But I can't determine any difference noticeable in the sounds
+[42:49] Do you think it gets traumatized?
+[42:51] It's just noise okay
+[42:52] He was mad at that much of he's who'd blooded her and the job job exhibition
+[42:56] It doesn't have nerve endings okay. Oh, oh, no wait. It does have nerve endings, but it doesn't have pain receptors
+[43:02] I mean do you think he gets upset by all the attention?
+[43:05] I mean isn't this supposed to be able to pick up moods reflect the vibe
+[43:09] Christ knows I think that's a bullshit. You could ask the artist she's over there
+[43:13] Shmoosing with the money like you should be
+[43:15] Wuff and tweets suddenly kicks out a looped fragment of a woman's love which
+[43:19] Stoddles me before sliding down the scale into a fuzzy electronic a
+[43:23] See it likes here
+[43:26] Don't be a jerk Jonathan
+[43:28] There's a journalist who wants to interview you. It's pretty cute, by the way
+[43:31] My stomach spasms. This is another thing Jonathan does to keep me in my place to make it clear that we're not together
+[43:38] My shrinkable tells me that I'm still in love with him
+[43:40] Well, actually he didn't he let me figure that out for myself which cost a little more more wasted time
+[43:44] And apparently he had the answer all along
+[43:47] What my psych did tell me of his own accord after this revelation is that I should cut Jonathan off get some distance recover a sense of self
+[43:56] He uses a lot of shrinkage that doesn't translate and only applies to someone else's ordered life with a rules work
+[44:02] But it's complicated
+[44:04] Jonathan was the one who orchestrated this exhibition or should I say exhibitionism because isn't my solding late bear here?
+[44:12] I know he's intending to sleep with me again. It's been really casual since we broke up
+[44:16] But it's still happening even though he's seen at least two other woman that I know about in between
+[44:20] Just you know fuck buddies. He says I met the one Miranda to party one of those awful media types
+[44:26] Hangin often like he was his handbag old bag 38 at least
+[44:32] An editor one of the push-mags he works for occasionally one of the perks of the job
+[44:36] Fratizing with the help of course he's 32 so he's right up there with her close it a her than me and was it just imagination?
+[44:43] Or did she scope me with just a shade of pity?
+[44:46] The first time you met I asked to take her picture Jonathan kissed me on the head whispering
+[44:51] You cunning little fox sweetheart. You just guaranteed yourself a publicity splash
+[44:55] We'll have to make the event worthy of the right up
+[44:58] But I was more interested in reducing her to planes of color the hard sculptural form of her bones
+[45:04] The prince I went with was accidental a misfire while I was adjusting the light settings
+[45:09] She is sitting on the edge of the twist of spiral stair on the fire escape outside of party
+[45:13] The focus is on the shapely not have her knee one hand resting in the dark full of her skirt
+[45:19] The other touching her mouth although you've known you see the angle of her jaw
+[45:23] Silt it out of frame it makes her look vulnerable
+[45:27] I glanced over my pictures partially obscured by the swilling crowd only one of my princes turned out perfect
+[45:33] In the image that appears abstract but I'm closer in spectrum results itself is anonymous blur against the edge of a doorway
+[45:40] Rect word in the liquid swirl of graffiti the paint still wet and dripping in runnels that is all sharp focus texture
+[45:48] The others have not come out so distinctly in the gallery manager Sanjay is a tad uncertain about the whole shabang
+[45:54] The overexposed and the under the bleached washed out over saturated with color the ones with blotches and speckles and stains like coffee
+[46:01] You've got brains or the buttress of white the frame the horizontal top and bottom where the canister has cracked and let the light inside
+[46:08] My favorite is called self portrait a print from a decayed piece of foam one meter by 3.5
+[46:14] It came out entirely black
+[46:17] Jonathan propels me in the direction of Sanjay who is standing in deep conversation with two other people
+[46:22] The one is clearly money some
+[46:25] Corporate culture patron or art buyer the other I realized with the shock is Kanye and Coise
+[46:30] I recognize her from an interview I saw but she is so warmly energetic waving her hands in the air to make a pointing grinning that I can't really match her with her work
+[46:39] I
+[46:40] Realize I can't deal and checking that Jonathan is intense. I'm pushing through the queue at the bar
+[46:44] I detoured back to with the entrance next and stand on someone's foot. Hey easy. Oh God
+[46:49] I'm sorry should I really really really need a cigarette and wonder if I can make it to the sponsorship down the road and back before Jonathan notices
+[46:57] No worries you're the artist right?
+[47:00] Yeah, the photographer anyway. I'm not that that thing. It's not mine. It's a yeah, I'm a Siana the journalist from Stona
+[47:07] Oh, right
+[47:09] Like
+[47:10] Listen if you want we can talk later. I know it's your opening you've got people to shmooze
+[47:14] Actually, no, let's let's go ahead. Let's do it
+[47:17] So we are outside and I catch a cigarette from a blonde from any of the other events with fucked up hair cut like a young purpose
+[47:23] So can we go ahead get the interview out of the way
+[47:30] Can you have some mic interest for an impointed on my mouth?
+[47:33] So what's with the old school? Did you read the press release?
+[47:37] Let's say I didn't I quoted from memory
+[47:40] Kendra Adams use of non-ditional format is inspired by her fascination with the capacity for error
+[47:45] Okay, okay, let's skip the press release
+[47:48] Okay, it's just I guess
+[47:50] Filmmas more interesting than digital because the possibility of flaw inherent in the material
+[47:54] It's not readily available so I have to get it over the net and some of it has rotted or it's being exposed even before I loaded into the camera
+[48:01] So I don't know that until I develop it like self portrait and it's not just the film
+[48:05] It's working without the automatic the operating can mess up as well
+[48:08] Did you mess up?
+[48:10] Well, it's a great thing about working with damaged materials. You'll never know it's the same in audio
+[48:15] You know when digital was too clean when it first came out. It was antiseptic
+[48:18] You lost the background noise the fidelity was too clear, but it's dead without the context
+[48:24] In sound they had to adapt to digital to synth analog you can do the same thing in photography apply effects lock out the order focus click-out for exposure
+[48:31] But all we're trying to do is recreate the manual
+[48:34] It's contentious now though the audio text is saying it's been nonsense all along just nostalgia and mixing the hits and the recording
+[48:40] Requitment so it's related again who knows?
+[48:43] So you're looking for the background noise. Yeah, something like
+[48:48] I dropped the cigarette butt and twisted under my heel
+[48:51] God enough. Yeah, I'm good. You give good soundbite. He says
+[48:56] And the gallery seems a bit less aggressive when we go back in I'm less freaked even when I over here
+[49:00] Some overgroomed loft dwellers giggling into their wine and oh my god this I'm so tired of statements
+[49:06] Like she's the only angst child's ever embraced the distorted body image. Oh
+[49:11] I quite like the undeveloped because she is you know herself still young coming into herself
+[49:17] The artist in flux emerges
+[49:20] I'm about to lean in to point out that self-portrait is meant to be damaged on purpose
+[49:25] But then I realized I don't have to make my motives apparent and then I'm distracted by a flurry of activity of the door
+[49:33] There are people shoving wine spelling from glasses. Yelp's of dismay. Hey, this is a private function
+[49:38] Jonathan yells spotting cliche is at the rush of people in black who are pushing in through the crowd
+[49:44] Their faces are blurred like there are anonymous informants in documentary footage
+[49:48] It is so disturbing it takes me a second to catch on that they're wearing smear masks and
+[49:54] Another to realize that they're carrying shetties
+[49:57] A few people scream sending out a reverb chorus from work for in tweet
+[50:01] The crowd pressing backwards
+[50:03] But then the big guy in front of the protest is yells death to corporate art and
+[50:08] Emily the woman who is missing my art a moment ago laughs going for me
+[50:12] Oh god
+[50:14] Performance arts how dreadfully goes and their mermaids are relief and snickers in the crowd and the living organism that is the crowd
+[50:21] Now pushes forward again to see
+[50:23] I'll see Emma the journalist grabs my arm and pulls me back out of the front line because I haven't moved this whole time
+[50:29] Just as one of the men or woman
+[50:31] grabs Emily by her hair and forces her to an ease spitting with rage. Oh my god
+[50:36] Don't you dare make me complicit in your garbage?
+[50:39] One of the people raises the machete pulling back her head by the roots of her hair exposing her throat
+[50:45] She raises a hand to a mouth stop tends to stifle a yarn
+[50:49] Are you gonna chop me into little iddy bitty pieces now?
+[50:51] Please, this is so melodramatic and it is and the crowd is rooted
+[50:56] But I didn't think this kind of promo stone for be Sanjay's thing
+[51:00] The man jerks her head back further and bowing his legs moves his arm as if to slice across so throat
+[51:06] Only at the last instant so late that she wins his back involuntarily deflecting to a side swipe
+[51:13] Not at her, but woof and tweet just in front of them
+[51:17] The thing emits a lean crackle of white noise
+[51:21] The audience is wrapped camera phones clicking the others move in five of them one guarding the door to start laying into us
+[51:30] It's only when the artist starts wailing that it becomes apparent that this was not part of the program
+[51:36] The machetes here and for the thin flesh and ribs of cunning and cosy thing with a noise like somebody attacking a bicycle with an axe
+[51:43] It responds with a high hat back beat for the melody at assembles from the screams and skittas of nervous laughter
+[51:50] It doesn't die quietly
+[51:52] transmitting the ruckus the frantic calls to the police and cunning the artist wailing clawing held back by a throng of people
+[52:00] The bright sprays of blood make it real
+[52:03] Splattering the walls people's faces my photographs as the blades black down again and again
+[52:10] The police sirens and the distance are echoed and distorted as woof finally flashes in on itself
+[52:15] rattling with wet snacking sounds
+[52:18] They disappear out into the streets as quickly as they came shaking the machetes at us threatening don't follow
+[52:25] woofing like kids
+[52:28] As the sirens are closing in once bits on the mangled corpse and then just before he ducks up the door and into the night glances up once at the ceiling
+[52:38] No one else seems to notice but I follow his gaze up to the security cameras getting every angle
+[52:43] I'm sick with the adrenaline the woman who has taken hostage just screaming and brittle hyperventilating
+[52:48] Gosts her friend is trying to wipe the blood off her face using the hammer of her dress unaware that she has lifted it so high that she is flashing her lazy briefs
+[52:58] Kanye is kneeling next to the gobs of her animal construct trying to reassemble it smearing herself with the bloody lumps of flesh
+[53:04] There's a man trying to come to the girl with a joggle on hair, but he is the one we think laid waste by the shock while she lights cigarette up to cigarette her hand shaking
+[53:14] There is still a prevailing undercurrent of thrill
+[53:17] a rush from the violence because no one was heard except the thing
+[53:21] Everyone is on their phones taking pictures talking
+[53:24] Oceana is shouting above the ruckus who is edited no doubt and there are even more people trying to wedge into the space so the cops who have finally arrived
+[53:31] have to shove their way inside
+[53:34] self-portrait my photograph is covered in a Mr. Blood
+[53:37] I moved away the clean although I'm scared the blood will smear will stain the paper
+[53:42] But just then Jonathan takes my wrist wraps his arms around me and kisses my neck
+[53:47] Don't run the effects sweetheart
+[53:48] He whispers his breath hot against my throat
+[53:52] Do you know how much this is going to be worth?
+[53:55] I glance up at the cameras again the BD red lights the unblinking lenses recording everything
+[54:01] Already the cops are asking for the footage
+[54:04] Jonathan kisses my neck again and brings you you were magnificent
+[54:09] Thank you
+[54:11] You're welcome
+[54:19] Give it up to Lauren Vuekers
+[54:22] Thank you so much
+[54:25] This is this is why we call it the variety nights we've got everybody laughing at the word balls
+[54:31] Followed by pointy and literature. I just I love it
+[54:34] Quite the variety
+[54:36] We have actually before I introduce our next speaker. I should let you know that Lauren is selling some books
+[54:41] She's got some books here in the tent tonight. I believe and also some over in the merch so
+[54:45] So if you'd like to to very more of her work than do do go and have a look at her
+[54:51] books and whilst we've got furniture
+[54:54] Rearrangement happening behind me. I think we'll do a little quiz. We'll do a proper quiz
+[54:57] So for the next fun fact. I'm gonna give you three options
+[55:00] We're almost at the halfway mark right and I feel like people might need a little bit of a wiggle a little bit of a stand up
+[55:07] Yeah, so we're gonna do a quiz
+[55:09] You're gonna get three options. It's a survey again. This time you don't wop you stand up for the one
+[55:13] If you're able to and you want to
+[55:15] For the one that you would like to vote for and it is for the number of earplugs that the EMF team have estimated that there are on-site
+[55:24] This year. I'm gonna give you three options right so my first option
+[55:29] You can vote after all three obviously here all three then vote that sensible
+[55:33] So the first option 5,000 earplugs second option
+[55:38] 6,000 earplugs third option
+[55:41] 7,000 earplugs make a decision you've got 10 seconds
+[55:45] All right, you've got five seconds really we will go for
+[55:49] Stand up if you would like to go for option A
+[55:53] 5,000 earplugs everyone should take part. We've got double up double on man from
+[55:59] It's you again. He was he was trolling my talk early on his back
+[56:03] We've got some joking. We've got not many not many I would say I'd say 10% of you sit down
+[56:09] Stand up if you'd like to vote for six thousand earplugs that is more
+[56:14] That is definitely more
+[56:16] Half of you I'd say sit down. Thank you very much
+[56:18] Stand up if you would like to vote for seven thousand earplugs
+[56:22] That feels like half as well
+[56:24] And I'm the mathematician apparently right so if you say it's up down. I think ooh that was really tricky
+[56:29] That was very very difficult. I'd say that was marginally
+[56:32] 6,000 earplugs as the most popular answer the answer
+[56:37] 5,000 earplugs so well done
+[56:40] Well done double on man
+[56:42] Well done the minority anyway without further ado
+[56:45] I think we are we're almost ready for our next speaker
+[56:49] So our next speaker when I when I looked on my my file
+[56:52] To find out how many babies were born with his name
+[56:56] Excel told me it was 34 in
+[56:59] 2020 five just 34 so not very many at all
+[57:02] But unlike his name our next speaker
+[57:05] is is very popular as you'll discover in a second. He's one of our favorites
+[57:09] I mean is a space scientist
+[57:12] Here's a magician and he is here to combine both of those things to show us
+[57:18] Some space science so please get a warm welcome to Neil Montereau
+[57:26] Thank you
+[57:28] Sorry sorry sorry sorry sorry sorry sorry sorry
+[57:30] Sorry just hold on there a minute. Sorry because I'm gonna need you. Yeah, just say there one second
+[57:36] So first of all an admission
+[57:38] I agree to do this I think several months ago
+[57:41] It's one of those things as someone says hey do you want to do the variety?
+[57:43] No, yeah, yeah, that sounds fun 10 minutes how hard can it be?
+[57:48] And then about a week ago I was like oh, I'm doing the variety know, yeah, what should I do?
+[57:53] And then I noticed that they'd build me as a space scientist and magician and I'm afraid only about 25% of that is actually true
+[58:01] So you might be wondering which 25% or it's not the scientist bit
+[58:06] So I'm actually space engineer which might sound really picky
+[58:09] But if you're a space engineer you make stuff that goes to space if you're space scientists
+[58:13] You understand the stuff that's happening in space
+[58:16] So you know there's one problem the other bit that I'm definitely not as a magician
+[58:20] What actually happened here? I think has been a big misunderstanding for a while that I want to work as a magician
+[58:26] And when I say once I mean a single gig
+[58:28] And you might be wondering what happened on that gig that meant that it only happened once I can tell you it involved balloon animals
+[58:34] But let's not go any further into it
+[58:37] But then I somehow mascara reputation for being both a
+[58:40] Some of the space stuff and a and a magician so I'm gonna do my best to show you a
+[58:47] A space science magic trick that doesn't involve any real magic
+[58:52] But definitely involved from space science even though I'm really an engineer and not a scientist so it's gonna go great
+[58:59] So first of all I needed a card and I think the quickest way to do you might come in back up
+[59:04] I I warn though either I might ask it to do this, but she doesn't know anything else
+[59:08] Bear in mind I'm not a magician
+[59:12] Right Zoe can maybe hear I've got something stood up. Let's just I'm hoping that this camera will work because it works mostly as usual
+[59:19] Where's really well until I need it to work and then it does absolutely nothing is it coming on now?
+[59:27] Oh, that's brilliant that works fantastically all through the rehearsal and the test that we did and then absolutely zero at this stage
+[59:34] Let me just see if that's actually coming on at this point
+[59:37] It's on I mean
+[59:39] Any other I mean if anyone's gonna solve my problem surely it's an audience at EMF
+[59:44] I'm using airplay to get my camera up any ideas as to why it's not working
+[59:52] Yeah, okay
+[59:54] I still don't come in yeah
+[59:57] I might have to try and reconnect this one second
+[60:01] Come on why you being so difficult with me
+[60:05] Should we just give Neil a bit of time to fix the camera situation as I might have mentioned earlier
+[60:10] I'm not here to fix the tech. Yeah, so I'm hoping that someone with much more knowledge than me
+[60:15] Well, I'll come and give Neil a hand because I'm definitely not that person and but I do I do have some more fun facts for you
+[60:22] We could do we could do another little vote if we're feeling feeling sort of ready for that and this time
+[60:28] It is for the number of chairs on site
+[60:32] Per a 10 D right number of chairs on site per a 10 D I am in a giveaway three options and
+[60:39] I mean I'm wondering how bad the tech problem is do we have time for stand up and sit there
+[60:43] I think we might do so we'll do stand up and sit down
+[60:47] And so I'm gonna give you three options to get to choose stand up the one you want
+[60:50] So we'll go for option one is there is 0.9 chairs per a 10 D
+[60:57] Which feels like not quite enough
+[60:59] option two, but it could be could be correct option two is there is exactly one chair per a 10 D and option three is there is 1.2
+[61:08] chairs per a 10 D
+[61:10] So make your decisions
+[61:13] Stand up if you would like to go for option A
+[61:16] Which is 0.9
+[61:19] I'm 18 to your satin sorry Neil 0.9 so that is about 30 sit down option B which is one chair per a 10 D
+[61:27] I didn't literally count you there's like 16 of you. Okay sit down
+[61:30] Son of an option C which is 1.2 chairs per a 10 D that's 11 that's almost everybody you know what you're all correct
+[61:36] Well done
+[61:37] Welcome that meal
+[61:40] Okay whoever said turn off on again you are genius
+[61:44] Okay, so I'm not a magician this is where we left it right not a magician not going to do anything fancy
+[61:51] But this we're gonna do a simple technique to pick a random card or what you do go down the deck like this go less than halfway or at least halfway or something around that
+[61:59] Pick it yeah, pick it up turn it upside down and put it back on top again
+[62:03] Turn up so down because this is not the one we're gonna pick what we're gonna do is we're gonna randomize it
+[62:06] We're doing it again, but this time go a bit further go down turn it over pick it up
+[62:11] Okay, cool. So now we've got it's a bunch of cards some of them are upside down some of them are not and the one where it stops
+[62:16] Is gonna be the card that you've reached. Okay, so don't show me that card, right?
+[62:20] Keep that one to yourself
+[62:22] This is for these out the way so what we want to do is
+[62:26] Just have a look here. I have a box
+[62:30] Thank you
+[62:33] This is designed to keep everything secret inside the box is I put this together a very short notice
+[62:39] So inside the box not ahead inside the box is a card and the thing what I want you to do is to swap your card for this one and put it back in the box
+[62:48] So it's facing this way, okay?
+[62:51] So I have to do this in a way that I can't see what's happening when you're done
+[62:55] You'll have to just slide the lid back on as well
+[62:57] The audience can see on the camera as you put it in right so if it if you don't
+[63:02] It's a good to remind you I bet not a magician right. It's really obvious now
+[63:06] So yes, maybe you should show the audience too. That's a good idea
+[63:09] So one of them is gonna cover my eyes up while you do that and then when you're done you let me know because then there's no way I can know what the guard is okay
+[63:16] Right here we go in your own time
+[63:23] By way, this is just the one they happen to have with me
+[63:28] Yeah, that's also just something that I found randomly on my way out of the house today
+[63:36] Okay
+[63:44] Course this point I'm just standing on a stage with a blindfold on which does leave me quite vulnerable at this point
+[63:52] That would be a good joke was now for my eyes and there's no one left in the audience
+[63:59] You're done, okay, right I'm here to hit the blindfold off is that okay?
+[64:03] Okay, okay, so the blindfold is off the card is in there. I don't know what the card is what card is that?
+[64:08] That's the one that was in there. That's the one that was there already
+[64:09] Okay, so otherwise our whole thing's not gonna work at all. You can leave me to you can stay on I mean I haven't got anything else for you to do
+[64:15] But you're welcome to stay
+[64:17] Okay, okay, I like to be very inclusive at least anyway, but yes
+[64:20] so
+[64:24] Now that is the magic part of this trick right and
+[64:29] The space science bit is gonna come versus the courtesy of this man called William Hershel
+[64:37] So some of you may know William Hershel as a discoverer of
+[64:41] You're in us again, not a space scientist, right?
+[64:46] I think it's Uranus if I haven't sent a spacecraft there, I wouldn't know, but I think it is
+[64:51] So he discovered it famously. I think it's in Bath in a garden there
+[64:54] But he's also famous for something else. He discovered the use of infrared astronomy or rather infrared light to begin with
+[65:02] So we had a present and I guess most of you know this you have a present and some light comes in and then it makes a nice pretty rainbow
+[65:08] And what William Hershel did was he made his rainbow and then got a thermometer and
+[65:14] Move the thermometer around on the rainbow and what he noticed was that if he went all the way to the red you got a certain temperature
+[65:21] But if he went past the red
+[65:24] The thermometer got hotter
+[65:27] So there was obviously something there then he just couldn't see and this is what we know is infrared and
+[65:33] infrared is very valuable in astronomy because it shows you what something looks like in a color
+[65:38] That you can't normally see and you'll get sort of information structures aren't normally visible
+[65:43] The best example I have a vase a crab nebula
+[65:46] A crab nebula is a star that exploded about thousands years ago and we know that happened because it was quite a bright explosion and everybody in their
+[65:54] Diories right wow massive explosion the sky today. It was cool
+[65:57] So we can trace it back to a certain date
+[66:00] If you look at it with a telescope on the earth you'll actually be able to see it you get like an
+[66:04] You know it's a fuzzy blob, but it's there
+[66:07] What we typically do is
+[66:08] Test scopes and we want to get really good images is that we want them above all the atmosphere and we're in front of red
+[66:13] That's very important because the
+[66:15] Infra is absorbed by all of the water in the sky so this next picture is not in infrared
+[66:20] It's in just regular colors, but it's taken by the Hubble space telescope
+[66:24] It gives you idea of what this really looks like
+[66:27] So that is the crab nebula when viewed from you know good vantage point you see what's going on
+[66:33] So that is an exploding star we say exploding because stars take a really long time to explode
+[66:38] Now you may have heard of the James Webb space telescope
+[66:41] That's kind of the success that's a Hubble that was launched about two
+[66:45] No three years ago and has been slowly taking pictures
+[66:49] That just basically improved and what Hubble did and it also has an infrared camera and here's the picture that James
+[66:55] Webb space telescope took with the infrared camera
+[66:59] And it's subtly different it can be a little hard to see from this exactly what's different so I'm just going to overlay them
+[67:06] And then just fade out the Hubble image
+[67:09] That's the James Webb one. I'll just fade it back in so you can see it again
+[67:12] So you're just picking up on slightly different structures and what is doing is it's actually allowing you to see through
+[67:18] some of the dust cloud that gets kind of in the way in the optical image and we can get rid of it and look through into something else
+[67:25] And this is where our little secret comes in so we're going to do some infrared astronomy right now
+[67:30] So this is a non-magic magic trick
+[67:33] So I have to point at all of you just because I need a bright source and you're all very very bright
+[67:38] So
+[67:40] What I've got here is our infrared filter that's normally used for regular infrared photography if you've done any sort of 35 millimeter photography
+[67:47] You might have seen one of these it cuts out all the normal colors and only let's through a very narrow band of infrared and
+[67:53] I always thought you had to have a special camera for this but it sends out a smartphone cameras a bit rubbish
+[67:58] That filtering out infrared now
+[68:01] That is not that impressive. I agree
+[68:03] Because what we're looking at there is this room in infrared and why didn't think about when I started planning for this day
+[68:09] Because it was going to be about 10 o'clock by the time I stood on the stage and the sun would have gone down and there'd be no infrared light anywhere
+[68:16] So what I brought with me as a sort of backup was this
+[68:20] infrared
+[68:21] flood light from a from a CCDV camera and while it might or be very obvious what's going on here
+[68:26] I'm just going to point the camera at the box
+[68:29] And this is how you do a magic trick with no magic
+[68:36] Oh, I say it very impressively is it actually going to work
+[68:40] There's a bit much better how do I actually had a chance to try it?
+[68:44] And there is the forest space. So it wasn't the forest space. You had a corset what's because how else would it be in the back?
+[68:51] I leave you with one more thing there because I obviously this is you know not real magic and then we did say we would do magic
+[68:56] So for one little final thing to leave you thinking about there is one more chance to actually do some infrared magic
+[69:02] Yeah, I really got a hope of this works
+[69:04] Let me just should have perhaps slightly better earlier, but
+[69:09] One more thing to you to think about as I leave the stage is
+[69:13] Where are we I'm over here?
+[69:15] This did not work anywhere near as brightly as I wanted to but if I'm lucky it will show up
+[69:20] Yeah
+[69:22] On my t-shirt and with that mystery I will leave you thank you very much. Good night
+[69:37] Hey big round of shit is again from Neil Monterey from Tastik's left. Thank you very much
+[69:42] Thank you
+[69:45] Okay, that was lovely lovely stuff
+[69:49] We were gonna have a little bit of furniture changing behind me again and some tech changes and so on
+[69:53] So I think it's probably an appropriate point for our third and you know I'm not gonna say final
+[69:59] But we're gonna do what one last little vote and then we will we'll move on to the next person and so my final fun fact
+[70:05] Here we go right so you get three options again
+[70:08] It is about the number of potatoes used in the volunteer kitchen
+[70:14] So the the amount of potatoes used in the volunteer kitchen
+[70:18] I'm gonna give you option A which is a quarter of a ton of potatoes used in the volunteer kitchen
+[70:25] Half a ton of potatoes that's our second option and all three quarters of a ton of potato used in the volunteer kitchen
+[70:32] Have a quick think about how many volunteers there are have a quick little just decide in your head
+[70:38] Some discussion going on will go for stand up if you would like to go for a which is a quarter of a ton of potatoes
+[70:46] option A
+[70:47] Not many but you're probably getting tired of standing up which is understandable and I'm gonna do this again
+[70:52] Right so option B half a ton of potatoes
+[70:55] Bit more well, that's a lot. It's a lot of me that's more than half
+[70:59] Sit down and option C three quarters of a ton of potatoes
+[71:04] The clue is that I hesitated before I said it because I couldn't remember what I've made up
+[71:08] And so that is that is not the correct answer
+[71:11] In fact you overestimate it most of you is a quarter to quarter of a ton of potatoes. So go still a lot of potatoes
+[71:18] I think that's all
+[71:20] That's all we need to know it was a lot of potatoes
+[71:23] That's the answer all right so I'm so I'm next speaker and my next speaker
+[71:27] Describe himself as the world's number one ZX Spectrum Rockstar and when I put
+[71:37] His name into my spreadsheet Excel told me
+[71:42] Microsoft Excel cannot find the data you're searching for that is how I imagine XL speaks anyway
+[71:49] Please could you welcome to the stage gasman
+[71:57] Oh
+[72:01] Tonight I'm going to be your musical Bob Ross
+[72:06] So I'm going to be creating a chip tune
+[72:10] Live on stage from scratch
+[72:12] It's called a chip tune because it's played by a sound chip
+[72:17] This can this chip can play three notes of once
+[72:21] Typically square waves which sound like this and this is what do the sent yet?
+[72:27] Yep
+[72:30] This is going to be fiddly on lexon
+[72:33] Okay got that
+[72:35] So that's the square wave and
+[72:37] Every 50th of a second we send it a bunch of parameters which things like the pitch and the volume and that's a
+[72:45] Defines how well how it's going to sound for that slice of time and if you stack enough of those slices together
+[72:51] You get music
+[72:53] So if we want to have a note that starts loud and dies away
+[72:58] We can draw that as a graph like this
+[73:02] That's each of these rows is one 50th of a second and that will sound
+[73:06] Like that so you can hear that's dying away there
+[73:09] So note with that in place we can start putting our melody down
+[73:14] We don't use stunt music notation for this because that will be far too normal
+[73:18] So instead we we lay a note out on a grid like this so again it's time going down
+[73:37] So it's basically writing music on spreadsheets
+[73:47] So
+[74:10] Yes, I've quite got there right
+[74:18] That's going to be talking we have we don't fix that now
+[74:23] Right so yeah, that's so we've got a melody there hopefully recognize it but it's not very
+[74:29] Expressive at the moment so all the notes are just being played for exactly the same length of time
+[74:34] So if you want to very that a bit so we can add a second instrument switch this time it will fade away a bit slower
+[74:42] something like that
+[74:47] That's not good
+[74:49] But it's well erratic we can add a bit of a vibrato to make this a bit more exciting
+[74:55] So just as we've got the volume changing over time this column is the pitch so we can have that going up
+[75:04] And then down into the negatives to one one two three two one
+[75:12] And now hopefully we listen to that now
+[75:17] You can hear the sort of one our sort of
+[75:21] Sound there so we can strategically drop that into our melody
+[75:35] And then it's just sound a bit a bit more to it
+[75:39] No
+[75:47] So now we've got a melody down in the first column let's what can we add next how it's and drums
+[75:53] So as well as having square waves you can also have
+[75:59] white noise
+[76:00] So that this works just the same way we've got the volume dying way over time
+[76:05] But if we mess that out and enable the noise that will sound like this
+[76:11] And
+[76:12] As well as that we can also
+[76:14] Very the pitch of the noise and I know what you're all thinking but gasman by definition white noise is the absence of pitch information
+[76:21] Well, yes, but this is actually a digital approximation of white noise
+[76:25] Which is the determined by a it's randomly choosing
+[76:30] High or low levels and the and it's the and the speed at which that happens determines whether it sounds like this or like this
+[76:42] So so if you want to have it starting as a sort of hiss and to need to crunch then we can go something like this
+[76:50] And let's make that
+[76:56] Very fitly on the little item
+[77:00] That
+[77:02] There we go so I've can have this die way quickly like that
+[77:10] And
+[77:13] We get something that sends sort of like a snare drum if you if you squint a bit
+[77:19] And we don't need to use white noise with another way of getting drums is again if I have a note that's sort of fading away quickly
+[77:26] But this time if we have it to a pitch slide way down just so quickly that it loses all tonal quality so down
+[77:35] 100 to 100
+[77:38] And again
+[77:42] And now if you play this you'll get a
+[77:45] Nice nice fat bass drum there
+[77:49] So with those in place we can start adding those to our sequencer
+[77:55] Stign these in at regular intervals
+[78:01] Just to get our
+[78:03] Fourth of the floor
+[78:14] And because drum parts are always always really repetitive let's copy and paste that speed things along a bit
+[78:21] And
+[78:23] This is what we get
+[78:31] So now how about sir, yep
+[78:34] Thank you
+[78:38] So I think the next thing we need is a bit of bass and we could use the third column for that
+[78:42] But we've only got three to play with and
+[78:45] I want to hang onto that one through something else you have to get a bit of fruit gold here when you can only play through
+[78:50] notes at once
+[78:51] Look at a lot of pop songs do this thing where while the drums are playing the bass sort of duck
+[78:57] Sout to make the drums sound more forceful so we can do the equivalent of that by sticking the bass notes in
+[79:04] In between when the drums are playing
+[79:06] So if we go back to our sample that
+[79:10] Let's now
+[79:18] And another bit of cotton paste
+[79:31] Which is all very well but
+[79:35] Well no need to applaud yet. I think we can do better than that because say
+[79:39] There's basically no stew sound a bit weedy but
+[79:42] We can do a bit of good old hardware abuse here because our sound chip it has this special feature where it can settle up in advance
+[79:51] volume curve
+[79:53] And then once you set that up it will leave it to its own devices
+[79:58] But that's kind of pointless given that as we said we are feeding the chip new
+[80:05] Volume information every 50th of a second and it don't really need to change volume more often than that
+[80:11] But what if you do what if we tell it well?
+[80:15] Why don't you
+[80:17] ramp up the volume from zero to 100%
+[80:21] repeatedly
+[80:22] 440 times a second
+[80:25] Well, what if you're doing that first then what you end up with is not so much volume control as a
+[80:31] nice fat
+[80:33] Sources way
+[80:37] And even better because that's
+[80:40] Where that's happening on top of the note we were already playing then and then we've got two
+[80:47] waveforms modulating each other and if the frequencies don't quite line up then you get all sorts of lovely crunchy distortion as it goes in and out of phase
+[80:58] So if you start using a bit more of that and
+[81:01] When we play different notes we're allowed to
+[81:06] Not by hand because nothing never is here
+[81:10] Think that one works
+[81:12] Can start doing that and then our good old copy and paste and now we should have something go a lot beef here
+[81:20] But
+[81:28] But
+[81:34] But it wouldn't be a proper cover of call me maybe if it didn't have those string stabs the bad bad bad bad bad bad bad
+[81:42] But the problem is those are chords so three notes playing at once and we've only got one
+[81:49] What one no left to play with but this is where we can bring in the trick that's
+[81:54] Defined the chiptune sound possibly more than anything else and that is our pedgeos
+[82:00] This is where you take a bunch of notes and alternate between them so quickly that they sort of melt together in this sort of
+[82:07] Persistence of hearing I guess it got lit effects
+[82:11] So right now we've just got a plain notes with no variation if we have that and then five
+[82:17] Simitons up then eight and then repeat that
+[82:27] Then we can get this
+[82:30] It's sort of inverted my board. I think we also want a major one so it will be five not 55
+[82:48] And with that so with those two two sounds in place we can start forming the final touches of our song
+[82:56] So we go to
+[82:57] Okay three
+[83:18] Okay
+[83:30] Nearly done
+[83:40] And there we have the final thing
+[83:47] Hey, I just next to you
+[83:53] This is crazy
+[83:55] Here's my number
+[83:57] So call me maybe
+[83:59] All the other boys
+[84:01] Try to chase me but here's my number
+[84:04] So call me maybe I think that's my take a break
+[84:13] That's my thank you so much
+[84:18] Oh
+[84:22] Best dressed
+[84:24] Best dressed speaking guys. I'm loving the suit as well fantastic stuff
+[84:28] If you if you enjoyed that you might enjoy in the null
+[84:32] Sex so there's a thing you can do where you can you can put magnets
+[84:35] Pidge magnets on a thing and but by what which figman and Pidge magnets you choose you sort of get to create the music or self-sale
+[84:41] So you might
+[84:42] Enjoy that too
+[84:43] Our next speaker
+[84:45] Also has a name which is not in the oh and s
+[84:49] Baby name database and it's not a stage name
+[84:52] This is this is her real name and she tells me that her parents
+[84:55] Deliberately intentionally tried to find a name that was completely unique
+[85:00] But no one else had and they succeeded and she is like her name
+[85:04] She is truly one of a kind which you will find out
+[85:06] She is she is a mathematician she's an artist please welcome to the stage alien
+[85:11] McDonald's
+[85:16] Yes, my name is alien let me get that up because there is absolutely no way that you can hear it and know what it's felt like
+[85:25] I
+[85:27] Oh
+[85:29] Are my slides gone on work
+[85:32] Will anyone ever know the first one's black so that's always a fun thing
+[85:35] Whoo there we go
+[85:37] Um, so yes, this is my name
+[85:39] It is very close to the word alien
+[85:42] I did travel through space and time to be here as did we all and
+[85:48] And um, I although I am dressed kind of like an alien. I'm actually just from Scotland
+[85:55] Oh my gosh, who's for Scotland? Let's go. Yeah, my name can actually only be pronounced correctly on bagpipes
+[86:02] um
+[86:04] And I would love to tell you today about my all-time favorite puzzle which is don't addon the tower of Hanoi
+[86:14] Which
+[86:16] We got worse for Scotland. We got worse for Tower of Hanoi could there be a bear credit? Absolutely not
+[86:21] Let's go so Tower of Hanoi classically takes place on three spikes
+[86:26] So you've got these three spike positions and you have various discs that you put on the spikes
+[86:31] And they go from larger to smaller and the aim of the game is to move all of that tower all of those discs
+[86:38] From one of the spikes to another one of the spikes but that would be far too easy
+[86:45] So there are some rules they are many and they are thus you can only move one disc at a time
+[86:52] And you may not place a larger disc on top of a smaller disc
+[86:57] So that's what we're working with those are constraints. Let's see how this goes now
+[87:02] With maths one of the wonderful things that you can do is you can take any puzzle break it down
+[87:09] Break it down make it smaller
+[87:11] So let's just start off with a one disc tower of Hanoi now you may have noticed there are no spikes for me
+[87:18] That's because the spikes were slowly time too much. This is a speed tower of Hanoi
+[87:23] Which I don't know if you can tell I made it myself
+[87:26] So we're gonna do a one disc tower of Hanoi solve. Let's go
+[87:37] Thank you. Thank you. So
+[87:41] One disc one move if you're clapping that hard for this. So let's look forward to what you do later
+[87:47] One disc one move two discs two moves. I don't know. Let's find out. So that would be one
+[87:52] Two don't don't done three two discs three moves
+[87:58] Now I can only assume that the woos are because you are recognizing that there is a sequence here
+[88:03] So three discs is gonna take seven moves and then I'll let you flex. I think we all want to show it out
+[88:11] for discs how many moves
+[88:14] Ah 15 so there's a kind of like doubling the previous one
+[88:18] I'm adding one on or maybe it's close to your favorite power of two next one
+[88:26] 31 and then finally
+[88:29] 63 nice so you might recognize this as the powers of two minus one two to the power of n minus one
+[88:37] So if I were to solve all of this
+[88:41] Perfectly that would be 63 moves now you can either keep a count of the moves totally up to
+[88:48] Or what I would love to bestow upon to you MF festival is a way within which you can solve the tower of
+[88:56] Hanway
+[88:57] um
+[88:58] It's I don't know not not trivial you might have noticed that I have colored
+[89:03] the the discs in alternating colors and the reason for that is that no two of the same color should ever touch oh
+[89:12] Halfway point the big one only ever moves once and if you keep an eye on the small disc this we won here
+[89:21] It's always going from position one to position two and then to position three
+[89:29] And every second move is gonna be moving this small one so it's going one
+[89:35] two
+[89:36] three
+[89:37] one
+[89:38] two
+[89:39] three and if you keep that in mind
+[89:41] Thank you
+[89:43] Yeah
+[89:45] So you know you know how to solve the tower of Hanway you're just every second move you're moving that little one and it's going
+[89:52] Bip boop boop boop boop boop one two three one two three but that would be the optimal solv
+[89:59] And there's a really nice way of mapping this so if you've got all of your three discs on one side
+[90:05] Go back to a three disk one
+[90:06] There's really only two moves that you can do you can move the top one to the middle or at the end
+[90:11] So we've got two possible moves and we can move between those as well
+[90:16] Okay, now from any of those states there's actually only one move that you can do once you've decided one of those
+[90:23] All you can do is move the second one to the empty slot
+[90:27] Okay
+[90:28] At this point you might notice something that you recognize and then if we keep going and look at all of the possible states
+[90:35] Within which this tower of Hanway could be it is
+[90:39] Serpent ski triangle
+[90:43] Yes, and quite this would be level six. This is the one that we're doing this is what level six would look like if you did an infinite amount of discs
+[90:52] It would look like this do not recommend it
+[90:55] It takes long enough to solve as is
+[90:58] But very delightfully the solved solutions the solved states are in the corners
+[91:04] So what we're doing with the optimal solve is just running straight from the top down to one of the corners
+[91:10] Straight line down there
+[91:12] Every time you add a new layer to the Serpent ski triangle it gets twice as tall so that's your two n and it's a fence post because we're counting the moves
+[91:20] Not the states so that's where the minus one comes from
+[91:24] But
+[91:25] Why limit yourself to the optimal solve when?
+[91:29] You could self sabotage what about the scenic route
+[91:35] So this is something which I looked into recently
+[91:38] I asked myself what is the maximum number of moves?
+[91:42] I love this puzzle so much why would I solve it as quick as possible?
+[91:45] Now clearly the answer is infinite because I could move this when I could just keep going back and forth back and forth back and forth
+[91:52] So the better question would be what is the maximum number of moves that I can take to solve this without?
+[92:00] Repeating a position that I have already visited
+[92:04] Okay, so for this we would then have to think can I go around and hit every single one of those positions without
+[92:14] Repeating myself and the answer is yes
+[92:18] Yeah, I can make my all the end
+[92:21] Here's what it would look like on level six
+[92:23] Very nice very curly. Yeah, and it's got this kind of recursive because it's a fractal it had and you know the way it solved is recursive
+[92:31] It has this beautiful fractal property
+[92:33] So we're hitting every single one of those states
+[92:36] We've shown that we can do that as a path how many are there time for some combinatorics let's go
+[92:44] Yes, so any disc if I pick any disc there are three like if I go from the biggest one to smallest
+[92:50] There's three possible positions and every single one of them has three possible positions so beautifully it is
+[92:58] Three to the power of n minus one
+[93:02] Yeah, I look I love love love that sort of
+[93:07] Balance between two to the n minus one for the optimal solve three to the n minus one for the least optimal solve
+[93:13] Turns out nobody else had tried to waste their own time such in such a way which meant I recently got to add a comet on the OIS
+[93:30] Yes, that has been an absolute lifelong dream of mine, but for EMS
+[93:36] I wanted to do something big for you. I was like that's cool. That's nice, but I want to do
+[93:40] I want to do something amazing because you're so cool. So it's like what if I do a really big tower of
+[93:45] Hanway? Now my discs are all one inch tall and I thought okay about 58 inches nobody uses inches
+[93:55] Okay, so here's me for scale festively crouched
+[93:59] It's just a little bit shorter than me so 58 inches tall so this is a tower of Hanway that you can imagine it would be like it would be like this big
+[94:07] Okay, that seems fine. We can do that because you've already seen me solve a six-disk tower of Hanway that took I don't know a minute or so
+[94:17] What if I were to make it twice as big? Maybe something like 14 discs surely that would be twice as big so twice as long two minutes
+[94:28] No, oh no, no, no, that's not how the powers of two work
+[94:37] Every single time you add a disc to that tower the number of moves doubles and so the time also doubles
+[94:46] You wouldn't solve a level of 14 now you would not solve a level 14 tower of Hanway
+[94:51] But I would
+[94:54] So this is the maths village this morning and if I were to move at one disc per second
+[95:02] Consistently for five solid hours it would be solved and I can tell you that starting at a
+[95:10] 925 in the morning and finishing only five minutes behind it
+[95:15] 230 I am now the world record holder for
+[95:19] biggest tower of Hanway ever solved and it was done here at
+[95:24] Yeah
+[95:29] Oh
+[95:32] Yeah
+[95:37] And applause so so rockers that my power point absolutely crashed
+[95:42] Let's bring it back. I wasn't looking up for you on wise job center. I mean clearly
+[95:47] I do need a bit of a job
+[95:49] But yeah, so
+[95:51] EMF I could not imagine such a nice festival people came by whilst I was solving that
+[95:57] Checked that I had had some cream on people arranged a different like there was a shade sale to try and keep me in the shadow
+[96:05] I'm gonna seamlessly pretend that you can't see this jump back into where we've been before and one of the coolest things that someone did
+[96:14] Was
+[96:15] Watch what I was doing and then message me afterwards with statistics that's right. I was set up on by a herd a random herd of data scientists managed to find me
+[96:28] And a wonderful person called Ari message me with a breakdown of my my speed throughout the salt
+[96:37] But they even did a little linear regression at the bottom you can see that
+[96:43] Unfortunately nobody timed my mangled juice breaks so that's gonna slow things down a little bit
+[96:48] I attribute that to the extra five minutes on the five hours of and their conclusion was
+[96:54] surprisingly consistent
+[96:57] Hmm
+[97:02] I'm gonna put that on my CV surprisingly consistent at what replying to emails no
+[97:09] And just in case you ever thought at some point on the program
+[97:12] It said that I was gonna solve a level 16 tower of hanoi nobody ever said that Mandala effect that
+[97:18] Not I wouldn't promise that
+[97:20] Over because that would take an entire day to do and if you did this
+[97:25] This is the difference between two to the power of n minus one and three to the power of n minus one
+[97:30] One day to do a level 16 it would take a year if you did the scenic salt
+[97:36] Yeah, I'm not doing that but what about the what about the big one that I had in mind if I wanted to solve that
+[97:44] Absolutely massive tower of hanoi if I were somehow a being at the formation of earth
+[97:50] So earth is kind of like coming into its own its dust it's coming together with all of this gravity and I started solving at that point
+[97:58] And I kept up that consistent as you know I am surprisingly consistent
+[98:04] one
+[98:04] Disc per second after four point five billion years that would be us now
+[98:12] Kind of like a mid planet crisis at that point I
+[98:17] Would be
+[98:18] Ready to move the bottom disk I would be at the halfway point
+[98:22] I would have to solve for another 4.5 billion years so nine billion years in total
+[98:28] Mind you this things only this tall and then as I place the final disk on that
+[98:35] Mediocrilly size tower of hanoi the sun would use up its hydrogen supply and move into its red giant phase and
+[98:43] There
+[98:45] In golf the earth but
+[98:48] During that time if I was such a being there would be only one thing going on in my head because the tower of hanoi
+[98:54] Comes with its own musical tune so all I've done here. This is the optimal solve all I've done is given each disk
+[99:01] A musical note in the intuitive way the top one the little one makes a high note and the big one makes a low note and
+[99:08] This is tower of hanoi the musical
+[99:13] It's only that makes me do this so
+[99:22] Oh
+[99:24] Nooo
+[99:28] Vodium on white okay
+[99:32] I'm gonna have to go acupala
+[99:37] Feel free to join on
+[99:43] Boom
+[99:44] This was low boom
+[100:12] Oh
+[100:16] Any end of donald everyone
+[100:20] This is the end of our show we that is our final speaker
+[100:24] I hope that you've had a fabulous evening and oh I have
+[100:28] Can we before we go can we just give one massive last round of applause for all of us speakers that you've seen
+[100:43] Oh
+[100:54] So thank you so much for coming. I'll just finish by saying I think a number of us
+[100:59] Somewhere between
+[101:00] Zero and the number of speakers you saw on sage will be in the Q and A 10 afterwards
+[101:05] So please do come along come and ask us some questions and otherwise that's all we've got time for
+[101:09] So thank you so much for coming and we'll see you next year. Bye
+[101:12] You

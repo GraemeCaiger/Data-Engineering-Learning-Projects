@@ -1,0 +1,436 @@
+[00:00] So for those of you who have been around here in a few generations of this, so it started
+[00:18] with Orbs and then went on to Polycoín and then Polygen is the latest version.
+[00:25] So I kind of run through some of those as we go.
+[00:28] But yeah, ingress was my inspiration and AMF and then I thought I create something.
+[00:35] And this is the the series, the Orbs game in 2018, then Polycoín in 2022 and then in 2024
+[00:43] as Polygen.
+[00:45] And there was some interesting things as a lesson's learned as I went along the way.
+[00:49] The first one was there's no that they're just beaped and had some flashy lights and
+[00:55] no we renew what was going on with them and it kind of worked.
+[00:58] But the basis was there.
+[01:00] And then so in Polycoín I made speakers and actually have it speak and made lots of flashy
+[01:05] coloured lights that were more interesting.
+[01:08] And then Polygen was the result of the cases of Polycoín melting.
+[01:14] So I left them in a tent in MCH and when I came back the rear, one of the empty cases,
+[01:23] the rear side of most of the cases, more was able to bring those than that unfortunately.
+[01:28] So this is like one of the last surviving ones that's vaguely the right shape.
+[01:32] But I learned a lot lessons in 3D printing to do with this as well.
+[01:35] So but they look at a lot of real light the look at these but the things that speak are on the back
+[01:42] didn't work so well because it would be sat up against things and they know could hear what they were saying.
+[01:48] So the speaker was moved to the front in Polygen and the overall design didn't use PLA,
+[01:55] lesson learned and the new ones are imprinted mostly in Polycarbonate and some in Pegee.
+[02:02] It's just experimenting with that.
+[02:05] And the main thing as well is that they don't fall apart when you drop them typically.
+[02:08] Unless the case actually breaks, these ones would the back would fly off, bits would come out everywhere.
+[02:13] It wasn't pretty.
+[02:15] So there was a whole bunch of things.
+[02:21] I had interested in your team as well so we have 14 to set of three.
+[02:26] So the, I won't bother explain the whole game.
+[02:33] Hopefully you've all played the game so you've got an idea.
+[02:38] But this was some of the interesting stuff I did with these cases.
+[02:43] But these were wonderful for the first time.
+[02:48] Once you take them off they don't go back on again so easily.
+[02:51] So that was a lesson learned for keeping the backs on these.
+[02:53] So the Polygen cases and I'll go through it and show you the work spot.
+[02:57] The main thing is I used to think a CAD and I got myself a bamboo printer which is how I was able to print Polycarbonate.
+[03:04] And that inspired Polygen.
+[03:08] It's the same PCB so I took the PCB out of this because I didn't want it to write that and put it into the new case and rewrote some of the software around it.
+[03:16] The main parts are that the PCB sits inside here.
+[03:20] There's the NeoPixway, the D, sat at the front and then all the way around the edge is the NeoPixels.
+[03:28] The speaker sits here behind this and then these catches here.
+[03:32] They retain the base of this.
+[03:38] So there is a safety screw that I've removed for speed.
+[03:42] But to actually open the case up you use magnets.
+[03:46] So a magnet there and there.
+[03:50] And it's actually 2p coins sat inside there.
+[03:54] So when you open that up just unhook that.
+[03:58] And you can see that the wonders of 2p coins holding it are magnetised where that.
+[04:04] And they just hook onto these 2 bits here to keep them in place.
+[04:08] And then you've got access to the PCB through there.
+[04:12] So to remove the, to remove this, the easiest way is to remove the catches entirely from the case.
+[04:24] And then this piece will just, while the difficulty slide off.
+[04:32] So you can then see inside.
+[04:35] So you've got the three cells, they will empower it also.
+[04:38] So it's a sort of 3.7 volt.
+[04:40] You've got an MP3 player there that is just a DF row up 299.
+[04:44] It's got a micro SD card and it plays the files through there.
+[04:48] And then two different NeoPixels runs.
+[04:51] And what it does is a lot of the architecture of this is all about power management.
+[04:55] I need it to keep the power usage low so they could run for a whole festival without me having to recharge anything.
+[05:00] So what battery is out.
+[05:01] So what it does is it actually powers down any LED strip.
+[05:05] It's not actively driving.
+[05:06] So it turns the power off to a wire of a fit.
+[05:10] And the, I'm not going to pull this out because they're paying to get back in.
+[05:17] But I'll show you the,
+[05:21] the underside of the board.
+[05:23] So kind of talk you through it.
+[05:25] You've got the, a pig micro.
+[05:27] So it's a pig micro as the brains of the operation.
+[05:30] And the reason it's there is because it's very low powered.
+[05:33] It can go into very low powered sleep mode and it just doesn't use much power.
+[05:38] And it can wake up turn on the RFID reader.
+[05:40] See if there's a card there then go back to sleep.
+[05:42] And it can do the same with the LED.
+[05:44] It can update the LEDs and then sleep.
+[05:47] And what it does is when it needs to talk to the game server, it uses this,
+[05:52] which is an ESP 8285.
+[05:54] Now everyone goes 8266.
+[05:56] No 825.
+[05:57] It's like a tiny version of the 8266.
+[06:01] And it's just, it's smaller, it's more reliable because it's all on day.
+[06:05] E-prom.
+[06:06] And then the other very bottom you've got the power.
+[06:09] So that's the power regulator taking it from whatever the cells are giving out to 3.3 volt.
+[06:13] And obviously the RFID reader, which is a terrible knockoff thing from sort of online from somewhere.
+[06:20] And that's essentially all the components there.
+[06:23] And to program it up, you've got a whole lot of pads there.
+[06:29] So I just put this POGO pin, so it's got POGO pins on one side.
+[06:34] And I can just hold that on there and program up the different components that the board using that.
+[06:41] So nice weight is just not have to solder extra connectors on and worry about them.
+[06:47] The...
+[06:51] These... this is always the challenge when you're making something like this.
+[06:54] You're being pulled in so many different directions.
+[06:56] You want to make it secure.
+[06:58] You've got limited amount of time and you've got limited budget.
+[07:01] And the power to work as well.
+[07:03] So all of those things, it's a compromise.
+[07:05] So a lot of this stuff is all about power, all about keeping the component cost.
+[07:09] So I could afford to do make 36 of them as I did.
+[07:13] So yeah, there's definitely some challenges with that.
+[07:18] I talked you through this already, so I'll skip that.
+[07:21] Did it in Kikead?
+[07:23] The schematics are online if you want to have a look.
+[07:26] And it's running micro python on the ESP and it's running...
+[07:31] It's a little pig basic on the pig micro.
+[07:36] And... but I hit the hard, real quick hard.
+[07:39] So a lot of what the pig micro does is interrupt driven.
+[07:42] So if you've done micro controller development it effectively.
+[07:46] It can do lots of things simultaneously because it only needs to do it.
+[07:50] Go and do it when it gets told something's ready to receive the next bite.
+[07:53] So it can actually natively drive the pixel strips.
+[07:57] Talk to both modules, all simultaneously.
+[08:01] And it doesn't need to be particularly high powered.
+[08:05] How I did hit one problem which is at the end of last camp.
+[08:08] I ran out of ROM space in the pig micro.
+[08:11] I literally had no more space because these were...
+[08:13] The pig micro's were at the height of the component shortage.
+[08:18] So I just had to get whatever I could lay my hands on.
+[08:20] And I ran out of space.
+[08:22] So actually, what's changed is that it's inside of a pig micro, different architecture.
+[08:27] And I had to rewrite all of this stuff to make it work.
+[08:29] But it couldn't add new features yet.
+[08:31] But it's now got loads of ROM space so next time I've got the opportunity to add something.
+[08:36] I'll show you that one.
+[08:39] And obviously we've got the hidden features which hopefully some of you saw which...
+[08:46] The EMF camp bonus.
+[08:49] If you play, if you came back from last time, you'd have got a bonus.
+[08:53] There's a command mode which...
+[09:02] This will boot up. I'll talk about other things.
+[09:04] If you use the payment card, you've probably got something along the lines of...
+[09:09] These are debit card accepted or throw it into a donation to polybius biotech. Please wait.
+[09:15] Just kidding.
+[09:17] So the number of those, and I will report how many people use the payment card of some sort or other during the event.
+[09:25] The capture flag, you can ignore this is the wrong presentation for that.
+[09:28] It wasn't active this year.
+[09:31] And hopefully sort of the scoreboard that was up in North Sector.
+[09:35] Now I haven't really gone too much in terms of how things communicate.
+[09:39] I'll over go.
+[09:40] I can do this now. This is the command mode.
+[09:43] So...
+[09:45] This is the command mode.
+[09:49] Command mode.
+[09:50] So this is how I program it up.
+[09:52] Battery voltage.
+[09:54] And so I can go through power off.
+[09:58] So that's how I turn it off.
+[10:00] Is that using the control token.
+[10:03] And the way I load config in is actually save it onto...
+[10:08] On RFID card so I can program it with new Wi-Fi details.
+[10:12] So if I need to change what server it's talking to, what the Wi-Fi...
+[10:17] SSID is then I can just upload it into there and it will save it.
+[10:21] And I don't have to open the case up to re-program it, which was a big problem with the old game.
+[10:26] Because I had to do that.
+[10:29] So yeah, the way this all communicates is over MQTT.
+[10:34] So there's a rosy pie that's running Mosquito and has a python client to the Mosquito broker.
+[10:42] And then these all sort of...
+[10:45] So MSTG is back to the game server, the VIRMQTT.
+[10:48] And it responds with MSTG's.
+[10:50] The MSTG is a rule sign.
+[10:51] So there's a shared...
+[10:52] There's secrets known by both parties that the...
+[10:55] ...you need to each device.
+[10:57] So the game server knows how to...
+[11:00] ...is not encrypted the messages are clear text.
+[11:03] But what it does is it calculates a hash with some hidden...
+[11:07] ...with some stuff that is not in the message that it knows to add back in.
+[11:10] So that way...
+[11:12] The messages effectively are authenticated to a degree.
+[11:15] And if somebody starts...
+[11:17] ...dicking stuff into the MQTT broker that it shouldn't then...
+[11:21] ...I'll get lots of alerts that somebody's playing for...
+[11:25] ...playing games with it.
+[11:26] But yeah, most of it is...
+[11:28] ...is simple MQTT.
+[11:30] This scoreboard is written using pie game.
+[11:32] And it uses again MQTT.
+[11:34] If you connect to MQTT.gen.pollyb.io...
+[11:39] ...you will get the scoreboard fee.
+[11:41] So anything displayed on here...
+[11:42] ...you'll have full visibility of.
+[11:44] And actually you can see a little bit more.
+[11:46] Like, if you're trying to find some of the units...
+[11:49] ...and you can see all of the names of all the units on there.
+[11:52] Where they might not appear anywhere else.
+[11:55] So...
+[11:57] ...if you want to...
+[11:59] Quite interesting.
+[12:00] Some people have hooked onto MQTT feed and made the lights...
+[12:04] ...of their villages change to the colour of the polygen unit in their village.
+[12:08] So...
+[12:09] And there's been some excellent little hacks I've seen.
+[12:12] There was somebody created an entire webpage that monitored it.
+[12:15] And so he could see exactly which units are changed teams.
+[12:18] They could go take him.
+[12:19] Actually, he didn't go.
+[12:21] He sent his girlfriend to go take him.
+[12:24] There's games website where you can set your player name.
+[12:29] So this is using thing called Metabase to draw the teams scores.
+[12:35] And you're individual things.
+[12:37] This is all JavaScript.
+[12:38] And it talks over websockets on MQTT...
+[12:41] ...to communicate setting your player name.
+[12:45] And you'll hopefully have seen what random name the game assigned to you.
+[12:49] It's going to be some either obscure or not so obscure sci-fi character name.
+[12:54] And they appear in square brackets if they're defaulted.
+[12:59] So these are all of the different things used in making this game.
+[13:09] And the couple of bits broke this time, unfortunately,
+[13:15] because my game server lost its storage.
+[13:18] It would boot up and then say I haven't got a disk anymore.
+[13:21] And then not really boot.
+[13:23] So I had to rebuild it, which meant that my pushover,
+[13:26] thoseifications are working.
+[13:28] But everything else is pretty much there.
+[13:30] Exactly as I described.
+[13:34] Oh yeah.
+[13:35] One of the hacks.
+[13:36] So this was a fried camp.
+[13:38] And this 12-year-old kid, he went around the camp.
+[13:41] And he got himself and I'd read, you know, got himself a servo.
+[13:45] And some batteries.
+[13:47] And probably up.
+[13:48] So every 30 seconds, he just dropped his card down in front of the reader.
+[13:52] I just loved that.
+[13:55] I was brilliant.
+[13:57] So that's the core of it.
+[14:03] But then I'm kind of assuming that people might have some questions.
+[14:08] And once I actually have a look in these units and see some of them.
+[14:12] So I kind of, I'll say, let's do a couple of questions.
+[14:15] And then maybe I could just pass this around to people.
+[14:19] And you can have a look.
+[14:33] So yeah.
+[14:48] Anybody got any questions?
+[14:51] You mentioned the site in the commission.
+[14:54] You speak for over 10 minutes.
+[14:56] No, because they have to be registered at both sides.
+[14:59] So if it's a receiving message from a unit, it doesn't recognize it.
+[15:02] Or you won't respond to it.
+[15:04] So yeah, it shouldn't be upon.
+[15:09] Yeah, so I don't think I've got a link on the presentation.
+[15:15] But if you go to Pete, but here we go.
+[15:19] Go to that website.
+[15:20] It's on the back of every unit.
+[15:22] Then there's all the sort of very rough notes and a link to the GitHub that's got a lot of the stuff on it.
+[15:31] A lot of stuff needs updating a little bit because of the new pig micro and so on.
+[15:35] So I've got to update it with that source code.
+[15:37] But yeah, I mean, my case design was not based on was based on need rather than anything else.
+[15:52] So I had to, I was, because I didn't want to change the PCB.
+[15:58] I designed the case around the site of the PCB that I've made, which has issues.
+[16:04] So I've kind of got to rethink some of that.
+[16:08] So if I do another version, then I'd be designing both with both in mind.
+[16:13] And some of the things I've done there, like I've deliberately tried to make it as rain proof as possible.
+[16:21] It's not perfect, but it's pretty good.
+[16:23] You may notice there's a drainage hole at the bottom.
+[16:27] So and the speakers small to proof and the, yeah, I got, yeah.
+[16:34] And there's still things I wanted to design the PCB.
+[16:37] I didn't present out all of the IO pins that I could have done.
+[16:41] And I kind of regret not just having an empty header of IO pins I could have added something extra.
+[16:47] Things like that.
+[16:48] So there's little bits that I would do, but mostly it's all about redesigning the whole thing as more of a cohesive single product.
+[16:55] Instead of one word.
+[16:57] That's it.
+[16:58] But part of the reason for the exact size is because they fit perfectly into a really useful box.
+[17:04] So.
+[17:05] What happens when they lose white lines?
+[17:11] I've been often in the net now.
+[17:13] Right now, quite a long time, yeah.
+[17:16] So if they, what happens if they check in about every, every three minutes, roughly.
+[17:21] And if the game server doesn't see them for about 10, 15 minutes, then it boots the unit off.
+[17:28] So it basically is who owns it and says you no longer own this unit.
+[17:32] So what you'll see is when the Wi-Fi goes down and then comes back up.
+[17:36] If it's been long enough, then all the units will turn white.
+[17:39] Because when they're next check in, they go, I'm not owned by anyone.
+[17:42] So they'll flick to white because the game servers decided they're not participating.
+[17:51] No, it's all done online. So they have to have line a site of the game server.
+[17:55] So it sends a message to the game server via mqt and the game server will look up and tell it.
+[18:01] This player card you just gave me is on this team and it will then go, okay, I've now been captured by this.
+[18:09] And cool.
+[18:12] Wi-Fi is back.
+[18:14] Hey.
+[18:15] Okay.
+[18:17] So that's the Orbs game.
+[18:20] That was the very first version of this.
+[18:22] And that one would have had an RFID reader but all the ones from there and now in the polygene units because they still worked.
+[18:31] So.
+[18:33] So.
+[18:40] About the players.
+[18:45] I mean, there's been some brilliant stuff over over the years I run this.
+[18:49] So I think the.
+[18:51] You've you've sometimes see people who set their alarm clocks for funny, put times to get up and then do a circuit and then go back to bed for a few hours and then do another circuit.
+[19:02] I've we've had sticker campaigns.
+[19:05] So one particular team started.
+[19:08] Like leaving like nasty stickers about the other team like they.
+[19:13] The this other team fights a lot and things like that.
+[19:16] So we had some some friendly rivalry that was quite amusing.
+[19:21] And and yeah, there was a one particular event two kids actually had a fight over it.
+[19:28] Which didn't go well for the kid who started the fight because the other kid was friends with on the security guards.
+[19:34] So he just did the circuit all night.
+[19:36] Keeping it.
+[19:37] So his team won.
+[19:39] It's kind of interesting the interactions you get and there's sometimes you see players and all they seem to do is is be moving between units.
+[19:48] And there's not always the most efficient way of winning the game.
+[19:52] Sometimes it is, but it's.
+[19:54] Yeah.
+[19:55] So.
+[19:56] I've got there at the ceiling for number of device players.
+[20:03] I've been.
+[20:04] I mean, the number of players kind of is a factor of the.
+[20:08] You need enough units to make it playable as you bring more players in.
+[20:13] So the reason why I ended up with 36 units is because I was going to a bigger event with more players.
+[20:18] So I need it to upscale.
+[20:20] And then.
+[20:23] I don't think there's a massive limitation because they're not.
+[20:27] They're not heavy duty.
+[20:28] But if you think about it, they're only when somebody taps the card as it's talking to the game server.
+[20:32] So the workload on the game server is fairly light.
+[20:35] It's more down to.
+[20:38] So running the other systems like the scoreboard and generating all of that.
+[20:42] So I actually put down different.
+[20:44] Brassby pie.
+[20:45] So the main ones are Aussie pie that runs just the game and then a separate Aussie pie just run the scoreboard.
+[20:50] So it kind of keep it as.
+[20:52] Separate as possible.
+[20:58] I thought that was a bit interesting.
+[21:00] Like the stage and stuff.
+[21:02] Like the brown name.
+[21:04] They've both probably how were you and both.
+[21:06] Also the the oblivious biotech branding.
+[21:10] That was something invented by the Nullsector team.
+[21:13] And when I I've done or there was it located in Nullsector.
+[21:17] And then they they when we came back into 222 they were like well we're doing this.
+[21:23] Nullsector.
+[21:25] And then they were like well we're doing this biotech team.
+[21:28] Do want to be part of it.
+[21:29] And I was like yeah I can do that.
+[21:31] So that's how we ended up with the branding kind of.
+[21:34] Bought in and they they quite like the idea of of taking Nullsector and bringing it across the whole site.
+[21:40] So there's not a huge amount of tie up just the branding is there to kind of.
+[21:44] Keep it keep it all in.
+[21:50] Yeah so um keep in mind 222 law remote jules were.
+[21:54] Well 1520 quid each which when you multiply that by 30 something the cost.
+[22:00] Grow so you let you add a one pound part then now multiply that by 36.
+[22:05] It's it's not viable.
+[22:07] So I had to keep my unit cost down.
+[22:10] So Laura was definitely not on the table cost wise when I first looked at this.
+[22:14] Now they're down to what three pound fifty or something I think.
+[22:17] So it's now again the realms of.
+[22:19] Financial viable.
+[22:21] The now the challenge would be how do you do it with the power management.
+[22:25] Because if you stick a 60 milliamp constant draw for running the Laura module and receive mode the whole time.
+[22:32] You're now got a power challenge.
+[22:35] So it's something I'm thinking about.
+[22:38] I'd love to do how I can make it function as part of the game.
+[22:43] Within the constraints of Laura not.
+[22:46] Basically complete blitz in the bandwidth available in Laura.
+[22:50] I've got to figure those things out.
+[22:54] Yeah.
+[22:55] How about the battery loss?
+[22:58] Depends on the number of captures.
+[23:00] So the number of interactions.
+[23:02] So when I did.
+[23:04] The busiest event I did was 39c3 and one unit ran out of battery during that whole event.
+[23:12] And that was a unit that everybody registered at pretty much.
+[23:15] It was right by where the tokens were.
+[23:17] So that the registration process is the absolute killer when it comes to the battery life.
+[23:22] It was all the lights flashing and it's talking at the whole time.
+[23:25] And even that with those three batteries I just had to do one change.
+[23:29] And that was after I think.
+[23:32] Two or three days.
+[23:34] Everything else lasted the whole event.
+[23:36] So yeah they can easily run for four days in typical use.
+[23:40] Yeah so if they drop at the network the notification is I haven't seen this unit for a while.
+[23:49] But they all report to in battery status as part of their checking.
+[23:53] And what they will do is when it drops below certain threshold I get batteries low.
+[23:59] And then if you just below the next threshold I'll get.
+[24:02] I'm turning myself off my battery is now too low.
+[24:05] So that.
+[24:07] It does I thresholds and I publish if you go on the website you can see the the voltage history filled the previous events across the battery cells.
+[24:14] So you can see what they've been doing.
+[24:21] Yeah.
+[24:25] Yeah so the use themselves have no concept of what volume they should be at other than when they check in.
+[24:31] They get a config from the game server.
+[24:33] So every time they're polling in say I'm here this is my voltage it will be told right you're now volume such and such.
+[24:40] Even it's the same volume it just tells it every time and so when it looks on the schedule and goes oh it's after 11 p.m.
+[24:46] We're going to lower your volume and I can dial individual units up and down as well.
+[24:50] They've all got their own unique config so I can make one unit much quieter.
+[24:57] Yeah.
+[24:59] Yeah you can dial it up and down and make it really flexible and I've only had one request to dial down so far so.
+[25:10] So the map.
+[25:12] There's not a map online there's a screen in the null sector that you can see that that on although the map is not up at the moment is the screens at the scoreboard up but the map isn't.
+[25:22] I spent my time rebuilding the server rather than doing the map so.
+[25:27] Yeah anybody else.
+[25:31] Right.
+[25:36] No that is still missing and there is a dead database entry number nine resting piece.
+[25:41] I see it's last check in date was 2024.
+[25:46] So.
+[25:51] Yeah.
+[25:54] Good.
+[25:55] Good.
+[25:56] While the events running I mean when is the events not running the game servers not online so.
+[26:05] Yes.
+[26:06] Yeah.
+[26:10] Yeah.
+[26:11] Yeah.
+[26:12] Yeah.
+[26:15] Yeah.
+[26:16] Yeah.
+[26:19] Yeah.
+[26:20] Yes.
+[26:21] Yeah.
+[26:22] Yeah.
+[26:23] OK.
+[26:25] Yeah.
+[26:27] OK.
+[26:28] Yeah.
+[26:29] Yeah.
+[26:30] Yeah.
+[26:31] Yeah.
+[26:33] Yeah.
+[26:34] That's it.
+[26:35] No.
+[26:36] Yeah.
+[26:37] Yeah.
+[26:38] Yeah.
+[26:39] Yeah.
+[26:40] Yeah.
+[26:41] Cool.
+[26:42] Now you sell them all on the unit capture of the system.
+[26:44] Yeah.
+[26:45] Yeah.
+[26:46] Yeah.
+[26:47] Yeah.
+[26:48] here can get.
+[26:49] I'm assuming that's it for everyone.
+[26:53] Questions?
+[26:54] Cool.
+[26:55] Amazing.

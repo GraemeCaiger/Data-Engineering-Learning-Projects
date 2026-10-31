@@ -1,0 +1,198 @@
+[00:00] I have to say I don't normally do crowds this big. There's not that much big crowds involved
+[00:21] in nuclear engineering when you go and do a talk. It tends to be all very niche topics
+[00:26] of which there are maybe five or ten people in the world who really understand it and other
+[00:30] people who are there for the free stuff. So this is the big spread I've talked to. Thank you.
+[00:36] So the usual disperse, I've been working in the UK civil nuclear industry for 11 years
+[00:46] and before and including that I've done about 15 years of nuclear assurance. How you do
+[00:52] nuclear without working in the civil nuclear industry I will leave to imaginations.
+[00:57] My opinions are my own and do not reflect my employer and it's just as well that I
+[01:02] was since checking because I had my work hat on. Not there, do not reflect my employer
+[01:09] EMF or any regulatory bodies living or dead. Is there anyone from the office of
+[01:15] nuclear regulation in the audience? One. Okay I need to watch what I say. Please do not mess with
+[01:25] radioactive stuff. I'm less specifically designed for an educational context and caveat to
+[01:33] caveat follow the manufacturer's guidance, treat ionising sources with respect. The danger from them
+[01:39] is not immediately evident and you only find out afterwards when you've got an nasty light
+[01:43] red bit in an inch. caveat to the previous caveat. I'm not a radiation protection advisor and this
+[01:50] is not safety advice. I will often use non-serious language to deal with serious topics. I have
+[01:58] a military background and that gives you a really warpsence of humour and a way of coping with
+[02:02] stuff that isn't necessarily healthy. And the last one, please leave your ionising sources
+[02:10] at home when you come to EMF. So what happens? Quite a few people know about our work in nuclear
+[02:23] and one day at EMF in 2024 I start getting telegram messages from people sending me photos saying
+[02:31] how hard look what I find in the swap shop. Being the moral and ethical person that I am once
+[02:39] I was aware of this I couldn't actually not do anything about it because that's a conscious
+[02:43] active decision to leave something potentially dangerous in the field. So I wasn't all good at the time,
+[02:49] I was just some random and it was like okay I'll go do something. So I went and got it.
+[02:57] Yes. So what do we know about these items? So they were made in Denmark by and I apologize
+[03:07] to any dains, Electronic Central and which is now called a chemical force technology. They were
+[03:16] for calibrating smoke detectors. So if you've got a smoke detector that's supposed to go off at a
+[03:21] specific density of smoke in the air within certain areas you need to be able to test that and
+[03:26] the way you do that is you put it into chamber with one of these and you put smoke in but you need
+[03:31] a way of measuring how much smoke you've got which is what this does. So instead of just giving you
+[03:36] a BBB when you burn your bacon it gives you a number to say how much or how dense the smoke particles
+[03:43] are and making check for this working properly. Each unit contains about microgram of Amariseum
+[03:51] 241 which is an alpha source and a weak gamma source so it's a strong alpha particle source
+[03:57] and a weak gamma source and I'll get it to why that's important and it's about 12 to 15 times
+[04:03] spicier than your typical home ionisation smoke detector. So enough to give course for concern.
+[04:11] So how do they actually come to be at EMF? At the time at the time we were desperate to get
+[04:31] more information about them and we were very very clear that the people involved would not be
+[04:38] and this continues to this day I don't actually know who brought them to EMF. That is a secret
+[04:44] that is being kept within a close circle of orger and I don't mind and the reason for that is
+[04:49] so that when we do have incidents like this no one should be afraid that they are going to be penalised
+[04:55] for doing something that they possibly in retrospect shouldn't have. The idea is that we're all safe
+[05:00] for if we feel safe to speak up. So yes there were many factors back in the notice by this Dutch
+[05:09] Danish company sorry I'm going to get banned from Lailand. They went to a UK company to calibrate
+[05:18] smacked detectors it was very easy to buy radioactive items from other EMF states that time there were
+[05:24] two forms involved and basically you send a form you fill out what it is you send the form to
+[05:30] the recipient they sign it say yes we can look after it they send it back to you you sign it to say
+[05:36] that you've seen their signature and then you send it to your regulator and that's it.
+[05:41] Peace of cake. Brexit happened all of that went away and I assume that at that point the company
+[05:48] involved discovered that it was going to be very difficult to get rid of them then so they probably
+[05:53] sat in a shelf for a long time and then were given to a well-meaning and entirely blameless hackers
+[05:58] base who then tried to figure out what to do with them and then eventually went oh yeah that's
+[06:06] a swap shop. We'll just drop them there someone will make use of them well-meaning that's
+[06:14] important and entirely blameless. So is Amaris M241 dangerous? It's kind of like the Daddy Long legs
+[06:27] of radioactive sources so it's got teeth and poison in the form of the alpha particles but
+[06:35] alpha particles are too big to penetrate the layer of dead skin that's on your body. Now this
+[06:43] is important is the layer of dead skin that's on the outside of your body not on the inside.
+[06:47] Don't eat them. Alpha particles because they're so big and because they've got a strong
+[06:55] positive charge to them they're back 20 times more damaging than an equivalent amount of other
+[07:00] forms of ionizing radiation so yeah multiply by 20 when you're going from grades to seevots.
+[07:10] Is anyone nuclear in the audience who understood what I just said? One two three
+[07:18] okay we've got at least three people understand the difference from a gray and a seabot.
+[07:28] Probably not. Ask your RPA.
+[07:32] BS so big chunky boys cannot penetrate the skin but if you ingest an alpha particle source it's
+[07:38] really really bad because those alpha particles are so damaging and they are directly in contact
+[07:44] with your tissue they are very damaging indeed. It's why alpha particles actually get used in
+[07:52] radiotherapy sources so for treating cancer they will combine whatever alpha or meta with a drug
+[08:01] chemical that's going to accumulate in the target organ so if you've got liver cancer they will
+[08:08] stick something that accumulates in your liver to use a mammorrhoceium or some other alpha
+[08:14] meta and give it to you as a medicine but you know that's a small amount of very very small
+[08:20] mout pico grams this is a microgram which is a thousand times more okay
+[08:31] oh wait until you see the next slide I wasn't planning to eat one so why all the fuss so they're
+[08:40] not particularly dangerous like I said provided that they are not disassembled and the sources in good
+[08:48] condition and your exposure is time limited so while the fuss there are a lot of curious sources
+[08:55] at Earth curious sources curious souls at EMF with screwdrivers and initially we didn't know how many
+[09:03] of these there were which is why there was all the fuss on the socials to find out more and
+[09:09] and we didn't really know what state the sources were in so I'm going to get in trouble for this one
+[09:17] good trouble
+[09:34] and I'll just point out it took me less time to get up the source than it took for Johnty to read the manual
+[09:41] so his fears were justified
+[09:47] so some nice photos taken at home to show you what they look like it's basically a big metal cam
+[09:53] with a grill around it that allows the smoke to get in it's got little port on the back
+[09:59] for a vacuum pump so it's continuously drawing and sampling air and then on the right hand side
+[10:05] there that's the source and it's a gold foil source so it's a very small amount of
+[10:11] amoresium suspended in gold come like this so if the blue dots of the amoresium the suspended within
+[10:19] a gold matrix and gold is vapor deposited onto the surfaces to make a covering that is
+[10:26] microns thick and it has to be that thin to let the alpha particles escape through the gaps
+[10:32] between the atoms because otherwise they get stuck inside and you've got a nice gold thing that doesn't
+[10:38] do much so with that in mind they're kind of fragile right so can anyone spot the issue yeah
+[10:52] there yeah
+[10:59] so that gave me pause right so the next question that's probably in a lot of the minds of people
+[11:06] who didn't eat an amoresium source last time but do go to the swap shop I handle one of them
+[11:12] do I need to worry sure answer no full stop I've got this nasty habit of answering long emails
+[11:18] at work that end in a close question with yes full stop or no full stop and it always gets me
+[11:25] to trouble reviews but yeah the short answer no I checked over the the housing with after
+[11:34] removing the source checked over the housing with a contamination meter that is sensitive to alpha
+[11:39] particles specifically and did not find anything above background so as far as I'm aware those sources
+[11:46] contained all their amoresium please do not sue us but yes this one is this detector
+[11:55] sensitive to alpha particles specifically it's not the same as a radio code and there are
+[12:01] have some numbers to prove why in a moment radio code is a radio code quite limited in what they can
+[12:07] do so don't use one to figure out if something safe to eat or not it's basically a fancy
+[12:15] decimiter what happened to the sources so once I was aware of them obviously I couldn't stand
+[12:24] by and do nothing that's a conscious decision to be a bystander I collected them from the shop
+[12:30] with and I could do not this is the technical term for this technique the poops group technique
+[12:35] well you get a plastic back and you put it over your arm and you grab the thing
+[12:40] and you then put the bag over it but actually I took it out of the hand of a friend like that who
+[12:46] then went a little bit pale because I didn't have anything to drop at the swap shop I had to pay
+[12:54] real cash money for these who gets better I have to pay to get rid of them as well
+[13:01] package them appropriately and then they have stored securely they are not at EMF
+[13:12] I was actually approached by some other installation people who wanted to use them
+[13:18] or one of them within installation and I felt that it wasn't responsible use radio activity real
+[13:24] me a bit of a prude whatever but if I'm trying that I was assisting with that kind of thing
+[13:31] you're doing it yeah so the next step finding out who to talk to
+[13:39] this is why I have to throw any regulators so there is no single regulator in the UK for things
+[13:45] relating to nuclear and radiation it depends who you are as to who you talk to and what you do
+[13:52] so my regulator is the office for nuclear regulation they license new
+[13:56] activities at license nuclear sites okay EMF is not a license nuclear site
+[14:05] yet we might take a very drastic solution to our power generating problem at some point
+[14:14] the health and safety executive regulates most nearly all workplaces in the UK including
+[14:20] EMF it's grass does a workplace for the people who volunteer here and build everything
+[14:25] big thanks to them because they've been here all week in the heat
+[14:36] but yeah the agency will regulate businesses that may forcibly come to contact with ionising
+[14:41] sources scrap dealers is one of the main ones people bring pieces of metal to get them
+[14:47] wide in for scrap and then it turns out to be a radiotherapy machine that's been stolen from
+[14:51] a hospital in Brazil and the last one is the environment agency so they regulate
+[15:01] possession and disposal of non-exempted sources so for school has sources for educational purposes
+[15:08] our hospital has sources for radiotherapy purposes so on south of forth is the environment agency
+[15:15] they regulate that excuse me tell you what if you brush your teeth and drink them
+[15:22] so it's not a good combination so the important bit of the bottom there that's for non-exempted
+[15:33] sources so the next question to answer are they exempted sources or how much legal trouble am I in
+[15:41] European Council Director which is known as a basic safety standards director
+[15:49] as part of UK law we retained it after Brexit
+[15:54] article 12 set the dose limit of one miniserive at per year is anyone a radiation worker
+[16:02] one two correct me if I'm wrong but it's ten isn't it?
+[16:08] yes so radiation register radiation workers are allowed to have ten but we have to be ten times more careful
+[16:13] with the public but always has to be oh yeah and one miniserive is about ten thousand bananas
+[16:21] which you could conceive of be in a year all on to that nugget but some sources are exempt
+[16:32] there's a whole bunch of them and article 26 part D any electrical apparatus provided that dot dot
+[16:40] it does not consult cause a dose rate exceeding one microceive at per hour at ten centimeters
+[16:45] from any accessible surface that was pretty much written into the regulations for ionising
+[16:52] spoke detectors so your ionising spoke detector at home is an exempted source that means you can
+[16:58] bite in task goes to getting here is to find most of them these days tend to be optical so unless
+[17:03] it's got a truffle on the bucket it'll be an optical one so yes I measured it there was basically nothing
+[17:13] so they passed this is good there's never tried to eat ten bananas an hour no good
+[17:22] oh that might work you're not going to have many friends afterwards
+[17:33] okay
+[17:37] oh yeah
+[17:45] yes it'd be interesting to have a chat with you later in the bar
+[17:53] I've already been reminded that I'm running out of time
+[17:57] so that's all that exemption is fine provided that you don't disassemble it so I went
+[18:04] or just has buoyancy are they if you take them apart so this is my personal detector it's a
+[18:13] riddle at ranger it is sensitive to alphabet and gamma radiation and x-rays it's intended for rock
+[18:21] handing I think it has the advantage of not being realistically expensive
+[18:27] a ready-to-code buying comparison will measure beta and gamma radiation only
+[18:35] and we did use measurements at four centimeters because alphabeticals do not travel very far
+[18:40] in a normally you would do this at 10 and then we divided by 600 to get disintegrations per second
+[18:47] which is this fancy unit called a becker rail I'm I'm class I train as an entrepreneur
+[18:54] engineer so I think in herds backer rail hurts but it's not a periodic signal so it can't be herds
+[18:59] so it's backer up there results with the vadolle ranger we measured it out of 2.4 micro
+[19:10] receivots per hour which is equivalent to eating 24 bananas an hour or one banana every two and a
+[19:17] half minutes I love the predominant of the dose the ready-to-code only measured at 0.163 micro
+[19:26] receivots an hour which is the small matter gamma radiation that amorous human gives off so you
+[19:33] could get a reading from a ready-to-code that says this is fine because that's about a
+[19:37] bin or a Brazil not 0.1 or but that is close to a banana actually but is really not so to eat
+[19:47] the count's per second with the scintillators weird I don't understand enough about crystal
+[19:53] structure to really understand how scintillators work they're just strange and yes do not try any
+[20:00] a banana every two and a half minutes seriously we got nerds started to went on the side
+[20:10] side calculation and this is equivalent of 69 kilograms of bananas per day
+[20:18] you will die can I get rid of them so the electronic parts of the setup went away as you waste
+[20:29] no problems my low level waste so this is my personal protective equipment like gloves
+[20:35] that was disposed of through my very understanding and patient employer of the last decade
+[20:43] and that included some other bits and bobs and paper that I've been using to work on the two
+[20:49] four one work unfortunately doesn't have a waste route for this so when you're trying to get rid of
+[20:57] radioactive stuff you have to have an established process to do it which is safe and all the rest
+[21:01] of it and that's not only the waste route we've got waste routes for this and that and the other
+[21:06] but two that I know now know that we definitely don't have is amirisium and gold and if you want to know
+[21:12] about the gold story find me in the pub the original manufacturer actually got in contact with EMS
+[21:20] and then with me to arrange taking them back because that is normally what would happen to a piece of
+[21:25] equipment like this you return it to the manufacturer at the end of its useful life
+[21:29] unfortunately Brexit has made that prohibitively time consuming and expensive
+[21:38] yes exactly if anyone spots my European Union flag on camp it still has the correct number of stars
+[21:49] it will be accurate again one day
+[21:55] fortunately commercial companies exist that will take radioactive material off you for a fee
+[22:00] it's a few hundred quid but that will be the problem got rid of
+[22:06] yeah that's also a key point if you do if you did bring something radioactive here we had to get
+[22:10] rid of it it does cost money to do that so please don't can I use them for something else
+[22:18] interesting is it anyone on the explosions and fire discord
+[22:26] or is it least familiar with the explosions of fire on YouTube and the kind of people yeah
+[22:31] so the first suggestion came from there which was to combine it with some brilliant and make a new
+[22:37] trans source I thought that's really interesting because neutrons are really interesting and they have
+[22:41] interesting properties and one of their interesting properties is they make other things radioactive
+[22:47] do I really want more radioactive stuff in my life no I could make an alphavoltaic battery for
+[22:56] like a long life law or a sense of something maybe but that means leaving radioactive material
+[23:02] unsupervised and insecure I can make a genuinely random random number generator because radioactive
+[23:09] decay is entirely random I need to talk to installations and rust as particularly some
+[23:16] things bring to me a MF next time but we have to think about the security and safety
+[23:20] if you have any ideas on a postcard please aim effort trist.cat
+[23:27] if you want to find me later I'm also a weder is dot trist.cat and thank you for not bringing your
+[23:33] ionizing sources another radioactive stuff through you know

@@ -1,0 +1,380 @@
+[00:00] Hello everyone. So a couple of years ago I inherited a spectrometer this thing here. I'll
+[00:24] explain more in a moment. I inherited it for my PhDs who provide the Professor Ted Milton
+[00:29] who unfortunately died a couple of years ago and I got a lot of his scientific kit.
+[00:34] So I'm going to use that today to point it at various things. Look at how light work for
+[00:38] it, understand how light interacts with different surfaces and different substances and then
+[00:43] we can do a bit more pain in the Q&A 10 afterwards. So first of all before we go into that
+[00:48] we need to think a bit about what light is. Now light is part of the electromagnetic spectrum
+[00:54] with runs all the way from x-rays and gamma rays over to radio waves, lights kind of in the
+[00:59] middle and the visible light we can see ranges from violet and blue through to red and you
+[01:05] can make it the wavelength of this light in nanometer. So from 400 to about 800 nanometers.
+[01:12] Either side you've got some bits of the spectrum that we can't quite see. So you can't
+[01:16] quite see ultraviolet lights and you can't quite see infrared light. They're on the
+[01:21] either end, they'll be on the violet or beyond the red. But the spectrometer can and we
+[01:27] can switch here to display from the spectrometer. So what we've got here is on the x-axis,
+[01:35] we've got the wavelength. So this is the wavelength of light running from about 350 to
+[01:39] 850. We can put a few colors in the background here to get an idea of what's going on
+[01:46] with the colors here. So blue is that blue area on the left there and we go through green
+[01:51] and yellow marked out the screen there and then through into orange and red marked in red
+[01:55] here and then this region here is the nearing thread which I've marked in purple.
+[02:01] And then you can see a graph on the on the screen. The y-axis is the intensity of light.
+[02:08] So the brightness of light at that wavelength. So the higher it is on the y-axis, the
+[02:14] more light of that wavelength for that color, the risk. Now can we have the main stage
+[02:19] lights down if the one on the stage lights on, maybe the one on the moment. They're all
+[02:24] off. Okay in that case the light that we're seeing, the spikes we're seeing in the spectrum
+[02:30] here, we weren't ready to do much about today, from the actual projector which we can't
+[02:34] turn off. But we'll look at the overall shape of what's going on. We can do a higher intensity
+[02:43] version of this. So here we're looking at an incandescent bulb. These are the now quite old
+[02:48] fashion types of bulbs that were very, very common up until about the 2000s. They make
+[02:53] light by just getting something really, really hot and it glows white hot. They've got
+[02:58] gas in the bulb but the gas in the bulb is just to stop the filament burning up. It doesn't
+[03:03] actually produce any light itself. And what we see here in the spectrum is a fairly gentle
+[03:08] curve, peaking in the green and the red. With a bit of blue, a bit of nearing thread and
+[03:15] a generally fairly sort of overall kind of curvey kind of shape. Now if we change this to
+[03:22] have a look at a different sort of light, this is a compact fluorescent light. So this is
+[03:26] like a fluorescent cube but it's twisted so it fits in a normal light bulb socket. And
+[03:32] it looks, if we look at this, let's switch back. Here we are, this is the spectrum, as
+[03:40] you just hold that so I can put this down. This is the spectrum we see. So you see it's
+[03:44] very, very different when incandescent bulb. There were big peaks and spikes in the spectrum
+[03:49] and big areas where there's almost no light at all. That's why things often look weird
+[03:56] under fluorescent lamps because this whole area is kind of here and here and further along
+[04:01] where you just can't get any reflectance from anything because you've got no light coming
+[04:05] out of the light bulb. The way this works is that you put a high voltage through some
+[04:12] gas in there. That produces actually ultraviolet light. We then hit the fluorescent
+[04:18] coating on the inside of the bulb which absorbs that ultraviolet light and releases it again
+[04:25] at a visible light in various different wavelengths. And we can actually see how this works
+[04:30] with this ultraviolet torch I've got here. So if we did, there were that working good.
+[04:35] If we turn this ultraviolet torch on, you can see we're getting a peak here the other side
+[04:43] of blue so into the ultraviolet part of the spectrum. And I've then got some fluorescent paint here
+[04:50] that I borrowed from my sun science kit. Thank you, Julian. And I can point the ultraviolet light
+[04:57] at this fluorescent paint and we can see what we've got here. You can see the ultraviolet peak
+[05:03] around 400 nanometers and some of that ultraviolet light is being absorbed by the paint. It
+[05:08] excites the atoms to make them at a higher energy level. They then relax again and release
+[05:14] lighter to lower wavelength. The higher wavelength and you get this peak in the in the orange
+[05:20] part of the spectrum. And that's how the fluorescent coating of the fluorescent lamp is working.
+[05:26] Nowadays though you probably have any debolds in a lot of your, um, a lot of your, uh,
+[05:33] places in your house. This is what the spectrum from an LED bulb looks like. Let's just get that a
+[05:37] bit better and then we'll take a, oops, there we are, and take a spectrum of that. So this is a
+[05:44] better sort of light than, um, a fluorescent lamp for color reproduction because you've got a
+[05:50] broader range of wavelengths. But you have got these big peaks at certain wavelengths. That's because
+[05:56] the way these lights work is you have an a blue LED releasing blue light with then hits a fluorescent
+[06:05] or phosphorescent pad above it, which releases lighter other wavelengths. The phosphores are chosen
+[06:10] to release lighter, what's a range of wavelengths, uh, but they do get these spikes where you get
+[06:16] of light released at certain wavelengths. So it still looks a bit more unnatural compared to
+[06:22] an incandescent bulb, but still a lot better than a, than a, a compact fluorescent lamp.
+[06:28] So before you demonstrate the next thing, I'm going to get out a little bit of kit called an
+[06:32] integrating sphere. This is an integrating sphere. You may notice something about it. It's not
+[06:38] spherical. It is actually spherical inside. It's got a spherical cavity inside it, but it's
+[06:45] just cuboid so I can sit it on the desk and it doesn't roll away. We could kind of use for it.
+[06:49] And what it is inside is this spherical cavity that has a white coating that reflects a lot of light
+[06:56] really well. And so what happens if you put light in one port of the spectrometer, oops, you can't
+[07:04] quite see that. You can see that up here. It then bounces around the inside loads loads of times
+[07:10] before coming out any of the output holes. And that means you get a lovely lovely diffuse beam of
+[07:17] light. So it's uniform light across the whole of this port. So if I look at this and point this at the
+[07:22] scene, I get a very narrow laser beam. If I put it in here, this is probably the first time you've
+[07:29] seen a diffuse laser beam. This is the laser light. You can't see it on the scene. You look at
+[07:33] it, look up here at the spectrometer. And the end of the end is there. You should be able to see
+[07:40] this glow inside which is coming from the laser beam bounced around. So we can then put the
+[07:46] spectrometer somewhere and point the spectrometer at the hole and put the laser light in and see what
+[07:54] a laser looks like, which is almost monochromatic. So this is very narrow wavelength.
+[08:01] The laser light, because of the way it's created, is very narrow in its wavelength range.
+[08:06] And we can look at one more thing while we've got the interweating sphere out, which is just a standard
+[08:11] LED that you might use in an electronic circuit. This is my terrible soldering here with a red LED
+[08:16] here. So in fact, it's so terrible that I've just broken the LED connection. So we're not going
+[08:24] to look at it as LED. Never mind. We might be able to see one. Yes, we can. We can see one
+[08:28] I prepared earlier in Bethany Peter Fashion. So that's what a LED looks like. So you've got
+[08:34] a far wider wavelength range than you do for a laser, but still relatively narrow.
+[08:42] Right, another way of producing light, sources of light, that is like your phone screens
+[08:46] and your laptop screens. So they have light sources inside them. It barely has been on
+[08:52] exact display technology how it works, but they do it by converting light of different wavelengths.
+[08:58] Swift we look at this. My phone at the moment is displaying a white screen and you can see that we've
+[09:04] got some blue light, some green light, and some red light. And we're combining those to make white light.
+[09:11] If I make this screen go red, my screen is now red. You can see we just get the red light.
+[09:16] If I make my screen go go, whoops. Come on, go green. We just get the green light.
+[09:22] Or just the blue light. And if we start doing other colors, we get purple, for example, by combining
+[09:28] red and blue light, you'd expect. So if you're looking at how one of these screens works,
+[09:33] internally, this is actually my phone screen using a microscope. You can see when white is being
+[09:38] displayed on the left there, you've got lots of red green and blue lights all turned on.
+[09:44] On the right there, you're just turning on the red lights inside the screen, and you're getting
+[09:50] just red display. So how did the spectrum it has worked? It's actually quite a little bit of kit I've
+[09:56] got here. Still cost quite a lot of money. So I'm glad I inherited it, not bought it myself.
+[10:01] Professional really good ones will be really chunky bits of kit, but they all work in the same way.
+[10:06] You start off with a light source, which comes in like, by something like this, which is a
+[10:12] fiber optic cable, and it goes to an entrance slit to get a narrow beam of light, and then
+[10:19] goes to a grating. Now a grating in this sense is a bit of plastic with a sort of grill on it,
+[10:28] a grid of very small little bumps. This is a diffraction grating, you can kind of play with it later.
+[10:33] You might be able to just about see some rainbows on this while I'm moving it around. I can see a
+[10:38] lot when I look at the project a lot. That's what it's doing in there, a grating basically works the
+[10:43] same way as a prism, but it's just a bit better. And so it splits light out into the rainbows,
+[10:49] and the light is split out then onto a detector. And the detector is very much like the
+[10:55] detector you have in a digital camera. It's a CCD, so it detects light falling on it, and you can
+[11:01] use that to detect where the light is at different wavelengths. If we look here, this is the actual
+[11:05] spectrum, which I've got. You can see light comes with my pointer gone. Light comes in at the bottom
+[11:11] here. Bounce is off there, goes through the grating here, bounces off there, and it's spread out
+[11:16] across to the detector here. And the detector will have a long narrow detector, and going across the
+[11:25] length of the detector will be different wavelengths, because we split it out so that blue is at one end
+[11:30] and red is at the other end. Or in fact, ultraviolet is at one end and infrared is at the other
+[11:34] ends. And then going down the rows of the detector is basically just repeated data. We just
+[11:39] average across those to deal with noise and so on. So if you were to look at the detector, when you
+[11:45] pointed it, there's something like a fluorescent lamp again. You would see something like the
+[11:50] top of me here. You would see lots of black areas where there's no light, and then you would see
+[11:55] the actual light in its colours at different points. And the spectrum is basically just making
+[12:00] the brightness of that, and converts that kind of image into this kind of graph with the relevant
+[12:07] wavelengths on it. So we've looked at light sources so far, but most things around us don't actually
+[12:14] emit light. We can see them. Light is coming from them, but they aren't producing light. They're
+[12:20] reflecting light. And that's the way the most visible things work. If you look at a tree,
+[12:26] which is green, the reason it looks green is because lots of light hits the tree, and the tree
+[12:32] reflects green light towards your eyes, where it doesn't reflect as much red light or yellow light
+[12:37] or blue light or whatever. So that's why a tree looks green. And we can do a similar
+[12:43] little demonstration here. So I have some normal pieces of card here, just some green and red pieces
+[12:51] of card. So let's experiment with those. We're going to turn on now a haligan lamp. It's got a very
+[12:59] similar spectrum to a incandescent bulb, but it's just a bit brighter and a bit more stable, which
+[13:07] makes life a bit easier. So here's our incandescent bulb. Here's our red bit of card that we're
+[13:13] pointing at, and we can see that if we point it at the incandescent, the haligan bulb, we get
+[13:19] a spectrum across lots of wavelengths. If we point it at the red card, we are seeing mostly light
+[13:25] in the red part of the spectrum. And if we then look at a green card, it looks relatively similar
+[13:33] but a peak in the green. And still quite a bit of light in the red though here, but a lot in the green.
+[13:40] Now there's something else going on with that, because what we're looking at here, it depends
+[13:48] on what our light source is giving us. If our light source gives us lots of red light,
+[13:53] even if this only reflects red a little bit, we'll still see lots of red light here. We need to
+[13:58] somehow normalize this to what we can get from what we're actually getting from the light source.
+[14:03] And this is where you bring in a very expensive piece of white plastic. This is a very expensive
+[14:09] white plastic, by very expensive, I mean multiple thousands of pounds. It's a spectral on panel.
+[14:14] This is a slightly damaged one, hence why I've bought it to a field. And it's basically
+[14:20] really reflective in almost all wavelengths and reflects uniformly across wavelengths. So basically,
+[14:28] it's pretty much perfectly reflective in all the different wavelengths and from all the different angles
+[14:34] and it's meant to stay stable over time. So if we put it here with our light there, if we point
+[14:41] our spectrometer, whoops, come here. If we point our spectrometer at the light, we get, whoops, we're
+[14:49] saturating there. We point our spectrometer at the light, we get the same pattern that we get if we point
+[14:54] the spectrometer at the spectral on panel. We ignore this extra peak here. That's the light
+[14:58] from the projector getting reflected from the spectral on panel as well. So we can use this to
+[15:04] compensate for our, the spectrum of our light. So if we take a reference spectrum here,
+[15:13] what we're going to do is divide everything we measure from now on by this reference spectrum and say
+[15:19] what proportion of the light coming from a big, we're building what portion of the light source
+[15:25] are we seeing. So if we do our capture our reference spectrum, you'll see here what we're seeing is
+[15:30] all the values around ones. So at the moment we're basically seeing 100% of what we would see in
+[15:35] every wavelength from the wall light source itself. But if we then put something like a green bit of
+[15:40] card over here, we'll see we get this big peak in the green again. But the numbers on the y-axis
+[15:46] down the side are reflectant. So they're the proportion of the light that is coming in here,
+[15:54] that is being reflected from whatever you've got under the spectrometer. So that's why you can see
+[16:00] far lower red reflectance here because although we've got more light coming in in the red,
+[16:05] a lower proportion of it is reflected. So we can move on to looking at some other things under the
+[16:14] spectrometer using this spectral on panel. So I went out just before this talk and picked some
+[16:20] leaves from various plants. So let's have a look at a leaf under the spectrometer. So what we can
+[16:26] see here, let's just average that out to make it a bit smoother, you can see we haven't got much
+[16:33] reflectance in the blue. We've got a little bit more reflectance in the green, that's because
+[16:38] the leaf looks green and then we've got a lot of reflectance in the near infrared, this area
+[16:45] of the infrared just on the top right here. And that's very typical for plants of any sort of
+[16:51] vegetation of any sort will have a really high near infrared reflectance and a fairly low blue
+[16:57] infrared reflectance. So we can do the same thing with another leaf, what's that's about example?
+[17:05] Let's just, let's see whether we can get a leaf from this plant. I stole a plant from the greenhouse
+[17:11] earlier by the lounge. Whoops, let's, I think we've done our reference spectrum badly. Let's put
+[17:22] that, there we go. So that's that, that's a brand new freshly from a plant that is currently growing.
+[17:28] You can see we get a lot higher green reflectance because it looks really green, it's growing really
+[17:33] well and we get the sky high near infrared reflectance. But you can also look at other things,
+[17:39] so for example, here is some soil. So soil has a very low reflectance, it looks dark, that's why it
+[17:50] has a low reflectance. Snow on the other hand is a very high reflectance. I haven't got any snow here
+[17:54] today, can't think why. But also you can look at how things change every time. So here's my soil,
+[18:01] I'm now going to put some water on it and it gets even lower reflectance, soil gets darker as
+[18:07] you put water on it's same with sand. So you can look at this quite a lot of changes that happen
+[18:12] to the spectra there. There's also here's a lump of, this is sort of tarmacky stuff that I stole from
+[18:18] the side of a road somewhere and you can look at it and again it's quite a dark reflectance,
+[18:26] but there's a few other, in more interesting features here, a few little peaks and a few
+[18:30] little trots going on in the chemistry of the tarmack. So I'm going to switch now from talking about
+[18:37] stuff that I've done here to stuff that happens in space, but don't worry there is a really big
+[18:42] lake. And this is an example of a satellite that takes images of the Earth, this is Lanza 8,
+[18:48] it was launched a number of years ago now, I actually went to a launch party for it, that's how cool I am,
+[18:53] not the launch party with the rocket, like I wasn't there, just we'll see it lift off it,
+[18:56] it was just it had the department at the university. Anyway it takes images that look a bit like this,
+[19:02] each pixel in this image is 30 by 30 meters, so represents a 30 by 30 meter area on the ground
+[19:09] and you get a new image from Lanza every two weeks so you can look at cane yover time.
+[19:14] This is Southampton where I live, this is an alternative satellite called Sentinel2,
+[19:19] slightly higher resolution, can anyone tell where that is?
+[19:23] Yep that's the MF, that's last year's MF, I did not try and get an updated one for this year,
+[19:28] this quickly, but this was not last year, sorry two years ago, you can see the 10th of the
+[19:33] state gain in a red and state, sorry, say gain per person, stay in red and so on. So we've got
+[19:41] these things from satellites and satellites have sensors on them that are very similar to these
+[19:48] spectrometers, but they're a bit simpler really, they use filters on them to get a wide range of
+[19:55] wavelengths into one measurement, rather than taking a measurement to every wavelength, they just take
+[20:01] it at some wavelengths, so here's our most spectrum from our lamp, if we put a filter under it,
+[20:07] it just cuts off some of the light, so this is a red filter, it's roughly the Lanza red band
+[20:13] wavelengths, so we just cut off the light there and then we say everything else we've got here,
+[20:18] we'll measure as one number and call that the red measurements, so if we do that, we get graphs
+[20:25] a bit like this, we can look at different things on the Earth's surface, different land covers we call them,
+[20:31] and look at where they plot on a graph with these different wavelengths, so here we've got about
+[20:36] five wavelengths being measured, we've got a couple of blue, a green, a red, a nearing for red,
+[20:43] and a couple of other infrared ones, and we can see a shape on the graph, this is the shape
+[20:47] you would get if you were looking at forest, if you were looking at a farmer's field, this is the
+[20:53] shape you'll get, you see you're getting the same pattern but shifted up a bit a bit brighter,
+[20:58] and that makes sense if you're flying in a plane a farmer's field like past your field,
+[21:03] looks brighter than a farmer's store or whatever, you'll notice there was also very similar to the
+[21:10] patterns we were seeing earlier on the spectrometer, we've got this low blue, higher green,
+[21:16] low red and high nearing for red reflectance like we were seeing from leaves down here,
+[21:21] and we can put some other things on it, so urban looks a bit similar to what we were seeing from
+[21:25] the tarmac, it's kind of gradually increasing across the wavelength, and I was going to demonstrate
+[21:30] water here but I couldn't get the depth of water to work enough enough depth to make it work here,
+[21:35] but water has some reflectance in the blue as you'd expect, and then really drops off to almost
+[21:40] zero as soon as you get towards the infrared, and now these patterns here are known as spectral
+[21:47] signatures, the same sort of patterns that we see when we put things under the spectrometer here,
+[21:52] and we can apply a very simple algorithm to use these to classify what we're seeing in our satellite
+[21:58] images, so we look at every pixel in the satellite image and we say, which of these graphs is it most similar
+[22:05] does it most match the forest one or does it most match the water one, if so say it's forest or say it's water,
+[22:11] and we get maps like this, so this is an automatically created land cover map,
+[22:17] from satellite, this is the European wide one called green, you can see urban areas in red, you can see
+[22:22] foresting green, you can see water in blue, and so on, we can also get even more detailed,
+[22:29] this is using European Space Agency data at 10 meter resolution, and that's not the ground,
+[22:35] so you can, I can eat the entire world, you don't have to trek to the middle of the Amazon rainforest to find
+[22:41] that if there's anything else there, you can see which bits of trees, which bits of used to be trees,
+[22:46] and the low-longer trees, and so on, and if we zoom in to this area, this red bit on the
+[22:52] acre is the urban area, although I use that term lightly of leadberry, and the little tiny bits of blue
+[23:01] here are the lakes within the NS site, the MS site is about here, so that's really powerful stuff
+[23:08] you can do with the spectrometer, but you can also with a satellite which measures in the same
+[23:13] similar way to a spectrometer, but you can also do other stuff, so let's take one of these leaves
+[23:19] off again, and we'll switch back here and we'll do a reference measurements, here is a healthy leaf,
+[23:29] let's get that working a bit better, let's do another reflecton, another reference,
+[23:37] so here's our healthy leaf, so we've got high green reflectance, high near infrared reflectance,
+[23:43] low everything else, let's take a slightly less healthy leaf, this is why I put in a bag a few days ago,
+[23:53] the whole thing is a lot lower, the whole thing is reflecting less well, and there's nowhere near
+[23:58] as high a near infrared reflectance, and we can take something like a really old leaf,
+[24:05] this leaf is so old, it's brown, and we will see that we get a completely different
+[24:11] spectra with no peak in the green and not that leveling off in the near infrared, so just to compare
+[24:19] the few here's one and here's where did it go, here's whoops, that's the one one, here's the other,
+[24:32] and here's the brown one, so you can see that there's quite different, we can start to see
+[24:40] the different things are happening with these leaves, now we can, in fact, quantify what's going on here,
+[24:46] what we're getting here when we've got a leaf that is less healthy in some ways, so maybe it's
+[24:51] stressed, it hasn't got enough water or enough fertilizer or it's been plucked off its plant or the plant
+[24:56] is dying, we get lower green reflectance, we get lower near infrared reflectance, and we get this
+[25:04] what's called blue shift of the red egg where something they just kind of moves, the big peak moves a bit,
+[25:11] and we can kind of see that here, we've got a cane get those in those reflectances, and there's
+[25:17] the way we can measure this in a very simple way to look at the health and density of vegetation
+[25:23] from things like satellite images, and it's called the normalized difference vegetation index or
+[25:28] MDI, what we do is we take the amount of near infrared light, subtract the amount of red light,
+[25:34] then take the amount of divided by the amount of near infrared light plus the amount of red light,
+[25:39] so let's have a look at that, let's take a reference spectrum and then look at our healthy leaf
+[25:46] that I'm just taking off a live plant, so if I press this button we will see what lands that
+[25:52] sees from a satellite, so it wasn't seeing all these individual measurements on the red light on the red
+[25:57] lines, it will see these sort of five also black points that are connected by the black lines there,
+[26:03] it's was only getting a few away lengths measurements, but then we can put on an NDVI output,
+[26:11] and we can see that our NDVI for this leaf is about 0.81, and this is the moment of truth to
+[26:16] see whether this behaves the way it should do, the dead dangers of live demos, if we put this leaf
+[26:22] on here we see we get an NDVI that's lower, this is the less healthy leaf it's been detached
+[26:26] from the plant, it's gradually dying, and that's an NDVI 0.7, and if we put our
+[26:33] completely deadly from there we get an NDVI 0.5, if you put something like water on here you'll
+[26:38] get an NDVI of minus one, the other interesting thing is we've got something here which is
+[26:45] a fake leaf, this is just a plastic leaf, and it looks like a leaf obviously to us, but you put this
+[26:52] here and you can see you get a not bad NDVI in fact, but you get if everything's very much
+[26:59] lower than you would expect in the NDVI, the near and farid really isn't peaking in the way you would
+[27:03] expect it, so. So first of all, my glamour was the system, this is my wife who's going to be my
+[27:10] glamour's assistant, can you set up the report stand? Oh we're getting an advance of applause for my
+[27:16] glamour's assistant, thank you very much. So while she's doing that, yeah, get that, get that there
+[27:24] and yeah, so while she's doing the setup, I'm going to talk a little bit more about NDVI,
+[27:31] so you can apply that measurements that NDVI calculate into every pixel in a satellite image
+[27:36] and look at NDVI over the whole of your image, so this is a satellite image over Southampton showing
+[27:42] NDVI, red is low NDVI, green is high NDVI, and you can see quite a lot of interesting patterns,
+[27:49] I see, you can see quite a lot of interesting patterns, so you can see that there are some fields
+[28:01] that are red, so they're not growing vegetation, you can see some fields are very dark green,
+[28:05] they've got very healthy or very active vegetation in them, you can see some fields have patterns
+[28:10] in them showing less vegetation in different areas, if we zoom in we can see a farmer's field here,
+[28:20] the top farmer's field has no vegetation in it, bring it back a bit, the middle field has vegetation
+[28:26] in it but it's not growing out here, it's healthy as the vegetation in the, in the, in the
+[28:32] the hedge rose and so on at the side and it's got patterns in it showing different health of
+[28:37] vegetation across the field, right we're going to switch now to can you grab that, we're going to
+[28:48] switch now to looking at something that's a bit more chemistry related, so let's just get this,
+[28:56] there we are, so this, what I've got here, we can switch to the, the camera on the stage if you
+[29:01] want just to see the setup here, if anyone can do that, you can just about see it, so here we've
+[29:06] got our halogen lamp, which is pointing at our integrating sphere to get a nice uniform
+[29:11] bit of light coming out of the integrating sphere, then we've got the spectrometer here and we've
+[29:16] got a test tube of water in between the spectrometer and the integrating sphere, and what we're
+[29:21] seeing through this water is basically the same spectrum that we would see from the light without
+[29:29] the water, so I can take the light without the water away, the numbers change a bit but the pattern
+[29:32] doesn't, that's because also I can be switched back again, sorry, there's another thing
+[29:38] I think in a way it doesn't really change what you can see there, that's because water is transparent
+[29:42] as you probably noticed, what we're then going to do though is put some other stuff into this
+[29:49] water, now I look far and wide for chemicals I could use to do this, the EFF wouldn't shout
+[29:53] at me if you're using on stage, my wife wouldn't shout at me if you're using because I might
+[29:58] hurt myself and so on and I decided to use blue food coloring because it's very safe, so this
+[30:03] is putting some blue food coloring in here, what's that's just falling off, that's because I
+[30:08] knocked it, there we are, so what we're going to do is put some blue food coloring into this
+[30:19] water and we'll just keep that spectrum at the top there to begin with and we'll put a bit of
+[30:24] blue food coloring in and stir up it, this is a tiny bit, the water barely looks blue at all but
+[30:30] we can see there's this big dip in the middle of our graph, the blue food coloring is absorbing
+[30:35] light at a certain wavelength, if we put a bit more in, all that's a bit more than mine
+[30:39] tended and stir it up, we can see we get an even bigger dip, if I put even more in, we can see
+[30:49] we get an even bigger dip and basically the purport the depth of this absorption figure in the
+[30:56] graph is proportional to the amount of blue food coloring I put it, so if I was a chemist wanting
+[31:02] to find out the concentration of a particular substance in this test tube I can use this sort of
+[31:08] approach to work out the absorption features due to a particular chemical and reverse it to work
+[31:14] out how much of that chemical I have, now we can also do the same thing with things in the atmosphere
+[31:19] if we're trying to make it those from satellites, so for example this is a measurement of light
+[31:24] coming from the sun through the atmosphere, all these little dips you can see here are absorption
+[31:32] due to various things either in the sun's atmosphere or the sun itself or in the earth's atmosphere,
+[31:37] so this massive dip here is because of oxygen in the earth's atmosphere, there's an absorption
+[31:42] figure at 760 nanometers, if you don't see that in your data and someone purports to have
+[31:48] made you on earth then they're lying because there is always oxygen in the atmosphere on earth,
+[31:53] but you can see also some other things due to high different types, sodium, all sorts of things
+[31:58] that you find in the sun or the atmosphere, and we can do some simulations of this with something
+[32:03] that we might actually want to measure because we kind of know the oxygen in the earth's atmosphere
+[32:07] and the concentration doesn't change that much, but other things do, so this is a simulation
+[32:12] of what you would see as a satellite from a reflectance of a vegetation spectrum again,
+[32:18] so this is the low-blue high-green low-red high-nearing for red thing, and we put some atmospheric effects
+[32:24] in there and if we just ignore what's going on the left here for the moment or come to that in a moment
+[32:28] we get this big dip because of oxygen in the atmosphere, but then we put some water vapor into the atmosphere
+[32:34] and we start seeing other dips mostly outside of the range this spectrometer can see, so I can't
+[32:39] really demonstrate that, and then we put some more water vapor in the atmosphere, we get bigger dips
+[32:44] and even more water vapor and we get even bigger dips, so then all we need to do, and I say all we need
+[32:49] to do like it's super easy, people have spent their careers doing this, is make the depth of this dip
+[32:55] and you have a measurement of water vapor and the amount of water vapor in the atmosphere
+[32:59] at the location you took that measurements, so we can do this from satellites and we can do it with
+[33:05] other things than water vapor, so one thing people are interested in is air pollution,
+[33:09] night view and dioxide is a pollutant air pollutant, it's bad for human health amongst other things,
+[33:16] and you can make it up from satellites by looking for these absorption features, so on the left here
+[33:21] we've got night view and dioxide across Europe, you can see concentrations from Paris, London,
+[33:25] the low countries, the Poe Valley in North Italy is very polluted because there's a lot of
+[33:31] pollution that gets trapped there and can't get across the ounce, the right hand here is the same
+[33:36] but taken during the COVID lockdowns, so you can see the big difference in pollution there,
+[33:43] the other thing I want to demonstrate, and this is the bit that's a little bit experimental of my
+[33:48] talk, but we'll see how we do, is emission spectra, so so there we were looking at what happens
+[33:54] to light when it goes through something, here we're going to look at what happens to the light
+[33:59] coming from something, so I have some normal tea light candles here and I'm going to put my tea
+[34:07] light candle down there and I'm going to light it's, I did get permission to use candles on
+[34:15] today, because I people have got a flame for that, I've told you it's here, this is the candle,
+[34:19] it's really nothing, so let's have a look at the spectrum, we have to get this just about
+[34:25] light to not burn it but point it at the right thing, all that's showing like it's contaminated
+[34:34] or red, the problem with this is the thing I'm going to demonstrate in a moment tends to contaminate
+[34:38] anything that you find, let's just let that burn for a second, there we are, take it while it
+[34:48] worked well, so there's a spectrum of the candle, so this is the light coming from the candle, it's a
+[34:53] orangey, ready light, so that's why it's peaking in the orangey, ready part of the spectrum
+[34:58] and it looks fairly normal, we're then going to take another candle that I have contaminated with
+[35:05] a mystery substance, no, thank you, so I had not food coloring either in fact, so here is
+[35:19] a candle that I have contaminated, let's light that, whoops, there we are and let's just get
+[35:29] hope it's gone out, of course it has, let's go back to the previous candle and contaminate
+[35:35] it live on stage, right, I don't know where my teeth burn has gone but never mind let's
+[35:50] just pour it on here, so I've got a mystery substance here, I'm going to put here, oh, now I've
+[35:59] turned on the blown it out again, apologies, never do live demos, right, let's just let that burn
+[36:13] a second and we'll point this, okay that's not working, one last go and then I would tell you what
+[36:23] I was expecting to say, I said this bit was experimental, right, here we are, right, let's
+[36:39] just get that point there, can you see that what we've got here is a couple of really big peaks
+[36:44] in the wavelength spectrum that you wouldn't normally see from a candle, the candle you'd normally
+[36:48] see earlier with this broad spectrum in the kind of beddy-on area, we've got two big peaks,
+[36:54] we can find out what wavelength is there at, so that's at 588, this one is at 766 and you can go
+[37:03] often look those up in a chemistry data book and you find that one of those peaks is for sodium
+[37:10] and the other one is for chloride, chlorine and so I've got sodium chloride which is table salt
+[37:15] which I've put on my candle there and you can do the same thing with all sorts of other things
+[37:20] that emit light so linking this to the space theme of EMS some elements were actually discovered
+[37:26] extraterrestrially before they were discovered on Earth so we first discovered Helia, I'm not
+[37:34] by seeing an emission line so there's big peak of emission form the Sun that we didn't recognize
+[37:42] for any substance is on Earth and they named Helium after the Greek god Helios and then eventually found
+[37:48] the on Earth and purify it and experimented with it on Earth so I just been told I've got one
+[37:55] minute left that's absolutely perfect because this is my last slide and all I want to say is there's
+[38:00] loads more stuff we can talk about about this there's a whole angular dimension that I haven't even
+[38:05] mentioned, vegetation for example reflects very differently if the Sun is there in the sense of
+[38:10] is there to with the Sun is there and the sensor is where the body where the Sun is so there's a whole
+[38:15] angular thing going on there's a whole thing I wanted to demonstrate about air vessels in the atmosphere
+[38:20] and how they scatter light and they do it at different wavelengths I had a whole thing with incense
+[38:25] sticks to try and do but it just wouldn't work reliably in a num lab setting there's a whole load of
+[38:32] stuff we do with satellite data to try and correct for those sort of atmospheric effects things like the
+[38:38] things like the scattering and the absorption of light by things in the atmosphere and there's
+[38:43] whole other things of other things to look at different sorts of vegetation different sorts of lights
+[38:48] and so on so if you want to have a play with any of this come to the Q&A 10 I'll bring my kid I don't
+[38:54] think there's power there so we won't be using the lights but we've got a big thumb that we can use as a
+[39:01] light source luckily today so we will use that thank you very much

@@ -1,0 +1,277 @@
+[00:00] Thank you for coming, friends and acquaintances to this talk about Haki Races.
+[00:21] I'm going to take a little bit of a lighthearted look at who we are, what we do, how we
+[00:26] do it and all the sort of shenanigans we get up to while we're doing it.
+[00:30] So we'll do it as a light-hearted talk.
+[00:33] There are various pictures in here that have been, and so mostly ripped from the Facebook
+[00:37] group where we post all of our pictures of things that go wrong, things that sometimes
+[00:43] go well.
+[00:45] Just a pre-warning on this and it's part of our driver's briefing, motorsport can be dangerous.
+[00:54] Ask me how I know.
+[00:55] Find me in the bar later and I'll tell you a tale.
+[01:01] So I'm Michael West.
+[01:04] My day job is third line IT support.
+[01:07] My evening job, I'm Chair of the Men and Cheds of Mimicking, which incorporates our
+[01:10] maker space, and I am also one of the event monkeys for EMF.
+[01:14] This is my sixth event.
+[01:16] So if I look a little jaded like Benny and a few others, I've been here since
+[01:20] Tuesday last week.
+[01:23] So...
+[01:27] And I doubt there's going to be my last.
+[01:31] We don't really do a lot in terms of electronic media, with our main website and the Facebook
+[01:36] group. We don't really do the Featherverse due to the type of people we're trying to
+[01:40] attract into the events, a lot of the biggest sponsors and stuff go, what's the Featherverse?
+[01:43] So we don't do it, but our Facebook group is the most active.
+[01:48] The talk will be around how the Hikeracer started.
+[01:53] Basic rules set.
+[01:55] It events that we attend and we've got some examples of some pristine machines out
+[02:00] the back there.
+[02:03] So, Rory, who's aged a little since.
+[02:07] And a few others, with doing robot combat, we're going to embarrass Mark a little more as well.
+[02:25] It's slightly less grey hair there, where they were part of the team that and also
+[02:31] team deadlock, and there's Robert as well as also part of the team deadlock.
+[02:35] It's based on the Power Wheels racing series in the States, Power Wheels are adults,
+[02:42] which is the kids ride on cars, and some of the people who went to the MakerFares out there
+[02:45] spotted what that was that we can do this in the UK.
+[02:49] So we contacted them, we've, and so we're going to see borrowed their rulebook,
+[02:54] rewritten it slightly to make them hacky.
+[02:57] Their limitation is that kids ride on toys, we've taken it a little bit further than that.
+[03:01] Some of us do do that, some of us use custom builds, some of them use things that can be
+[03:06] found in skips and so forth, you know, how the hacking stuff works.
+[03:13] The first hacky rator was the Dust bin 7, or the DB7, which is parked over there, which was made by Rory.
+[03:20] He attended the event at, I think it was at Silverstone in 2018, with a note on the bonnet,
+[03:27] which basically said, I want to start a DIY electric vehicle racing series, and it's kind of gone on from that.
+[03:37] Fumons later, on the farm down in the summer set, that also has a very nice apple orchard
+[03:41] and a very nice pub in it called the Side of the Barn, which is where Rory's family owns and runs.
+[03:47] We had their first meeting with the first five races that attended the site.
+[03:53] Mine was a little bit late getting to site because I was, I'm always late.
+[03:58] There are rules to keep us in safe and also in terms of our competition to keep the playing field as level as we can.
+[04:11] Your vehicle should be a vehicle. It shouldn't have to be a car. We've had strikes, we've had cranes,
+[04:18] we've got a Thunderbird now, we've got a fire engine, the Rory's Zero, which is infamous,
+[04:23] do not be on fire, anything that takes your fancy.
+[04:30] Yes, there are more rules.
+[04:35] One human driver, we do have an autonomous series as well.
+[04:40] In the event of an emergency, you must be able to get a vehicle within seven seconds. If it's on fire,
+[04:45] you do it very quickly. Your vehicle should have a good chassis to run on, it should have some strength,
+[04:51] because as it says here, we are a non-contact sport.
+[04:58] The red mist does descend at times. You've got some size limits, basically so we can all fit
+[05:03] around a decent size track, so 1600 mill long and 900 mill wide. If you're at least you are extremely
+[05:10] tall, I eat Dutch, it's usually not too much of a problem.
+[05:13] I picked up some body work from a very nice lady helping Corbyn there and me, and picked it up
+[05:21] at my Facebook Marketplace, and I think I paid a 20 quid for it. The last thing she said to me
+[05:26] was, I hope that little one enjoys it just as long as I'm in the boot of the car, so I can't tell you.
+[05:30] This was in 2018, and I still have hair then.
+[05:37] As I said, we are non-contact sport.
+[05:43] You can use a scratch build, so you can, we'll term a bloody scooter as a good place to start.
+[05:54] You can do scratch build chassis, so you can use steel and aluminum.
+[05:59] Volk Krainow at the back there is made out of a sealer timber.
+[06:04] Basically anything you can get your hands on within your budget.
+[06:07] Quad bikes, mini motos, they're really good for getting all the things like brakes,
+[06:15] brake assemblies, brake discs, hubs, those sorts of things as well.
+[06:19] Alex, Brec is also quite good for that. Welcome onto this in the bill of materials as to how
+[06:24] you're costing goes. Keep your receipts for the bill of materials because there are some notes in
+[06:29] the rules as to on that. We have a 500 pound budget which does include your batteries and other
+[06:33] basic safety gear like brakes which are quite important as it turns out.
+[06:37] This is the Velociraptor which is on its side in the pits at the moment because it's thrown away.
+[06:50] The Volk Krainow frame that Chris is sat in at the moment, so you can do a mix and
+[06:55] match of all sorts. Thunderbird 2 which did have the Cybertruck body work on it. It is a mixture of
+[07:01] aluminium and wood and you don't want to know what else. Firm. Need wheels and tires for propulsion,
+[07:09] so your power goes through the ground, you can't use jet engines and things like that,
+[07:14] so it has to be mechanical propulsion off the tires. You must have at least three wheels on your wagon.
+[07:22] Not always do races finish the race with three wheels as a minimum on their wagon. If you start with six,
+[07:28] it helps. This has happened to me as well when the first event,
+[07:32] Mother My wheels came off and Kigan had a compare who sadly can't be with us this weekend due to
+[07:38] illness. Had the wheel come past him and he wondered, well there will still go around like
+[07:42] where's that come from? Turned out I'd lost a wheel and mine because it's got six.
+[07:47] There's one of the middle ones and overtook. More that you start with you stand the better
+[07:51] chance of finishing your race that you've started.
+[07:54] Practice power, use any brushless motor, you can use brush, you can use hoverboard wheels,
+[08:01] as open source firmware for the hoverboard controllers so you can basically mix match and
+[08:05] do what you like with them. As long as you're stuck within the the rules on the power limit
+[08:09] success, you'll come on to in the moment. In terms of tires and stuff, well first time on concrete,
+[08:18] down to the inner tube mark as a classic one of this of are you going to replace it mark
+[08:23] or are you going to go for extra points of flamboyance? The inner tube then promptly exploded and
+[08:27] back at the pits at Silverstone at one of the fully charged events it was a spectacular noise.
+[08:32] Here's what I'll say. We also race on grass. When it rains it's mud and that makes even more fun.
+[08:41] When you can get the mud you know cut the meters high in the air and in your face it's yeah.
+[08:45] Power wise we limit to 48 volts so the 50 volt DC cut off so battery pack can be anything
+[08:55] within reason so you can use most of us use lithium packs. Obsceny to take count of safe handling
+[09:01] with them and you're charging them particularly of the soft cell ones. You can use 9 cans if you
+[09:06] were really wanted nims. You could be used leather that's it that's it that's useful if you need
+[09:11] ballast in the front of your vehicle because a lot of them tend to be really heavy for the
+[09:15] way you position the way you sit in them. You're limited on capacity as well basically because of
+[09:21] the fire risks with them 20 amp power packs at 6s it's usually about sorry 12s so 2s in series
+[09:28] is about really where you want to go. On soft cell live po you need to mechanically protect the
+[09:35] cells so ammunition cans, ammo cans or cash tins those sorts of things or anything scratch
+[09:42] belt just to give some sort of mechanical protection and fire containment.
+[09:49] Bitstuffle off so this is reason why we put batteries in the tins. This is one that fell off
+[09:56] dustbin 7 a few years ago. We'll run the same fuse made by local fuse depending on what
+[10:04] voltage you run so 48 volts you get 30 amps at 24 volts which is what big tight runs on I get
+[10:11] 60 to play with and I did pop a fuse during some of the atoe going up the hill yesterday so
+[10:16] yes they they will go with there has been extensive modeling done on the fuse so you can
+[10:22] do temperature monitoring but you can't actively cool it or just put two in series and do your
+[10:26] messing around with one and leave the race fuse and and molested that's another way of doing it.
+[10:31] You can put exactly batteries on for lights so more lights the mario at night when you'll
+[10:36] pop some of you have seen big tights driving around at night or lit up and hoping to get the other
+[10:40] one alive when I finish this talk and so after now once it's cooled off a little bit.
+[10:46] These are the types of battery get get them from hobby king or any other good supplier. The
+[10:50] quality of them does vary I had some packs and I must roomed up in the literally other second
+[10:55] and third charge sometimes it's good sometimes they're absolutely rubbish. The 20 ampere packs are
+[11:03] the biggest that you can get these the 12 ampere ones and they're sort of a sensibleish minimum
+[11:10] if you want to do the five minute races that we run and give you some sort of shenanigans time to
+[11:14] do donuts afterwards at the end and they'll see you don't run out of power. Things like you can
+[11:20] also get batteries this is out of VW GTA if you're wondering missing in the car park and nothing
+[11:26] about it but with these you've got to put your own battery management system on them to
+[11:30] put the sales for the charge you in discharge you don't go in the vault they do work and some
+[11:36] people have had problems with voltage sag but you've got to try them. Most use a motor control
+[11:43] you can't just use a nonoff switch as much as you may use your throttle as a nonoff switch you
+[11:47] need to have a motor control of with variable input. You're not allowed to spark late, etc.
+[11:54] Your battery must also be secured so use your ammo can for that and it must have some sort of
+[11:59] kills which so removal link is stop anything like that caravan isolate it must be easily accessible
+[12:04] so that if something does happen you can turn the power off. Example controllers, Alex,
+[12:10] braces your friend here we've found them to be quite durable and not let out the magic smoke
+[12:15] too frequently so it's usually the MOSFETs that will give up and then when we've given them
+[12:20] some abuse over a few years. Must have brakes so you can talk to me later in the bar.
+[12:29] I'd say the few brakes if you've got an open axle on the back you want brakes both sides so that
+[12:34] you don't when you apply the brakes you don't then start to steer and it pull to one side etc.
+[12:41] Using your opponents and our non-contact export is not permitted to slow yourself down.
+[12:49] It is a non-contact sport. Can use regenerating but it must not be your primary source of
+[12:56] braking you must have some sort of mechanical brakes so if you're doing hoverball wheels you need to
+[13:00] make a way of getting the brake disc or whatever method of slowing yourself down to the
+[13:05] to the wheel it can be done if you've got access to a sort of hack space with a miller
+[13:09] and a lay it can be done you can also swap the tyres out from the normal five inch ones I think
+[13:14] while yours Chris eight inch so yeah you can change the tyres on them and do things
+[13:20] of them who want bigger wheels so just as an example there's this sort of brake mounting on the hoverboard
+[13:28] I'm sorry on the normal wheel but hoverboard principle is the same.
+[13:34] Must have been put for your non-contact sport I'm not going to go through them
+[13:39] just be a certain height of the ground etc. Must be able to reverse means that if you smash
+[13:45] into somebody during their non-contact sport that you can reverse out of them or reverse out of
+[13:50] the barrier I'll show you how the marsh will put the barrier back in place.
+[13:55] We also have a timing system it's a drain timing system using infrared beacon points
+[13:59] up at the timing gate and you'll see that on our track over there. The software is extremely
+[14:05] temperamental and Kegan has uttered many a swear word at it as it will crash just before the
+[14:09] race starts it's really frustrating but it does work really well and gives you I think it's a
+[14:14] cut in a millisecond accuracy on the timing it's not the way that close together but
+[14:20] yeah unfortunately our time lord can't be with us this is weekend but so we've got various people
+[14:26] filling in. Other parts of this need to be at least 17 years old we've had trouble getting insurance
+[14:33] in the past we've had no issues with our insurance getting it we're going to do the renewal
+[14:38] than the next year say no sorry we're not going to do so if you now look us up on motorsport
+[14:43] UK we are actually a bonafide registered motorsport in the UK in our own right which is quite
+[14:49] in the achievement for something so silly we still we still can't believe it ourselves so on that
+[14:56] you have to ever see to crash hell in closed foot where rubbing is racing you know things will get
+[15:02] close you will occasionally swap paint exactly with each other it happens body work also does get
+[15:09] exchange some time to time if your helmet is open it's advisable to have some sort of eye protection
+[15:15] for the you know debris that gets thrown up you know stones and most of the time it's
+[15:20] things like dust we're at the child and show it for everything electric few weeks ago and in
+[15:26] their gravel car park and the dust was horrific it's still coming out of my car now
+[15:33] gloves are also useful as well sometimes depending on on your hacky race so it's particularly
+[15:38] on the steering if you get in the court on the side it can pull the steering out you're steering
+[15:43] out wheel or whether you're using and it can hurt why have you just gone off
+[15:50] okay and be my fault white so optional at night time it's a mandatory thing and it also gives us
+[16:04] some decorations you see us sort of patrolling around the side at night horns bells whistles they
+[16:10] also work quite well for getting pedestrians out the way we do occasionally getting tangled
+[16:20] but we're supposed to be a close wheel formula it will not be supposed to be using with Dodgers
+[16:26] and so we've ventured out at night this event because it's the middle of summer we won't
+[16:31] do anything during the night because you just it would be too late and most of us will be just over there
+[16:35] in the bar also have the moxie round this is the point where the audience and can
+[16:44] vote for their favourite racer so we have a moxie board there's a picture coming up there
+[16:48] any press of button to vote for your favourite racer it can be the fastest it can be the slowest hint
+[16:54] it can also be influenced to the judging on that by briving there are certain things you can do
+[17:02] you know kids like plastic ride on toys and sweets not saying for mixed variants but it does work quite
+[17:08] well we do also now have an online voting thing which Kagan would normally run
+[17:15] through the live that hacky racer's dot code that you care address but that might be
+[17:20] is that actually what it is running is it okay okay can do it by throwing on badges well apparently
+[17:28] as I say you may bribe the audience viewing good generation do like certain vehicles
+[17:33] you also need the bill of materials which dictates what you've paid for the things I
+[17:37] fare market value carriage charges are not included so if you order your e-bike motive and
+[17:42] charno and it costs you 60 quid but another 60 quid in carriage that's 110 quid you're the
+[17:47] paid the new can tank with for the carriage so you can actually influence the way you do things
+[17:56] actually an example moxie board say five hundred pound budget does include batteries we want
+[18:04] you to use safe batteries we don't want the bill are in that lithium cells are not fun when I go up
+[18:09] brakes are essential item as I ask me later fair market value for your items we have an
+[18:18] annual subscription cost 40 pounds that covers our base fees for a motorsport UK to be registered
+[18:23] with them and then we have an event fee which is then basically our insurance and then any incident
+[18:28] also sometimes like EMF we obviously camping sometimes you may have away costs like a hotel
+[18:34] sometimes certain sites would go to we can just go then camping alongside and it's free
+[18:40] we went to Santa pod the drag strip in the mountains and cheer for your weeks ago and it's
+[18:45] about having the social side in the evenings you sit around the barbecue and have a few beers and
+[18:49] go and listen to the Madonna tribute act that's coming from the stage opposite
+[18:56] so we have a tech check basic go thing go through that the rules can you get out do your brakes work
+[19:00] does reverse work etc is it safe within a reasonable certain set of parameters I mean these
+[19:07] never safe but make sure you've got nothing protruding etc that would cause an injury
+[19:14] if it's a major fault you'll have to fix it if it's minor do your best on the job
+[19:18] bodgetapes your friend we do a series of qualifying laps such a grid order and then we go off and
+[19:26] when there is who does the most laps on it each of the he trays that we do and that is also
+[19:33] influenced by the moxie scores so you can actually end up last and actually get quite well at the
+[19:38] metal bodders I found out in Cheltenham a few weeks ago bits do brake and they do fall off
+[19:45] and you will have to repair it it's a hacky razor it's hacky it will it will break
+[19:50] why do it well it's it's a laugh I won't use the exact phrase here because we have a
+[19:58] young in the tendance but I think you can work it out that runs with giggles so where do we race
+[20:07] EMF camp obviously we're here and there was kind of our major first event
+[20:13] everything electric have been really good to us so shout out to them that's Robert Lowelin's
+[20:18] electric car show that was known as for the charge until a few years ago they've been really good
+[20:24] and there'll be some pictures in here in the end of the slides that will show you as to what we've
+[20:27] got up to say you went to Santa pod to the drag strip unfortunately we didn't get to go at the drag
+[20:33] strip but we still have a good laugh that weekend VW retro we've done the national kick car show in
+[20:39] Molvin northern classics and then we do some private events there's an event we do out in the
+[20:46] Cambridge which again is just sort of trends in family type things but yeah anywhere that'll
+[20:51] have us at once grass removing basically there are interfamily rivals some of the hacky
+[20:59] erases of members will recognise these two that's been in life yes they have no respect for each other
+[21:06] on the track that is completely gone as said we went to everything electric in chill in a few weeks ago
+[21:15] and it's Robert Lowelin's show that he does some of you may recognise him as
+[21:21] quite in that red dwarf he's done all sorts of various things he came on and did some
+[21:26] race commentary with Kigan and all I can say is he absolutely smashed it he absolutely got it
+[21:31] down to a tease like who says electric vehicles can be expensive and unreliable those one goes past
+[21:36] and the wheel goes flying past him at the same time here's absolute comedy gold
+[21:45] otherwise reliable so they do get used as the tow vehicles if you have more than one hacky race
+[21:51] or it's sometimes useful to be able to drag the other one back from when it dies
+[21:58] this has happened several times we have been here before
+[22:06] this was our first event that we did the first meter as I say back in 2018 on the Rory's Farm
+[22:12] we challenged Mark to a reverse race that is what happened after the first corner
+[22:19] we heard the crashes are you alright Mark? yes I'm fine and then all the giggling and
+[22:25] extracting over certain body fluids and took place history does repeat itself is all I'll say
+[22:42] sometimes he does control it and we do get really good action shots so this is after you modify
+[22:47] it with the cart wheels which makes it a little bit more unstable than the cart wheels because
+[22:52] then the mobility wheels because when you get to a certain point it will just go but if you can hold it
+[22:56] you can drive it like you stole it
+[23:02] this is on the Rory's Farm year or two ago so we do a similar sort of thing set the
+[23:08] plastic boxes out and we go racing around there it's also nice because in the evening the
+[23:12] bar was open as well and then the family does make some extremely good cider
+[23:20] once you've built it you need to store it somewhere so this was Chris's storage
+[23:24] contraption that he came up with with his sidebatriken volt grano
+[23:32] if you can make it this assemble so you can get it in the car that is also very helpful
+[23:35] I've come with a complete car and trailer full of crap to EMF and I still then have room for everything
+[23:44] loading solutions can you wedge it in the van can you actually get it in the van can you get it in
+[23:49] your car will it disassemble I've taken big types to the Netherlands I've taken it to Denmark and it
+[23:54] will fold out completely along with its trailer and you can fit it in the back of a mondayer
+[24:00] along with the tent and camping gear you may way close to two and a half tons in weight in your car
+[24:06] and you may ground your table going on off the ferry but it is possible
+[24:12] say EMF 2018 was our first property event so this is one of the shots this is on the front of our website
+[24:20] you also get a YouTube star and a reasonably priced car you'll recognise Matt Gray
+[24:24] that was taken in the Netherlands at the Hacker Camp why he had last year
+[24:29] although I'll say that if you if you want to see the video again I've got that in the bar because
+[24:33] all you get to hear from his in going oh wee
+[24:42] sometimes EMF orga gets arrived may recognise him from the opening ceremony not a good idea
+[24:52] Bennie here when we were at this was MCH in 2021 that's taken on top one of the
+[24:59] dikes from the from the Dutch camps driving around sites you can see all the lasers and
+[25:04] all the other lights and stuff that will go on on over the site as a good weekend as well
+[25:12] they also break this is what happens when you lend your vehicle to friends they always break
+[25:16] them mark is no exception to this google earth will show you the evidence that you've been
+[25:25] this was our private event and you can clearly see the layout of the track we had that was cut in
+[25:30] the grass we do believe a mark behind so you know we've been there everything electric
+[25:38] chelton i was say robberly well in was an absolute legend in there and the rest of the team
+[25:42] and crew that came and they're commented with us as well and we even got them to give us a
+[25:47] little bit with their every little help which is the super market trolley
+[25:56] yeah and we also got a nice wide screen of a sort of lined up that was a really good shot where
+[26:00] we got a really good attendance of all the vehicles
+[26:02] went to Santa pod as I said we got to see the drank cars going up the
+[26:13] stink was the door slammer's event that was going on at the time and we did actually manage
+[26:18] to get up to the top of the bank and go and watch and then before security came along and
+[26:21] spoke their party and said you can't have the mobility scooters and vehicles in the top of the bank
+[26:27] we've done maker central doing that indoors in the NEC is interesting on the painted floor
+[26:36] particularly if you have a fixed axle because your vehicle will not want to turn
+[26:41] the first time we did it I had the is an 18 van that I made and had the mobility scooter ties on it
+[26:47] although I will say is every time I went around the corner the screech from the tarts was fantastic
+[26:51] and that takes us to the end hope we enjoyed the talk if you want to come and find out more
+[26:59] we are down there in front of the Noel sector come and talk to us we're more than happy to show you
+[27:04] around their vehicles etc but otherwise yeah thank you very much
+[27:21] you

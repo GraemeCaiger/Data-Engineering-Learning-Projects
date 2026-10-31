@@ -1,0 +1,147 @@
+[00:00] Hello everyone, thank you for having me. I'm Holly and I'm going to be talking to you today about why I personally think pigeons are a brilliant way of moving information around.
+[00:24] So two things, one I know in the description for today's talk, I did promised puns. It does turn out with four weeks
+[00:32] turn around, it's quite hard to write a lot of very pigeons specific puns. So some of them are just going to be kind of generally about that. So do you forgive me please.
+[00:40] And number two, with a lot of technical talks, so I know people quite often dive straight into the technical detail. I wanted to make sure I'm not losing anyone in this talk.
+[00:48] I know it's quite technical topic, so we're just going to start with a very quick induction. Thank you.
+[00:56] Okay, so I can't see you guys that well because of the light, so I'm going to have to ask for a small amount of audience participation through the medium of yelling.
+[01:04] So we're just going to do a quick five questions calibrate the information in the room. So can find the medium of yelling? Can you let me know? Have you ever seen a pigeon before?
+[01:14] Thank you for going with this. So I think probably most people when they think of pigeons thinking of the image on screen.
+[01:22] So all these photos are taken by my friend who works for the zoo is a researcher. So when I text him saying I'm giving a talk about pigeons, he said can I send you the 25 pictures of pigeons that are currently on my phone?
+[01:34] So this is one of them. This is another one of them. And this is another one of them, which I thought was particularly fierce.
+[01:40] So we know what pigeons look like. Who has seen a pigeons nest before?
+[01:48] Nice. Okay, so if you spend a lot of time on the kinds of websites that I do, there are lots of jokes about the rubbish nature of pigeon nests.
+[01:56] They generally tend to look a bit like this. However, in defense of pigeons they have largely evolved to nest on cliffs.
+[02:04] And so mostly those twins are just there to stop the eggs from rolling off the ledge. So you should be fair to them with a nesting in human terms.
+[02:14] In human environment, maybe they haven't quite caught up in terms of architectural brief.
+[02:20] So then we're going to do a couple of quick true false statements. So again, I'm just going to ask you to yell in some way if you think these statements are true. And we are going to whip through them.
+[02:28] Pigeons fly around 15 miles an hour.
+[02:32] A bit. Okay. So actually they can fly up to about 90 miles an hour. Although they do average about 50 over long distances, but pretty good, I would say.
+[02:46] Next statement, those two of three. The Victorian domesticated pigeons. Yeah, if you think they might be true.
+[02:53] On getting some people yelling false, which is helpful. So I've got about a picture. So in fact, people probably have been domestic pigeon domesticated pigeons since the ancient Egyptian times.
+[03:03] This is a mosaic from an ancient Egyptian building that was excavated. It's in a lot of detail, which just probably the Egyptians are quite familiar with pigeons.
+[03:13] And the third one, third of final statement. So give me, yeah, if you think it's true, the most expensive race of racing pigeon ever to be sold was worth 10,000 pounds.
+[03:23] So, lovely. This pigeon is worth 1.3 million pounds.
+[03:29] There was an auction in 2020. And new Kim was sold to a Chinese fire for, yeah, 1.3 million pounds.
+[03:38] Please let me know, anybody, if I'm clipping the mic by accident apologies.
+[03:43] Yeah, so there is a lot of money in pigeon racing and racing pigeons tend to be the same kinds of pigeons that you might use to send information.
+[03:50] So that's why I just kind of wanted to bring that up.
+[03:54] So pigeons have been used as messages, basically, for as long as humans have wanted to send messages.
+[04:01] There are references to pigeon messages in biblical times. We know the Greeks in the 8th century.
+[04:07] We're using pigeons to send the results of the Olympic games down from Mount Olympus.
+[04:11] We think Engus Khan was probably using pigeons to send relay post messages through the empire.
+[04:16] And, like I say, Egyptians also love to pigeon. The details on the paintings are so good that there's about six species that they actually think they can probably identify quite specifically because they were using them so much.
+[04:30] And to get some idea of why pigeons have been so important to us, I think you have to have a bit of a sense of what they were competing against in the past.
+[04:37] So the main reason that we have used pigeons so much is pigeons are quite fast as I mentioned.
+[04:43] So, like I say, on average, they can travel around 15 miles an hour, better in favorable conditions, and they can fly up to 500 miles in the single flight.
+[04:52] So if you think about trying to send a message from Paris to London, for example, you could do that in about three and a half hours with a pigeon, which is pretty good.
+[05:01] By comparison, it depends how you kind of exactly combine these methods of transport, but if you combine feet and horses and boats, it's somewhere between 24 hours and a couple of weeks.
+[05:12] So, pigeon has just been sort of technologically one of the better options available to us for a very long time, particularly when there's water in the way.
+[05:21] So when we talk about the time taken to get a message from London to Paris, in this case, we are talking about the latency of a pigeon.
+[05:28] And that is useful because latency gives us a way of measuring the effectiveness of pigeons as a network, and arguably for comparing to other kinds of networks and ways of moving information around.
+[05:39] So I was trying to have a bit of a think about how else we might be able to describe and measure a pigeon network, and I came up with these criteria.
+[05:47] So we are going to think about the latency, the hardware, the software, the bandwidth and the reliability of a pigeon.
+[05:54] So for anybody who is not familiar with these highly technical terms, latency is the time between sending or receiving a piece of information by my definition.
+[06:03] We've got hardware requirements, so what physical things you need to use a pigeon and the software requirements, which for me in this case is the pigeons brain.
+[06:10] We've got bandwidth, so how much information can any one pigeon carry, and we've got reliability.
+[06:16] So what are the chances if you send something by pigeon that it will actually get there at the other end?
+[06:21] So again, using my highly technical framework, we are going to say that the latency of a pigeon is okay.
+[06:28] Sorry, I make myself laugh, it's really embarrassing.
+[06:31] So let's look at hardware. So obviously you can't talk about hardware needs of a pigeon without talking about the great siege of Paris in 1870.
+[06:40] So what we think about this, hardware requirement for a pigeon, the difficulties obviously that pigeons are inherently asymmetric.
+[06:49] So pigeons, if you're using them, messages can only really go one way, they only have one definition of how you can kind of take them wherever you want within reason, but they're always delivered the message to the same place.
+[06:59] However, the half-in times when that's not being a massive issue and it really does depend what you're trying to do.
+[07:04] So if you want to descend an email and you have to ship the route of first, not great.
+[07:08] Like I say, the great siege of Paris in 1870.
+[07:12] So at this point, for the reason Paris has been siegeed a lot of times, like a startling number of times, like I say I'm talking about 1870 here.
+[07:20] It lasted for around four months, which is a long time and I don't want to make light of that.
+[07:25] Being in the siege in Paris was awful. It was going into winter to give you some sense of how important pigeons might have been.
+[07:33] It got as far as people were eating animals out of the zoo. People were very cold, they were becoming unwell, but still people preserved the pigeons.
+[07:41] And the reason for that is because what they managed to do was to use hot air balloons to get information out of Paris.
+[07:47] And if you're getting things out of Paris, you can send a pigeon.
+[07:51] And so what ended up happening was they were sending these hot air balloons outside of Paris stacked up with pigeons, which could then be loaded up with information on what was happening in the rest of the world.
+[08:01] And they would home their way back and bring that information back.
+[08:04] So when that first started, it was really kind of very important military information.
+[08:09] The nature of humans does mean that the minute you're able to send a message, people fill it with gossip.
+[08:15] So they reckon that probably around 100,000 messages were sent by pigeons over the course of that four months.
+[08:22] It got to the point where you could buy a special stamp so that you could send the information back.
+[08:26] And they were using my profession, things like that. So they were really finding ways to try and condense as much information as possible onto these pigeons.
+[08:34] It was quite high stakes. There was, I think, at least one pigeon handler who overstated the ability of his pigeons.
+[08:40] And that information did not make it back in its fellow enemy hands. And that person, I think, was prosecuted.
+[08:47] But it was really, I say, it was really effective. In this case, the asymmetry didn't, wasn't a problem.
+[08:53] Didn't work against them. People were, I say, very familiar, very quickly.
+[08:58] And it was actually such a kind of big part of that experience of people that there was eventually a statue made of, that was in the central Paris, a sort of statue of hot air balloons surrounded by pigeons.
+[09:09] Which unfortunately was a later melted down for scrap. But I thought it was pretty cool.
+[09:14] And yes. So in this particular case, their abilities were excellent. Thank you.
+[09:22] But going back to my framework, I guess, the nature of kind of not working in every situation we're going to say is also okay.
+[09:30] So it's software. I briefly wanted to talk to you about the pigeon brain. I'm not going to get into great detail.
+[09:36] I'm not a pigeon scientist or a biologist. Again, I have chat to my friend who works with birds.
+[09:41] And generally it seems like pigeons probably find their way around a combination of magnetic fields. So potentially I'm moving from the liver, landmarks, and the position of the sun.
+[09:52] It takes about four weeks to teach a pigeon where home is and about eight to ten weeks for it to be a fully functional messenger pigeon.
+[09:58] So kind of in terms of software development times, not bad. It really only costs bird seed and somewhere to put the pigeon.
+[10:06] But I guess the reason I also bring this up is because the nature of software as people always want to upgrade it.
+[10:12] So I wanted to mention at this point the F skinner. Has anybody heard a VF skinner before?
+[10:18] Nice. I love the F skinner. I'm fascinated by him. I think if you made him as a Dungeons and Dragons character, he'd probably been Art Fisser. He just made stuff.
+[10:26] Anything he could lay his hands on. He made stuff.
+[10:28] I don't think all the air probe, which I do not have time to get into today. But it was a fully automated baby probe. I highly recommend googling it after this talk.
+[10:35] He also made something called the operant conditioning box, which also sometimes referred to as a skinner box.
+[10:41] And he used these skinner boxes with pigeons to demonstrate various behavioral habits. So being able to teach things.
+[10:48] Teach different kinds of animals to respond to a stimulus. He was in the same kind of school of thinking of people like Pavlov.
+[10:56] Yeah, I would also say actually. A lot of what we read about skinner is about behavioral science, but I actually do think he just wanted more reasons to work with pigeons.
+[11:04] So the reason I bring this up is because the skinner really came into his own around World War II. He had a lot of ideas.
+[11:12] And one of the ones I wanted to mention today was he designed something and started to test it, where you could actually put three pigeons into the nose cone of a pelican bomb.
+[11:23] And it would be able to steer it. So this thing all come organic computer was able to potentially be completely human free.
+[11:33] And the pigeons would peck the screen of a camera of skewerer to keep it on track.
+[11:39] He was very disappointed because the military didn't really buy into it. And he said that the real failing here was actually human imagination.
+[11:47] Which I also support, but he could not get the funding to continue it. The missile was never tested.
+[11:55] And eventually the whole department was very quietly closed down. But there are some amazing pictures of people just feeding pigeons into prototypes of missiles, which I particularly enjoyed.
+[12:05] So I think he did demonstrate that if you are careful about the way that you do it, you could maybe upgrade the software that you probably can have to have some kind of subscription service that's going to keep it up to date.
+[12:14] And also often single use in this particular case. So for that purpose also software. Okay.
+[12:21] And with some going to go through fairly quickly. So bandwidth being how much information single pigeon can move.
+[12:28] And the main thing I'm going to say here is that lots of people have tried lots of things. I'm just going to give you a couple of very brief examples.
+[12:35] So in 2004, three pigeons carried four gigabytes of data rate equaling 2.2 megabits per second, which in 2004 was not bad.
+[12:45] In 2009, a TV station tested how much information you could send with a pigeon. And it'd be a car and an internet connection.
+[12:53] And in 2010, the BBC sent a video from Lincolnshire to Yorkshire. I kind of wanted the joke to be full stop no mention of pigeons on that last one.
+[13:03] So a week joke. But that one was a video of the presenter getting his haircut. And again, the pigeon did beat the upload to YouTube.
+[13:12] YouTube at the time. I think the upload was quite slow. After four hours, it failed twice. I think the pigeon was very safely in Yorkshire.
+[13:21] So I think the scalability here is the pigeon is limited again by human development in terms of what kinds of media it's able to carry up to a sort of weight limit. So we've got bandwidth. Okay.
+[13:36] The final one is reliability. So how reliable is a pigeon? So I mean, pigeons have quite a lot of issues even when they're not acting as messengers.
+[13:44] But the other thing about that is that they're quite good at dealing with that by themselves. So one of the most common things is packet loss.
+[13:51] The packet being the pigeon and the loss being a hawk. They do cry often get eaten by hawks. They can get lost. They can get tired. They can lose things on the way.
+[14:03] A lot of what they actually do to survive a lot of these hazards is flucking. So if you have a big group of pigeons like this, chances are it'll be difficult for a predator to sort of lock on to any individual pigeons. So their odds are better.
+[14:15] If they really feel like something bad is happening, they're quite good at spotting bad news on the horizon and they will dive. They can be very quickly as we've established. So they will try and dive out of the way.
+[14:23] The third reason that pigeons are often not reliable is once again human error and to be fair to the pigeons is not much they can do about that. And I just very kind of again briefly wanted to touch on IP over avian carrier.
+[14:36] I think from one for nine by David Weitzman. So in 1990 for April Fool's Day he wrote an RFC describing a pigeon's piece of hardware and I cannot lie. I have drawn heavily on it for this talk.
+[14:49] I just thought it was great. This sort of description of all the different variables.
+[14:53] But when I started digging into it what I liked more was the fact that actually people have tried it. So in 2000 in the early 2000s the Linux group in Bergen managed to talk some local pigeon fances into working with them and they tested it with six pigeons.
+[15:05] And it is great. There are loads of photos online. I highly recommend you look them up. So here is a picture of someone holding a pigeon. Here is also a picture of someone holding a pigeon.
+[15:16] But the loss here is the reliability. There was about 55 percent that the issue was that people were so excited by having these pigeons that they accidentally let a few of them escape was they weren't carrying anything.
+[15:27] So out of the six arrived and he had information but none of it was the fault of the pigeons. But unfortunately at the moment it is quite often difficult to do anything without humans being involved in the process.
+[15:37] So human areas still have to be factored in. There is another picture. I just liked it. But for that reason I am going to say once again reliability is okay.
+[15:47] And outside of this framework like as humans do love to innovate and so there are lots of other examples of what people have done working with pigeons to try and improve what they are able to do.
+[15:57] Something is factored in pigeon doping is now an issue. If you look at pigeon racing like I say at the beginning there is a lot of money in it.
+[16:04] So for that reason people are very often trying to make their pigeons be the fastest. Pigeons are really broken through into pop culture. This is a pigeon in drag race France.
+[16:14] Hat a full boyfriend has worked with pigeons so that they can appear as a human man in order to better find love.
+[16:20] But also made informed. So made informed under our company and in the war in Zacomod war they also developed harnesses for pigeons so that they could better take part in combat.
+[16:31] And then it has been sort of re-abutized through the years as an example of where they have been very good petriots etc. And with the phrase there is a made informed for every form.
+[16:41] And possibly also to help the pigeons find love. But here is a picture of pigeon in the harness attached to a soldier.
+[16:48] So if we were going to try and improve this rating and go from OK on all fronts.
+[16:54] I feel like the problem at the moment I've said that pigeons are brilliant but I think you will be fair to say I've made it look like pigeons are distinctly made.
+[17:03] Which is a shame I'm possibly on me. But I have had a little bit of a think of what we could do. So in order to improve their latency we could dope the pigeons.
+[17:13] To improve their hardware we could potentially put them in a small aircraft and teach them to fly it, giving them good hardware.
+[17:22] I had a long think about how to improve pigeons software and all I could come up with is doping them again.
+[17:28] But bandwidth wise, lots of options now. I think you could attach all kinds of storage and particularly if they are flying a aircraft that would really open at the possibilities.
+[17:37] Increasing the bandwidth to also good. And reliability like a few humans are very often the problem. So I think in this case I would have the pigeons brief by other pigeons.
+[17:46] I think that would probably solve that one.
+[17:49] And this is where my call to actions or good talks are which is add pigeons to EMFX, you care what it's.
+[17:56] This is my campaign to add pigeons into the network for 2028.
+[18:00] Thank you. But obviously I'm joking but also I'm close to time so I'm going to keep this brief.
+[18:06] But there are always going to be times when analog communication is still really important.
+[18:10] And there are still people even today who need pigeons or other equivalent kind of sneakiness for different reasons.
+[18:16] A lot of them are combat but not only that people are living in rural communities, potentially some of the places around the world.
+[18:24] And sometimes just because it's nice.
+[18:26] But I feel like having spent a lot of time writing this talk and talking to people I think there is prospect here so I do urge you to put yourself behind this campaign.
+[18:36] And finally I know I did promise puns.
+[18:39] So I'm sorry that there weren't as many as maybe you hoped but of course there is such thing as,
+[18:44] Can you imagine a good thing?
+[18:46] Thank you very much.
+[18:53] Thank you.

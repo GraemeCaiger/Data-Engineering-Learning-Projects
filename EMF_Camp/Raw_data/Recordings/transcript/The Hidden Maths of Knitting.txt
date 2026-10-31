@@ -1,0 +1,331 @@
+[00:00] Thank you so much. Hello everybody. I'm going to start with a little bit of mass
+[00:21] I'm going to start with my clicking up working.
+[00:26] Yes, I can start with a venn diagram. So hopefully you are all familiar with venn diagrams.
+[00:35] Three areas on here, the first area. I've illustrated with Tom Daley because he is famously
+[00:41] someone who loves knitting. I found that after I made the slides for this talk, but he has a
+[00:46] level mass. So it might be that he is in the wrong section. We've also got here Hannah
+[00:52] Fry, who very famously loves maths. I don't know she might also like knitting though. So
+[00:58] I might have got this venn diagram completely wrong. The one part of this venn diagram I am absolutely
+[01:03] sure about though is the middle because that's me and I love maths and I love knitting.
+[01:08] And I just want a quick show of hands to get a sense of whom I ordinances today. So if you would
+[01:13] put yourself in a region one of this venn diagram, put your hand up now. If you would put yourself
+[01:21] in a region two, so the loving maths, but maybe not loving knitting. Anyone who is in section three
+[01:27] with me? Lovely. If you are in section four, it's not too late to sort of sneak out. This might
+[01:35] not be the talk for you. So I wanted to talk to a little bit about maths and knitting, two of my
+[01:42] passions. I thought I'd better start off with just a little bit of an explanation of what knitting
+[01:45] is for the people who weren't in that section of a venn diagram. So this is a very badly drawn
+[01:51] picture of several rows of knitting. It's kind of hard to see from that how the stitches are formed.
+[01:59] So I've got a couple of videos. The first one is showing, yes, so you sort of put your needle
+[02:06] into the stitch. You wrap the yarn round and then that comes off to create a new stitch.
+[02:12] And you do this all the way to the end of the row and then you keep on doing that and it builds up
+[02:16] rows and rows of this fabric of knitting. And so if we look again at that, you can now see the
+[02:25] needle in there. Didn't want to put the needle in the first picture because it's a bit of a spoiler.
+[02:28] But the excellently drawn ball of yarn as well. So as you complete each row, everything sort of moves
+[02:38] down once. So each stitch is looped in to the row below it. And you kind of get this pattern,
+[02:44] which is sort of like little curly shapes or v shapes depending on where you're looking at with
+[02:50] the knitting and the types of stitch you do. There's a lot more complicated things you can do with
+[02:55] knitting. But that's sort of like the basic first introduction that everybody tends to learn.
+[03:01] Now I want to contrast this with weaving. So weaving is older in terms of how long humans have
+[03:09] been doing fiber arts. We know about weaving because we found the sort of the things that we use,
+[03:16] the tools that we use for weaving dating back a really long time. We've got documentary evidence
+[03:23] of knitting and knitting related stuff, sort of over the past more like a thousand years. But weaving
+[03:29] is going back sort of, or there was a magnitude almost as long as humans have wanted to wear clothes
+[03:34] really. And for weaving, you've got these two threads going one across the way and then one,
+[03:41] sort of weaving over and under the warp and the weft. Somebody gave me a good way of remembering them.
+[03:46] And I can never remember which way round it is. But I'm not really going to be talking about weaving today.
+[03:50] I just wanted to draw your attention to the two sort of different types of ways of making fabric.
+[03:56] Because if you happen to have a microscope, you can buy little USB microscopes. You can look at
+[04:03] fabrics that you own under the microscope and they look something like this. So on the left is a T-shirt fabric.
+[04:11] And hopefully you can see these sort of like curly V-shaped things that were the same as what was
+[04:16] appearing in the knitting. Whereas on the right it looked much more like a grid structure and that would
+[04:21] be a woven fabric. That was from an old pillowcase. And so when we choose whether to knit or to weave,
+[04:29] we're looking at the properties that the fabric will have to decide how to use it.
+[04:36] Okay, I want to talk a little bit about some of the maths then. So topology is the maths of how
+[04:42] objects behave when they're deformed. And so I've stolen this little animation to illustrate this
+[04:49] because one of the classic maths jokes is about the topologist who confuses his coffee cup with
+[04:56] his doughnut. Because topologically, if you just look at what stays the same and what changes,
+[05:03] the number of holes in a doughnut or the number of holes in a coffee cup is the same. And topology
+[05:10] is looking at the shape of objects when they're deformed without worrying too much about the geometry
+[05:17] of it. And it's important though, you think a little bit about topology because I want to talk
+[05:22] also about machine knitting. Now I first heard about machine knitting. Not that long after I've
+[05:29] learned how to hand knit. There was a distant family relative who made these machine knitted jumpers
+[05:37] for the family every Christmas. And so I asked my mum how come she can make so many
+[05:46] jumpers every year. And my mum said, oh, she's got a knitting machine. And I recently
+[05:51] heard him to hand knit. I had a good mental model of that and so I extrapolated from it. And I decided
+[05:56] that she must have in her living room, some big robot arms that operated two needles like this
+[06:03] automatically while she went off and ended up with. Turned out that knitting machines are actually
+[06:08] way cooler than that. So the box on here is one of the knitting machines I brought to the MF this year
+[06:16] is on here and you'll see it's a bit later on. But this is the knitting machine that I should have had
+[06:23] to teach me about knitting machines when I was first asking those questions. This came out in the
+[06:29] in the 1980s. I think we dated this one to the August catalog 1987 or so. And I never had one
+[06:36] of these as a child but I found one of these on eBay as an adult and I absolutely love it.
+[06:41] But the thing about machine knitting is that although the mechanism to create the stitches looks
+[06:48] different topologically the stitches that you get out of it are the same. So let's look at how a knitting
+[06:55] machine creates the stitches. So this is this machine set up and you can see that instead of
+[07:02] being along a needle to work one of the time the stitches are all sort of hanging on needles like
+[07:10] these are individual hooks that are coming out right angles to the knitting. So rather than one
+[07:17] needle with all the stitches you've got lots of needles each holding one of the stitches. And then
+[07:22] when the carriage moves across it brings the yarn with it and much quicker than I could knit individually
+[07:30] it makes a stitch by pulling the old stitch through the new yarn just like I would do with my needles.
+[07:38] Now it's a bit hard to see what's going on with the carriage in the way. So what I've got here is
+[07:44] just manually doing what the carriage does for each knitting stitch. So there's a little latch on that hook
+[07:52] and the hook captures the yarn and the latch closes over it to pull the yarn through the previous stitch
+[08:00] and you can get all the way along to the end of the row and it is much quicker. It's much slower
+[08:04] doing it by hand this way but with the carriage it's much quicker to knit things. Okay so
+[08:13] I want to talk a little bit now having introduced the idea of knitting and the idea of
+[08:19] topology I want to think about socks because socks is one of the things that when you're a beginning
+[08:26] knitter you might aspire to make some day and you might think well they're quite small so it won't take
+[08:32] me long to knit socks. Now there's a whole lot of stuff I could probably do an entire hour on why that's
+[08:39] a mistake to make. But when you think you might have to knit a sock you've got some choices to make
+[08:44] about the construction and so I want to just switch underneath the visualizer for a moment to show
+[08:51] you some of the things that you can do now. The visualizer is playing up a little bit but hopefully
+[08:57] you can all see my hand there. So yeah we can decide about how if you want to knit a sock on a knitting
+[09:03] machine you're going to have to turn it from like a 3D tubular object into something flat and then
+[09:10] sew it back together. So one thing that you could do is you could make a really really long thin thing
+[09:20] that will turn into a sock. So let me explain how this works. This bit here is going to be the
+[09:25] ankle of my sock and then this bit that I've done in blue as a contrast I've sort of done a
+[09:32] trapeziam shape by knitting fewer stitches on each row and then increasing back again but keeping
+[09:40] the rows the same so that you don't get a gap just there and that gives you something that can
+[09:45] then become when you turn it into three dimensions the heel of the sock and when I first learnt
+[09:50] about how to do heels on socks I was like that's a clever. With this method of doing socks I got more
+[09:57] even more excited when I found out that you can knit along the bottom of the foot and then put another
+[10:02] heel there because if instead of having your heel at right angles you fold your heel flat
+[10:10] it turns from a heel into a toe and then you just have to knit the top of the foot and then so
+[10:16] up all your seams and you have a tiny sock. So that's one way of knitting a sock flat.
+[10:24] Instead of doing that though you could do it as a very short and fast sock and it's a very similar
+[10:30] construction. I've only done the heel on half of this width because this bit is going to be the
+[10:37] front of the ankle and then this bit is going to be the top of the foot but then again I've done
+[10:42] the same thing I've done a heel here that folds over to become a toe and then the yellow bit of
+[10:47] yarn here is just a waist to take it off the machine so if I wanted to sew it all up and turn it
+[10:53] into a sock I wouldn't drop all of my life stitches. So that's two ways of knitting a sock flat.
+[11:00] You can of course knit socks using something called circular knitting and you can do this with knitting
+[11:06] machines or by hand but because I'm a show off I wanted to show off the knitting I'm doing at the moment
+[11:12] which is a pair of socks. I'll put these under the visualizer I'll hold them up as well and then
+[11:17] hopefully everyone can see one way or the other but I've got a really really long needle a circular
+[11:25] needle with needles a teeth end and a big tangly mess which allows me to knit along the stitches
+[11:36] and then back the other way by pulling the needle through and knitting continuously and because I'm
+[11:42] showing off I'm actually knitting both socks at the same time here so you knit along the first sock
+[11:49] and then you knit the front of the second sock the back of the second sock and then the back of the
+[11:53] first sock and that's a complete row. Somebody told me about this method that even though it's
+[11:58] harder than just standard circular sock knitting techniques it avoids second socks syndrome
+[12:06] which is when you finish the sock and then you go oh god I've got to knit an entire other sock before
+[12:11] I can wear them. So the other annoying thing though about this is I've done it in a sort of yarn
+[12:18] to get this stripe pattern instead of changing color every few rows to get stripes you can get this
+[12:25] wonderful invention called self-striping yarn where all of the different colors are on the ball
+[12:32] and they're dyed in a repeating sequence which means that if you find the same point in the
+[12:37] sequence and start both socks from that point then in theory if you can keep your tension really
+[12:43] really consistent each sock will end up exactly the same and I'm quite pleased that for the most
+[12:50] part on these this is my second pair of my third pair of two at a time socks and I've managed
+[12:57] to keep mostly the color patterns working there. So that's a couple of different ways of making
+[13:05] socks. If you want to make socks using knitting machine and you don't want to knit it flat there are
+[13:12] techniques you can use you can use something called a ribbing attachment for knitting machine
+[13:18] which gives you a second set of needles at right angles and then that sort of allows you to do the
+[13:23] same thing that circular needles are because you can knit one way along the top and then the other way
+[13:29] along the back but you can also get something and this is something that's on my wishlist to buy
+[13:36] called a circular sock machine where it just knits tubes and you just can't handle it it magically
+[13:43] knits tubes it's a really lovely thing but they are quite pricey so that's why I'm saving up for
+[13:49] I believe that circular sock machines were one of the first knitting machines that were created
+[13:57] and they've actually been around longer than flatbed knitting machines. Okay so that was deconstructing
+[14:02] socks and I want to talk a little bit about crochet now because like I my journey to knitting
+[14:11] I started learning to knit when I was I don't know about six or seven I didn't start to learn crochet until
+[14:21] I was in my late twenties and then crochet just captured my imagination it's a different technique
+[14:28] than knitting because you only ever have one stitch at a time so it means that if you drop your stitch
+[14:36] you can just pick it back up again but it does give you a slightly different pattern of things and
+[14:41] sometimes crochet is the best medium for making something sometimes knitting is most talented people in
+[14:48] one art or the other can think of ways to make most things using their preferred one but yeah what you can
+[14:54] see on the screen at the moment is this hat which is something I crocheted for myself last summer because
+[15:00] I needed a bucket hat and I wanted one that would actually fit my head and this is another type of
+[15:09] knitting with circles because the socks what to do with knitting with circles because I was
+[15:16] knitting in the round I was using circular knitting but for crochet I can actually crochet a
+[15:23] circle to be the top of my hat and when we look at what's happening mathematically you can start to
+[15:29] see some interesting things happening so the inner ring of my hat the thing that I started off with
+[15:34] was just doing six stitches and then by increasing the next round ended up with 12 stitches in so I
+[15:42] increased into every stitch on the first round then I increased into every other stitch so I ended up
+[15:48] with 18 and then I increased into every third stitch and I ended up with 24 and hopefully you can
+[15:55] see that pattern starting to emerge here we're going up in what mathematicians would call a linear
+[16:01] sequence where the sequence is changing by the same amount every time so I can then predict that
+[16:08] if I got up to round ten of this I would have 60 stitches I can then count and all the
+[16:14] knitters in the room and all the crocheters in the room will know that when you count sometimes
+[16:18] you don't have the right number of stitches and it makes you very sad but at least you know how many
+[16:22] you should have and so because we are increasing in this linear fashion with this particular stitch
+[16:29] we're getting something that is flat and it is approximately coming out as a circle it's actually
+[16:36] going to be more like a hexagon and you can do things to change where in the rows the increases are
+[16:42] to make it look a little less hexagon or a little bit more circular you could do
+[16:47] stitch patterns where it was instead of coming out as a hexagon you can do larger things that
+[16:54] approximate better to a circle but it was good enough for the purposes of my hat and so the type
+[17:00] of geometry that we are in with this kind of crochet is Euclidean geometry and so the picture that you
+[17:07] can see on the right shows what happens if you put Eucrylateral Triangles together in Euclidean
+[17:16] the picture on the left is just a picture of a bag that I crocheted because I'm quite proud of it
+[17:20] and I thought it was nice but you could make the thank you you could make the bag using triangle instead
+[17:27] of hexagons because if you look on the right six hexagons will go together sorry six triangles
+[17:33] will go together to make a hexagon and so triangles and hexagons both have this property that
+[17:40] are made flat plane in normal space they are going to tie it without leaving any gaps
+[17:47] and you can think about why that happens by thinking about the angles involved because Eucrylateral
+[17:52] Triangles have 360 degree angles so when you put six of them together you're going to get
+[17:58] 360 degrees round a point but if you're a mathematician then when you're putting things together
+[18:05] around a point you ask the question well how to what happens if I put together six triangles
+[18:11] around a point in fact here we are here are six triangles together around a point you might
+[18:18] ask the question what happens if I put together five triangles around a point and I'm glad you
+[18:23] asked that question because this happens so this is five Eucrylateral Triangles put together around a
+[18:32] point and of course if each of these is a 60 degree angle 60 degrees times by five
+[18:38] give you 300 so it's not enough to form a full circle and that's why little bit tricky to see here
+[18:44] but you are getting some curvature here and curvature is one of the things that I need to use
+[18:51] to make my hat because you'll notice that my hat comes down the side of my head as well as
+[18:59] having a top of my head so the top of my head is quite flat but then it needs to curve round so I can
+[19:04] exploit geometry the linear process gave me the flat surface but if instead of doing something
+[19:14] linear I increase by less then I can start getting this spherical geometry so this is a little guy
+[19:22] that I crocheted he is a little octopus I particularly like him because although you can't see
+[19:29] it in this picture one of the yarns that I used for one of his sides is a glow in the dark yarn
+[19:35] which means that this octopus does some sort of bioluminescence at night time but the way that it was made
+[19:44] was starting off with the same linear increasing for the first few rows but then once I got up to 30
+[19:52] I just continued straight down so 30 on every row and that gave a cylinder because at that point I'm not
+[19:58] keeping the flat pattern to linearly increase I'm increasing my less than a linear amount so it is now
+[20:07] just going straight down I could have done something in between the two and that's what I did for the hat
+[20:13] because my head doesn't come straight down it sort of slopes down so by deciding which rows you want
+[20:19] to do the increases in you can decide on a rate of curvature and you can see that the curvature again at the
+[20:26] bottom of the hat for the brim it goes more flat again but not completely flat because you want it
+[20:31] tilted slightly down to keep the sun out of your eyes. That's what happens then if you put few of the
+[20:40] six triangles together around a point some of you may want to know the answer to the question
+[20:46] what if I try to put more than six triangles together around a point and some of you might think
+[20:52] all that's a silly question they won't fit they won't fit if I just put them together like that but
+[20:59] if I were to glue these two edges together so that I had seven triangles I get something that won't
+[21:09] lie flat on the two deep lane it sticks up out no matter how I try and lie it flat without
+[21:16] squashing my paper it won't lie flat and we are now in the world of hyperbolic geometry so
+[21:25] in hyperbolic geometry what I can do with my crochet is I can start off with six stitches again
+[21:34] I can increase into every stitch to get 12 stitches for the second round but then instead of
+[21:40] increasing into every other what if I increase into every stitch again so it doubles like at 24
+[21:47] and then on the fourth round I get 48 stitches I've doubled again and by keeping on doubling and doubling
+[21:54] I get rows that are too long and I get really bored so I don't normally go past about five rows
+[22:00] but the last time I gave this talk somebody in the audience was doing some hyperbolic crochet
+[22:07] while we were there and she made this I think she'd already started it and she gifted it to
+[22:13] me at the end of the talk which was really rather lovely of her and she does them sort of as as fidget
+[22:20] it's like to keep her hands busy and then she ends up with lots of these at the end and doesn't
+[22:23] quite know what to do with them which is why she was happy to give one to me to just as a demo model
+[22:28] but yes if you keep going you get this lovely thing where it will not lay flat and it goes into
+[22:33] these almost organic looking structures as a representation of the hyperbolic plane and people have
+[22:40] used these in art projects they've used them to those are crochet coral reef that someone did to
+[22:46] because it very close new resembles some coral structures and I think in this pure mathematical
+[22:53] context the rather lovely thing is that this was actually used as a teaching aid so back in 1997
+[23:03] Dana timeina used crochet to make models of the hyperbolic plane to use in undergraduates teaching
+[23:11] because making a physical hyperbolic plane that you can pick up an examine to understand the maths
+[23:19] was quite hard to do with most manufacturing methods but crochet turned out to be the
+[23:27] best way to visualize what was going on with hyperbolic geometry
+[23:38] okay I want to talk about a little bit now then about knitting machines
+[23:42] I've talked a little bit about the little knitting machine I started off with
+[23:49] no knitting machines which I think is the default state for most humans
+[23:55] I have had the joke made about me recently that the the one about the guy with all the spiders
+[24:04] who drags up the mean number of spiders that I am becoming that finitum machines because
+[24:10] the average number of knitting machines owned by people in my friend circle is a quite reasonable number
+[24:17] but I think I'm the only one of my immediate close friends who actually ends in a sewing machine
+[24:23] I wanted to get an electronic knitting machine because I saw them and I saw they were cool
+[24:29] and I found on a Facebook marketplace but it was part of a huge job a lot of stuff and the woman
+[24:35] selling it said I'm not splitting it if you want the incredibly exciting electronic knitting machine
+[24:42] you've got to take what I thought then was slightly less interesting punch card knitting machine
+[24:47] and so this is the first punch card knitting machine that I acquired it's a knit master machine
+[24:54] because the electronic one didn't work because it was from the early 1990s and the capacity
+[25:00] is done nothing the capacitors do until we could get around to ordering the correct parts
+[25:06] and getting it up and running again and checking power supplies and stuff I thought what I'll
+[25:10] test this one and see if this one works and so this is actually the machine that I learned
+[25:16] machine knitting on and the punch card actually turned out to be a thing of joy and wonder because
+[25:23] it felt like this old technology that I've heard about for stuff I mean my parents had told
+[25:30] me stories of computers that ran on punch cards but yeah I was just a little bit too young
+[25:37] to remember any of that and so this idea that you could use ones and knots you could use binary
+[25:43] to make the knitting machine do call pictures just felt very exciting so
+[25:49] this is a punch card in the knitting machine it has 24 1z or 0's holes or filled in bits on each row
+[25:58] and so if we think about it in terms of bytes that is three bytes of information on each row
+[26:05] we've got about 60 rows on a longest punch card that you tend to get so yeah that means
+[26:12] 180 bytes of data on one of these punch cards not bad eh and yeah the way that it works then
+[26:20] on the back of the knitting machine carriage you've got this little wheel and when it passes
+[26:26] in front of the punch card reader it is setting the state ready for the next row that you're going
+[26:31] to knit so you've got one on each side and so as you go back and forth it picks up the pattern
+[26:38] for the next row whilst depositing the pattern for the previous row so as the punch card
+[26:44] feeds through the machine you then get each row of the punch card being knitted in you can do two
+[26:50] different stitch styles or you can do two different colors I use it for color work because I
+[26:55] think it makes it a little bit more obvious what's going on so here it is in action so the knitting
+[27:01] machine goes oh the knitting machine should go if the video plays in front of the punch card reader
+[27:16] and you can't really see what's happening with this one but as it goes in front it is picking up
+[27:22] now because you can't really see what's happening on this this was the one and only reason that I chose
+[27:28] to buy oh that is the sort of patterns that come out of it then so you can see if you have a check
+[27:32] of all the pattern on the punch card you get a check of all the pattern on the knitting but yeah this
+[27:37] is one of the reason that I decided to buy this knitting machine which is the other knitting machine
+[27:41] that I brought with me to AMF and if you want to come up and see it in the matte village I should
+[27:47] be around for most of this afternoon and various other times over the course of the weekend but
+[27:53] this machine has a slightly different mechanism so instead of storing the row on the little drums
+[28:01] on the carriage it's got this timing belt mechanism and lots of stuff inside the machine that although
+[28:07] I have had this one apart I only got this machine a week ago and it's already been a part trying to fix
+[28:12] it to get the punch card working to make this video to show in this demo and also to have up in
+[28:17] the matte village if anyone wants to see it but yes the way that this one works is slightly different so
+[28:23] it sets the needles ready for the next row as it's knitted the previous one so I've got a little bit
+[28:32] of video that was shot this morning in my tent by my very friendly videoographer and partner Sam
+[28:44] and so what you can see as it comes along I didn't turn the sound off on this one okay
+[28:52] you can see that it is moving some of the needles forward and some of the needles backwards
+[28:56] and the punch card advances after each row as the carriage turns around so different needles are
+[29:03] forward and different ones are backwards so if you've got two colors then it means that the front
+[29:09] needle can be one color and the back needle can be the other and I'm hoping to have this hooked up
+[29:16] actually knitting some color work a little bit later on when it's maybe not quite so
+[29:24] so yeah that is one of the brother knitting machines and it uses very similar ideas of needles
+[29:31] forward or backwards just different ways of setting where they are okay I want to talk about
+[29:40] little obsession that I ended up with enter to finish off today which was asking myself once I had
+[29:46] punch cards once I had the ability to do color work without having to do it by hand how would I
+[29:53] knit a circle and I asked myself this question because I thought well if I can figure out how to knit a
+[29:58] circle that's going to help me to understand how to design patterns and pictures for a lot of other
+[30:04] things as well and so the first thing I did was I went to the idea of just naively coming up with
+[30:13] if I had a square grid drew a circle on it and then colored in the points that the circle passed through
+[30:19] what would that look like and I looked at it and I thought well it's sort of circularish and I thought
+[30:24] it reminds me a bit of computer graphics so I talked to my partner who knows a lot more about
+[30:30] computers than I do and he said oh well there's algorithms for this sort of stuff and he pointed me
+[30:37] in the direction of a resonance algorithm and this is an animation from the Wikipedia page about it
+[30:46] and so it's using it yeah a midpoint circle algorithm and it gives something that looks
+[30:53] pretty smoothly circular when you go around it's exploiting the symmetry of the circle to be able to
+[31:01] work out 8 points simultaneously and so that means that you're going to then end up with something
+[31:06] that looks nice and symmetrical at the end so each step all it's doing is it's deciding do I stay
+[31:14] at the same height or do I drop down a height or go up a height depending on which point of
+[31:20] view you're thinking of so I got a circle template out of all of this I filled in the circle
+[31:28] because I wanted to knit the whole thing not just the border and then I had to go and had my first
+[31:36] go at making a circle and I was really disappointed because it ended up looking sort of like this
+[31:46] and you will notice if you are a fan of maths and you know circles have constant radius
+[31:51] but this does not look like a circle it is all squishy in because I made a mistake I thought
+[31:58] that knitting stitches knitting pixels are rectangular not square so when I measured my first attempt
+[32:05] to circle it was 6.5cm wide and 5.5cm high which is not a circle so I thought a little bit about
+[32:14] the maths behind this I plotted the graph of x squared plus y squared equals 100 and I made the x's
+[32:23] different on the x and y axis and that gave me something that looked like an ellipse so I thought
+[32:29] well I can work backwards here if I plotted ellipse instead of a circle on a normal x and y axis then
+[32:40] I have inverted the process so as long as I know what the aspect ratio of my knitting is
+[32:47] if I can make the punch card elliptical then it means that I can make the knitting circular
+[32:54] and so if I just show you what that looked like so that was the circular
+[33:02] punch card giving me a it is so hard to look on the screen and really I figure out where I want to put things there we are
+[33:12] a circular punch card gave me an elliptical knitting and so when I put in the elliptical punch card
+[33:22] I came out with a pretty good circle that I was very happy with now but it does not deserve around the
+[33:30] corners because so those are my better circles I then asked myself the question what about that self-striping
+[33:40] yarn the yarn that I used to make those socks before can you make your own self-striping yarn
+[33:49] and use it to knit a picture because in theory I know where every pixel is going to come from
+[33:58] the length of yarn I know what my tension is because I always knit with a consistent tension
+[34:03] or I mean fairly consistent if I use the machine I can predict whereabouts in the yarn
+[34:11] each bit of knitting is so if I had a design I could get the yarn color it in with some fabric paint
+[34:19] and then knit it so on the machine today I have mostly knitted something I'm not knitting the
+[34:30] whole thing on stage because that would never work and it would come out really badly but it's
+[34:34] mostly already knitted I'm going to do the last couple of rows for you and I tell you what let's switch
+[34:40] to the visualizer and if I point it over there then you're not going to see the cameras not
+[34:46] on to show that I'll leave it there then to show things once it finishes yeah that's me we don't
+[34:53] want to see that definitely don't want to see that right okay I will do one troubleshooting and if
+[35:01] it doesn't work then I will just do the knitting and you'll have to come and see it afterwards
+[35:08] nope that's not what I wanted to do
+[35:14] no it's all right it's gonna come back right okay so I'm going to do a couple more rows of knitting
+[35:22] I'll take it off and then I'll show you what we end up with
+[35:28] so I'm going to take it off the machine and hopefully
+[35:33] what we will get is some picture knitting now it might be a little bit hard to see what this picture
+[35:47] is but I do have a prop to help you with that because hopefully what you can see is three regions
+[35:58] of color where I can put Tom Daly Hannah Fry and me now I have of course lied to you because
+[36:16] that will be a really silly way of making self-striping yarn I did think about this as whether you
+[36:23] could use it as a way of sort of doing some knitting an espionage to hide a hidden message into
+[36:29] some yarn send it to someone else with the same knitting machine knitting at the same tension
+[36:33] get them to knit it and it really works very very badly because to make that a venn diagram what I
+[36:40] actually did was knitted some yarn through the diagram on it then pulled the knitting down again
+[36:48] filled in the gaps in the yarn and then put it back together again and even then it did not come
+[36:53] out looking like it should so this is not a viable way of making pictures in knitting but there's
+[37:02] much more maths I could have talked to you about today about knitting an espionage is only a tiny bit
+[37:07] of the story of how knitting has been used in espionage you can make objects like merbius
+[37:14] scarves or climb bottle hats there are ways that you might be able to calculate pie using
+[37:20] knitting so if you want to find out about any of these things then come and find me in the maths
+[37:25] village or contact me on my socials but I hope you've enjoyed hearing about the hidden maths
+[37:31] of knitting today thank you very much

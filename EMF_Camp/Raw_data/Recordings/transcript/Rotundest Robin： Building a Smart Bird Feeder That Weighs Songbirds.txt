@@ -1,0 +1,209 @@
+[00:00] Hello, hello. What a treat to be speaking at EMF and to a room for people who are
+[00:20] excited about birds. Hello, my name is Hugh and this is Rhetondis Robin. My name is Hugh,
+[00:28] I am a maker, so my partner and I actually made the 10-time scale tilde gone badge. Let's
+[00:33] sit and all set your curriculum and check that out. I'm a community organizer with some
+[00:38] pided of folks and my day job is as a developer advocate or even where I help to
+[00:44] craft or I patch a Kafka community. Today though I'm talking about a personal project, but
+[00:48] it's more of a kind of amateur or nephologist direction that you can probably tell from
+[00:53] the bill or D-Drip. I'm not saying a dumb question with a smart bird feeder and that question
+[01:00] is this. Is this Robin abnormally large? Look at them. I can't overstate how massive this
+[01:11] Robin is in person. We put a bird feeder up on the window in my office and every time
+[01:15] this Robin lands there's like a notable flag like someone's throwing a tennis ball at
+[01:20] the window and I'm starting a very kind of ADHD while I'm supposed to be on calls listening
+[01:27] to this bird landing repeatedly. My curiosity gets a better meat. Just like how heavy is
+[01:33] this Robin? I'm an engineer kind of, so I should be able to figure this out. So I decided
+[01:40] to try and build a bird feeder that could collect the day through I needed to answer my question.
+[01:48] How do you even go about doing something like this? There's a bunch of different ways that
+[01:52] you can weigh things electronically. You might be familiar with like a personal electric crystals,
+[01:58] you know you compress them and they produce a voltage. I ended up going for something way
+[02:03] cheaper at least for this weight range, which is anything between like five and a couple
+[02:09] hundred grams, which is a load cell, which is very precisely milled, peace ballermanium
+[02:14] with a hole through the middle with strain gauges arranged around it, which are basically
+[02:18] resistors whose resistance changes when forces applied and by taking a readable of those
+[02:24] measurements you can calculate a weight. Now those changes are really, really small, so to
+[02:30] turn those changes in voltages into like an actual weight or math you can do something
+[02:35] weird, you need an amplifier circuit. So in this case an analog to digital converter, which
+[02:43] takes those tiny voltages and outputs it as a 24 bit integer that you can read and do
+[02:48] stuff with. To actually do that reading I'm using Super Cheap Broggy Pi 3. I think it's
+[02:57] like X agricultural, I bought a whole box of them bulk and it came smelling strongly of
+[03:01] plants, so like any guesses on where that one came from and my existing bird feeder has
+[03:09] this like nice removable tray in it anyway, so Super easy to bolt that load cell in between
+[03:15] the two. I then calibrate myself up with some reference weights, so UK songbirds, the lightest
+[03:22] I believe is a gold crest coming in at something like nine grams and then you know up into
+[03:28] the world of determined pigeons and squirrels in the 100 gram range, so I calibrate myself
+[03:33] up with these kind of known masses in that range and disintesting. You also have to factor
+[03:39] in the course that when birds come to a bird feeder they eat birds eat and they take it
+[03:43] with them, so you need to tear after each bird visit to account for the mass that they've eaten,
+[03:49] but with all that done we have this nice little shell output and we found out how heavy
+[03:54] the robin is, right? Not yet. True I spend a lot of my day watching this bird feeder, not enough
+[04:02] to know what every single one of these visitors was, so I didn't know who I was weighing,
+[04:08] right? So now was the time I thought to you know add a camera to my setup and so I can get
+[04:12] a sense of what bird visit is we're getting. And at this point in the project I also
+[04:18] start like moving from that initial period of excitement as I build a stupid thing to actually
+[04:25] doing some research and being like okay how much do robins actually weigh? Like it would
+[04:29] be useful to know. I'm looking at the RSPB website which is a great resource and I come
+[04:34] across this miserable little tip bit. The average robin life expectancy is 1.1 years, but
+[04:41] they're little guys, come on they should outlive us all. And that was that kind of bummed
+[04:47] me out because I love robins, but also I realized I'm on the clock, I've got to weigh this
+[04:51] robin. Not just in less than a year, I've got like six months, it's like you know October
+[04:58] by this point, you know robin season is coming. So I've got to get on the clock, so I add
+[05:07] my camera and this is great. Like who doesn't love extremely low resolution pictures
+[05:12] of birds? Am I right? And this was awesome because you know I have all these pictures of
+[05:17] birds and I can look at them from my phone and that's very fun. But then I this introduces
+[05:21] another problem which is I live in leafy southeast London and I was getting a lot of visitors,
+[05:26] both robins and non-robins. There's a which pictures I use. There's a little mouse, we were
+[05:32] big fans of the little mouse. He climbs the bricks at the outside of my flat like it's
+[05:36] a ladder and comes and eats bird's eat, he's everything to me. Very determined pigeons,
+[05:41] great hits, cult hits, robins, you know lots of visitors and so many animals with visiting.
+[05:49] I had 500 plus pictures a day which after a week is a lot of pictures to go through and
+[05:54] start like labeling species manually. So I think a kind of a data inclined person go,
+[06:00] oh this is like a machine learning problem, right? Like I'll make a classifier that will
+[06:05] identify birds species or I'll use one somebody else has already made and then I don't
+[06:08] have to label the data manually. I thought. But I'm not a machine learning engineer, so I
+[06:16] have to learn how to do that first, right? But that's part of the fun of a project like this.
+[06:23] I thought. I spent a lot of time, I mean there's an x-cocd for everything we know
+[06:29] as a cmf. I spent a lot of time looking at TensorFlow which is this, I think open source
+[06:35] framework out of Google originally for building machine learning stuff and classifiers and
+[06:41] I was using my existing data manually labeling some of it to have training data and then
+[06:47] trying to train this model. And I quickly realized that I didn't have enough data from one
+[06:52] bird feeder with some very low resolution pictures to build the general purpose model
+[06:56] or to recognize UK bird species. And I don't actually know how to find
+[07:02] student model. Funnily enough that's quite complicated. If you're not aware, machine learning
+[07:08] models of this kind of classifier variety have layers which take each section of an image
+[07:14] and do some kind of maths to them pass onto the next layer and then give you some kind
+[07:18] of output. And if you know what you're doing, you can get regroup results. If you don't,
+[07:22] if for example, you've got an E at a level maths, it's a lot of looking at graphs and being
+[07:27] like, yeah, I don't know how that works. I don't know how that works. So I went back
+[07:32] to the drawing board. I imagine many people in the audience, they may be familiar with
+[07:38] Merlin. If you're not, it's a great app. Take a picture of a bird. Take a recording of a bird.
+[07:42] It'll tell you what it is. It's magic. Merlin is fantastically accurate. It still has some
+[07:47] level of uncertainty. Like, I think quite often it will predict two different tips species simultaneously,
+[07:52] because there's a little bit of overlap there and sound. But the way Merlin matters to be so
+[07:57] accurate is it does have classifier models that train on, pitches of birds and sounds of birds
+[08:04] in the way that I was trying to train it. But it's specifically trained on regional birds species.
+[08:09] So there's a model for the UK. There's a model for Western Europe. There's a model for Eastern Europe.
+[08:13] And by reducing the number of birds species it's trying to predict from, it increases accuracy.
+[08:20] Now, that's super cool. Hypothetically speaking, if one were to download the APK of Merlin
+[08:27] and to download model weights and the model implementation, you could run Merlin at home.
+[08:36] I wouldn't do that. So I had to consider some other options. The data is there, though, for those
+[08:43] willing to look. Instead, I found this model on GitHub. There's a bill be linked to this. At the end,
+[08:50] if you want to go check out the awesome team that made this. But this is a model look compared
+[08:56] species, sort of a bunch of different UK birds species conveniently for us, including robins.
+[09:03] So having gone on a journey of like, I'm going to make this myself and then very quickly being humbled.
+[09:08] I went and found this implementation. Someone else had made and I decided to run that.
+[09:14] But then I had another problem. I'm using a Raju Pai 3, right? It is a slightly dubious origin,
+[09:20] but it works. But as you may be aware, Raju Pai 3 isn't necessarily like machine learning hardware.
+[09:29] Like, it'll give it a good go. And in the process of trying to coax a Raju Pai 3 into running this model,
+[09:35] I did manage to kill one. Wasn't great. He'd had a hard life before he came to be, but nonetheless,
+[09:41] didn't feel awesome. So I needed to figure out a way of running my birds species predict a model
+[09:47] without melting a hole in my desk. This would usually be the part of the talk if I were doing
+[09:54] data stuff or I'd be like, well, what you need is caster and events. And Microsoft's architecture,
+[09:59] and we're going to distribute things horizontally and it's enterprisey. But I'm off the clock.
+[10:03] So I get to say that it's much easier to do it with Google. Google Drive,
+[10:08] other cloud storage options are available. If you have your own NAS, you could use that.
+[10:12] But just a single API call pushing the images from the Raju Pai over Wi-Fi to storage.
+[10:20] Which works great. And then it means you have a batch of images,
+[10:24] like you can download, and then you can use any slightly more of a hardware like this laptop.
+[10:31] For example, to do the actual classification, to run the model against all the images and to annotate them.
+[10:38] And if you do that, you end up with some images like this, which was very exciting.
+[10:42] It's really a long time to get to this point. But I ended up with thousands and thousands of images
+[10:46] like this where I have an image of a bird with the species, the time the image was taken and the
+[10:51] weight all in the file names, so I don't have to deploy a secondary database because I'm lazy,
+[10:55] despite being a data engineer. Great. So this is enough to wear a Robin, right?
+[11:02] Like, picture of Robin, weight of Robin. Surprisingly not. I'm looking at the data.
+[11:13] And I am doing some calf-greased off behind the scenes here because I'm going to help myself.
+[11:16] But I'm streaming all the weight data out and I'm using Grafana to plot it so I can kind of keep an eye
+[11:21] on the bird feeder. I'm pretend I'm doing work for my job. And I could see in the data that the
+[11:26] scale would occasionally get stuck at 20 grams. And then it was getting stuck at like minus 50 grams.
+[11:32] And then it was just going real, real wrong. Like, I was calibrating it and then the numbers
+[11:37] were just falling apart, right? So I'm plotting it and I'm like, okay, I'll plot it against,
+[11:41] you know, like temperature that day and humidity and air pressure. Like, is there something
+[11:45] interfering with my sensor? Wait a minute. Surely not. It was the pigeons. I went through
+[11:57] and I lined up all the pictures on the camera of pigeons and all of the times for the data
+[12:01] broke and it was pigeons breaking my sensor. As you can see here from there, the trail of carnage
+[12:08] that they reached through my data set, that pigeon does not weigh negative 96 grams. You probably
+[12:16] weighs about 3 to 400 grams. The pigeons were staying so long and they were eating so much bird
+[12:25] seed. The setup with retail, you go back to zero and the pigeon would keep eating and it would
+[12:31] repeat. And so the weights you're seeing here in the negative are not an error reading per se. They
+[12:38] are how much bird seed that pigeon ate in one sitting. 86 grams. It's just insane. Now, I gave a
+[12:50] much shorter version of this talk at PIDIS London. I could look lightning talk and everyone
+[12:55] there had lots of suggestions about how to deal with the pigeon menace ranging from air horns,
+[13:00] flashing lights, lasers. I've got a soft spot in my heart for pigeons. I feel like they're
+[13:07] much blind. They're actually if you don't know, ferral rather than wild for the most part,
+[13:11] like they were previously domesticated by people. Now less so. And even if they were kind of
+[13:18] ruining my experiment. I mean, look at that one in the last frame. He's looking right down the camera.
+[13:23] He knows what he's doing. I went for like a more robust attachment of the bird feeder to the wall.
+[13:30] He's making a suction cup and I set up my tearing so that it would be pigeon proof and I just
+[13:35] kind of accepted that I would be constantly pouring bird seed into an insatiable pool of pigeons.
+[13:43] Okay, but with all of that done to account for the pigeon problem, we've got a smart bird feeder.
+[13:51] We've deployed our Robin detecting classified deployed being generous, running on my laptop,
+[13:55] and we collected our data set. Just how heavy is our Robin? Okay, we're very nearly there.
+[14:03] But I couldn't quite at this point say this Robin weighs this amount because I couldn't
+[14:10] actually identify unique Robins. Yeah, I have lots of pictures of Robins, but it could be
+[14:15] lots of different Robins and maybe I'm getting an accurate readings for different weights.
+[14:18] Maybe I have lots of Robins to weigh the same amount. I can need some where pulling out unique
+[14:21] Robins. And this was the very last step. I need to look at all of my annotated image data
+[14:28] and try and find individual birds, specifically Robins. But I'm not a data scientist.
+[14:34] I spoke to some friends who are data scientists, including some who you might hear laughing
+[14:39] politely in your audience about what I did in this next step, and they did that thing that friends
+[14:45] do when you're doing something that's a bit out of your comfort zone and they're very encouraging.
+[14:48] But they made some gentle suggestions about ways that you would actually do this that are mental.
+[14:56] So I did a very, I did a very, I did a very silly thing. I took all of my pictures of Robins
+[15:02] and I created embeddings of them. Much the same way you would for facial recognition.
+[15:07] And then I did a similarity clustering on those embeddings.
+[15:13] Look, look, look at effects database to try and see if I could do like Robin face ID.
+[15:21] Any guesses for working out how that went? I was just using like K-means clustering, which turns out
+[15:26] you can't use the first clustering method you hear off, go figure.
+[15:31] But I got what looked like reasonable results. And I think this is something that like any level of
+[15:37] anything that's like ML or AIJ. So this is always a big trap where you're like, oh these numbers look
+[15:42] like good numbers, right? Like, you know, I've got Robins, I've got weights, I've got times of the day,
+[15:47] like this looks like real data. But then if you scratch under the surface, you're like, oh, this is
+[15:51] junk, right? Like I'm finding correlation and where there isn't any, I'm lumping things together,
+[15:58] I'm using this to any wrong. So having presented this solution to a bunch of very nice data scientists,
+[16:04] they gently came over and went, hey, have you considered just using a histogram? Like, why aren't
+[16:09] you just using a histogram? You'll be able to see individual birds and spikes in the way in group
+[16:14] them and correct for errors that way. I was like, oh, yeah, that's why you guys data scientists
+[16:21] and I'm a data engineer. But with that done, we have this very nice plot of burblates. We have
+[16:29] our frequency of that weight and we have the weights. And from that, we can answer our question.
+[16:35] How heavy is this Robin? Drumroll, please. Or look at that, you're actually doing it. This is exciting.
+[16:43] 26.3 grams. 26 grams. The average weight of a Robin in the UK, if I fell to measure already,
+[16:55] is 18 grams. I weighed all the robins with this burglator. They weighed 18 grams. This Robin is
+[17:02] 60% above the average weight. That is like the difference between me as an adult man and a professional
+[17:10] rugby player. This Robin is swallowing his huge. Obviously, like any good data
+[17:17] person, I look at that and I'm like, that's a funny number, but it's wrong. So, I checked my setup.
+[17:22] I recalibrate. I get more readings. I weigh other robins. And it's accurate. Like, this Robin weighs
+[17:30] 26.3 grams. We observed it repeatedly with multiple set-ups and multiple calibrations. That's a big Robin.
+[17:37] And there you go. And whilst I was doing some more research after this project,
+[17:44] I came across this slightly more uplifting fact about robins, which is whilst most robins don't
+[17:49] survive their first year. It has a good chance of living like much longer. Some robins can live
+[17:54] it up to 19 years. Like, I have a 60 younger than that. As a Robin out there who's got it,
+[17:59] it's life figured out more than her. And I'm very happy to report that this project was happening
+[18:07] kind of December of last year. It was the last like final sprint on me getting this working.
+[18:12] I've since measured a 26-gram Robin in the beginning of this year. So, who can say something about a
+[18:24] Robin being that heavy, keeping it going for a long time? Who thought? I've talked about a lot of
+[18:30] the things I'm not necessarily data scientist. I'm not necessarily a machine learning engineer.
+[18:34] In this project, I did enjoy learning about both of those things a lot in order to answer my
+[18:38] stupid question. But I am a data engineer. And at this point in the project, I go, oh, I've got
+[18:43] all of this fun data that I can do things with. So, I built this. This is a little cloud-flower worker
+[18:52] pointing out all of the images that are in cloud storage. And this is a dashboard of every bird,
+[18:57] the visits my bird feeder. And all of their weights, now, all of these weights are wrong.
+[19:04] Because I have lost the war with pigeons. I fought the pigeons in the pigeons one.
+[19:11] Sometimes three pigeons get on the bird feeder. And they don't make suction cups rated for three
+[19:18] pigeons that you can get back off a window when you're done. So, the weights are junk. I may
+[19:22] revisit this and try maybe other types of sensors. Just trying to get some accurate weights.
+[19:29] But this has been a super fun part of this project to me. I was in Eastern Europe for work last
+[19:35] year, very short days, very dark, kind of miserable. But I could look at my bird feeder back home.
+[19:40] And I could see all of the birds. It's got a nice, it's really nice part of this project.
+[19:45] Another thing you might notice about this data is that haven't been in any birds visiting in
+[19:49] a while. And that is because, and here's a little PSA for you, the RSPD actually
+[19:54] encouraged you to feed seasonally to prevent the spread of 80 in diseases. So, during summer, there's
+[20:01] a high risk of disease spreading. Birds can be going and foraging very successfully. And some of
+[20:05] they don't need to be fed necessarily. So, between May and October, you can refrain from giving the
+[20:12] birds even sick, give them small amounts of other stuff. And that can really help cut down
+[20:16] the spread of disease. And try and get those robins into the 19-year demographic.
+[20:22] So, yeah, we have not put any birds in our bird feeder in quite some time. So, no birds.
+[20:27] It's very sad, but you know, we like to be responsible and take a care of our wildlife.
+[20:31] So, yeah, thank you so much for listening. If you were interested in any of the code or the data
+[20:36] or a more in-depth dive into the harbour of this project, everything is over on GitHub,
+[20:42] I hope that QR code works. If it doesn't, I will be in the Q&A 10 after the soaps that come say hi.
+[20:48] And yes, thank you so much for listening.

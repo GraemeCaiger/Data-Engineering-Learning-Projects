@@ -1,0 +1,565 @@
+[00:00] Hello everyone.
+[00:15] Alright, as I mentioned, I'm Andrew Godwin.
+[00:18] I have been helping out with EMF since 2018.
+[00:21] I started just doing a few shifts in the infotent.
+[00:24] And now I have been in this field since last Wednesday.
+[00:28] I have been building this festival.
+[00:29] It's very nice you will turn up.
+[00:30] It's also very weird.
+[00:31] It's been quite an empty field for a week.
+[00:33] So it's wonderful to have you all here.
+[00:35] In other rated things, I have been doing that in rescue.
+[00:39] Since 2023, I started doing like more field work last year in 2025.
+[00:45] And as somewhat of a related note to this,
+[00:48] I do live in Denver, Colorado.
+[00:50] And so we have a few mountains around there,
+[00:53] as you may understand from your knowledge of Colorado.
+[00:56] Before I go any further, I want to give you a content warning.
+[00:59] This was in the schedule, which is a reinforced it.
+[01:01] I am going to discuss death, answer the injury,
+[01:04] but in abstract terms, there's no specific details.
+[01:07] This is all throughout the talk.
+[01:09] There is no specific sectional warning about.
+[01:11] Just so you know, this is in here.
+[01:13] Alright, let's talk about what is mountain rescue.
+[01:16] People often have very Hollywood sort of enabled visions of what mountain rescue is.
+[01:22] There's people dramatically swooping in by pelicopter,
+[01:25] blocking on ropes, blocking people off the side of mountains.
+[01:28] That happens very occasionally,
+[01:30] but it's mostly not what it is and we'll get to that.
+[01:32] As a background to where I volunteer,
+[01:35] I work with our Pine Rescue team with a base just west of Denver, Colorado,
+[01:40] along the I70 corridor,
+[01:42] covering three different counties in that area.
+[01:45] We are one of the busiest mountain rescue teams in the United States.
+[01:50] I'm not sure they're the ranking thing, like the Washington teams definitely beat us,
+[01:54] but we're pretty busy.
+[01:56] Generally, 150 or more missions per year, which is a quite a decent mission load.
+[02:02] The team has been going since 1959,
+[02:05] so we are closing in on in a little bit here, like, you know,
+[02:10] some very significant milestones.
+[02:12] The team is approximately 70 people who are field active,
+[02:15] but in general, does very quite a lot.
+[02:18] And is entirely volunteer run.
+[02:20] No, no, no, no team is paid.
+[02:22] However, the team is all professionals.
+[02:24] It is a very strict level of training as we'll talk about,
+[02:27] and sub-referters ourselves as volunteer professionals.
+[02:31] Now, search and rescue specifically, or mountain rescue,
+[02:35] is that you can post of three things.
+[02:37] You may hear back country rescue, mountain rescue, search and rescue.
+[02:40] There is a bird element not often talked about.
+[02:44] So firstly, there is search, search is finding people who are lost.
+[02:48] Sometimes they have called us, or somehow otherwise go in touch with us,
+[02:52] maybe by satellite messenger, and said, help, I'm lost.
+[02:55] Often, it is friends or family, or hiking partners or similar,
+[03:00] reporting, hey, this person was due back, and it's been so many hours inside of us,
+[03:06] or them, I don't know where they are.
+[03:08] There is, of course, rescue.
+[03:11] Rescue is, once you know where a person is,
+[03:14] now you get them out of the field, because often they can't do this in cells.
+[03:18] It can be medical reasons, it can be a number of things,
+[03:21] but often, you know, they are just unable to walk themselves out,
+[03:24] either due to their own personal situation,
+[03:27] or due to the train and technical access involved.
+[03:31] And finally, the part we don't talk about,
+[03:33] what publicly is recovery.
+[03:35] If someone does buy in the field, they do not leave them there.
+[03:39] You'll make every effort we can to get them back out of the field,
+[03:42] and back to their family.
+[03:44] We now do all recoveries.
+[03:47] Recoveries are obviously a lower priority than rescue.
+[03:51] There's a couple of people who are just so difficult to get,
+[03:55] that it would place too many people's lives at risk,
+[03:58] but generally we'll get everyone out.
+[04:00] As you can imagine, a search often leads into a rescue or recovery,
+[04:05] but both can also start independently.
+[04:08] And as we'll talk later in the talk,
+[04:10] these days we get more and more of rescue and recovery straight away
+[04:14] without the search element.
+[04:16] Also, it's very warm in this tent, my goodness.
+[04:19] Alright, let's talk about the training working.
+[04:22] There's a roughly three categorization of terrain.
+[04:25] These are not strict.
+[04:26] One of the favorite phrases in mountain rescuers, it depends.
+[04:29] And I've put some degree, thing within here.
+[04:32] These are just examples.
+[04:34] The actual truth is it depends.
+[04:36] But sort of the context in the consequences,
+[04:39] we'll talk about is what matters.
+[04:40] So flat land rescues, we think flat land is a better.
+[04:43] Anything under about 15 degrees.
+[04:45] While E. Snow here is hilly, it's considered flat land.
+[04:48] Generally what this means is there is no need for a rope system,
+[04:52] but any kind of safety aspect.
+[04:54] We may use one to fall someone,
+[04:56] so we have a thing called a litter,
+[04:58] which is basically a stretch away the wheel on the bottom.
+[05:00] We will often just have an extra rope in the front
+[05:03] and put some on that to haul along.
+[05:05] The way you're not relying on a rope system for safety,
+[05:07] it's generally reasonably easy to navigate.
+[05:11] You can still have passes like water crossings
+[05:14] and shale and sort of slippery ground underneath.
+[05:17] Low angle is what you consider a moderate slope.
+[05:22] This is places where we need rope systems for safety,
+[05:25] but they're not taking full body weight.
+[05:27] A general example is like, you know, quite a steep hill.
+[05:30] If we've got someone in this wheel litter,
+[05:32] often the wheel comes off for this bit, coming down that slope,
+[05:35] we're going to want to have a rope on there because it would be pretty bad.
+[05:38] If at any part of that system or that person was not attached,
+[05:42] they'd go a decently down the hill.
+[05:44] They would probably start, but it's not a great thing.
+[05:46] My angle is anything where the rope is supporting someone's full body weight.
+[05:51] This is very high consequence.
+[05:53] At this point, if the rope breaks, it is very, very bad.
+[05:56] Generally, as you can imagine, the risk increases
+[05:59] as you go further down this scale.
+[06:02] Now, there are other elements to mount and rescue.
+[06:04] We do have helicopters in Colorado, where I volunteer,
+[06:08] we have the wonderful flight for life in their distinctive helicopters.
+[06:12] We do not always get helicopters. They are fickle beasts.
+[06:16] They like things like no clouds and no high winds.
+[06:20] And also, I'm sure many of you are where.
+[06:22] Colorado is very high elevation.
+[06:24] A highest peaks in Colorado are 14,000 feet or 4,200 meters.
+[06:30] That is very close to the design ceiling of helicopters.
+[06:34] Like this is a very small medical helicopter.
+[06:37] Most of the ones you've probably been seeing in cities in Europe are much bigger,
+[06:40] they're turbine based.
+[06:42] We have these ones because they can just about make it up to those top peaks.
+[06:46] But in the summer, as Diego is fostering their strengths,
+[06:49] density altitude kicks in, sometimes they can't make it.
+[06:52] We have other options that talk about later when talking about some missions.
+[06:57] The overall thing though is that that country rescue has many different fields.
+[07:01] Mountain rescue is one aspect of it.
+[07:03] There are many other plants, parts of the planet.
+[07:05] They're also inaccessible, unhospitable, or otherwise.
+[07:08] There's a general set of rescue teams,
+[07:11] these specialty.
+[07:12] For example, there is desert rescue.
+[07:14] There is canyon rescue.
+[07:15] There is ice-cream vassant hat and glass rescue,
+[07:17] which we actually do you've got to rain.
+[07:19] There is cave rescue in a bunch more.
+[07:22] Generally, all these fields overlap.
+[07:24] For example, in Colorado, we have a lot of old gold mines.
+[07:27] If someone is trapped in a gold mine,
+[07:29] we will not enter, but we'll call cave rescue teams to come help.
+[07:32] And also, we have a couple of cave rescues on our team who have been back and forwards.
+[07:36] But in general, it's very multifaceted.
+[07:38] Teams tend to specialise.
+[07:40] You wouldn't want, for example, a mad rescue team going to do a big search in the big flat.
+[07:45] These are desert, they're not equipped for it,
+[07:47] though they can probably help out at least to some basic level.
+[07:50] However, all of these are risky places.
+[07:53] And so let's talk about risk.
+[07:55] What is risk?
+[07:57] Right? Like, it's kind of an abstract concept to most people.
+[08:00] But I want to retry and like, verify in this talk in a couple of ways.
+[08:04] So the main way I think about risk is on two axes.
+[08:07] This is a classic risk matrix.
+[08:09] You may well have seen this before.
+[08:11] But essentially, we have consequence and likelihood.
+[08:14] And the combination of these in form how risky something is.
+[08:18] If something is of low consequence,
+[08:20] that means if it happens, now come is not going to be too
+[08:24] to say to them or too bad to you.
+[08:26] Even less very likely, it's at most probably going to medium risk.
+[08:30] Right? Like, a lot of things like this and other festival planning,
+[08:34] but it's too, it's like, well, this might work happen,
+[08:36] but the outcomes are not very bad.
+[08:38] On the opposite end, this thing is very, very severe consequence.
+[08:41] And I think in this case, talking about example,
+[08:43] death or majors, disabledment by breaking a limb or other body part.
+[08:49] That is very, very difficult to manage,
+[08:52] even at a very low likelihood, that's still a medium risk.
+[08:55] But the consequences so severe,
+[08:57] as you can probably imagine,
+[08:59] mountain rescues a pretty high consequence thing,
+[09:02] especially in high angle, as I talked about earlier,
+[09:05] your ins situations where a single rope,
+[09:08] how he's suspending one, two, or maybe a few more people.
+[09:12] And for reference, mountain rescues also often weight constrained,
+[09:16] we fight all the gear in, and the base of the trailhead,
+[09:20] all brought up to the person and the situation.
+[09:22] And so we cannot afford, in some places,
+[09:25] to carry extra ropes or safety gear or redundancy.
+[09:28] People who work in business and bought early on rescue
+[09:30] would carry many more ropes and do much more safe systems.
+[09:33] We just can't carry all that stuff up.
+[09:35] So we do work closer to our safety margins on rope.
+[09:38] The safety margins are still very, very generous,
+[09:41] but we are a lot less than some other people in other situations would do,
+[09:45] because they have an effectability of having basically infinite weight capacity and vehicles.
+[09:49] Now, we can't really control the consequence.
+[09:52] The terrain is the terrain, and the access of the access.
+[09:55] As technologies improved, it's improved a little bit as we talk about,
+[09:59] but what we can control is the likelihood.
+[10:02] If you can't control one of those two axes, you can control the other.
+[10:05] And as it's true with most risks,
+[10:06] generally likelihood is the thing you are able to control,
+[10:09] not all of them, but most of them.
+[10:12] And so to be really focused, given we have a naturally high consequence situation
+[10:17] on making the likelihood as low as possible to manage that risk as best as we can.
+[10:23] Some of the key things here, I want to call out, first of all,
+[10:27] obviously a very strong safety culture, and this comes in a few different aspects.
+[10:32] So first of all, we do not rush.
+[10:34] We do not run towards things.
+[10:36] If you encounter a mountain rescue team, prepping to go on something,
+[10:39] you may think they're being rather slow and not being very urgent.
+[10:42] That is very deliberate.
+[10:43] They are doing things in a predictable fashion,
+[10:46] because as the phrase goes, slow is smooth and smooth as fast.
+[10:50] If you rush your miss things, if you miss things,
+[10:53] you are adding to your likelihood of entering into your high consequence scenario.
+[10:57] That's not good.
+[10:58] The other thing, much like, for example, plays like aviation and flight deck management,
+[11:03] we have a very strong culture where anyone can say stop,
+[11:07] and we will stop.
+[11:08] It could be the most junior member on the team.
+[11:11] I joined the field side last year with a group of, well,
+[11:15] no, 15 other people.
+[11:17] Two of us are called stops, probably in the first six months.
+[11:21] One of them was not needed, but the point is you stop because stopping is safe.
+[11:25] And so we proceed at a very reasonable rate.
+[11:28] We always have the ability to stop.
+[11:30] There's a big part of our safety culture.
+[11:32] And this is really enforced in a lot of mountain rescue teams around the US.
+[11:36] And honestly, internationally as well, around the world.
+[11:39] Training is also very important.
+[11:42] As it mentions here, you don't want the first time you do something for a while to be in the field on a real mission.
+[11:48] We do more training, roughly per hour than we probably do missions.
+[11:52] It's probably close.
+[11:54] But we train a lot.
+[11:56] We have a training every week in the classroom.
+[11:59] We have a training every two weeks in the field.
+[12:02] The field trainings are often five plus hours long.
+[12:05] We cover loads of different scenarios.
+[12:07] But the point is, every member of the team at those these trainings should have encountered all the different major kinds of scenarios at some point in the previous six months or so.
+[12:19] And so when it comes to the real thing, you've got practice.
+[12:23] You know what you're doing, you're not encountering it first time.
+[12:26] As we'll discuss, there's always something you need for every mission.
+[12:29] The point is to try and again, bring that, let me have down as fast as you can.
+[12:35] Finally, clear command is really important.
+[12:38] What we don't want is someone turning up running into the field and trying to self-solve things themselves.
+[12:44] In the best case, it's probably duplicate his work and there's wasting effort.
+[12:49] In the worst case, it could run into something else we're doing and be dangerous.
+[12:53] Mount Rescue, while the volunteer organization is not a democracy.
+[12:58] There's a strong command structure.
+[13:01] Obviously, it's not, you know, dictatorial.
+[13:04] Everyone who is at the top of that structure is really wonderful.
+[13:08] They've earned their place.
+[13:10] They listen to feedback really well and outside of the fields, or debrief, or make notes, or critique each other in the fields.
+[13:17] We have a strong command structure and what is said happens.
+[13:20] If you disagree with it, if it's safety related as I mentioned, you can raise it.
+[13:24] If you're the nitpick, you don't say anything, you get on with it.
+[13:27] Because debasing the problem for 20 minutes is 20 minutes you could have spent going and helping the person who's covering you having a bad day.
+[13:35] Now, that's part of it, but they've part of Man Rescue is the people.
+[13:40] This is somewhat surprising as some people too.
+[13:42] We have a strict priority list in the field of who is your priorities.
+[13:47] The number one priority is always you.
+[13:50] If you want out of the field at any time, if you have some personal medical problem,
+[13:56] you just don't want to respond that day because you're having a bad day, or there's been, say, a death in the family.
+[14:02] You come first.
+[14:04] This may mean that the rest of the team has the best people to deal with.
+[14:07] That's not a problem.
+[14:09] The team is not useful.
+[14:10] These people are not useful.
+[14:12] The second priority is the team.
+[14:14] It is no, we are no use to other people if the team is not in good shape.
+[14:19] If we have to enter a situation that endures the team to save someone,
+[14:23] that is a very, very carefully calculated risk, we will not do it.
+[14:27] If a danger to the team is too great.
+[14:30] Generally, we always find ways to mitigate it.
+[14:33] I've not heard of a case where we just didn't get to someone.
+[14:36] We may take a longer and safer route to someone, so that we mitigate the risk to the team.
+[14:42] The subject, or the patient, then comes third.
+[14:45] They are important.
+[14:46] It is our job to get them out or to find them.
+[14:50] They are third and the other priorities.
+[14:53] We will talk about the risks and the risks.
+[14:56] Obviously, when we go and find someone, or rescue someone or recover someone,
+[15:02] generally, we know the situation is probably dangerous.
+[15:07] Something bad happens to them.
+[15:11] By the nature of the situation, unless they got an altitude on mountain sickness,
+[15:19] which can happen to anyone, right?
+[15:21] Some team members get an occasionally.
+[15:23] You are already in an increased risk environment because you are naturally where someone has had something bad happened to them.
+[15:29] We have to go into the situation with a much knowledge as possible.
+[15:34] Generally, when we call the RP, the reporting party, which may be the subject as well,
+[15:40] calls 911 in the US.
+[15:42] The call taker is sending us as many notes as possible.
+[15:45] We get all of those out of the system.
+[15:47] Then, often call back and ask them more notes.
+[15:50] Generally, our goal is to get as much information about what happened,
+[15:54] so that we cannot encounter the same problem on the way in.
+[15:58] Sometimes we get nothing, but generally we get something,
+[16:01] and we can identify bad terrain and also figure out, for example,
+[16:04] Oh, like Abalanji, the classic example.
+[16:06] If an Abalanji has happened in location, it is,
+[16:11] paradoxically, now safer, where the Abalanji happened exactly.
+[16:14] That slide has raised the energy, but everywhere nearer and on the way in,
+[16:18] is likely still very high Abalanji risk terrain.
+[16:21] So navigating that is a big part of the problem.
+[16:24] So, when we talk about a few missions, we have had, just to interest on these.
+[16:28] This is, I think, my fourth mission on the team.
+[16:31] It is one of the most famous we have had recently.
+[16:33] There were two people, hiking up a Tories Peak, which is one of the 14ers in Colorado.
+[16:39] That is mountains over 14,000 feet.
+[16:42] They were lost, they were on the foam with on our mission coordinators,
+[16:46] when they were both struck by lightning while on the foam with us.
+[16:50] Now, what's good about this is this is the fastest,
+[16:55] I've ever known about someone being hit by lightning,
+[16:57] or we have the immediate notification.
+[16:59] Being hit by lightning is never good.
+[17:02] Survival rates are higher than you'd expect, but it can cause rather noisy disabilities.
+[17:06] But these people, you'll notice it's June,
+[17:09] June and Colorado means snow on the mountain still.
+[17:12] It's not out of our finger, it's cold up there.
+[17:15] So we embarked on a roughly eight hour mission to get up there and get them out.
+[17:20] Now, this picture, which I think I am the person on the left,
+[17:23] I'm slightly left out of shot here,
+[17:26] it is difficult to get up there,
+[17:29] it is terrain that our normal medical helicopters cannot get to.
+[17:32] And so given that, we called the Air National Guard on the US,
+[17:36] who have a black cork, black corks can get there,
+[17:39] but they are not always able to make it out to us,
+[17:42] like they're great, you'd be really enjoying working with them,
+[17:45] but sometimes other things come up or they can't get the aircraft out to us.
+[17:49] And so we've had a plan B, because we always have a plan B,
+[17:52] and we started hiking five ground teams up to this person
+[17:56] from around 10,000 feet to 14,000 feet.
+[17:59] In the winter across our ice, this is a long process.
+[18:03] Me and these other teams that were here got to 13,000 feet,
+[18:06] that's 4,000 meters, before the black cork finally turned up.
+[18:10] This is me and everybody else watching it land on the peak of the mountain
+[18:13] and picking the people up.
+[18:15] But we had a backup plan.
+[18:17] Like we may well have had to take these people down by ground.
+[18:21] That probably would have been a overnight, 18 hour slog.
+[18:25] And we would have prepared for it.
+[18:27] It wouldn't have been great, but we have to have that optionality.
+[18:30] And like I mentioned earlier,
+[18:31] we often do get air support, like they will come out for any injury to light.
+[18:36] Risk to light for limb or sights, if you're other things is what they go with.
+[18:40] But there is always a backup plan.
+[18:42] We never rely on air support turning up.
+[18:44] The mountain, whether in Colorado, is incredibly variable and risky.
+[18:47] It can gust over 70 miles an hour.
+[18:49] We don't want to rely on that.
+[18:51] This mission happened last week when I was here.
+[18:55] I'm gutted. I missed this because I was a kid building this festival.
+[18:58] But some people were scaling a wall in Clecary Canyon and fell.
+[19:02] And we stuck on their repel, wrote at height on high on the canyon wall.
+[19:06] The team had to do as go over it with a rope here as you see.
+[19:11] Go back around, top of the wall, go down and pick them off.
+[19:15] This is a very complex mission.
+[19:17] It took a lot of people a long time.
+[19:19] But it's also exactly the thing we trained for.
+[19:21] And specifically, so you see here, like on the left, it's what we call Tyrolian,
+[19:24] which is a river traverse by rope.
+[19:26] On the right, you see there's what's called a pick off,
+[19:28] which is someone going down on a repel with a rope system
+[19:31] to rescue someone who's stranded.
+[19:33] We've practiced both these things separately.
+[19:35] But obviously, we're ready together.
+[19:37] But every mission does take a different set of skills.
+[19:40] And so it's very important that when you enter into a mission,
+[19:42] you don't know what you have.
+[19:44] You have to have as much optionalities you can.
+[19:46] If you're many of things you can do is bigger.
+[19:49] You can generally pick up a safer and more reasonable approach
+[19:53] to things, which is obviously always the goal.
+[19:56] The last mission I'll mention here,
+[19:58] directly, is we had, since it's a while back,
+[20:02] there was a search for a two members of the Manus family
+[20:06] who went missing on Mount Blue Sky,
+[20:09] pictured here, and had a time call Matt Evans.
+[20:12] We did a search for many days.
+[20:16] They were not found.
+[20:17] A small crew of team and the search was then called off
+[20:20] because the conditions got too difficult.
+[20:23] And enough time in the past,
+[20:25] we believed they had no chance of making it.
+[20:28] And at that point, they were deceased.
+[20:30] A small group of people kept searching.
+[20:32] And then three months later,
+[20:34] they eventually found both of them
+[20:36] got them out of the field.
+[20:38] The key thing here, though, is this took
+[20:41] a huge number of other mountain rescue teams,
+[20:43] some other local counties, a lot of local sheriff's office,
+[20:46] and five people have like a large number of different agencies.
+[20:49] Every agency of work with this fantastic,
+[20:51] like they're all great in a different ways.
+[20:53] I have a lot of specific respect for our firefighters,
+[20:57] who can both drive a UTV over terrain faster than you can
+[21:01] ever imagine.
+[21:02] But also, are out there right now fighting wildfires in Colorado.
+[21:06] And everyone involved is really important.
+[21:09] One of the difficulties is though that every agency,
+[21:12] every group, every organization has its own language,
+[21:15] it's own phrasing.
+[21:17] It's very difficult to overcome acronyms,
+[21:20] code words, even codes.
+[21:22] One example is we have codes for us if people are in need of help
+[21:28] or deceased or alive.
+[21:30] They are numeric, like the MRA code one, MRA code two.
+[21:34] These are different to the US police codes,
+[21:37] we mean different things.
+[21:38] If you say code four, a mountain rescue person will hear one thing,
+[21:42] and if police often will hear another,
+[21:44] that is often a problem.
+[21:46] So being specific is very important to avoid risk and confusion.
+[21:50] But let's talk about the overall technology
+[21:52] and respective on mountain rescue.
+[21:54] So one of the things I've been talking to a lot of our more experienced
+[21:58] members about is search it.
+[22:00] We do not do a lot of search anymore.
+[22:02] People are getting lost less.
+[22:04] Most of our missions now are someone rings or satellites,
+[22:08] 911.
+[22:09] We get an exact GPS location.
+[22:11] My, oh, we get an exact, we get exactly here.
+[22:13] We go there, find, and get them out.
+[22:15] And we do do searches.
+[22:16] They happen, of course.
+[22:17] But they're far less common than they used to be.
+[22:19] And at least based on the reports and discussions,
+[22:22] I've had the various people.
+[22:24] A lot of this is down to technology.
+[22:27] Everyone out in the mountain now generally has a device
+[22:30] that can locate them on a map to exactly where they are.
+[22:33] And this helps them find their way out,
+[22:35] or tell us where they are.
+[22:37] But can hinder as well.
+[22:39] And sometimes it's like social media.
+[22:42] People post Instagram pictures of the amazing trails.
+[22:45] Like, oh, it's beautiful up here.
+[22:46] Come on, I'm like actually is a very technical,
+[22:48] physical access route.
+[22:49] And so people are a one-to-one thing.
+[22:53] As they should be.
+[22:54] But they maybe are like a little bit in over their head.
+[22:57] And so both of those things.
+[22:59] Mean we do, we do less searches.
+[23:01] But often we have more rescues of people who.
+[23:05] Have a little less experience than the situation they should be in.
+[23:08] There's of course many rescues just like someone just had about accident.
+[23:12] There's no blame culture.
+[23:14] People just had a bad time with it.
+[23:16] We're here to get them out.
+[23:18] The technology of rescues also changing.
+[23:21] I am the head of drones for our team.
+[23:24] Picture here on the background is one of the big ones.
+[23:28] So like to call them.
+[23:29] We are looking into carrying all our supplies in via drone.
+[23:34] This we're not quite there yet.
+[23:35] It's probably next decade.
+[23:37] But there's a future mountain rescue where we are not hiking.
+[23:40] We're all gearing.
+[23:41] We are flying in a 20 miles an hour in a straight line.
+[23:44] This will almost certainly change how we approach our safety systems.
+[23:48] Because we can then get stuff in quicker.
+[23:50] But much like helicopters.
+[23:51] The drones can also not always fly.
+[23:54] On the plus side we can consider a drone more extendable.
+[23:57] There is no human life at risk.
+[23:58] They're flying over empty forest.
+[24:00] Right? It's not a huge problem.
+[24:01] And we can put gear on them that's not particularly in risk.
+[24:04] It's money lost.
+[24:06] But this is going to be a big element of how we sort of continue to modify risk.
+[24:10] For example, we go to like we could drop supplies at someone.
+[24:13] If they can't reach them easily, we can buzz over some water or radio and some food for them.
+[24:17] And I have them just be a bit more comfortable for another four hours as we get there.
+[24:21] But there's a lot of this to come.
+[24:23] That said, one of the things about mountain rescue that again,
+[24:26] I said at the beginning, it's not all helicopters and swinging in and saving the day.
+[24:30] A lot of it is biting around and a lot of it is driving.
+[24:34] Generally, you go somewhere, you stage, you send a few teams in, you're doing it slowly.
+[24:39] It is not the kind of thing for people who want to go, go and count, stop.
+[24:45] We have a very strong filtering process for new applicants.
+[24:49] There is a motivational speech and then we have a demotivational speech for the new applicant classes.
+[24:54] I'm going to try to tell you all the bad signs of things.
+[24:57] And also a whole interview with the screening process,
+[25:00] that someone isn't here from the glory.
+[25:03] They're here because they will continue turning up for the next 5, 10, 15, 20 years.
+[25:08] They'll learn their craft, they'll learn the skills,
+[25:11] and they will become someone who's got that option of different skills they can do.
+[25:16] And there was a really make every mission that much safer.
+[25:19] The key thing though is it's a human nature to ignore risk.
+[25:23] We tend to not want to think about things we don't like, that includes risk.
+[25:28] It is very important to come and acknowledge it head on.
+[25:32] If you ignore risk, you can't deal with it, you can't reduce the likelihood you can't manage it.
+[25:36] We always talk about risk.
+[25:38] One of the things on the team is very upfront about whenever an near miss or an absolute miss happens.
+[25:44] We talk about it.
+[25:45] On a very clear, in our entire history, the team has never lost a single person.
+[25:49] There have been no deaths of a team member in the field.
+[25:52] It's never happened.
+[25:53] We have an excellent safety report considering what we do, it's incredible.
+[25:57] But we always talk about it.
+[25:59] And especially we talk about near misses, we'll get through the second.
+[26:02] But the key thing you have to avoid is a heroics.
+[26:06] A heroics happen everywhere, it happens in organizations, it happens here, it is festival, even.
+[26:11] I'm the old see of this.
+[26:13] People often see a problem and push themselves to extremes to overcome the problem.
+[26:19] Heroics are sometimes needed, but in doing that, what you are doing is hiding the failure.
+[26:26] You have taken a process failure and you have stretched yourself thin, remember, you come first to try and
+[26:32] people over that failure.
+[26:34] And now you've done, you've lost information.
+[26:38] You've no longer captured the fact that there's been failed and so we can't prevent it again.
+[26:43] So we all occasionally do heroic, obviously, they happen occasionally.
+[26:47] They are not a thing we ever plan around of a lie upon or encourage.
+[26:50] Because they just make the whole thing worse.
+[26:53] You're just hiding information from preventing us learning.
+[26:56] And so I ask all of you in general, if you see someone doing heroic, seeing an organization,
+[27:01] and making things work, sometimes it's good to let failure happen.
+[27:05] As long as the failure is of low or medium consequence and propagate upwards,
+[27:09] that's how a organization learns, that's how an organization improves its process.
+[27:14] Near misses, I mentioned, are a gift.
+[27:17] A near miss is the most perfect thing you can get.
+[27:20] You had the failure, you know how the failure happened, but the consequence did not happen.
+[27:25] Every time you have a near miss, we have a blame-free debrief.
+[27:29] We worked at what caused it and we modified our process too much.
+[27:33] We have a couple in trainings.
+[27:35] In fact, we're in the training that expose the process failure,
+[27:39] and we've got the ability to learn from it without even having a subject to occupation on the line.
+[27:45] She's even better.
+[27:46] And so every time you near miss, it is an incredible event you should be gloriously happy about,
+[27:51] and you should never blame the person or the process that did it,
+[27:54] because almost every failure is a Swiss cheese model,
+[27:57] about four or five different things aligned,
+[27:59] and it found that perfect route through all your processes,
+[28:02] and now you've got the perfect example to make them all better.
+[28:05] Finally, one last note, and we always talk about this,
+[28:09] in both the US and the UK, mountain rescue is always free.
+[28:15] Please call us when you think the problem is starting or beginning.
+[28:20] Don't call us when it's become nighttime and things have got worse.
+[28:25] This is more of a problem in the US,
+[28:27] because obviously the US to perception is that you pay for emergency services.
+[28:31] Ironically, there are places in Europe where you pay for that and rescue.
+[28:35] But in both these countries, you do not pay for it,
+[28:38] and we prefer you call us as soon as something seems wrong,
+[28:42] and let's say, oh, I'm up here with that torch,
+[28:46] and it's getting dark. Don't wait,
+[28:48] and then call us three hours later when it's very dark,
+[28:50] and you can't find a way out.
+[28:52] Call us soon, and then you can probably talk you out over the phone using landmarks, for example.
+[28:57] One thing to mention, if you do go to the US,
+[28:59] this applies to man rescue,
+[29:01] this does not apply to the ambulance or helicopters unfortunately,
+[29:05] but if you do find yourself in the US,
+[29:08] know that if you are able, you can refuse medical transport,
+[29:11] and so search and rescue will kick you out of the fields,
+[29:14] two in ambulance, you can go, thank you very much.
+[29:17] I do not want the ambulance, I'm going to go my friends card of the hospital.
+[29:20] This is a wonderful work around.
+[29:22] Either way, that is the overall view of man rescue.
+[29:26] If you have more questions, you can find me, I'll be hanging around with him for a bit.
+[29:29] But thank you very much for listening to the talk,
+[29:31] and I hope you have a great year, Math.
+[29:41] Thank you very much.

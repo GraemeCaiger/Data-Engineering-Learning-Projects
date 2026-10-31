@@ -1,0 +1,350 @@
+[00:00] Hello, is that okay? Is that better? Is that okay? All right. Hi. I'm very happy to be here. Thank you for having me. Super excited to see our project out in the world.
+[00:29] I'm going to caveat this talk with you saying it's been a little last since I've had Donna Talk and I had a baby and you know that your brain does like all this pruning when you
+[00:37] have to go through pregnancy and baby it's pruned out my entire PhD and most of my linguistic abilities. So please bear with me as I might struggle for words or we'll see how it goes.
+[00:49] So I'm here representing the project that I've kind of been a part of but it's very much been a great effort. So I thought I'd introduce all of us.
+[00:58] So me I'm Joe. I'm a science communicator. My background is in astrophysics, but I really enjoy the places where art and science meet how we can get science into places that we don't usually see science and that's kind of a big drive behind this project.
+[01:17] But I've been working on it with lots of other people. First and foremost Max, my partner, said baby. So if she makes a lot of noise. She's she's an important project to so.
+[01:31] But Max is the photographer. So I'll credit him.
+[01:35] Practically taking the pictures. Then I've just yeah it's working. Are there kind of collaborators?
+[01:41] Elena, she was doing her PhD at the same time as we were. She's the one who got us thinking about the kind of science behind this project and she's been a real like sounding board and helpful person all the way through.
+[01:53] Graham finally our model not a real astronaut but a fantastic actor in science communicator as well.
+[01:59] So it's been a bit of a great effort. It's been a long time in progress. We started this before.
+[02:05] Coverage and then everything around to a halt. So very very happy. This is it's first outing. So really nice to see it in the world and have people engage with it.
+[02:16] So I thought I'd start by just talking about the science which is like the opposite way than I usually talk about it. But bear with me.
+[02:25] So this is the picture of the Milky Way, our galaxy and one of the most comprehensive pictures of the Milky Way and the Milky Way is made up of approximately a hundred billion stars.
+[02:36] So we think about just numbers game. We've got one star the sun that has eight planets in our solar system orbiting it. We've got one Earth that definitely has life.
+[02:46] Right. And other places that we still don't really know there are a few places in our solar system.
+[02:51] Moon's and things that could potentially have some form of life. We've not even explored our own backyard in that respect.
+[02:57] We look out further. I think it's just a numbers game. There's so many stars out there. We know that on average each star has a bit more than one planets orbiting it. That's an average.
+[03:08] So there are surely some stellar systems out there in our own galaxy that have some kind of life. It would be crazy if there wasn't.
+[03:17] The chances of us ever interacting with it. I think I fairly slim. But I think it must be out there. Well, it will be.
+[03:25] So we're kind of exploring that idea. So we know that a lot of these stars have planets going around them. And we call planets orbiting distance stars exoplanets.
+[03:35] So that's really the focus max was PhD was on exoplanets. The planets we're exploring here exoplanets planets orbiting stars other than our sun.
+[03:47] We know that there because we've seen them. Is this animation is working? So a handful of exoplanets have been viewed directly with telescopes.
+[03:59] So this is a gift of observations of a star with four planets orbiting it, at least four. You can see the four bright dots. But it's very difficult to see a planet orbiting star.
+[04:13] Stars are incredibly bright and planets are very faint. So you need to block out the light from the star.
+[04:22] You need to kind of force in eclipse on your telescope. You need to block out the light from the main star so that you might be able to capture the faint light of the planet orbiting it.
+[04:30] And even then the planets need to be very, very bright planets. So large planets that are reflecting quite a lot of sunlight or star light rather, few to be able to spot them.
+[04:39] So only 98 exoplanets have been detected by this direct imaging method. I think it's the most intuitive. You look out. You see planets. Great.
+[04:48] But it's very difficult to do that. You need them to be large planets. You need people walking at that from the star.
+[04:54] And you need them to be oriented such that they're all bits going around the star and quite distant from their star.
+[05:00] And the kind of planets we can detect like this are not ones that you would want to live on there.
+[05:05] Large, gassy, very, very hot, not very habitable.
+[05:13] The way that the vast majority of exoplanets have been detected, I forgot to say the number.
+[05:18] There are 6,600, I think,ish exoplanets that have been detected.
+[05:24] And 4,000 of those have been detected via the transit method. So this is a diagram that shows how we do that.
+[05:33] And it's essentially when we have a kind of a clip set, a transit, when a planet passes in front of the star.
+[05:40] So when it's in the part of it's orbit that is between us and the star and it passes in front of it.
+[05:46] If we're just looking at the light from that star, we can't see the planet. It's 45 or it's much smaller.
+[05:50] We're just looking at the light from the star. We will see a dip in the amount of light.
+[05:54] There's star, we'll get slightly fainter when the planet passes in front of it.
+[05:58] And it will get slightly fainter in a characteristic way depending on the properties of that planet.
+[06:03] So we can tell roughly how big the planet is. It's radius.
+[06:07] Just by how much light is blocked out from the star.
+[06:10] So there have been various telescope missions to capture as much information about as many observations of stars as we can.
+[06:18] To spot when we have these periodic dimings in the stellar light.
+[06:22] You can see at the bottom this chart of brightness as light shows that when the planet is passing in front of the star, we see that dip in the light.
+[06:33] So that's how the vast majority of exoplanets have been detected.
+[06:39] There are a few other ways. There are many other ways.
+[06:42] I can't talk about the max and talk about them better.
+[06:45] So I'm going to defer to him at the end of the talk if anyone's interested.
+[06:51] Not all stars are equal. So if we're looking for stars that have planets going around them that might be habitable, that we might be able to have some kind of life growing on.
+[07:00] It's good to know about the star to begin with.
+[07:03] So these have got a kind of the different categories of stars that we see.
+[07:08] These are normal middle-aged stars doing their thing, burning hydrogen.
+[07:14] But if they're very, very massive, they burn very, very hot and they are blue giants.
+[07:19] And if they are very, very well as they're mass decreases, they get cooler and cooler in terms of surface temperature.
+[07:26] All the way down to tiny, emmedwarf stars, which are very cool, very red, very small.
+[07:34] Their lifespan also goes inversely with their size.
+[07:39] These very massive blue giants burn through all of their fuel very quickly.
+[07:43] Have very short lived stars.
+[07:45] In the middle we've got a G star like ours.
+[07:48] Our son is a G type star.
+[07:50] It has a lifespan of about 9 billion years and we're about 4 billion years.
+[07:54] Through that now.
+[07:55] But emmedwarf stars have lifespans older than the age of the universe.
+[08:00] They will burn for billions, hundreds of billions of years potentially because they've got because they burn so slowly and coolly.
+[08:09] And they are the most numerous stars in our galaxy.
+[08:12] About 76% of the stars on the estimate you look at, about 3 quarters of the stars in our galaxy are emmedwarf stars.
+[08:21] They're very, very common.
+[08:23] Yet if you look up at the night sky, you won't see any of them.
+[08:26] They're very faint.
+[08:27] You need a telescope to be able to take these.
+[08:29] Because they're so numerous, they're a good place to start looking for planets.
+[08:34] Lots of them have planets.
+[08:35] They're cool. They have a nice, easy habitable zone quite close to their star.
+[08:40] And they're very common.
+[08:44] But life on those stars would look quite different than life on the earth.
+[08:48] So I've got this plot at the bottom of it.
+[08:51] I'll be ahead of my heads in the way.
+[08:53] Zoom in a bit here.
+[08:55] You can see the spectrum of light that comes from two different types of stars.
+[08:59] The yellow one here is the sun, a G type star.
+[09:03] And the red one here is from an M-dwarf.
+[09:06] And you can see that that spectrum is shifted.
+[09:09] It peaks in the redder part of the spectrum, whereas the sun's light peaks in the green,
+[09:14] the visible range of light that we see.
+[09:17] So if life were to evolve on a planet like that,
+[09:20] it would have to evolve to make the most of a very different kind of light than the light we have here on earth.
+[09:26] Another reason that we're interested in M-dwarf is that our nearest neighbor star is an M-dwarf.
+[09:32] So if we look out from the sun and we go to the nearest star system,
+[09:36] as we get to Alpha Centauri and Proxima Centauri,
+[09:40] Proxima being the closest in the name.
+[09:43] And Proxima Centauri is an M-dwarf.
+[09:46] You can't see it with the naked eye.
+[09:48] Oh, actually. Let's see if this works.
+[09:51] I have a little video.
+[09:53] Can I show it?
+[09:55] No.
+[10:03] I'll show you a map of the sky.
+[10:05] So this is the Southern Hemisphere.
+[10:08] So if you can see in the center of this there's the Southern Cross.
+[10:11] And it's in the constellation Centauri.
+[10:14] You can see Alpha Centauri and Beta Centauri in the knee and the leg of the centaur.
+[10:20] And Alpha Centauri is just tucked away underneath Alpha Centauri.
+[10:25] So it's a very small star, an M-dwarf star, very cool, very red.
+[10:30] And we know it has a planet orbiting it, which is pretty cool.
+[10:34] So if we were going to go to another star system, which is a big if.
+[10:38] But if we were going to go, that would probably be the first place to go,
+[10:41] because it's only for light years away, which is an impossible distance.
+[10:46] But this is the closest.
+[10:49] So we wanted to explore the idea of what life could look like on our nearest neighbouring star system.
+[10:57] If life were to evolve on the planet that orbits proximity Centauri, which may well be,
+[11:04] what would it look like?
+[11:06] And because life was evolved there would have evolved there under a very different spectrum of light,
+[11:10] shifted into the red.
+[11:12] We can imagine that life would make the most of that.
+[11:16] In the way that life on Earth is evolved to make the most of a spectrum that peaks in the green.
+[11:20] We have foliage that is green.
+[11:23] If we were to have some kind of analog of vegetation on Proxima Centauri B, would it be red?
+[11:29] Because that's where the peak of that spectrum is.
+[11:31] And that's a big kind of assumption.
+[11:34] But it's an assumption that is fairly widespread in astrophysics and exebiology.
+[11:38] Yeah.
+[11:41] So we wanted to explore this idea using a film called Kodak Erichrom.
+[11:48] Max, who is disappeared with my baby, has she was obviously kicking off.
+[11:53] Max is experimenting with this film just with an interesting photography.
+[11:57] This was way back, we were 2018.
+[12:00] He bought a role of that, if I've millimetre.
+[12:03] Had a fun shooting it, this is a picture of the department where we were working on our PhDs in Erichrom.
+[12:08] And we showed it to our friend who works on Emdorce.
+[12:11] She was like, that's really cool.
+[12:12] That kind of looks like what things could look like on a planet orbiting an Emdorce.
+[12:15] So this film is sensitive to the colours that we can see with our eyes,
+[12:20] the light we can see with our eyes, but also into the near infrared.
+[12:24] And that captures this reflectance from chlorophyll chlorophyll that's in all of the green vegetation we see.
+[12:31] Reflect really, really strongly in the infrared.
+[12:34] So when you photograph it in the infrared, foliage comes out bright bright red.
+[12:38] And it gives you this kind of strange effect.
+[12:42] You've got a picture here in Black and White infrared film, which we were also playing with.
+[12:46] So you can see that the river in this picture and the trees are dark, but all of the leaves are really, really bright.
+[12:53] And there's also a little plot of the reflectance spectrum of chlorophyll there.
+[12:59] So it's unusually bright compared to it.
+[13:03] So if we see it around the middle, there's a little bumper around 5.50 nanometers.
+[13:07] That would be green, where it's reflecting in the visible light.
+[13:10] It shoots up as you go into the longer wavelength infrared radiation.
+[13:15] We shot it on this beautiful, it's actually sitting over here.
+[13:18] I didn't need a picture of it on a slide.
+[13:19] We've got our camera modelling in situ as a lovely Yashika twinkle and reflect it.
+[13:24] By the time we've got our anti-deciding to do this project, all of the 35 millimeter film was gone.
+[13:30] Kradakarra crew was discontinued in 2011.
+[13:33] So there wasn't a lot of it left.
+[13:35] Someone had cut up all of the remaining stock onto medium format film.
+[13:39] So we had to learn to do that.
+[13:41] We found ourselves a medium format camera and we shot these photos in medium format.
+[13:46] How long have I been talking for?
+[13:49] That's good because I don't have a lot more to say.
+[13:53] Yeah, it's really, I, my hope with this project was to bring some of the questions and creativity and speculation involved in astrophysics,
+[14:07] particularly exobiology, I suppose.
+[14:10] Because we don't know, right?
+[14:12] We don't know.
+[14:13] One of the things I really love about astrophysics and I think the reason I got into it, first, very first lecture I did, as an undergrad, that you can immediately ask questions whether answer is we have no idea.
+[14:23] And you don't need to know much physics or much about the university to ask these questions.
+[14:27] And I think that's a really important thing that these questions are really accessible.
+[14:31] We can all ask them together.
+[14:33] We can all explore and imagine together using the little bits of information that we do have.
+[14:40] So I've got some more pictures just on the slides.
+[14:44] So we've also got these pictures.
+[14:47] We've got four more up in the bar in the gallery at the back there.
+[14:50] And we've got some of the film positives.
+[14:52] So Kodak Erichrom is a positive film.
+[14:55] It's like a slide film, rather than negatives from the camera you get a positive.
+[15:00] So we've displayed them on a light table so that you can have a look at them.
+[15:04] We had to bracket this film a lot, which means we took a photo at the exposure that we thought was correct.
+[15:10] And then we took one that was a bit darker and we took one that was a bit brighter.
+[15:13] Because the camera's light meter is not sensitive to infrared.
+[15:17] You're not usually interested in the infrared light.
+[15:19] So you have to guess how much extra light the camera might be getting that will expose the film.
+[15:24] And we guessed wrong quite a lot because it's really hard to know.
+[15:27] So you'll see some of our less successful images.
+[15:30] For example, we have one of a hillside that was all grass.
+[15:33] So it was really, really bright name for red and all of our images are ever exposed.
+[15:37] So it's quite a careful project because we only had a few roles of this film.
+[15:45] You can only take 12 shots per roll and we wanted to take three photos for each shot.
+[15:50] So that's four pictures outcome from each role.
+[15:56] So yeah, Max has been shooting two of our additional roles of Eric Room around the festival site over the last couple days.
+[16:03] So I hope we can share those somehow after the festival I don't know.
+[16:06] We need to send them off to be developed because it's not a straightforward developing process.
+[16:10] And yeah, if anybody has any questions or if you have anything that you would like to say to us about the project,
+[16:16] you'll thought, I mean, I would really love you.
+[16:18] We have to do a little report because we did get some funding from the Royal Astronomical Society and I did set up a voice mail.
+[16:24] So if anybody wants to leave us a message, I'd be really happy.
+[16:28] It's red zero. So 7230, red zero.
+[16:33] If you'd like to leave a voice mail.
+[16:35] Just to hear people's thoughts would be really lovely.
+[16:39] We're also very much open to collaborations and input.
+[16:44] I really want to work with other artists and scientists on this to turn it into something a bit more immersive, a bit bigger.
+[16:50] Yeah. So thank you so much for having us.
+[16:53] It's been really inspiring, having conversations here and seeing what other people are doing.
+[16:56] So thank you.
+[16:57] Thank you.
+[16:59] Thank you.
+[17:11] Yes.
+[17:13] Yeah, in fact, let me get forward.
+[17:15] Can I get forward to...
+[17:17] No, no, no. This one. Hang on.
+[17:23] There we go.
+[17:24] Yeah. So exactly.
+[17:27] Red dwarf stars are not as reliable as stars like her son.
+[17:32] This is a nice, I must say a lot of the graphics in this are taken from NASA and the European Southern Observatory.
+[17:40] They have phenomenal educational resources.
+[17:43] They have shared some of those for this.
+[17:47] They give us a lot of extra radiation and a lot of flairing.
+[17:50] It depends on the age of the star. If we can have an estimate of the age of the star, they grow out of that eventually.
+[17:56] So...
+[18:00] Yes.
+[18:01] But in reality, there are some good clues that Proxima B, the planet going around Proxima, is not a very habitable planet.
+[18:09] So one of... one yet.
+[18:12] We're running with it.
+[18:13] But yeah, it's probably probably not got live, not at the moment anyway.
+[18:17] So there's this diagram just shows, the bottom you've got a star like our son.
+[18:21] So we've got the x-ray irradiance, the amount of x-ray radiation on the surface is one different compared to the earth's x-ray irradiance.
+[18:29] And they have a life span about 10 million years.
+[18:33] You see their relative abundance.
+[18:35] So they're not as common as cade wolves, which are slightly cooler.
+[18:38] They have 25 times the x-ray irradiance on their surface, but they're more numerous than they have much longer lifespan.
+[18:45] M-dwarfs, much more abundant, but they have 100 times the x-ray irradiance.
+[18:50] As I'm sure you're going x-rays are not good for bodies, not good for things that want to be alive.
+[18:57] So it's not a great start for life.
+[19:04] But as they said, depends on the star, depends how long depends on the atmosphere of the planet, if the planet has an atmosphere.
+[19:12] Unfortunately, Proxima be doesn't seem to have an atmosphere that's been detected.
+[19:18] And it's also tidally locked to the star.
+[19:22] So the moon is a great example of this.
+[19:25] The moon is tidally locked to the earth, in that we always see the same face of the moon.
+[19:30] It rotates at the same rate that it orbits the earth.
+[19:34] So we always see one side of the moon.
+[19:36] The other side of the moon is always away from the earth.
+[19:40] And as similar way Proxima be as tidally locked to the stars.
+[19:43] There's always one face of the planet facing the star.
+[19:45] And the other side will be dark, which means you have one very hot side on one very cold side.
+[19:52] And then if there wasn't atmosphere, terrible hurricanes at the intersection of those points.
+[19:58] So not the loveliest place to live.
+[20:03] But yeah.
+[20:08] Sorry.
+[20:11] Especially for softness, if there is light, it's probably.
+[20:15] Yeah, right, sure.
+[20:17] So yes, when we say light fear, it's with a very big pinch of salt that we're talking about.
+[20:21] Life that looks like life we understand that has water.
+[20:25] Yeah, it could be somewhere deeper on the planet somewhere.
+[20:28] Sub-surface oceans and all kinds of interesting things.
+[20:33] I think one of the things I'd love to explore is looking at the diversity of life forms on earth.
+[20:40] That we actually have some very varied environments and different evolutionary paths and different processes that life operates by.
+[20:49] Which I think is our closest way to imagining what alien life could be like.
+[20:53] Any other questions?
+[20:58] Yeah, you can take infrared pictures with digital cameras.
+[21:04] Digital cameras have an infrared filter on them because the sensor is sensitive to infrared, but you usually don't want that in your pictures.
+[21:12] So if you're willing to take a part of digital camera scratch off an infrared film, and then you want to probably put another filter on top.
+[21:18] So if you look at the ash cover over there, you can see there's an orange filter on the bottom, on the lens.
+[21:25] And that's to cut off some of that blue light to get the effect that we were aiming for in these photos,
+[21:33] but people play around with different filters.
+[21:35] So likewise you can play around with different filters on digital cameras as well.
+[21:40] Yes, yes, I really like coming from astrophysics.
+[21:44] Lighters the only thing you have to go on in astrophysics, pretty much not the only thing.
+[21:48] There are a handful of other methods of figuring out what's going on in the universe, but the vast majority of astrophysics is just using light.
+[21:53] So I really like the fact that we're using a very tangible process, picking up that light.
+[21:59] I mean, obviously a digital camera works by picking up light as well, but there's something about the film and the infrared and the connection with the way we were doing science as well.
+[22:08] So.
+[22:13] Yeah.
+[22:14] Yeah.
+[22:15] Yeah.
+[22:16] Pretty much gone now.
+[22:17] Yeah.
+[22:18] I just found a technique you do the same thing with the, not a good telescope set, but yeah.
+[22:25] Also, you just put a weird filter on top of it, and right, it looks like two more to go.
+[22:31] And I'm sure I've seen so many people with film cameras around the site.
+[22:38] There's a lot of appreciation here for the analog process as well.
+[22:41] It's quite satisfying in and of itself.
+[22:44] Cool.
+[22:45] I'll do another question.
+[22:47] Yeah.
+[22:48] Yeah.
+[22:49] No.
+[22:50] I'm not.
+[22:51] I'm not.
+[22:52] How do you select the location?
+[22:56] I'm not.
+[22:57] We.
+[22:59] Uh, just try to find the weirdest places we could find within a driving distance of where we lived, which is, which is Edinburgh.
+[23:09] Big shocked face.
+[23:10] Are you also from Edinburgh?
+[23:11] No.
+[23:12] Oh, no.
+[23:13] Sorry.
+[23:14] The one behind you.
+[23:16] Um, yeah.
+[23:17] Edinburgh.
+[23:18] Um, so these were shot at Abelady.
+[23:19] Um, sorry.
+[23:20] If it, which is a beach, there's a nature reserve just outside of Edinburgh.
+[23:24] Um, and we also shot some like a big, um, kind of slag keep thing outside of Edinburgh as well.
+[23:31] Um.
+[23:32] Also, some of these are in like industrial rooms.
+[23:36] Um, yes.
+[23:37] So these ones are, um, the structures that you see here.
+[23:41] These ones are coastal defense, like concrete coastal defense stuff.
+[23:44] And then this is a, the wreckage of a submarine from World War II.
+[23:49] Like quite like, you can't really tell if it's organic or not.
+[23:52] It's, uh, yeah.
+[23:53] Could be an alien whale.
+[23:55] Um, um, yeah.
+[23:57] Yeah.
+[23:58] Can I have what to you later?
+[24:00] Yeah.
+[24:01] Um, just like that for me.
+[24:02] Yeah.
+[24:03] Uh, I really want to do something with this in Edinburgh.
+[24:05] Like something big.
+[24:06] Um, but I've, I've don't come from an art background.
+[24:10] So the whole exhibition stuff is all very new to me.
+[24:13] So yeah.
+[24:14] I'm sorry.
+[24:15] Um, so you have a special one?
+[24:17] Yeah.
+[24:18] I'm just embarrassed.
+[24:19] Do you have to get some ice cream, which, kind of, you know,
+[24:22] come to like, have some ice cream, like, and those are like,
+[24:25] can you get some ice cream on the first part?
+[24:27] Um, that's a good question.
+[24:30] I don't, I don't know.
+[24:31] Uh, I'm not an exobiologist.
+[24:33] I wish I wish I knew more about it.
+[24:35] Um, right.
+[24:36] I was having an interesting conversation with someone about, uh,
+[24:42] forms that have come up through various different evolutionary paths.
+[24:45] Is there a likelihood that, you know, things like everything,
+[24:47] everything becomes a crab, right?
+[24:49] Um, it does that mean that aliens are going to be more likely to be crab,
+[24:52] like, is that, is that a thing?
+[24:54] I don't know.
+[24:55] Um, these are good questions.
+[24:56] There's surely people here who know more about it than I do.
+[24:59] Um, it's something I want to explore, right?
+[25:01] Um, we had to go with the life forms that we had access to, sadly.
+[25:05] Um, but yeah.
+[25:11] A real, yeah.
+[25:12] Thank you, John.
+[25:13] Thank you, John.
+[25:14] No, thank you.
+[25:15] Thank you.
+[25:16] Thank you.
+[25:17] Thank you.

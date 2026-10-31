@@ -1,0 +1,297 @@
+[00:00] Thank you guys. Yeah, so here's my talk, which is building an MRI scanF under 5K. And I
+[00:20] thought the battery to start this would be by taking a little 3-year printed bit of plastic
+[00:27] and putting a bit of butter in it over the EMF logo. And then you see the thing on the
+[00:31] right is our MRI scan of that 3D printed part. So you can see that we're getting nice small
+[00:37] details. You can see those sweepy line thing is about 1.5 mm, which doesn't sound
+[00:43] that good, but for an MRI scan of that's the sort of resolution you'd be getting if you
+[00:47] go into a hospital to get one. Obviously we're not built a hospital grade MRI scanF under
+[00:51] 5K, but we have got something which is getting decent images out. And this is the
+[00:57] hardware we used to do. I'll talk in a bit more detail about exactly what's involved in
+[01:01] those different parts. We've got a journey of like stage 1 we're getting MRI signal
+[01:06] to like better and better resolution and better pixels. So by the end we're scanning things
+[01:11] like eggs and you can see quite a lot of detail. So like how is this possible? Like I
+[01:19] think when you talk to most people at MRIs, like how can you make MRI for under 5K, the
+[01:24] ones at hospitals definitely don't cost under 5K. And I think this leads to a number of misconceptors
+[01:29] about MRI, which makes sense why people have them, but they aren't fundamental to having
+[01:34] a working MRI scanner. So the first is you need a spinning magnet. Now this kind of makes sense
+[01:40] if you go into a hospital you see this like doughnut thing and you're like, oh there must
+[01:44] be something spinning inside it. There isn't anything spinning inside it. It's just a
+[01:48] solid knife or there is a device which spins it's called a CT scanner and that like spins
+[01:55] x-ray rounds and makes a bunch of different images. But MRI scanner doesn't need a spinning magnet
+[01:59] perfectly stationary. The second one is you need a really strong magnet. So if you know anything
+[02:05] MRI scanner does it be like, oh if I have any metronome or like fly into the scanner and crush me.
+[02:10] And that is true in a hospital one. They normally have about 1.5 tz to 3 tz of their scanners,
+[02:17] which is a big strong magnet to fill, which could be dangerous. But you don't need a strong magnet.
+[02:22] Strong magnets help. So the stronger the magnetic field you have, the more signal you get and so
+[02:27] the better images you get. But it works for any magnetic field regardless of how strong it is.
+[02:32] But people have done MRI on the earth's magnetic field, but that's a story for another time.
+[02:37] The final thing, the final misconception is that you need super conductors. So there are certain
+[02:43] things what you do need super conductors. So if you ever seen those cool things where you put a
+[02:47] magnet on a floating track, that needs a super conductors to work. MRIs don't need superconducting.
+[02:53] There is no kind of superconducting effect that's happening with them. It's just the only way
+[02:57] that you can make a strong magnet is by having a coil of wire and putting a lot of current through it.
+[03:01] And unless you've got a superconductor, that gets really hot and would melt.
+[03:04] So if you don't need these three things, what three things do you need?
+[03:09] So you need three things. One is a uniform magnetic field. So the scanner we built was about 100
+[03:15] murderous, which is approximately 6% of the field strength for those ones that you get a hospital.
+[03:21] And then you need something which makes more changes in that field. So one we thought you got 100
+[03:25] murderous in the main field and then you changed that field by about one man, really,
+[03:29] to have those from one part together. And if you've ever been the MRI scanning, although they're really
+[03:33] noisy, that's that changing magnetic field. Essentially the MRI scanner kind of shaking itself
+[03:39] because when you change those magnetic fields, they're not infinitely rigid. So they'll ride
+[03:45] bait and that's what you hear as noise. And then the final thing you need is an RF transmitter
+[03:50] received chain. And luckily for the thing that we're building at 100 ml of serve, that hits you
+[03:57] right into the amateur radio advance, so between five two to five megahertz. So that's great
+[04:02] because it means we've got lots of cheap radio amplifiers that you can use, which is one of the reasons
+[04:06] where you can make this so cheaply. It does mean you have to do anything everything in a fire
+[04:10] of their cage because you've got all of the amateur radio stuff coming in and causing you noise
+[04:15] and interference and you don't want to be causing noise and interference to all of the
+[04:18] amateur radios around. So that's the three things you need. And I think before going into a bit
+[04:26] more what we've done, I'll give you like a very brief overview about how MRI works. So how to do MRI
+[04:32] fire steps. Now before I say this, this is going to be it's very hard to pitch it to all of you guys.
+[04:37] Some of you guys will totally understand this and I will be explaining things you totally know.
+[04:41] Some of you this will be too complicated in TD style, but hopefully about 80% of you will be
+[04:46] pitching it to the right level. So come on find me afterwards, if anything doesn't make sense or I've made
+[04:51] a mistake or since I'm saying I'm going to talk a bit more about it. So the five steps, so you need to
+[04:57] align, you need to resonate, you need to locate, you need to listen and then you need to repeat.
+[05:02] So let's start with align. We've got these nice little diagrams. You can see. So, if I go here,
+[05:11] so the key fundamental physics reason why MRI works is if you put isotopes in a magnetic field,
+[05:18] they will start like imagine you've got a bunch of little tiny compasses.
+[05:23] The line was that magnetic field and start spinning and they'll start spinning at a certain frequency.
+[05:27] And the frequency is pinned on the isotope. So what we do is an MRI scan and what we've done is
+[05:33] are scan it, it's going to be just hydrogen. Because in your body you have a lot of hydrogen,
+[05:37] because you have lots of water. So everywhere you've got fat, you've got bone, you've got muscle,
+[05:41] it all has hydrogen isotopes in it. So you can pick up the resonant frequency of hydrogen for that.
+[05:47] So what you do, you put a uniform magnetic field that law starts spinning or at least,
+[05:52] and not all of them, that's kind of like some of the world's on the road, but on average,
+[05:56] the law starts spinning in same direction. So the second thing you need to do is you need to
+[06:01] resonate them. So this is kind of the magic trick of MRI is if you go to lower frequency,
+[06:08] you put it in, nothing really happens. If you go too fast to see the one at the bottom,
+[06:12] I've realized these diagrams are probably quite hard to see in this room in this light,
+[06:15] take it from me, nothing really happens. But if you hear the right frequency,
+[06:20] you'll get these like spinning compasses, which will slowly get wider and wider. What that means is,
+[06:26] like how magnetic fields are electronemagnetic fields, the two are linked, hence this camps name.
+[06:33] You can isolate that frequency, and that means that it gets bigger, and it will keep spinning,
+[06:40] which means you transmit something, and then you can listen back at the same frequency.
+[06:44] So then what you need to do is you need to locate there are two ways to do this, frequency and phase.
+[06:50] So we'll start with frequency because I think it's the easiest on the time.
+[06:54] So what you do is you've got, that's how we're really simple example, you've got three
+[06:57] physicians, then what you do is you put what's called a readout gradient. So you'll have a week in
+[07:02] magnetic field on one side, and a stronger magnetic field on the other side. Again, small numbers I'll
+[07:07] talk about, so your bulk field is about 100 milliliters. This is about like one milliliters
+[07:12] are different from either side. But what that means is they will have different resonant frequencies.
+[07:17] So the top really goes like you slow them, the middle average, and then the top one slightly faster,
+[07:22] and you read out the sample at the bottom, which is putting them all together. So you've got a bunch
+[07:27] of signals of different frequencies coming down together. How do you separate them? Well, if you are
+[07:33] an engineer of any form, you will have thought of, for your transforms. So you can just do a simple
+[07:38] for your transform, and that means everything for the first column, you can get a for your transform
+[07:42] of the first frequency, everything in the second column, second frequency, everything in the third column,
+[07:47] third frequency. So that's frequency encoding, that's one of your axes, but images with like one
+[07:52] dimension limit is aren't interesting, you want to have a two dimension limit, so you have to do something
+[07:57] for the different, for the second axis. And what that is is phasing coding. Phasing coding is a bit
+[08:02] more complicated, so there with me hopefully I will explain it to you some of you. So what we have
+[08:11] with phasing coding is imagine you've got your top half, and then your second half, your prior gradient,
+[08:17] and you can offset it slightly. So what's going on here is imagine we're going to want one frequency,
+[08:22] all of that kind of frequency encoding thing. It's done, which gives you your one vertical slice,
+[08:27] then what you can do is, at the other side, the frequency at which it spins is
+[08:32] proportion of magnetic field strength. So if you slightly increase it with the one at the bottom,
+[08:36] you can make that one spin a little bit faster for a bit, and then go back to the same frequency.
+[08:41] And what that essentially does is it changes your face. So if you can see you've got these two
+[08:45] nice little diagrams here, so with one, they're both in sequence with each other, so you've got a plus
+[08:51] the second one, we've moved b 180 degrees, so then you've got a minus b, and then it's pretty
+[08:57] simple maths. You add the two together, the A to L, the B is all council, you get A, you subtract
+[09:03] the two from each other, the A will council with the A, and the B will council, the B will add
+[09:07] the minus b, which will give you b. So that's a really toy example for two lines, but you can
+[09:13] extend it to the as many lines as you want, and it's kind of rather the things that you haven't
+[09:16] school kind of many equations, many unknowns. And the fourth step, though with me here, is
+[09:24] you need to listen for it, so this wouldn't be particularly useful if you're getting the same
+[09:28] signal back from different parts of the image, but luckily, different types of tissue you have
+[09:34] what are different, what's called a T2 time. So they decay at different rates, so like you've got a
+[09:40] bone and you've got fat and you've got muscle, they will all kind of, you know, how was this
+[09:44] spinning around and it resonated? It slowly goes back up, so you don't get that signal forever,
+[09:48] but you get it back at different rates, and those different rates mean that you can see different
+[09:53] tissues. So that's kind of the basic steps of MRI, which is a line that does an 8-located listen,
+[09:59] but the final thing you need to do is repeat. Now I won't go through the maths this, because I promise
+[10:04] I won't go through the maths to this, but basically, at an hour is proportional to the square root
+[10:09] of a number of beats, so it takes quite a long time to like get really nice images if you're doing
+[10:15] this in kind of an iEaveway, because you have to keep doubling the amount of time you're getting,
+[10:21] and the reason why it works like this is basically your signal adds up, but your noise councils
+[10:26] itself, but doesn't cancel itself perfectly, it consoles itself as the square roots, so basically
+[10:31] your signal's going linearly, your noise is going as the square roots, so you can buy the
+[10:34] tissue together and your SNR, which is the amount of signals noise ratio, grows with the
+[10:42] square root of the number of repeats. So I'll go back to that side, I haven't been in the one
+[10:47] that we made for 5k, and the various different parts that we have for it. So this is kind of like
+[10:51] a fun journey of experimentation. The one on the first is on the floor, we had a bunch of different
+[10:57] components, you've got like a RF radio amplifier, you've got a bunch of power supplies to things,
+[11:03] and the first magnet array we've got with the sampler net, and then with playing around a little bit,
+[11:07] we managed to get our first MRI signal out of it, which was very exciting. Now this was ignoring
+[11:12] all of that gradient things I was talking about, it's literally just trying to find a resonant peak
+[11:16] and get it back. And then we gradually went with more complicated designs, so the first one we've
+[11:22] got, we put it in this toolcase kind of Faraday K sort of thing, we got this first image, which
+[11:28] looking at now is pretty terrible, but we're really excited about it, because it's said we've got an image
+[11:32] of something there. We then decided that magnet array wasn't working very well, so we built a new
+[11:39] magnet array, I'll show you some pits of that later, we've got this nice V, which is a nice image of
+[11:43] things, and then we were like, okay, let's think about it, let's try and refine on noise chain,
+[11:48] try and like, make things better and make this nice rock-mounted system, and then we've got like
+[11:52] this picture of egg you can see here, which isn't a chicken egg, it's a quail's egg, but too much
+[11:57] if you've never seen a quail's egg, just think of a very large minig, which I think is what they
+[12:01] were based on. The cool thing about it is you can see the egg yolk and the egg white, pretty clearly,
+[12:09] and also this little bit in the center, which I didn't really know, eggs had before hand, but apparently
+[12:13] we've got a little bit of going in the center to help feed the egg essentially. So what made this so
+[12:21] difficult? Well, the first thing is you kind of have to get everything right to get anything,
+[12:28] so when I was doing this project there were lots of times when it's amazing that anyone
+[12:32] ever managed to make MRI work because you're kind of exploring the world of, sorry, you're exploring
+[12:39] the world of potential signals, and if one part of your chain is broken, you just don't know it,
+[12:47] you just don't get any signal, so you could be really close and then something was broken and you're
+[12:51] just debug something else, and then that wasn't something you needed to debug. So once you've got
+[12:56] like a working chain working, you can kind of helcline from it, but until you get to that point,
+[13:01] it's really hard to get there. And one of the reasons why it was hard to get there is that actually
+[13:05] really hard to know how strong a magnet is. So you can know approximately if you buy a magnet
+[13:11] hometer off of yourself, where you do some simulations on your magnets, but knowing approximately how
+[13:15] good it is isn't actually good enough for getting the spin XOT-Considies that you need for an MRI scan.
+[13:22] In fact, the magnet homers that you buy, the way they calibrate them is by putting them in an MRI
+[13:28] scanner, because that's the way that you can work at a magnetic field most precisely.
+[13:33] You also have the problem that when you put your magnets together, they don't want to stay
+[13:38] delighted. So you might get a nice well-chained magnet, and then it's kind of everything is slightly
+[13:44] shifted, which means the magnetic field strength has changed. Because it has to be so precise,
+[13:49] that's annoying. And the final thing is your magnets change, magnetism with temperature. So
+[13:53] there's something that I didn't really know about beforehand, but like you run a scan,
+[13:57] and then everything will slightly heat up because you've got a heat from your amplifier and things
+[14:01] like that. And that will mean that you then get a slightly different magnetic field, which means
+[14:07] when you're trying to get nice images and you're doing lots of repeats, you're so you drift off
+[14:11] resonance and you have to compensate for that. So you have to do a lot of work to make sure that
+[14:17] we were re-tuning as we went along to try and keep compensating that change of temperature.
+[14:24] And the final thing is open source software is amazing. Like the release of open source
+[14:28] packages we use, there's this big open source MRI project, which we've based lots of our stuff off.
+[14:34] But it's also really confusing and difficult to debug and some of it's written in some languages
+[14:38] that no one has used for ages or just kind of in a Python package that doesn't instill.
+[14:44] And this is one of the things where I don't know if you're in the previous talk. AI is actually
+[14:47] really great at this. So you can point AI on of these re-posed and help, it'll help you do bug
+[14:53] it and like put it into a system that works for you. So this isn't like saying anything bad about
+[14:58] the open source software that we use, it was amazing and really great for the people doing it.
+[15:02] But also thanks like Oven AI and Anthropic, one of the people who make AI to help that kind of
+[15:08] discreet that kind of scientific knowledge into new projects. So if you've ever had a kind of
+[15:14] you found to get a breather that didn't work for something, it's actually really quite good to
+[15:17] just to AI and like can you rewrite this, can you explain it in a generation understanding quite well.
+[15:23] So that's going through some photos of things we did. So this is our first magnet array.
+[15:28] You can see what we've got here is a how-back array of opponent magnets that we've printed
+[15:33] into some 3D printed formers and then you've got various coils and you've got a bit in the middle
+[15:39] of a hangar sample. So the way that this works is you've got one magnet here and then you've got
+[15:44] the other magnets that are rotating around. Basically the sideways parts cancel out and then you get
+[15:48] a nice vertical field because of that. Unfortunately as I was saying, the magnets like twisting
+[15:56] and 3D printed stuff is creep slowly. So you can might get a nice magnet at first but slowly
+[16:01] it will get worse and worse as you go along with it. And a bit in the centre what we did was we
+[16:05] printed these 3D printed things and put some jelly inside them and that was where you got those first
+[16:11] images out. You just kind of hang it in the centre. But this was kind of working but we're like
+[16:17] oh we need to redesign an email get array. So what we ended up with is we're like we'll print some
+[16:22] magnetic disks. So 3D printers great thing if you want to make anything cheaply but including an
+[16:26] MRI scanner, may be us to make the talk we 3D printed an MRI scanner. So
+[16:31] here we've got our disks so you have a disk with magnets you print it out and then you push
+[16:37] magnets into that and then you've got two plates here and you've picked it on the plates and then
+[16:43] this is our kind of magnets scanning rig to work out how uniform it is. So the nice thing about
+[16:50] those help of arrays, the circular ones why people use them is because they're nice and light
+[16:54] because all of the flux is stored inside that loop. If you're using this which is like more
+[16:59] of a horseshoe magnet you need somewhere ever turning the flux from one side to the other so we
+[17:03] got these nice steel plates at the back of the front. And that's good and bad. It gives you a nice
+[17:09] homogeneous feel. It's a lot harder to simulate because if you've got a series of magnets you can just
+[17:14] app them up whereas if you've got something which isn't a magnet it's an ion yoke you kind of have
+[17:20] to do FIA stimulation to work out how things are going through that. So we did that we just kept
+[17:25] adding steel until we weren't saturating our yoke and then we mapped it. So what we did is we bought
+[17:31] a cheap CNC machine off eBay and then we strapped a magnet to it and then what we could do is we
+[17:36] get these nice little plots of our magnet home and nerdy which are really as you won't be able to
+[17:41] read any of the numbers on them but essentially even color means that it's homogeneous and by
+[17:48] everyone right we're about 250 ppm so 250 parts for million of homogeneity which is what you need
+[17:55] effectively to scan something. So it really is we need a very homogeneous feel to get a nice
+[18:00] nice image out. The other thing we discovered was that if you get a power supply off the shelf
+[18:08] it's quite noisy so they're quite good for most applications they're not good for when you need
+[18:13] the nano volts coming out of an MRI scanner so we had to build our own battery power supply
+[18:18] that could run the gradient cores and run the RF system to make that work and this was a fun
+[18:26] like safety challenge to make sure that we were not going to set fire to anything which we haven't
+[18:30] which is good but this is the other thing that if you're building one of these systems it's actually
+[18:36] easier to run it off batteries and it is off the mains just because you really want to reduce noise
+[18:41] as many different sources as you can as possible. These are the coils we made so this coil on the left
+[18:49] this is water and MRI scanner coil looks like it's essentially just a solenoid but you want it to be
+[18:56] as thick as possible so that your judicial resistance is much as possible so you get as much signal
+[19:01] as possible and then you've also got this shield that we used for some experiments which is to try
+[19:07] and like you're in a fire at a cage but you've also got your gradient which will give you a bit of
+[19:10] and noise and antenna so if you put a shield around your coil you'll also reduce the amount of noise
+[19:16] that's there and these coils one of the reasons we can make them work is we need a tuning circuit
+[19:22] so there's a thing in RF called a Q factor which is essentially a quality factor and it's how
+[19:29] much you amplify your signal and what we're dealing with is we're in a really sharp Q factor which
+[19:33] amplifies the signal right of that frequency we care about and knocks out more than noise
+[19:38] apart from different places so we have to make up these fun little boards where you have to use
+[19:44] your tuning and matching capacitors one of the problems is for the tolerance you're talking about here
+[19:49] capacitors off the shelf don't work that well so well they don't they work fine it's just they're
+[19:55] not the number that they said like the tolerance is so large so you'll have to get a bunch of
+[19:59] capacitors try them sold them on get another one sold them on and then we've got these nice little
+[20:04] turning things that you can rotate to get it really tuned on to one of the reasons why it was
+[20:09] painful beforehand was because if you were off if you were off tuning you just won't get a signal so
+[20:15] you have to make sure you're tuned at the right frequency until you know your actual magnetic
+[20:19] field strength you don't know what frequency it's tuned to so there's lots of like things where
+[20:23] you have to get one thing right and get another thing right and yeah we push this all together
+[20:29] finally into a nice rock mounted system so you can see at the bottom we've got our battery pack
+[20:35] then you've got our radiance and an AM amateur radio transmission set that basically the system that you've
+[20:47] got is you've got a nice FTVA board which is generating your signals then you put that through a pre-amplifier
+[20:53] so we've got some cheap mini circuit ones offline then we bought like a 300 pound radio amplifier
+[21:00] which is doing your power amplification that goes into your transmit coils you then have a switch
+[21:06] which is a fun circuit which essentially means you can use one coil to transmit them receive
+[21:11] and it switches between the two of them quickly and the reason why you need to do that you can't
+[21:15] just have one transmit and one receive is because your transmit power is so much greater than your
+[21:19] receive power you'd blurb your receive chain when you're transmitting so we use this open source
+[21:25] project which was a transmit switch which essentially said now I'm transmitting now I'm receiving
+[21:30] so which means that you can plug this amateur radio amplifier into it I'll push it into the coil
+[21:37] and then switch over and you hear the receive chain then what we have was a bunch of again relatively
+[21:43] two mini circuit amplifiers giving about 60 to 80 GB of game before we went back into the FTPA
+[21:48] to get the signal we needed. Also in the box you had a gradient amplifier so the things I was
+[21:54] talking about earlier we need to change on magnetic fields you need to have a very fast acting amplifier
+[22:01] so all your amplifiers are roughly the sort of frequency you need to do it at but it needs to be very clean
+[22:08] so we use the open source project to use that we've got one off the shelf and built it
+[22:15] and that lived in that box and the top box is the FTPA and the amplifiers and all of our
+[22:20] clean power supplies power sources so we had a 24 volt battery for our gradients and then a 12 volt
+[22:25] battery for all of our off chain and then we spit that down to all the various different voltages because
+[22:30] electron engineers like everything being at different voltages so we had 12 volts and 5 volts and 3.3 volts
+[22:36] and then finally we've got our box at the top which is where you actually put the samples inside
+[22:42] and maps a fairly cage we've sealed around the outside of it and so you open it you put your sample in
+[22:47] and you scan it and then you repeat lots of times and the more you repeat it the better signal you get
+[22:51] that kind of thing I said earlier the theoretical is proportional to the square number of repeats
+[22:56] we found that is the case in what we're doing which means our noises not from external sources
+[23:00] coming in it's usually from like you're amplifying being bad or the thermal noise which is just
+[23:08] something existing at the temperature will have a certain amount of noise normally you wouldn't notice it
+[23:13] but again and an anvolts you do definitely notice that so why did we do this so this is a graphic
+[23:21] that I stole from cancer research UK and I don't know if you know this but for lots of cancers
+[23:28] really early diagnosis really in pre-sure chances of survival so here are three different cancers
+[23:35] and you can see on the left that's if you diagnose it the earliest stage you're chance of surviving
+[23:38] and on the right if you are captured late your chances of surviving are much lower so for lots of
+[23:46] cancers really it's a time in question if you can catch early enough you can provide good treatments
+[23:53] I mean you can also treat people who didn't need to be treated which is another problem
+[23:57] but that is one of the key reasons why early diagnosis is good if you actually earn enough you can
+[24:05] treat it and MRI is one of the better ways of treating it detecting it sorry so here's a bunch of
+[24:14] common cancers and you can see the MRI picks them up more accurately than the existing methods
+[24:21] and these are kind of like this is a breast cancer normally this is this breast cancer if you got
+[24:25] death dent tissue so it's not saying mammograms are bad or anything this is always kind of a trade off
+[24:30] but the reason why we don't use MRI isn't because it's a worse technology is because it's too expensive
+[24:36] so that brings us to what we're trying to do which is make MRIs much cheaper and I do have
+[24:42] high nurses if we can make cheaper and more pleasant scans and the scan and we've got at the moment
+[24:47] for 5k you can't fit the person but we're hoping to scale it up and use the same sort of technology
+[24:51] to make on that you could fit the person and you can give people cheaper scans which means you
+[24:56] can get more data which means you can start to collect models which means you don't overguide
+[25:01] most people so you can scan them early enough to work out when seeing something and someone
+[25:06] is going to be a cancer or going to be a problem when it isn't and then you that means that you
+[25:11] can scan more people because insurers will start paying for these scans which means you get more
+[25:16] data when you're more better models and I think the vision is just scanning everyone for
+[25:19] equally enough that you you know what these cancers look like so in a hospital at the moment MRI
+[25:26] scan we're a cost about 1.5 million I don't think you can make them for 5k but I think you can
+[25:30] make them much cheaper than that and that's one of the things that we kind of set out to demonstrate
+[25:34] is you can make these things much cheaper so I the reason why I'm doing this talk is because I'm working
+[25:42] at a startup trying to make MRI scan is which is kind of how we got started with these things so
+[25:48] if you want to get involved email me at johnapflux.com and also come and chat to me afterwards if you
+[25:53] interested I can explain all of this stuff in much more detail this has been a very kind of like
+[25:58] whistle stop tour of a lot of different things and I thought also I would be able to give a bunch
+[26:02] of acknowledgements to a bunch of different people so the gradient board was the the GBA F H D O
+[26:11] board if you do go back you'll find it and the CR switch we got from another open source project
+[26:18] which is the aim for IISI project and in general there's this community could be OSI or open source
+[26:24] imaging project and they've done a bunch of this stuff already we've not we weren't like designing
+[26:28] from scratch but we were building on what other people had built and people there were really
+[26:34] helpful and they gave us advice and guidance and all the various different things that we did so
+[26:38] shout out to them they were really great and yeah if you've got any questions I think I will be
+[26:43] at the F&Ks and I'll just grab me afterwards as well thanks

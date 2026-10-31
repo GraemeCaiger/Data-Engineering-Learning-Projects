@@ -1,0 +1,267 @@
+[00:00] Thank you very much, everyone. Yeah, so my talk is called our families, Electrotech journey.
+[00:20] How we went all electric and how you can do. So I'm James, I work in Electrotech as it's now known
+[00:27] because energy is all electric as I will now cover. See, I'm an engineer working clean energy generation,
+[00:34] but the opinions here are my own, not representing my employer anyway, but I should say we don't get any special perks or anything, so all of this is applicable to anyone really.
+[00:43] I also help run a local makerspace and volunteer repair cafe, so those my interests.
+[00:49] Good times in with a space theme of the MF. Most of our energy comes from space, mostly from the sun, although some of it is, yeah, geothermal or tidal or nuclear.
+[01:00] But this is also a spaceship, right? And this was taken this picture on recent moon mission, and it's, what I find fascinating is just how thin the atmosphere is.
+[01:10] You can see it as just that tiny, sort of, you know, few pixels around the edge of the planet.
+[01:17] Here's another one, you get a bit further away, I'm a fast-eyed moon, it's done these dots look pretty small.
+[01:22] This was taken by people, I'm a recent mission, probably the furthest people have been. If you go a bit further, obviously not people, no guesses for where one of our left is taken.
+[01:32] But this, that's a tiny little spot there. And then on the right, yeah, so the left one is casino, right one's from Voyager, the pale blue dot, taking out beyond Neptune.
+[01:45] And Earth is that tiny thing right there. So what is this talk all about? What is electrodec?
+[01:52] It's mainly low carbon technology, electric vehicles and charge points for those for electrifying travel.
+[01:58] Solar PV, photovoltape panels and home batteries for storing and generating and shifting to when you need to use it.
+[02:06] That heat pumps for, you know, making electric heating affordable and efficient because they produce a lot more heat than you put in energy.
+[02:13] And induction cooking, because that's a lot more efficient and cooking on gas.
+[02:17] So this is all about efficiency, it's about using a less energy.
+[02:21] So although we're switching things to electricity, we actually use less energy compared to what you would be burning.
+[02:28] So what was our mission? We moved into a house, there's about 100 years old, very typical house,
+[02:33] and we've got a lot of time detection, 1930s sort of building, not very efficient, not very well insulated.
+[02:40] And we wanted to do it up with a sustainability mission in mind, add load of insulation, put a load of electric again, get the gas disconnected and save load of money.
+[02:48] And we also wanted to monitor all this so we can see how it's going, automated and control it, and sort of measure what the improvements were such as Lake air quality improvements as well.
+[02:59] And this is all sort of done with open energy monitoring, home assistant, I'll cover about a bit later.
+[03:04] So why give this talk? It's not to brag, I'll be smart about anything.
+[03:09] It's really just to try and normalize this and encourage people to get on board and do this, and not everyone's an earlier doctor.
+[03:15] I'm sure a lot of people at this festival are, but yeah, it's just to try and get people to do this and make it like the normal thing to do.
+[03:24] So sharing some lessons, obviously if you're an early doctor, there are some niggles with things, and also just sort of busting these doubts.
+[03:31] There's a lot of doubts being sort of banded about, but lovers just hide the fetical people talk about them, like, oh don't heat pumps cost more to run.
+[03:38] It's like, what my experience is very different, and that's, is that your personal experience or you just read that.
+[03:43] So yeah, spoiler alert, it's all very positive, it's going to be greener, healthier, safer, spend this money, and it's a lot of fun if you like geeking out and stuff like this, like I do.
+[03:54] So here's what we did, got that electric cars, charge points, smart meters, we covering, yeah, solar PV and home batteries, heat pumps and vericisers, insulation, and yeah, getting the gas removed, caped off and an induction hob for cooking.
+[04:11] So let's begin to this into a bit more detail.
+[04:14] So that's all we're going to talk about travel. So this actually starts before we got this new house.
+[04:19] We bought our first electric vehicle, second hand, this and leaf about six years ago, and that really helped us decide what we wanted when we were moving house.
+[04:30] It's like, definitely wanted off-street parking, so we could park it and charge it from our house.
+[04:34] Like, if we didn't have off-street parking, it's pretty painful.
+[04:38] So then we got a second-hand charge point, and a second-hand RCD, get that installed when we moved in.
+[04:44] And then about four years ago, we got a second, ED of much newer one with longer range through a salary sacrifice scheme.
+[04:51] And yeah, that leaf expired, but we replaced it with this essentially the same vehicle, which we're being sent back by someone else.
+[04:58] We got a smarter charge point, which has a lead, which is way more convenient than getting a cable out and plugging it into a socket.
+[05:05] It's also smarter so it can schedule when things are charged, a lot easier.
+[05:09] But I'm just saying, this is not an excuse for not doing active travel. Like, we still walk into a lot of places we walk into town, we walk to school, and I live up a big hill, so it keeps me really fit.
+[05:21] Yeah, ED's don't solve the problems with traffic.
+[05:25] So we've done probably about 70,000 electric miles, so yeah, a fan bit of experience in that.
+[05:31] Public charging, it's probably about, yeah, 5,900 kilowatt hours.
+[05:36] It's probably near a six-megaw hours, because not everything is in this app, some paid with contactless or other things.
+[05:42] So that probably equates to about, you know, a ton of half a CO2 compared to driving the petrol diesel vehicle.
+[05:47] About 20,000 miles of public charging, so a remainder of about 50,000 miles is just home charging, which probably equates with the same formula to about 4 tons of CO2 saved compared to an ice vehicle in turn, or combustion engine.
+[06:00] So in total, yeah, 5,500 ht. Over the years compared to driving the own more traditional vehicles.
+[06:06] But this is like all an average, and if you're driving in places where they have very green electricity, because they have a lot of nuclear or other things, then yeah, it's actually a lot lower.
+[06:17] And turns out we have them now. So if you're replacing a vehicle, those were the savings, but if you're replacing flying, as we've been doing, they're the multiples a lot higher.
+[06:29] Firstly, because they measure it per person. So yeah, it's roughly the same flying to a nice vehicle.
+[06:36] Only per person, obviously, usually have a lot more people in a car than just one.
+[06:42] But flying has non-carbon impacts as well. There's lots of non-CO2 forcing, which is the dominant factor in fact, things like contrails.
+[06:50] So it's going to be roughly nine times better doing an EV than flying somewhere. So we've done a lot trips up Scandinavia and down to France as well, where yeah, very green electricity there as well.
+[07:01] And it saves a lot of flying. And it's just much nicer where traveling. You can take more stuff with you. It's more relaxing. You see things that you miss when you're flying over.
+[07:10] So more things about the house. First of all, had to get some smart meters. These are really unlock the time-use tariffs and the cheap electricity.
+[07:18] There are some concerns about them. A lot of us can be a EV-80 with light home batteries, but really very essential if you want to do this cheap.
+[07:26] We have a lot of insulation, put capty wall insulation in, put a lot of loft insulation in. Just to keep the house a lot warmer, that works really well.
+[07:34] Our house did look like it had been shot up with like bullet holes for a while until we had it repainted because they drill in from the outside and then blow these, it's all balls in.
+[07:42] And then just over a year ago how the gas needs to remove and cap off. You'll get an inspection from the local gas network about a year later that they came along.
+[07:50] And obviously it's all new plastic pipe in, it's mainly gas, so nothing needed and not getting anything up, so that's not a worry at all.
+[07:58] Generation and storage, so we got solar panels fitted about five years ago now.
+[08:06] Yeah, we've got 10 panels on each west split, so not the most efficient system.
+[08:10] We've got a home battery, it's a low voltage DC, a lithium-ion phosphate battery, so yeah it's not as unstable as some of the ones that have coke ball chemistry using cars.
+[08:22] It's about seven kilowatt hours, but only about five and a half hours are usable.
+[08:26] And the home battery is really cool, it uses a CT time for current transport, more time for a bit like this, it goes around you, meter tails, just clips on.
+[08:34] And then it kind of compensates for the house load, so it will try and make your meter read zero all the time if it can.
+[08:42] And let's like the batteries are filled and then it will start exporting your solar power.
+[08:48] See, a five years in, generated about 11 megawatt hours, the meter is measured about 33 megawatt hours of which six have been exported and 27 imported.
+[08:58] And the batteries lost about 10 or 11 percent of their health, which I think is about two-bout, the temperature of regulation is not very good, they get very hard and very hard and they get used a lot.
+[09:08] But yeah, it's very happy with a system, I definitely make a bigger one now, but things have come down in price a lot.
+[09:14] So heating, cooling, and domestic hot water.
+[09:18] So for a while we just use the immersion heater on overnight in the hot water tank, because with the smart tariffs we're on it, it was cheaper than gas.
+[09:28] And you can also just boost it if you need to if you run out.
+[09:32] And then after that we've got a small heat pump, light facts, so we got a big one.
+[09:36] This was in a time when planning rules weren't as relaxed as they are now, thankfully has been changed.
+[09:42] So we had to go for an awful planning process with local council.
+[09:46] It's just dreadful, I would recommend avoiding that at all costs.
+[09:50] But on the positive, it took so long that the government increased the grant, they give you, so actually saved a lot of money.
+[09:56] So we paid the deposit for this heat pump in 2023, but it took over two years to actually get it fitted.
+[10:02] If you are getting your plumbing upgraded from a gravity system, so you have a tank in the loft, and it's just on, yeah, they could be see a callous event system.
+[10:10] And you're upgrading to mains brushing, you have high mains pressure, just be very careful of leaks, because your pipes will be, yeah, happily sitting there at like 0.3 bar for decades, and then suddenly put multiple bar of pressure into it.
+[10:24] And yeah, we had a few leaks, so definitely worth considering a pressure reducer onto the old plumbing.
+[10:30] The heat pump disinfects itself once a week, so once a week the water is a lot hotter in the morning.
+[10:36] So yeah, you just don't need to be aware of that.
+[10:38] So if you have firm aesthetic mixes on things, it's not a big deal.
+[10:40] If you have like separate taps, which, yeah, I hate separate taps, there's such a bad user interface, but if you don't have a mixer like, yeah, it needs to be a bit careful.
+[10:50] So this is a small heat pump. It's an air to air one, it's really just an air conditioning unit.
+[10:54] It has an infrared control, and it also has local wifi, it's quite an old one, so the wifi was on the local network.
+[11:02] So they don't do that now, it's cloud only, but there are third-party things you can get off internet.
+[11:06] You can replace this module with and integrate it with your home control systems.
+[11:10] It's two kilowatts, but when you talk about the power of heat pumps people usually talking about the heat,
+[11:16] not the electrical energy that goes in, so this thing only draws about 500 watts.
+[11:20] And it's very quiet. I'm going to keep emphasizing how quiet these things are.
+[11:24] The big fans, and I'm a big fan of that, and the bigger and slower fan spins, the, yeah, it is a big fan.
+[11:30] It's a small, really high frequency ones of sure annoying.
+[11:34] This is the big heat pump, there's a lot bigger.
+[11:38] This is an air to water one.
+[11:40] It required us to have almost all of our radiators replaced in mouse for new bigger radiators,
+[11:46] which wasn't a big deal for us, because they were horrible radiators that we wanted to replace anyway.
+[11:52] But you need more surface area because you're running it at a lower flow temperature.
+[11:56] Unfortunately, this one is cloud only, but it does have local manual controls.
+[12:02] Although it connects to the internet for things like it has a control panel on the firmest act.
+[12:08] You can actually go and change things without relying on an event of it significantly going to shut it down.
+[12:12] This one's about 11 kilowatts.
+[12:14] That's firm again, so yeah, only Paul Zay, when it's ticking along maybe a kilowatts, it can ramp up to, yeah.
+[12:20] It has a beefy connections, so it can go up to like 5 kilowatts.
+[12:24] Some backup heaters in there as well, which can pull up a lot of power, and it also controls the inversion heater.
+[12:30] And again, it's very quiet. It's a huge fan.
+[12:32] The neighbors have unprompted just said how quiet they think it is, because that's what people think they're going to be noise about.
+[12:38] They're main concern that that was the main problem with our planning permission. They thought it's going to be noisy.
+[12:44] You can also use it for cooling.
+[12:46] This is a silly way of doing it.
+[12:48] But it does work. If it's a hot day, you can do your hot water and sit in the cold air that it's blowing out.
+[12:52] But yeah, the other one is an air-to-air one, it's air conditioning.
+[12:56] And the main thing about cooling is it pairs really well with solar power.
+[13:00] If you have solar panels, like I'll be running the air conditioning staying cool in the heatwave,
+[13:04] and still exporting kilowatts of power, yeah, it's perfectly matched, whereas in the winter, the heating obviously it's not.
+[13:12] Cooking as well. So plug-in induction hob, we've just tested it out.
+[13:20] And obviously air frires, we take those camping now.
+[13:24] But this is our car. I made a cable for a vehicle to load.
+[13:28] It comes with an adapter, but it's pretty enough. I made a cable that's waterproof, and you can get more current out of it.
+[13:34] Yeah, you can run things off this.
+[13:36] Yeah, this is a pizza oven running off, or you can run electric barbecues and things.
+[13:40] But we also got a fitted induction hob after that, and it's great.
+[13:44] It's a lot easier to clean, that's a main thing I like about it.
+[13:46] But yeah, it's much more efficient.
+[13:48] Things don't get hot. There's no heat coming up the side.
+[13:50] The pan's less likely to burn you, and when you stop cooking, it's really cold at the end.
+[13:56] Yeah, I say you can get electrical barbecues as well.
+[14:00] My family has some of these. I'm not super interested in that, because I don't hear me.
+[14:04] But yeah, other ones work really well.
+[14:06] I like that. And this is one of these smart plugs, which I'm going to get onto in a minute.
+[14:10] The reason is this is here, because this is like here when it's called grillplants,
+[14:14] which is like a barbecue, but I don't know what they call it.
+[14:16] Anyway, onto the monitoring and the tech of the list.
+[14:20] I use home assistant. This is a ZBT2.
+[14:24] It's a Fred, a mattress over Fred, a adapter for home assistant.
+[14:28] Yeah, all these sockets for my mesh network and your house, and you can monitor all the energy things using.
+[14:34] Also have open-engine devices with some CT tramps.
+[14:38] Like this on the grid feeds and the tails, the meter, so you can measure what's going into which
+[14:42] consuming it into which circuit breaker board.
+[14:46] And the whole sort of guiding principle of the design of this is like things should work as they normally do.
+[14:52] You should turn the light on, it should just turn on.
+[14:54] And things should get progressively smarter. You shouldn't have to rely on cloud integrations to control your lights.
+[15:00] There's people we know where they've got like voice assistant,
+[15:04] integrations for lights. Emerson that goes down, they can't tell my lights on.
+[15:08] It's like this is a silly thing to do, don't you think that?
+[15:10] See, make it work on its own and then enhance it afterwards, this was the idea.
+[15:16] Here's some graphs. This is from Open Energy Monitor.
+[15:20] You can see, the other one is main board. These two things are car charging.
+[15:26] The car charging is going to be the main board. This is, yeah, goes up to seven kilowatts.
+[15:30] When it's charging at a single phase, yeah, this is sort of smart charging as well.
+[15:35] So it's being automatically controlled and turning on and off when the best times are for it to charge.
+[15:40] The blue line is a heat pump. It's just doing hot water at the moment.
+[15:44] This one is a normal cycle. This one here is a bit bigger because this is the weekly disinfection cycle.
+[15:48] Where it runs the immersion, which as well, to get it to a higher temperature to prevent things like Legion Elder and stuff like that.
+[15:54] This is one from the winter. There's free this one, there's more reason one.
+[15:58] So this is what the heat pump looks more like in the winter.
+[16:00] Heat pump's running a lot more. The red line is temperature. You can see as the heat pumps running temperatures up.
+[16:06] And yeah, the car charging is the other one there as well. It also includes the rest of the house, which is kind of just dwarfed by the car charging.
+[16:16] You can put all this into the hangar system and integrate it with other data feeds.
+[16:20] Yeah, the EVSE data, although this runs for our main consumer unit, we have an integration with a charge point, the pulls of the data in.
+[16:28] So you can then separate that out and work out what a remainder is.
+[16:32] And yeah, got a few smart sockets and things. You can see how much is the dishwasher using and things like that.
+[16:38] Yeah, and the heat pump is on it separately to tell us we can measure that separately.
+[16:42] And then yeah, I've got some of these plugs are not just monitoring the control as well.
+[16:46] So I have them for these like air filters, but they don't use very much power.
+[16:54] You can also do a lovely thank you diagram after us. So you can be like, oh, here's my home.
+[16:58] And the heat pump's using this much, and then this is main board.
+[17:02] And the car charging's here, and then you can even split it out to be like, oh, dishwasher and washing machine and bread baker and my coffee machine.
+[17:08] And just see how many things are being used and when it's, if you're into sort of breaking it down like that.
+[17:13] It's a bit addictive though, so I'm probably going to have to get a lot more CT clamps, a lot more sockets and have everything measured.
+[17:19] And you need to get a fridge and freezer on there, but I don't really want them to accidentally be turned off.
+[17:25] Electr vehicles, you can integrate these as well, which is really nice. You can see how charged the batteries are.
+[17:31] You can, so here I've got it integrated into both vehicles and the charge point, and then this is a smart charging.
+[17:40] So you could, yeah, when you plug it in, the charge point detects that, and then it refreshes the cars and be like, okay, which ones it plugged into and yeah, how much do you want it to get up to, how much do we need to add to get it to where you want it to be.
+[17:52] Or at least you used to work live out until in this sound recently shut down their cloud service, and I can't do that with a leaf anymore.
+[17:58] But it still works for everyone.
+[18:01] And yeah, the best thing about EVs, I think, is you can remotely control the heating from them. So in the morning when it's icy and your neighbors are out scraping their cars, you just like, defrost and then you get out there and it's all melted.
+[18:12] Or when it's hot outside and you're in the supermarket and you're like, oh, I'll just call the car down before I go and get in.
+[18:18] It's brilliant.
+[18:19] One thing to note about EVs is the problem with them is normally the battery, but not the battery you might think about.
+[18:27] It's normally the 12 volt led us it back to you that you have in all vehicles and it's really unreliable.
+[18:33] And you think, oh, maybe EVs don't use this, but they need it to run the computer and things.
+[18:38] And that is the biggest problem I've ever had. So I would say always carry a jump starter.
+[18:42] This is like a USB battery pack, but it also functions as a jump starter.
+[18:45] And like, just have one of these on you because you might need to start your car sometime with it.
+[18:50] They have a habit of draining the 12 volt, particularly when there's something you've pushed from a vendor like a privacy policy update or a new terms of service or firmware update and then suddenly your car doesn't start.
+[19:05] You can also control your climate, so you can integrate it with all the heat pumps and see what's going on with the heat pumps.
+[19:12] And yeah, what temperatures set to how much energy it's used. Yeah, and so pre-called and pre-heat because if you want to use these to heat more efficiently you can run them in cheap electricity periods and kind of pre-heat things overnight so it's warm in the morning for you.
+[19:27] And then you can also measure things like EV temperature and the air quality.
+[19:32] I've built a bunch of air quality sensors that I've talked about a bit, there's various ways of monitoring that.
+[19:40] So this is air quality monitoring. This is a thing called sensor community. Use people to lift data and show people of familiar with it here.
+[19:48] Use these little sensors that you can build. You put it together with a little ESP board and have a little temperature sensor and then it reports things to a cloud.
+[19:57] And you can house it in a bit of a drain pipe.
+[20:00] Only fits in EU drain pipe, a metric drain pipe so you have to go on a bit of a trip to collect this if you go to the UK one's fair imperial so it doesn't fit.
+[20:10] And this is a graph of one of things it reports and you see it's taking a long amounts of some various spikes.
+[20:18] We'll talk about what those are later.
+[20:21] You can also pull this into home assistant. That's probably not as easy to see.
+[20:26] But yeah, you can basically just pull this. This has a little sort of JSON web API on your local network that you can just pull in. There's lots of other ways to get hold of it.
+[20:37] We'll stay here for a bit and maybe go back to this one.
+[20:40] So yeah, this is another way of monitoring. This is a little IKEA thing. I like the particular matter sensor in CO2 sensor.
+[20:47] Also runs off your badge as I'm doing at moment. This is just USB-C.
+[20:51] It's another one, little portable ones, got a flow that you can just carry around with you.
+[20:56] What else? This is an old IKEA one that's not as integrated but this makes a really whiny noise with a fan.
+[21:03] It just has a little traffic light. You can tap into it that I'd say you Fred over, Matt, Fred one, so much better.
+[21:11] And what's going on here is the neighbor's lighting their fires in the winter and burning, you know, wouldn'tier by him.
+[21:18] So this is outside our front door to tell us how polluted it isn't if we want to go outside.
+[21:26] So savings. It's really hard to say because things vary year on your temperatures and it will vary for other people.
+[21:34] So I can't really say how much you're going to save if you do this.
+[21:37] But for us it's significantly cheaper. It's about £15 a month cheaper in the winter.
+[21:41] And we don't have any gas. So we don't have to stay standing charge on that, which is a good saving, particularly in the summer.
+[21:48] Yeah, it's hard to compare. I'd say if you're on a standard electricity tariff or you pay a flat rate all the time, it's going to be a similar running cost to gas.
+[21:58] Because heat pumps will use a third of the electricity, but electricity is free time more expensive than gas.
+[22:05] So it kind of balances out there. But if you're on a smart tariff and you have cheap unit rates and if you've got home battery that can store that, then it works really well.
+[22:15] One thing you need to check is we cannot paying too much because the energy company might still charge you the same fee and they're still thinking you've got gas or they're not including your export.
+[22:23] So yeah, don't make sure you keep an eye on that and don't leave it as it is.
+[22:30] So the travel is definitely a lot cheaper.
+[22:32] Charging home is very okay here if you're public charging. If you were just rapid charging your electric vehicle, it will be very similar costs to petrol or diesel.
+[22:43] But home charging is an order of magnitude cheaper. It's unbelievably cheap in fact. At least until it gets taxed at some point in the future based on your mileage.
+[22:52] And electric vehicles are a lot more efficient. Like when you have like liquid fuel in a vehicle, 80% of it is wasted. Like only like 20% of fuel your paying for is actually used to move your round for rest is like lost as heat.
+[23:07] So it's all about system efficiency as well because of all supply chains in a version.
+[23:13] So what would I do next time? Definitely more. More is the lesson here. The marginal costs of the next, the solar panel is like underpounds.
+[23:23] But the fix costs are really high. So getting the people and getting the scaffolding, getting everything and someone to put it up there.
+[23:28] So if you're doing this, just get as big as you can. Like get as many panels on your roof as you can.
+[23:34] Get as big of batteries you can afford because adding it later is not always cheap. It's a lot more efficient to do upfront.
+[23:42] So battery was fine for a while, but now we've got the heat pump. It gets eaten for breakfast. So I definitely put in a much bigger battery if you're planning to get a heat pump.
+[23:51] It'll also be nice if it's a bigger battery and has a higher power output to have like a full backup capability.
+[23:57] I'll do this small to do that. But you could have a big switch so if your power goes off, the battery can just run your house. That'd be nice.
+[24:05] And also the way I was was installed. One of the issues with our car charger to go into the main board along with everything else, which makes it hard to separate and monitor that.
+[24:14] You can't put a time per hour on that cable. I think these days they typically installed as a separate consumer unit. So it's not a problem, but it's nice to think about.
+[24:22] I'd also make sure that everyone's a bit smarter. Like our inverters a little bit done. You can set time as and stuff on it. You can integrate into it if you reverse engineer it, but there are some which just work out with box.
+[24:35] So I'm going to cover things we didn't do. Things we could have done, but it's actually boils down to burning stuff.
+[24:42] So there's a thing called Renewable Diesel. This is normally a thing called HBO. It sounds a hydratry to vegetable oil.
+[24:49] You may think, oh, this is just the other going to the fastway places and getting the deep, the used cooking oil and using that.
+[24:55] But actually no, it turns out there's a lot of fraud in this industry and it turns out a lot of it is virgin parmal from non sustainable plantations that have deforestation things.
+[25:02] So it's actually worse than burning oil.
+[25:06] Other things we didn't do. We deliberately decided not to get a wood burner. So yeah, I asked me like 10 years ago I would have thought like,
+[25:14] Oh, these are super desirable. Like this is cozy, this is eco, this is great, this is natural.
+[25:19] But then I kind of started looking into it and read about it and looked at the evidence and reports and it turns out they're really bad for your health.
+[25:26] You know, smoke is smoke and it's very similar to tobacco smoke. It's really not good for you.
+[25:32] And it's also really bad for your environment. And the way to think about this is, you know, it depends what you're burning.
+[25:39] So, and what is the time horizon for that to be renewable? Because you have a technically carbon neutral, but what's the time horizon on that?
+[25:45] And it turns out it's about 100 years. And we don't really have 100 years. So yeah, if you burn new things like agricultural waste like straw,
+[25:52] yeah, that's going to take a couple of seasons. But a log is a big thing. Like trees take decades to grow. And we don't have decades. So that doesn't really work.
+[26:02] And I think a way to think about this is to prioritize like the high impact items. So, you know, if you're, you know, sweating the details and worrying about things for sort of on the fence about health, you know,
+[26:14] who are ultra-processed foods and plastics and non-stick coatings and things, that ignoring other, you know, obvious health impacts that have a lot of evidence behind them.
+[26:23] Then yeah, I tackled with big things first. And a bit of a way of dealing with sort of things you can burn is to turn them into charcoal.
+[26:32] And then sequester that. So you can make biochar and it's used as a soil impover, and it makes the soil better. And then it locks that carbon away in the soil.
+[26:40] I'd say if you already have one, don't rip out like a woodfire or anything, but just say that for emergency use only, you can convert this to like a biofen or burner, or if the ones essentially vodka, you can put some plants in it, make it a nice terrarium.
+[26:53] I'm sure people here come up with lots of things like fairy lights and LEDs and things make it look awesome.
+[26:59] So the future, the future is not evenly distributed. I've been to Norway, that looks a lot like the future.
+[27:07] There's a lot of everything's electric there, even like the, you know, diggers, like the construction machinery or battery electric.
+[27:15] I think very soon we're going to get a decision on plug-in solar in this country, which is very popular in Germany at the moment, and has been for some time.
+[27:22] And I think, doesn't as a making decision this month, consultation closed of a law and the last month.
+[27:28] So if you ask some products available to buy soon, but you can just plug into a normal wall socket, which is great if you're a renter.
+[27:35] And yeah, it detects a grid and will export, or compensates if you're base load anyway, without having a live plug when it's unplugged.
+[27:43] And I think following that, you're going to get like plug-in batteries, so things you don't need an installer to do, which will be great.
+[27:49] Another thing that seems to have been coming for ages is vehicle to grid or vehicle to home, where just like I was pairing the, my pizza oven from my car there, you can export it into your house and run your house from your cars.
+[28:00] I was saying we have a tiny home battery, we have no drag magnitude, more storage sitting in my drive, but we can't use, which we could use to run the heat pump or something, it would be brilliant.
+[28:09] And finally, heat pump ventilation, yeah, which is a thanks of air saying, sort of heating cooling, sort of air to air system with ducts and a heat exchange, so you're bringing fresh air in and exchanging the energy and heat with the outgoing air.
+[28:22] So it's all nice and fresh, and then you can condition that and make change the temperature of a heat pump, and pay that land for all heating, it's really good.
+[28:31] So to summarize, we have an electric, we have electric vehicles, and so-and-patteries and heat pumps and induction halves, we've got rid of our gas, and say close money, and say you can plant it at the same time, it's loads of fun. So you should do it.
+[28:44] It's mixed with resources, our more than data's brilliant, ember energy is a think tank, they do loads of good reports on this, flight-free, have loads of inspiration, if you want to drive somewhere and not get a flight in Europe, and it's even a low-neut planet book.
+[28:56] So yeah, thank you very much, I'm going to end on the high-cou, the future is electric, and this is already here, so stop the earnings stuff. Thanks.

@@ -1,0 +1,135 @@
+[00:00] but no.
+[00:01] I have been involved in reversing and researching the Windows bootchains for 10 years now.
+[00:31] I have also had interest in Nt on non-ex86 architectures and I have been bringing up Nt on
+[00:40] systems.
+[00:41] It was never supposed to run on and I have been doing a little bit of experimentation with
+[00:45] custom Nt use a land because I don't like Windows 11's use a render phase but the
+[00:51] kernel is perfectly fine.
+[00:55] When Windows 8 came out, it came with a QB and people hated it.
+[01:06] Part of that is because Microsoft and Trolls are signing infrastructure, had it been
+[01:10] summer, one house, things might have been different but also when they came with a port
+[01:19] of the 7 that passed it flopped and Microsoft decided to lock it down because they wanted to
+[01:27] compete with the iPad.
+[01:31] Even the internal developers hated that decision, I think no one actually liked that decision.
+[01:38] I think they saw 30% App Store and no one used it.
+[01:44] That only 7 portbillion lockdown is the only reason I started resurrecting Windows bootloads in
+[01:49] the first place.
+[01:52] There are a lockdown window devices, Windows phones, service hub, HoloLens series, I don't have
+[01:58] me.
+[01:59] The only one and the Xbox One which is the most secure out of all of those is the Xbox One
+[02:05] Xbox Series is proof that Microsoft can write secure code.
+[02:11] I don't have a service hub, maybe I'll get one this under, I don't have HoloLens, maybe
+[02:15] I'll get one someday and I was involved a bit in Windows phones.
+[02:22] The Windows 365 link, it was announced in 2024 and described as secure by design, something
+[02:28] that was defined as the cool boot, TPM, FEC, I did all the nab all in can not be turned off.
+[02:36] I see that and I'm like, well, I don't think so.
+[02:42] Before it released, I did some initial stuff I did.
+[02:47] There are some references in Windows 2 in the edition called WNC but no one could figure out if
+[02:54] it was on the update service or not.
+[02:56] But a previous iteration, WCOS used something to use some different parameters on the update
+[03:03] server so I decided to pass that and it worked and gave me an update.
+[03:10] So this is why, this is what I call it by my booting up in a VM.
+[03:16] A placeholder license agreement, I don't think they have a change that.
+[03:26] The base build is also broken.
+[03:28] It shows up nothing when it's installed, you can shift if 10 to a command prompt, there's no
+[03:33] shell 32, there's a bunch of stuff missing.
+[03:37] But I did figure out how to update it.
+[03:42] When the update finished, that brought in all the security stuff.
+[03:47] The bitlocker got enabled with TPM only, no recovery key.
+[03:52] That sounds later.
+[03:55] I decided to try something out because there's obviously no integrity checks in the Windows
+[04:00] boot loader so I booted of that.
+[04:04] I got this.
+[04:05] The device unlocked for testing purposes only.
+[04:08] No, it only wants Wi-Fi and my VM only had eFnet, so I couldn't get past this screen.
+[04:16] Anyway, there was also a control plus shift plus F10s, give you an admin command line,
+[04:22] but the update disabled that.
+[04:24] In the base build that used hard-coded credentials.
+[04:27] They changed that to randomly generate credentials afterwards and only in the unlocked mode.
+[04:33] They blocked that down.
+[04:37] They released the device in April 2025, so when it showed up in a UK corporate IT surprise
+[04:44] website, I ordered one.
+[04:46] After some delays, it eventually arrived and I liked,
+[04:53] and it's a Microsoft Black box.
+[04:58] If I can get the camera up, then I'll get some clock the UK.
+[05:06] Okay.
+[05:12] Here's a front and here's the back.
+[05:18] It's on a desk, it's supposed to be like this side.
+[05:23] This side, we've got a single USB port and on the back.
+[05:27] You've got some more USB, HDMI, eFnet, power-in, and a small pin hole button just below the power,
+[05:36] and that's used to get into the UEFI firmware.
+[05:42] So I used that.
+[05:43] It was documented as being used to enter the UEFI setup, so I used it.
+[05:48] And secure boot options were present, but we've only the single Microsoft only option.
+[05:53] But I could boot from USB and it turned out that booting to WIMP-E specifically,
+[05:58] disabled user mode code integrity, because something is specifically added for this for some reason.
+[06:03] So I just booted to WIMP-E and dumped the internal storage.
+[06:09] And I checked the dump out and it turns out that there was an NTFS partition right at the end.
+[06:15] And also, they did it at some point.
+[06:18] There was no bit locker until it would be actually finished, so it could escrow the recovery key to wherever.
+[06:25] The NTFS partition at the end contained a bunch of factory tools.
+[06:29] The actual operating system image and an interesting build of WIMP-E.
+[06:34] I've sent up the dump to the internet archive.
+[06:39] So the next thing I tried was, well, there's a nice little trick that I've known about for some time.
+[06:45] It's been helpful with some bit locker key dumping vulnerabilities.
+[06:50] But if you used to disable integrity checks from the Advanced Options menu,
+[06:56] when there's a code path in WIMP-E, where it will load a file called NCUpdate.Dialow for Microsoft,
+[07:04] for protests of microcode updates, and it will get executed before exit boot services.
+[07:09] And if you disable integrity checks, it will disable safety checks for that too.
+[07:14] And at some point, they added code to remove that option if the CI policy for this device is actually loaded,
+[07:24] but you can just downgrade WIMP-E load.
+[07:28] And that's enough for running full Windows.
+[07:32] You can delete the variables at local policy in place.
+[07:35] There are about a few seconds of the internal storage, so the Windows is loaded back in again.
+[07:42] And from wherever in the store, I can have an access to it and encourage for that yet.
+[07:47] So what about Linux?
+[07:55] If you go ahead and set on Feddy, you can just apply the new third party to give good DB update that's signed by the old KECK.
+[08:05] Key exchange key.
+[08:07] I knew that update existed, but that post basically got me to look into new, which is Microsoft's open source secure UEFI firmware,
+[08:16] because I was thinking, surely not.
+[08:18] I'm sure you did something, but nope, that the Microsoft only Microsoft has third party option just changed his voice.
+[08:26] What's in DB? Everything else is the same. It doesn't check whether you're applying.
+[08:32] It doesn't check what you're applying DB updates for, so I booted to WIMP-E and applied the update and it worked.
+[08:40] But I had to wait for someone to release a shim signed by the new third party certificate.
+[08:46] Eventually, Feddy released a second updated shim and any just for a ribbon updated shim should just work.
+[08:55] So, it's a good job doing it's running on the thing.
+[09:00] And I'll actually boot it up now.
+[09:04] Yeah.
+[09:12] If you think it's a rich.
+[09:33] I think it's a rich.
+[09:53] Can you switch to math?
+[10:03] Yeah.
+[10:33] Yeah.
+[10:39] Hardware isn't that spectacular, it's like low end.
+[10:45] But I'm expecting that given time.
+[10:49] There's going to be a lot of these things, game decommissioned.
+[10:52] So.
+[10:54] You can see the specs aren't great.
+[11:04] But it's supposed to not be running this.
+[11:10] So.
+[11:12] And you can see the specs aren't great.
+[11:16] But it's supposed to not be running this.
+[11:20] So.
+[11:50] So.
+[12:05] What about the future?
+[12:08] The vulnerabilities he described can be fixed.
+[12:11] So, or mitigated in some ways.
+[12:13] And the whole key is can be fixed with a GUFI update.
+[12:21] The advanced options don't take to kick.
+[12:23] Can can be mitigated with build later updates.
+[12:26] Because that's the second.
+[12:28] So, the first day.
+[12:29] So, it's good to be used.
+[12:34] There's theoretical hard-euro attacks.
+[12:37] And it's just dumping the flash and changing the variables directly and running the change dump back.
+[12:44] But I don't understand why the curbu is locked on on this device at all.
+[12:49] Because.
+[12:51] Bitlocker is forced on.
+[12:53] Any attacker who can get the bitlocker keys also can get also can bypass all disabled secure boot.
+[13:00] So.
+[13:03] And obviously if.
+[13:05] If you want to install some other operating system, you don't really care about the content of the device anyway.
+[13:13] That's.
+[13:17] That's it because.
+[13:19] It's apparently quick.
+[13:21] But if I'll be at the Q&A 10 later.

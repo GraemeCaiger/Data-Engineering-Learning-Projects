@@ -1,0 +1,413 @@
+[00:00] I'm going to be a little bit more nervous.
+[00:07] I'm going to be a little bit more nervous.
+[00:13] I'm going to be a little bit more nervous.
+[00:18] Hello.
+[00:20] So this is my first time doing anything I know this big.
+[00:23] Thank you very much.
+[00:28] But I couldn't make the bedrody instead of it for.
+[00:31] So, high-power rocketry on the tube.
+[00:34] How do you do one of the most expensive hobbies you can possibly think of,
+[00:37] especially in today's climate and not absolutely destroy your bank account?
+[00:42] So, rockets do you do sense stuff to space?
+[00:46] Not quite.
+[00:48] Rocketry refers to hobby level builds and launches.
+[00:51] So, I mean, stuff like you can see on the table here,
+[00:53] like we have tiny kits and scratch builds like this,
+[00:57] which fly on a motor like this big,
+[00:59] two things that could go up to Mac one,
+[01:02] potentially Mac two like this thing.
+[01:07] Now, the hobby appeals to people,
+[01:09] to kids, to families and adults alike.
+[01:12] You get a really good mix.
+[01:13] Kind of a similar demographic to EMF, I would say,
+[01:16] rocketry launches.
+[01:19] But recently in the UK, there's been a lot more sort of out-reaching competitions,
+[01:23] targeting university students.
+[01:25] And, for example, there's UK rock, which is for late-stage secondary school students,
+[01:29] and then there's an NRC, the National Rocketry Competition,
+[01:32] and Mac, which is a yearly competition as well,
+[01:35] that are for university students or recent grads.
+[01:39] And that's kind of where I can enter this.
+[01:42] So, I started doing rocketry via two of those competitions.
+[01:45] UK rock and Mac.
+[01:47] And for both of those, I was operating on almost no budget.
+[01:50] That's not that unusual for UK rock,
+[01:52] but for Mac, there's teams that come into that with thousands of pounds of funding,
+[01:56] tens of thousands of pounds of funding.
+[01:58] We had just about a thousand to run our society for the entire year.
+[02:03] And yeah, it was kind of rough getting there.
+[02:06] So, we ended up coming up with some good ways to say,
+[02:09] of seven to cash.
+[02:11] But yeah, I'm now graduated, so I'm just doing this for fun.
+[02:15] And I am still kind of broke, so I'm still trying to save money.
+[02:19] So, this talk is laid out as one big high-power flight.
+[02:23] And I'm going to take you through all of those phases really quickly right now.
+[02:26] So, we'll cover our initial take-off and boost phase,
+[02:29] where our motor burns, gets us off the pad,
+[02:31] and gets us going real fast.
+[02:33] And we'll talk about, during that stage,
+[02:35] we'll talk about what motors you use in these rockets,
+[02:37] how they classify it, the classification grading.
+[02:41] Then, as we continue, we'll co-stop with,
+[02:43] where most of the flight upwards actually happens.
+[02:45] Your motor burns generally quite short.
+[02:47] Then you spend a long time going up without that speed that you've gathered.
+[02:50] And during that phase, we'll cover the aerodynamic forces on the rocket.
+[02:54] At Apigee, we want to check our altitude, say,
+[02:57] oh hi, we got mostly so we can break to our friends.
+[03:00] And for that, we need some electronic.
+[03:03] Then, we need to save the recovery of the rocket by deploying our parachute
+[03:07] or multiple parachutes and gently drifting down to the ground,
+[03:10] and we can not damage our pride and joy.
+[03:14] Then, hopefully, we can walk out, collect our rocket,
+[03:17] and I'll be ready to fly again in minutes.
+[03:20] So, boost, how are we getting off the pad?
+[03:24] What are we looking at?
+[03:25] So, we use solid rocket motors, largely.
+[03:28] There are some hybrids in use, and the hobby right now,
+[03:31] but a little bit rare, a little bit more edge case.
+[03:34] The vast majority people use these solid rocket motors,
+[03:37] and a few different sizes.
+[03:38] They come in these tiny ones that are literally wrapped in cardboard,
+[03:41] like paper, that you get from SDs, you can buy those in Amazon.
+[03:45] You can depend on how big of a garden you have.
+[03:48] You can potentially fly them in a back garden or a field,
+[03:52] to stuff that's sort of midrange, that you can see on the right there.
+[03:55] That's some midrange, one of those air, 20 sets.
+[04:01] Yeah, these are sort of midrange rockets that you might fly on,
+[04:05] like something sort of middle size.
+[04:07] This would take some of the SD stuff, this would take the midrange stuff.
+[04:10] Then after that, you get onto the much highest high-end stuff
+[04:14] where you're getting aluminium casings, precision machines,
+[04:18] and you're putting that in big stuff like this,
+[04:21] and you're going up to sort of column at as high,
+[04:23] and back one, potentially even higher than that one,
+[04:26] and getting up to make two.
+[04:29] But yeah, these are single use.
+[04:32] They are solid rocket boosters.
+[04:34] There's a lot of them in the bottom of your rocket, set them off,
+[04:37] and then you can unscrew the tape, take them out, and fly them back in.
+[04:40] So these rockets are entirely reusable.
+[04:43] Now, we tend to categorize these motors by impulse,
+[04:46] which is the total amount of momentum that the motor imparts
+[04:49] to the rocket as it burns.
+[04:51] So each letter of classification,
+[04:54] we have doubles the impulse we're dealing with.
+[04:57] So, set directions, lovely.
+[05:00] So we have a motors, those are the ones that we saw.
+[05:03] There's a two point five Newton seconds, which
+[05:06] may be a little bit deceiving that they actually have the similar amount
+[05:09] of impulse to them as a 9-millimeter handgun bullet.
+[05:12] In that, in that tiny little cardboard package,
+[05:14] and then every letter you go up, you double it.
+[05:17] So at B is five Newton seconds, the C is 10, D is 20, E is 40.
+[05:21] And depending on how high you want to go with these,
+[05:25] with these rocket motors, you can get up to some pretty scary numbers,
+[05:29] pretty fast.
+[05:31] So if I remove the log scale off the chart there,
+[05:33] you can see how crazy it gets how quickly.
+[05:35] I assume a lot of us familiar with how mad exponentials get.
+[05:40] So the high power class, quite fittingly starts at H class,
+[05:44] which covers 160 Newton's up to 320 Newton's for H motor
+[05:49] and then beyond that for the other classes.
+[05:52] High power obviously extends way beyond H motors,
+[05:55] but for now, we're just going to look at H and I,
+[05:58] because those are, you can get all your L one certification
+[06:02] to do those high power rocket motors relatively easily,
+[06:05] and also they're not so insanely expensive
+[06:09] that you've priced yourself out at everything else.
+[06:12] But yeah, so there's significantly more affordable
+[06:15] than something like a J motor, which is going to run you like
+[06:18] 100 pounds of flight maybe more.
+[06:20] And yeah, remember that we are doubling in impulse every class,
+[06:24] which means we're also doubling our propellant mass
+[06:26] and doubling the size of the motor.
+[06:28] So either you're getting bigger rockets or those rockets
+[06:30] are going much, much faster.
+[06:33] But before we even think about what kind of speeds we're getting up to,
+[06:36] we need to build something that survives this initial kick.
+[06:39] So on the, on the slide right now,
+[06:41] I've got a thrust curve for a typical high power motor,
+[06:44] the H169.
+[06:46] Now this thrust curve is a plot of force that is exerted
+[06:49] by the motor over time.
+[06:51] So if we look at the start of that curve,
+[06:53] we can see a punch of 200 to 125 Newton's,
+[06:58] which in Earth gravity rolls out to about 20, 22 kilograms.
+[07:03] Now that's an important thing to realize,
+[07:06] because if you have spent hours and hours building your beautiful
+[07:09] rocket that you're very proud of,
+[07:11] and the thought of putting 20 kilograms on it terrifies you,
+[07:14] maybe don't put that motor in it.
+[07:17] It's very easy to look at all these numbers and go,
+[07:20] oh yeah, they're engineering calculations survive that, that's fine.
+[07:24] But if I look at that and go,
+[07:26] then maybe you got someone else to think about.
+[07:30] But yeah, now we've got some background on how these motor classifications work
+[07:34] and what it means to say a power rocket tree.
+[07:38] So let's get back to our story.
+[07:40] How do we actually get off the pad?
+[07:42] So picture our brand new society.
+[07:44] We formed in, so I'm going back to about 22, 22, 23 here.
+[07:48] We have basically no money and half of it vanishes the moment we actually had
+[07:53] to get to a launch site, because there are very few launch sites in the UK.
+[07:57] None of us had our own cars, so we're having to hire that from the uni.
+[08:00] So our budget is magically disappearing before we've been started.
+[08:04] And of course, within that society,
+[08:07] we want everybody to do something.
+[08:09] Like building one rocket for the whole society,
+[08:11] all well and good, that's quite common for competitions.
+[08:14] But we will more interested in how can we get all of our members to do a bit of everything.
+[08:20] How can we give everybody a grounding in hobby rocket trees so that can continue this hobby on their own?
+[08:25] So this is Nordry.
+[08:28] This is an excerpt from a poster I made a while ago.
+[08:31] Apologies a little bit smaller on that screen, but it's mostly there for the images of the rocket itself.
+[08:36] So at its core, Nordry is a cardboard tube.
+[08:41] It is a postal tube that can get from the post office for one pound.
+[08:45] In fact, you can get three of them for one pound.
+[08:48] So which I think makes them cheaper than a Fredo.
+[08:52] The fins are plywood, which we laser cut, but you can absolutely cut my hand.
+[08:57] The nosecoins, 3D printed, so that's a very basic 3D printed PLA.
+[09:02] Literally just boxed and a filament here.
+[09:05] There's a whole bunch of Apoxysladder on there, which is a little expensive, but you can use one big bucket of Apoxys.
+[09:12] You can do 20 rockets.
+[09:14] So as a society, that was a really great model for us.
+[09:18] We use clever construction techniques to make sure that these designs are strong enough to survive the forces they're going through.
+[09:26] So Nordry, we had the through the wall fins, which means that you cut a slot in the outside of the fin.
+[09:31] And then you have an Apoxysladder, usually both on the inside and on the outside of the rocket.
+[09:37] Which means you've got multiple bonding points.
+[09:39] You've got at this whole reinforced structure at the bottom where the motor is putting all of this force.
+[09:44] So that's getting you a lot of strength, despite your simple materials.
+[09:52] And yeah, this design was we focused on using entirely open source tooling.
+[09:57] Anybody could use on like there.
+[09:59] We had a lot of links users.
+[10:01] We had Mac user.
+[10:02] We had some one or two windows users.
+[10:05] So you know, fusion was kind of out of the question, unless you wanted to use the tarble web UI.
+[10:10] OpenSched, we used a little bit for this rocket.
+[10:13] We've now, the cat software is a whole thing.
+[10:16] But the idea of this rocket was for it to be sort of free open source.
+[10:21] Very easy for anybody to make.
+[10:22] And very easy for anybody to pick up the basics of rocketry with.
+[10:27] But yeah, there were plenty of problems with it.
+[10:29] And which you've kind of been interesting to watch.
+[10:31] As more and more people who have like built this this archetype of rocket,
+[10:34] they've had to go through and solve these problems on their own.
+[10:37] And that's been really interesting to see.
+[10:39] Because a lot of them have solved these problems in different ways.
+[10:41] They've incorporated different types of machining.
+[10:44] They've used like lathework to build delrin or aluminium anchor points.
+[10:49] And they've redesigned how the shock codes were attached.
+[10:52] There's been some really interesting innovation.
+[10:55] And yeah, there's like a pricing up on the whole thing.
+[10:58] And yeah, that rocket, it was so it was originally made for sort of student outreach.
+[11:04] But we tweaked it so we could enter it into competition.
+[11:07] And it did exactly what it was supposed to do in the test flight.
+[11:11] Not at the competition.
+[11:13] But we know it's capable of doing what it's supposed to.
+[11:16] And that's what matters in our hearts.
+[11:19] But yeah, so that rocket costs about a tenor to build the entire chassis to build.
+[11:24] It even put a parachute in it.
+[11:26] If you cut out some of the reusable components,
+[11:29] then it comes down to a five or even.
+[11:31] So like this incredibly cheap rocket.
+[11:34] Unfortunately, it requires motors that cost 30, 40, 50 quid to fly on.
+[11:38] So little bit over-optimized.
+[11:40] Would I recommend building this?
+[11:42] No.
+[11:43] Don't build that.
+[11:44] It was a fun exercise.
+[11:46] But I think if you're going to build a rocket,
+[11:49] there's no point spending less than it costs to fly at once.
+[11:53] You can put a little bit more pride and a little bit more join it.
+[11:56] Tins you bit more money into that rocket.
+[11:58] Just to get it.
+[12:00] Yeah, something you can be really proud of.
+[12:02] And you want to refine multiple times.
+[12:04] Supposed to throwing something together, flying it once.
+[12:07] Then, yeah, what if I bought another one?
+[12:09] Because it's such a cheap.
+[12:10] Good way to learn.
+[12:11] But if you want to get into the hobby,
+[12:13] I think you want to build something that you can reuse over and over again.
+[12:15] Because that's really how you're going to save money.
+[12:18] So we've made it off the pad with.
+[12:21] And so we can put the kit sort of close to back one.
+[12:25] And we're going very fast.
+[12:26] And the air is trying to hold us down.
+[12:30] As I'm notice burning out, we're at the fastest point of the flight.
+[12:33] We've stopped accelerating and now we're suddenly decelerating.
+[12:36] And depending on the exact load we're flying,
+[12:37] we might be over the speed of sound.
+[12:39] This, so the so-called transonic region between about Mach. .a
+[12:43] and Mach. .1.2 is absolutely wreaks havoc on our rocket
+[12:47] We want to do because they suddenly all get very very messed up
+[12:53] Translate speeds sort of cause different parts of the airflow around the rocket to become unstable because you have pockets of air that are moving
+[13:01] faster than they can you can sort of think of the speed of sound as the speed of information through air the air can't tell air in front of it to get out the way
+[13:09] So you ended up with these shock waves that you're pushing through it and that causes real bad disruptions
+[13:14] But yeah, this also causes really really bad forces on on the rocket itself on the nose cone and on the fins
+[13:22] So you've got a like reinforced the heck out of those to make sure that you can survive these speeds and
+[13:30] Yeah, some of you may have seen BPS bases video where he
+[13:36] He cooked meat. He cooked a piece of steak on a rocket nose cone that was going up back to but that's the sort of energy we're talking about here
+[13:43] So our little pearly nose cone isn't quite good a survive anymore
+[13:47] So what's our answer to this tends to be composites?
+[13:51] Composites are a combination of two or more materials chosen for their complementary properties take five to glass for example
+[13:57] That's something we use all the time in rocketry and it's something we've used from the start on this rocket here of alchry
+[14:03] Five to glass is made of a so there's glass fibers themselves which are very very strong intention
+[14:10] You cannot like break them by pulling them but they are kind of pathetic when you try and push them or share them or whatever
+[14:16] So what you do is you bind them together with epoxy and that that gives you the the
+[14:21] Compression strength that gives you the share strength and suddenly you have this material that's
+[14:25] Really strong in all of these axes and
+[14:28] You can you can build something else if I was back to
+[14:32] So neither is much use alone, but yeah in combination very strong
+[14:37] Now most hobby rocketry sort of retailers offer standalone parts or even full kits made of fiberglass that have been you know a precision machine
+[14:46] They've used all their or their very fancy techniques and they're usually quite
+[14:52] Praced relatively reasonably considering like how good they are how much efforts got into them
+[14:57] But we're here to do the hobby ourselves not pay someone else to do it
+[15:01] So surprisingly to me at least the basics you need to get started with professional great composites are
+[15:06] Really quite affordable what's talking about the equivalent of two or three pipe out motor launches to get you all the kit
+[15:13] You need for making a good half it doesn't rockets in terms of epoxy like all the brushes and pots you need or the
+[15:19] Any other PPE you need even
+[15:22] And you can see on this slide here it's again a little bit small
+[15:25] But here are some of the pitfalls of trying to make your own tube
+[15:29] That message on on the right there says is a friend of mine in discord that says
+[15:34] I think the 38 millimeter coupler is going to come out as a 37 millimeter coupler
+[15:39] Which anybody who does the one thing about rockets knows that's actually kind of catastrophic
+[15:47] And yeah, we ourselves have have attempted some some pipe glass tubes as well
+[15:52] This one was for small mic and again this one on velcroy actually doesn't have the cardboard tube inside that one's
+[15:57] Pure fiberglass and if I don't want to come see these rockets at the end you can feel like one
+[16:01] Bikery is incredibly late because of like how little fiberglass you need to reach that level of strength
+[16:08] Now more recently I've been doing full-on layups for all of my recent rockets
+[16:15] So like no, for example this one here
+[16:17] You may not be able to tell compared to this one which is very very textured, but uh there is a fiberglass layup under these fins
+[16:24] So they're still plywood fins but a layer of fiberglass on top of them and epoxy impregnated into those wooden fins
+[16:31] Really gives you the the strength you need to you know not worry about smack in those fins and and
+[16:38] You know, I wouldn't want to do it on a plywood one put it that way
+[16:42] Now there is the downside of the epoxy is that you are working with hazardous materials
+[16:46] fiberglass and epoxy are both hazardous in their own ways and you do need to
+[16:51] Use suitable PPE so I want to just send people out to boil these things without mentioning that you do need to look into how to stay safe with you with them
+[17:00] Okay, so we're reaching a pechy where at the top of the flight now and
+[17:05] Let's do a quick rocket electronics programmer so you know what's going on in in in our avionics bay here before we
+[17:12] Decide what we're gonna put out so two quick descriptions is that you can have passive avionics and active avionics
+[17:19] Passive avionics are something simple like a data logo all it does is tell you what altitude you reached
+[17:25] Maybe like you know how fast you got up there how fast you came down
+[17:29] It doesn't actually control the rocket in any way active avionics would be something that can
+[17:35] Decinate a black powder charge to separate the rocket or potentially even to control fins
+[17:41] Which is again a very difficult
+[17:45] Area this classes experimental rocket tree so
+[17:49] Tread with caution, but
+[17:53] Active avionics are safety critical in almost like every scenario
+[17:58] And not only are they safety critical they can be very very dangerous if use wrong they're not just required to make things go right
+[18:09] Then there's also the distinction between commercial off the shelf and DIY and
+[18:13] And the policies for this are actually kind of been written right now internally by you group, but
+[18:18] So commercial off the shelf is
+[18:21] Anything from a fully assembled kit flash with firmware that you can just plug and play
+[18:27] To maybe a kit that comes but this assembled and you have to sort of parts to it
+[18:32] Then there's like partially DIY where you've maybe modified one of those kits and then there's fully DIY
+[18:36] Where you've designed a board from scratch like the one I'm gonna talk about later
+[18:42] Now what we tend not to want to do is mix the active and DIY components because as soon as you're just trying something out
+[18:49] That could set off a black powder charge steer a rocket into something you're obviously poking the bear
+[18:55] You do not want
+[18:56] It's the safety critical systems to be controlled by some random student in a field where there's you know
+[19:02] Four E 50 60 spectators that cannot easily move out the way of a rocket that's going again possibly the speed of sound
+[19:13] Now commercial deployment computers can be pretty cheap like those kit ones that you get disassembled
+[19:18] They also can get to be pretty expensive even for the relatively simple ones
+[19:22] But they are rigorously tested and trusted and oftentimes they're just worth it
+[19:29] In fact, there's usually not another option you have to use one of these off the shelf dual-deploy computers
+[19:35] This is something that we're trying to improve and by we I mean myself and a group of friends that are you know
+[19:42] In interest that in making these devices ourselves
+[19:46] But for now
+[19:48] What we can do without any approval without any any sort of safety concerns is make our DIY data logger because all it does is collect information
+[19:56] So you can just stick it on your rocket and you get information out of it and
+[20:00] What's better is that you can get exactly the information out of it you want and
+[20:04] If you're ordering these in a small amount of bulk, so you're doing a group by with some with some friends on the hobby
+[20:09] Then suddenly it actually comes down to 15 to 20 pounds per unit if you're getting it pre-assembled even
+[20:15] So that's really quite affordable
+[20:18] It takes a lot of time it takes a lot of skill but those you know that time and skill is time you're spending doing the hobby
+[20:26] and
+[20:27] You know skill that you may already have from your job you can build as part of the hobby and again this is not
+[20:35] Required for everyone doing the hobby or each of these like sort of four sections I'm talking about
+[20:40] You don't need to engage in all of them you can just pick and choose one or two
+[20:45] Now this is my sort of avionics journey
+[20:48] we started with
+[20:51] Home homemade DIY PCBs that we etched at our our hack space using a laser and ferric chloride
+[20:58] So again hazardous chemicals kind of scary but it lets you rapidly prototype a stage
+[21:02] You cannot reach ordering stuff from from jail c or whatever and especially if you're using simple modules
+[21:07] That just need plugging together in a really like sort of resilient way then that's that's not about what to do
+[21:12] But yes, so that's that's titanium version one on the left and then on the right we have titanium version three titanium
+[21:19] You're to never left my laptop
+[21:21] um
+[21:21] Titania three is a
+[21:23] Like a fully featured data logo. It's got a barometer an accelerometer
+[21:28] It's a size of a ube key so it you know it is literally the size of your thumb and it is ways almost nothing
+[21:36] And it will collect as much or more data compared to like any other commercial data logo on the market
+[21:46] Okay, so recovery one of the scary things I mentioned earlier was black powder
+[21:51] Black powder is something that you
+[21:53] Until recently have kind of been forced to deal with a model rocketry
+[21:58] Either it's integrated into the motors you're already flying in which case you don't need a separate license
+[22:02] But you're obviously still dealing with some some dangerous material
+[22:06] Or you're making a separate
+[22:09] Uh, black powder charge that you're then wiring into everything manually and that's got a whole other set of risk associated with it
+[22:16] Now when we're doing recovery we want to separate it
+[22:19] Appagy because this is the point in the flight the rocket is moving the slowest
+[22:22] Appagy being the the top of the flight the the highest point you get to
+[22:25] Because obviously you're kind of you're at the top of your
+[22:28] Imagine throwing an apple in the air you're at the top of your throw your your your kind of hanging in the air
+[22:32] This is when you want to be be popping some critical mechanism not when you're under a huge amount of force
+[22:38] But if we're beginning to go like one kilometer two kilometers high and we we pop our main shoot
+[22:43] But let's just come down slowly and have to not get damaged
+[22:45] We're gonna be drifting for miles and miles and miles and miles and miles and miles and that is not practical especially in the UK
+[22:50] Where you know the biggest kind of empty area you can get is maybe two miles wide
+[22:56] So to come like this for many high power launches again apologies for the tiny image
+[23:01] But for many high power launches we only release a small shooter
+[23:05] Appagy called a drug and what this does is brings the rocket down at a a much faster rate
+[23:10] Not not a rate that you'd want it to hit the ground it but it let's get down to your low enough level that you can then pop the main shoot without it drifting too far
+[23:18] Now what this means is that we need a second deployment event somewhere near the ground and this is where that
+[23:23] Manual put together black powder charge comes in that's been like the way it's done in the industry what in the industry in the hobby
+[23:30] for many many many years
+[23:33] Now there are and yeah as I mentioned black powder is very hazardous and
+[23:38] You do not want to be dealing with it if you can avoid it like as careful as you may be accidents are going to happen and like they
+[23:47] Luckily, I've never seen anything too bad happened myself, but I
+[23:51] You know there's always potential and anywhere you can remove risk from a hobby that's that's a good thing
+[23:56] So there are
+[23:58] Devices called shoot releases now this pops out this is a a parachute wrapped in a bag that is held together by this little computer called a july logic
+[24:07] And that so this pops out on the line at Appagy like alongside your tiny shoot then this little board
+[24:15] releases that shoot at a certain predetermined point in your descent
+[24:21] Now this is all well and good, but it's quite difficult the test because you can't you know
+[24:27] It's getting literally fired out of the cannon by your motor ejection
+[24:32] Which makes it quite difficult to test in realistic conditions
+[24:36] So I've tried to take this concept and make it a little more sturdy by integrating it into the shoulder of the nose cone
+[24:44] So if I come over here and pull out no business goes
+[24:51] It's a little bit of a type fit
+[24:54] But you can see that these parachute is totally wrapped up in here and then there's the little bulkhead behind that
+[24:59] So when this ejects
+[25:01] All this force is going into the bulkhead here none of it's touching the parachute
+[25:04] Which means you don't need like an extra like a bit of fireproof
+[25:08] Fabric to protect the shoot and it also means that
+[25:12] You can reliably test this system as it would be deployed like in the air just on the ground and all this does
+[25:21] Is pull up in out of a elastic hair band right here
+[25:25] Simple as that the innovation is not
+[25:28] The system it's very simple anybody could build this the point is that you can test this inside like wherever you want
+[25:37] If you'll need to do black powder testing you have to do that on the launch site superfised by you know
+[25:43] Somebody qualified and that means that you're rushing your testing on a launch day which is again just adding to the danger
+[25:50] So
+[25:52] I should at least as popped we've touched down and everything so far gone gone pretty great enough light
+[25:59] But not every flight works out so well
+[26:01] I couldn't come up here and pretend that everything I've ever done has gone perfectly
+[26:05] So I wanted to show you one of my horrible horrible failures so this is an Asia
+[26:10] This uses a
+[26:11] A concept called rear rejection where instead of separating above the motor it actually sort of spits the motor tube out the back
+[26:18] I thought this had totally failed turns out it landed nose down in the field
+[26:23] Then ejected late because somebody found the ejected rear
+[26:28] 234 Emeasors away from the main rocket. I never recovered the main rocket. I just had the this sort of spout out motor tube
+[26:36] And that then
+[26:38] Bye bye beautiful rocket such a lovely paint job
+[26:41] Bye by 150 pounds of electronics
+[26:44] Stuck in the front of it
+[26:46] And yeah, maybe
+[26:48] I learned a lot no I need to use stronger kevlock because otherwise that
+[26:53] Yeah, the the Kevlock's natural nothing popped out so I don't need to do that and I also learned that GPS trackers might just be worth it
+[27:02] Okay, so that's that's that's kind of everything I have
+[27:06] I have left some time to questions on purpose
+[27:09] If people want to come up and chat to me about anything that's on this table as well then you're very welcome to
+[27:13] Otherwise that's me. Thank you

@@ -1,0 +1,148 @@
+[00:00] Okay.
+[00:09] Leave.
+[00:14] Everybody.
+[00:16] This is not my slides, but I've just noticed that yet again there was a spider on the microphone and front of me, just sat watching me exactly here. It was not there two minutes ago. So here we go, spiders again. So hello and welcome to ElectroBanetic Field, 2026.
+[00:40] So for those of you who've been here before, welcome back back in the same field again, despite what we didn't thought was going to happen.
+[00:54] So those of you who knew just Tanzania roughly who hasn't been here before, that's more than I expected.
+[01:00] We'll see you again in two years, so welcome. This is the seventh ElectroBanetic Field Festival.
+[01:12] Correct. We started this back in 2012 without any idea what we were doing, any idea that we were going to start by any old festival.
+[01:22] We really had no idea that it would become what it is today from what you will brought here. And for some of this is a significant event and it may not be clear why.
+[01:32] But Rust and I really inspired to create EMF by European HackerCamps. So the famous one's being the Chaos Communication Camp or CCC and the Dutch Camp, which changes its name every single time, so I'm not going to name it.
+[01:46] But we'd never actually been to one. We didn't know what they were like. We just had this idea of what it might be like. So we built that instead, which it turns out is a completely different thing.
+[01:56] But in some ways special and in some ways better by would say that, so that's okay.
+[02:03] The largest camp is CCC. It's about 5,000 people and it was founded in 1999 and it runs every four years.
+[02:10] We actually have an agreement between us and the other camps that we never run at the same time, except in 2022 and the Dutch Camp decided to run against us. So we're still friends, it's okay.
+[02:21] But the German camp started in 1999, they went every four years and they have 5,000 people over the Germany.
+[02:26] Some of you who are paying attention might realise that every four years in that amount of time means there's been seven of those camps if you ignore the fudge factor of COVID.
+[02:36] Which now means this year means there have been as many EMFs as there have been CCCs. The event that inspired us in the first place that started over a decade before us.
+[02:45] But because we run twice as often because we're idiots, we have now run as many camps as they have.
+[02:52] We couldn't never have imagined this when we started. I don't think we would have dared to imagine that when we start.
+[03:05] And I find it really hard to believe I'm still here again, still doing this, but it's an incredible thing and thank you all for coming. Thank you for everyone who's contributed to it in the help of the years.
+[03:16] It's a magical thing.
+[03:19] Now, while I know most of you are going to drive, hundreds of people have been working on this festival for over a year, unpaid in their free time against all the wishes of their partners.
+[03:31] And everything was organised by them, everything was done. It's a dizzying array of things.
+[03:37] Everything you see is a tiny fraction of what goes on with this festival.
+[03:41] It's really hard to express how complicated it's actually got. And how many people are even involved and quite how much custom software we've written that we really shouldn't have done.
+[03:51] But as now become utterly critical to making this work.
+[03:56] And also some of you might remember that I've still on this stage during the closing ceremony. I think three times now, I haven't checked and I don't intend to and said, this is probably my last EMF.
+[04:08] Unexpectedly, 2024, almost was my last EMF. I couldn't really be part of the festival this year until around eight months ago. I had other things to deal with.
+[04:18] So this festival this year is really down to one person. It's not me. It's Russ who I'm not sure is in the audience because I actually think he's an HQ dealing with the crisis right now.
+[04:27] And Russ co-founded the festival with me back in 2012 and has worked harder and longer than anyone to make it happen this year.
+[04:36] So I would really like around with applause for everyone here to give him even if he can't hear it, he'll watch the video later I hope.
+[04:57] I love doing that.
+[05:10] When I actually got back and was able to get on with everything again, I was delighted to find that not only had people stepped up and filled in where I'd left the whole.
+[05:21] They'd done an incredible job of it and all the teams that we'd spent so many years building and so many people had stepped up and organized themselves.
+[05:28] They had taken a life of their own and they'd done more than we'd ever done before. They'd arranged things we'd never even thought of.
+[05:34] They'd just got on with it and delivered everything we could possibly have imagined and more.
+[05:39] And I'm so proud of the team. It's astonishing thing they've done.
+[05:45] And I'm personally of a well-mawable what they've done. And I want to thank you all for everything you've done.
+[05:51] It's really important to me and it's important to everyone.
+[05:55] I'd also like to thank every single person who has spent the last two weeks in a very hot sweaty field.
+[06:14] Building everything you see from nothing, this was just grass, very dry grass.
+[06:19] It's been difficult but you've pulled off something wonderful again and I'm still amazed that we've managed to do it.
+[06:27] Interestingly, before I came down here, I spoke to Will who also helped us organize festival and he went,
+[06:31] you're going to say at the start how hard this was and blah, blah, blah, blah, blah. It was like, if you've got a bingo card, he's wrong.
+[06:38] I also need to say the whole team would like to, I hope they're watching.
+[06:46] The whole team would like to send our best wishes to our core group who are unable to join us this year for health reasons.
+[06:52] Correct who has been with us since 2012 and has done everything you can possibly imagine and done every night shift that he should not have done.
+[06:58] He is currently unable to join us for health reasons and Luke who manages the Nosecde bar who fell ill again,
+[07:04] the only few days ago and can't join us and we're extremely sad about it.
+[07:08] If you're watching, we wish you were here with us and we miss you deeply.
+[07:14] Rules.
+[07:22] We're also incredibly grateful that Luke recently made a miraculous recovery after falling off a five story building in well installing an antenna.
+[07:30] That is not a joke. He has the dubious on it being the first person involved in the MF organisation who was so dedicated to his role,
+[07:38] that he dialed in from intensive care to a call.
+[07:42] And due to this, one of the charities funded by donations to the spot shop this year is the London Air ambulance who saved his life.
+[08:00] So, it's time to get excited about things in our rather than talk about all the soft stuff.
+[08:08] You're going to see some incredible things in the field this year.
+[08:12] For once, I don't know what they all are and I'm very excited about that as well.
+[08:16] We had an overwhelming response to our call of participation and anything we've ever seen before.
+[08:22] We had more than double the numbers and talk from workshops submitted.
+[08:26] And if I had to summarize what EMF has been like this year in one word, it would just be more.
+[08:33] More of everything, more people, more tickets, more people buying tickets at the same time.
+[08:39] Or of anything you can imagine. It's staggering to all of us and we've really been taken aback by it.
+[08:46] Including things like we were sat in the HQ yesterday and we have a graph on the wall showing a number of people checked in.
+[08:51] And we had 3,000 people on the field by the end of yesterday, which is approximately 1,500 more than we've ever had before.
+[08:58] So, I love that you like us that much, but really does not that much to do on Thursday.
+[09:03] Anyway, as usual, we have a full schedule of talks and workshops and alongside all the weird and wonderful things hosted by villages.
+[09:11] We have more villages than ever before as well. Really going for that this year, some of you.
+[09:16] Onside those, you'll find a vast array of installations covering the festival of which I think the last count was 147, which is, I think about 70 more than usual.
+[09:25] And Jonathan has been working, or Jonathan Rebecca has been working, incredibly hard to try and get all those places, so you'll see things everywhere.
+[09:32] There's many things to play with, things to be puzzle-buying things that I honestly don't know what they are, but they're everywhere.
+[09:39] There's also lots of new things on the field.
+[09:43] Obviously, some of you haven't been here before, so they're new to you no matter what it is, but everyone who's been here before.
+[09:48] To accommodate as many of the talks and workshops as possible, for the first time this stage is going to be running talks late into the evening.
+[09:55] So, if you don't want to go and dance or drink, whatever, there will be interesting talks in here.
+[10:00] You'll also find two new stages in the arcade and in the arts tent, which was overwhelmingly, hopefully yesterday.
+[10:07] In fact, the arts tent to fill up so much that they stole every table they could get their hands on to fit more people in.
+[10:12] So, apparently that workshop was a great.
+[10:14] There was also a brand new stage D by the lake offering live music all afternoon into the evening, and for those who are here yesterday, a K.L. which always goes down well.
+[10:23] And trash compactor and no sector, which offers a space for experimental music, and if you'd like to play, you can play there.
+[10:29] If music isn't your thing this year, we have a full comedy line up in stage B, and the film crew are now hosting a children cinema and stage C,
+[10:36] early in the morning, because the film containing the went down so well that we couldn't do that again.
+[10:41] Last time it was a bit smaller though.
+[10:44] Also, if you haven't spotted it, because of our space theme, we couldn't resist having an onsite planetarium.
+[10:50] But it's only for this year, we're not doing space again.
+[10:54] If you visit the right time, you may also think you see things that aren't stars, and I'm saying nothing more about that.
+[11:01] There will not be spiders, or no more wild spiders, we can't help the spiders.
+[11:06] But no intention of spiders.
+[11:09] And one last thing, no sector waits for you in the evening.
+[11:13] When you hear the bass drop, you know where to go. Follow the lasers.
+[11:18] We also have to thank our incredible sponsors for making this possible.
+[11:22] We would not be able to run this vessel without them, and I cannot stay down enough, it would be impossible for us to do this without the health responses.
+[11:29] A few of them actually have tents this year, which is great.
+[11:32] Some of them are hosting workshops.
+[11:33] Please go and visit them and thank them.
+[11:35] They're all awesome.
+[11:36] We're so happy with what they've done.
+[11:38] Thank you to all the sponsors for your generosity and for all the support you've given us.
+[11:43] I also have to give extra special thanks to nationwide, who when we needed a lot of cash flow for operating the event, they handed over this tiny EMF branded briefcase, which was entirely filled with five handouts.
+[12:12] This is honestly the best thing a sponsor has ever done.
+[12:24] I just cannot tell you we're keeping that briefcase forever.
+[12:30] One of the other things the sponsor has helped with is the badge.
+[12:33] So for those who don't know each year we build a custom electronic badge.
+[12:38] Originally the idea is that you wear the badge with your name on. It's got rather out of hand these days.
+[12:44] It's for you to experiment with and play with and there's things all around the event that interact with it more so than ever before this year.
+[12:51] In 2024 we introduced what we called the tildegon.
+[12:54] The tildegon is a platform for us to iterate on and build the future.
+[12:59] It's a reusable, upgradable badge, the framework of badges if you will.
+[13:03] This year we introduced upgrades. You take the same parts you add some slightly different ones and we turn it into what we call the space agon.
+[13:13] The space agon looks a bit like this.
+[13:19] I'm so pleased that worked.
+[13:24] It has a touch sensor from panel. Each planet can be touched. Each planet can change colour.
+[13:29] There are new buttons. It has a magnetometry if you want to take magnetic fields. Oh look, there's a thing there.
+[13:36] It's easily the best badge I've ever had. I think the oo shows that.
+[13:41] It's a beautiful thing to hold and a really exciting what you do with it.
+[13:46] The night market will also be running as usual. There was also an extra special night market just selling expansions.
+[13:52] Expansions for those who don't know are the things you can plug in around the outside on the six sides of the hexagon.
+[13:58] They add everything from Google eyes to a GPS and a lot of way to things in that.
+[14:04] In 2024, announced the tildegon. The round of applause was very excited.
+[14:13] It's not 2024. It wasn't done.
+[14:18] At the end of that, I announced, and the badges are available to collect now from the badge tent.
+[14:24] Which was news to the badge team.
+[14:27] Who were not already for you to collect them and they have not let me forget this.
+[14:33] But this year, I'm pleased to say that for the first time ever, we've already started handing them out.
+[14:41] Some of you may already have them. For those who don't, they're at the badge tent you can collect them from now.
+[14:53] If you forgot to order one or only an hour you've seen the artwork and you just saw you want one.
+[14:58] While we did say we wouldn't be selling them on the site, that was a lie.
+[15:02] We have some available. I don't know how many, but don't worry you won't miss out.
+[15:10] For the first time in years, EMF is experiencing what we can only describe as lovely weather.
+[15:16] For those of you who were here last time, it was quite nice during the event. The buildup was how we won't go back into it.
+[15:22] I'm still traumatized. Other people are much more traumatized than I am.
+[15:26] Unfortunately, this means that everything is extremely dry.
+[15:30] And there is a genuine risk of fire for the first time ever.
+[15:34] And while we do have a large number of flame throws, we're very good at operating them. And we ask that you don't add your own.
+[15:42] Please make sure that if you have a barbecue, it's purpose built. It's off the ground and don't use anything that's initial, another source of ignition that might cause risk to us.
+[15:55] I hope it inspires a band this year. I'm very sorry about that. We may have some fire pits, public ones at some point, but it's difficult to say at this point.
+[16:04] Please make sure that you stay hydrated. Everyone here has been getting very hot, very sweaty and not drinking enough.
+[16:11] Where sunscreen? Don't forget to eat, because I do all the time.
+[16:17] And if you're struggling, I'll well-fair in first aid teams that are there to help you. You can find them both down by the shops.
+[16:24] As ever at this event, do not be on fire. Do not look into lasers with your remaining eye. Do not leave radioact with radioactive material in this workshop.
+[16:41] And do not fall out of a five-story building while installing an antenna.
+[16:51] To people who are experiencing MF at first time, I want to reassure you that there are people like you here.
+[16:58] You do not need to be scared to be who you are or who you want to be.
+[17:03] I guarantee there are other people here that share your view in life and you'll interest them at a houseguer they are.
+[17:10] When I was growing up, I wish this festival existed. It took me a long time to meet the people who would like me.
+[17:17] And I'm honored to build a space with them every two years now.
+[17:22] Please go and explore the festival, meet your people, enjoy yourself. We'll see you here again in three days time.
+[17:30] Enjoy everything they've been able to have to offer. Thank you.

@@ -1,0 +1,325 @@
+[00:00] Hello, I thank you for coming.
+[00:21] Five, 20 PM on a Sunday on day three of a festival.
+[00:26] Hopefully we still have some brain cells.
+[00:28] Not you can just look at the pictures and we'll be fine.
+[00:31] So I love a long talk title.
+[00:34] So we're going to talk about flexible PCBs.
+[00:36] Specifically, we're going to talk about things I've learned from sort of DIY
+[00:40] Scrap-B flexible PCBs.
+[00:42] What's different people.
+[00:44] So first, whom I?
+[00:47] I struggle to find the noun for myself.
+[00:49] I sometimes say researcher, sometimes make or sometimes educate
+[00:53] none of those things and they mostly work with electronic textiles.
+[00:57] So e-taxiles and with flexible electronics.
+[01:00] And these are some projects I've worked on in the past.
+[01:03] I have worked in makers, bases, and fablobs.
+[01:06] So the top is kind of workshops I've done as an educator.
+[01:09] The middle is more close to projects we'll talk about today on flexible electronics.
+[01:14] So some flexible LED circuits and then on the right is a raincoat that makes sound.
+[01:19] Sound, not music.
+[01:21] If you like screechy synthesizer sounds when you're walking around in the rain,
+[01:24] you might want to make this.
+[01:26] I also have an interest in combining electronics and modern technology
+[01:31] with heritage crafts like textiles.
+[01:33] So recently learned by Puss Monterey, which is the art of making
+[01:36] trimmings and been doing some work on combining them with textiles.
+[01:40] But we're not talking about it today.
+[01:42] And for work in my day job, my job is also paying for me to come here.
+[01:46] So thank you to my university, my lecture in an engineering department at the engineering department
+[01:52] in Nottingham, Trent University.
+[01:54] So if you're not from the UK, let's say by three years in order to fear,
+[01:57] not having the same as for Robin Hood and pretty much nothing else.
+[02:01] Unless you were a textile history nerd and you're like, oh my god,
+[02:04] the historical home of late-making.
+[02:06] But I didn't see anyone jump out of your seats thinking of that.
+[02:09] So you probably haven't.
+[02:10] Let's make the new fact for you.
+[02:12] So let's start off by defining what flex will I try next means?
+[02:17] Because we might have some idea of what it is.
+[02:20] Or you might be like, I don't know what that is at all.
+[02:23] So when we talk about flex will I try next to my thing?
+[02:26] That's any electronic device that can bend.
+[02:28] Conventioning that's not exactly what it means.
+[02:31] So we're normally talking about a polymer film, a plastic film.
+[02:34] That's got metallic tracks on top, like you would have in a regular PCB.
+[02:39] I normally also have components or connectors or these are either going to be soldered or crimped on top of that.
+[02:47] So basically it's a conventional PCB but bending.
+[02:50] So instead of being on rigid FR4, which is a normal material or PCBs are made on,
+[02:55] it's made out of flexible plastic base.
+[02:58] So it doesn't normally include things like e-textiles which are made on fabric.
+[03:02] And for short, we will say flex PCBs.
+[03:05] Save me one syllable.
+[03:08] A bit of a nose on terminology.
+[03:10] I'm not going to be super precise about the use of the terms PCB, flex, electronics, etc.
+[03:16] There are people who have very strong feelings about whether something is a flexible PCB or a flexible cable.
+[03:22] Normally I'm in favor of being pedantic but I don't feel like today is the time for that.
+[03:27] We don't want to spend half an hour doing definitions.
+[03:30] If this upsets you, please remember that the P and PCBs sounds were printed and most P and C and C and C and C are not actually printed.
+[03:36] So it can be a set of I thought instead.
+[03:38] So languages complicated.
+[03:40] I'm not the problem here.
+[03:42] Don't come from me after in the Q and A, so that way you have terminology.
+[03:46] So to go back to those pictures I included on the previous slides, you might think,
+[03:50] you might know what we use flexi-blind electronics for or you might think like why, what I want that.
+[03:55] So applications can include cameras.
+[03:57] So inside digital cameras, if you've ever opened one on purpose or by accident,
+[04:02] you might have seen these amber colored, flexible kind of thing PCBs,
+[04:06] bending around corners or connecting one circuit board to another.
+[04:11] So they're basically really useful for saving space.
+[04:14] These aren't bending constantly but are kind of bending into a compact form or going around a corner and saving space where you might need wires instead.
+[04:21] So you'll say space and waste by using a flexible cable or PCB instead of a wire.
+[04:28] Similarly inside a smartphone, a scale bar would have been great for this image but this is a little camera module from a smartphone that's probably only a couple of millimeters wide.
+[04:36] And we've got a tiny little flexible cable connecting the actual camera component to what's probably a connector I didn't check.
+[04:43] So this is needed, you've got a need to be mounted on top of another PCB inside the camera.
+[04:48] So to save space, you can use this really, really tiny cable, which has loads of tracks in the tiny space.
+[04:55] You can also use flexible PCBs in e-taxas.
+[04:58] So this is from a tear down, that E-diffried did of a shirt called the Storkl shirt by a cute circus, the e-taxal brand based in London.
+[05:07] This shirt lights up as you move.
+[05:10] And it's basically got these long strips of flexible PCB along with their islands with a little LED and three resistors.
+[05:17] And these are sandwiched between layers of fabric in the garment.
+[05:21] So instead of using conductive threads or textiles, which might be familiar to you if you do e-taxas, you can use flexible PCBs instead.
+[05:30] Finally, here's a sensor array for robotic skin.
+[05:34] So we might want to have an array of sensors or other components for a robot which needs to bend and flex.
+[05:40] And we don't want that to be huge rigid islands.
+[05:43] Or you can use it for art purposes. And I haven't included an art example, but you can just use your imagination for that.
+[05:49] So just to summarize that, when we say flexible electronics, we're talking about electronic devices on flexible plastic films.
+[05:56] To fill it into small spaces or enable electronic devices to bend and flex.
+[06:02] The bending and flex parties are most interesting to me as someone with a background in e-taxas.
+[06:07] So then what's this talk about? Are we done like we've defined flexible electronics? Can we go on to the next thing?
+[06:12] It's not a hardcore flexible electronic engineering talk.
+[06:15] What I would say is like, I used this meme in one of lecture with my students this year.
+[06:21] And I realized all of them are too young to have seen this film when it came out, but I don't care because they need to be educated.
+[06:27] So we are a community, the EMF community, the broader hacker, maker community.
+[06:32] We make a lot of PCBs.
+[06:34] Some of these were designing and having manufactured and some of these were like engraving or etching in our hacker spaces or maker spaces.
+[06:42] But they don't see a lot of evidence of actual PCBs being made.
+[06:46] Some people are getting them made and using them in projects, but they don't see a lot of them.
+[06:51] I will say, I haven't obviously been around every makerspace, but I do think this statement is largely true.
+[06:56] We're not making them. And I think this would change.
+[06:59] Because I think the more we're able to make our devices ourselves, the more we can democratize technology.
+[07:05] And then the more people who are non-experts in electronics can also make things themselves.
+[07:09] And that's always a good thing.
+[07:11] So then to understand why does this happening in my two dresses, we're not done with this meme.
+[07:17] I should have also, I had the sourced link, I think, in the original slide.
+[07:23] And so if you've never seen this, you might be confused, but that's okay.
+[07:27] We need to understand what the barriers are.
+[07:30] So what are the things that are stopping us from making flex PCBs?
+[07:33] And then what tools and materials and documentation do we need to change that?
+[07:38] So this talk is just kind of a reflection on early stage work.
+[07:42] I've done on this and workshops I've done my own personal experiences.
+[07:45] It's not a peer-reviewed study.
+[07:47] I did try and pitch to my university ethics committee that I embed a study in a workshop,
+[07:52] and they were horrified by the idea that people would be using machines.
+[07:55] So we need to work a bit more on that before I could do that.
+[07:58] But yeah, that's the basic idea.
+[08:01] So my personal motivation for this, how did this start?
+[08:04] I did a PhD in Flexible and Stretchable Electronics for E-Texels.
+[08:08] And I made a lot of flexible PCBs for this.
+[08:11] I don't think this video is going to play by itself.
+[08:14] So this is a stretchable structure that's made out of a thin strip of flexible circus,
+[08:20] with some very small LEDs on it.
+[08:22] That by itself is flexible, but if you bend that into a helix, because of the geometry, it's nice stretchable.
+[08:28] But then to make this device on the top, which is 2mm in diameter,
+[08:33] we had to make a flexible circus on the bottom left, which is only, I'm doing this like it's to scale.
+[08:39] It's not 1.5mm wide, and has tracks on it that are only 0.1mm wide.
+[08:46] And you might say, okay, why not just why struggle and make this yourself, why not get it manufactured?
+[08:51] The benefit of being able to make it myself was that it could test and iterate lots of different designs,
+[08:56] instead of having to waste and try to do that.
+[09:01] So what was my next point?
+[09:03] So I found the conventional fabrication methods, because I did test these a bit tedious when your researcher working in the lab that's not like doing this all the time,
+[09:12] when you're not doing these things kind of every day at high volume.
+[09:15] And because I've worked in makers faces and hackers faces, I was constantly thinking like,
+[09:20] this would be such a cool thing to do in these faces, but these methods just don't really suit.
+[09:25] So then I started to think, can we DIY around PCBs, like PCBs, using equipment that we would find in a fat love?
+[09:33] So before we talk about how to make a flex PCB, we should look at what the parts are.
+[09:39] So we have a substrate, that's our base layer, and a rigid PCB, this will be FR4, and an flexible PCB, this is usually polyamide.
+[09:47] Not to be confused with polyamide, which is nylon, just to make these things confusing.
+[09:51] It's usually known by the brand name captain, you might have come across captain tape in, well, the electronics or in 3D printing.
+[09:59] So it's this armbracolor tape that's nice because it's heat resistant.
+[10:02] And it's the base layer for any of these armbracolor PCBs, flex PCBs that you'll see, inside the device that you've seen the inside of for whatever reason.
+[10:11] On top of this substrate, we have our conductive tracks or traces, like we'd have on any PCB, normally these are made from copper, but not always.
+[10:21] And then similar to how you have a solder mask in a conventional PCB, you have something called a coverlay.
+[10:27] This is usually a piece of caped on film that's laminated on top with openings for components to be soldered.
+[10:33] So in a rigid PCB, this is basically like insulating your traces, when an flexible PCB, it's also providing some mechanical support, because the most delicate part is these bendable copper traces.
+[10:44] So this coverlay helps them not to crack.
+[10:48] And this is a terrible picture actually, but this is actually a little temperature sensor, flex PCB, a made for a temperature sensing garment.
+[10:54] So we have some components on the top as well.
+[10:57] Almost always surface mind, you rarely try and do through whole components with a flexible PCB, if you want to, you can.
+[11:04] And then you also have encapsulation, so this we see less often in conventional PCBs.
+[11:10] This is adhesive, where some other material that goes on top of your components to help them not break off basically, because any time we have a boundary between a rigid material and a flexible material, you get a concentration of a mechanical stress, naked end up with cracks or breaks there.
+[11:26] So if you add this encapsulation on top, it helps a layer PCB to actually bend.
+[11:31] And this, your component is breaking off is what you want, like some kind of one time performance, which case I support you to do that.
+[11:38] And how do we make these conductive traces or trucks?
+[11:41] Well, we can use printing processes, so on the left we have screen printing screen printing sort of right for centuries.
+[11:46] We have a mesh with some openings in it to let ink or whatever we're printing through.
+[11:52] So we can print silver ink.
+[11:54] On the right is a Voltaire of the one dispenser printer, so this is a cartridge of silver ink that's printing a design on a piece of caped on.
+[12:04] So we can print with silver ink.
+[12:06] The issue with both of these is that the silver ink is very expensive, like five cc's in that cartridge cost by 90 quid.
+[12:13] It has a shelf life and it's nice and they're really nice to look at and they look impressive, but actually to do some quick prototyping.
+[12:22] They're not my favorite.
+[12:25] What's really common in PCB manufacturing is etching or photolithography is the term for the most common way to do this.
+[12:32] So in this case, we have caped on film, our flexible polymer film.
+[12:36] It has some really thin copper sheets.
+[12:39] When I say thin, I'm really thin, I mean like 20 microns, so 20 tbs of a meter.
+[12:44] Laminated on top of it.
+[12:47] And then we create an etch mass, and etch resist.
+[12:50] So the pattern of the circuit we want to make.
+[12:52] We popped out in an etch tank, which is a chemical that's going to eat away any unexplosed copper.
+[12:57] You can see that process kind of happening here.
+[12:59] And then at the end, we clean off that resist and we're left just with the traces of our circuit.
+[13:03] So some of you may have used this.
+[13:05] And this is on the county I.Y.
+[13:07] But it uses some pretty nasty chemicals.
+[13:10] We did have an incident in a lab where used to work where someone was etching late at night.
+[13:15] And I came in and the whole floor was orange because a ferric chloride is linked to all over the floor.
+[13:20] So that is a dense line of late night PCB fabrication.
+[13:24] But no one was harmed. I just got really angry.
+[13:27] So if these are the two main issues for methods for creating these conductive tracks, what are my problems with them.
+[13:33] So the materials I mentioned are expensive.
+[13:36] So polymyte captoon is expensive.
+[13:39] I think if you want to buy like six A4 size sheets of polymyte film, you're talking about like 50 quid, which is not great.
+[13:47] And then if you want the copper plated polymyte, you're talking about like 20 times the cost of just copper plated FR4.
+[13:53] So the cost of going from a rigid to a flexible PCB that you're making yourself can really get exponentially high.
+[14:01] The methods can be quite tedious.
+[14:03] So this etching method, the professional way to do it involves like getting a UV sensor film and laminating it and exposing it to you.
+[14:10] Vslectively and then developing it and waiting.
+[14:13] We won't go through all that and it may be really annoyed a lot of times.
+[14:18] I was like, I just need something faster.
+[14:21] And these work really well in an industrial setting. Obviously, your all your equipment is calibrated and it's being used every day and you're turning out a lot of these.
+[14:29] But if you're an individual researcher or you're a maker and a maker space or not doing this every day, we need something that works a bit better.
+[14:38] To also DIY kits for etching PCBs, but they're not available everywhere.
+[14:42] The companies that make them seem to go out of business and then pop up again.
+[14:46] And most of them require that you have a laminator because everybody's got a laminator.
+[14:51] Everybody doesn't have a laminator.
+[14:53] And then etching PCBs, I kind of really gave the example of the orange sand lab, but they can be messy.
+[15:00] I've bleached my clothes back since several times, even wearing a lab coat by working with us.
+[15:06] Etching chemicals. And you're either kind of working with a tray with this hazardous chemical in it or you have to buy an etch tank and if you want to go to another quite expensive.
+[15:17] So when I say I'm trying to make flexible PCBs DIY, what we're focusing on is an easier and more cheaper way to make these conductive tracks on a flexible substrates.
+[15:28] Also maybe a cheaper and more widely available substrates material.
+[15:31] And then the target users are kind of people who have access to the kind of machines you would find in a makerspace.
+[15:37] And then another goal is in theory for younger makers to minimize the use of hazardous chemicals.
+[15:43] But I also don't love the anxiety of wondering like, did I wash my hands?
+[15:46] How about a doctor?
+[15:48] Is that going to blow up in that container?
+[15:50] So if you can build those items, I also have a bit less anxiety for me.
+[15:54] Worth mentioning as well. There's some new methods that might make their way into makerspaces in the future.
+[16:00] So this is the fiber-quid project I recommend looking this up if you haven't heard of it.
+[16:06] So you can't laser-cust copper with a normal CO2 laser because it's too reflective.
+[16:11] But if you use a fiber laser which is higher up higher, you can do it.
+[16:15] So you can engrave circuits in a the same material copper blade of capital.
+[16:20] Or if you have a laser cutter, you can basically burn carbon tracks into capital.
+[16:26] And then you can electro plate thus if you have an electroplating setup.
+[16:29] So these are two nice methods, but I would say neither of them is super highly accessible because you either need a fiber laser
+[16:36] or you need a electroplating setup which loses marks for me for using hazardous chemicals again.
+[16:42] We count of which using all chemicals what I'd like to minimize the nasty ones.
+[16:47] But these are two nice methods.
+[16:49] If you want to know more about fabrication methods, I did write a paper on this.
+[16:53] I showed length dash on my website or something as well because I'm probably going to move on to what's been used to scattered.
+[16:59] So at the thought 25 conference last year which is kind of the international meeting of fab labs.
+[17:04] I should say a fab lab is a new word for you. It's basically like a subset of makerspaces that kind of have a certain inventory in there in a network together.
+[17:12] So yeah, I wrote a paper on that which is open access and hopefully not the most obtuse paper that you've seen.
+[17:19] So okay, so you said maybe you're like, okay, I want to make a flex piece of you. How do I do it?
+[17:24] So I'm going the wrong way.
+[17:26] You could design when then have it manufactured, but thus not where we're talking about today.
+[17:30] And then there are DIY etching methods. So be still require like an etch tank and the copper clad captain, which is expensive.
+[17:38] I need thatching chemicals. These are some methods you can use for us. So you can actually draw your resist, your circuit pattern on with a pen, their kits which allow you to print on special paper that you laminate onto your material and it transfers the toner which becomes your resist.
+[17:54] Or you can also use a vinyl cutter to make a sticker which is my personal favorite method and these are all covered in that paper on the previous slide.
+[18:02] Some people of HBCBs with salt and vinegar, which is that hazardous, but it seems to take about like more than 12 hours.
+[18:08] And they're like, you can speed it up with hydrogen peroxide and then again we're getting into dodgy territory. So that's again not super.
+[18:15] Not super what I want. And then again we're still using a substrate material that's quite expensive and not available for many suppliers unless you're kind of a professional.
+[18:26] So this is my preferred method. I will say it's not my totally original idea and just kind of trying to tweak it a bit.
+[18:33] So copper tape is thin copper sheets on the adhesive backing that you can get in many hardware and gardening shops because apparently slugs haze.
+[18:41] I don't know if slugs haze is just sure. If it's being sold in shops and anyone can go and buy it, I'm happy to support the propaganda that slugs don't like copper.
+[18:52] It's used a lot in paper circuits which you might have heard of popularized by Gigi and the company GB Tronix. So they use narrow copper tape to kind of map it simple circuits.
+[19:02] But you can also push things a bit further and use a vinyl cutter. So it's been a few vinyl cutter workshops this weekend.
+[19:10] If you haven't heard of one it's basically a computer controlled knife.
+[19:13] Normally used to cut like graphics, retesures or stickers or various crafty things but you can also cost some flexible PCBs as well.
+[19:22] I realize I've shown two videos where we're not making anything that looks particularly PCBish but you can take my word for it.
+[19:29] So that is my preferred method.
+[19:32] This is a bit on the process. We're not going to go super in detail into this but just to give you an overview.
+[19:38] So first you make your design. You can use a PCB design software like a keycat.
+[19:43] But if you don't know how to do that or you just not bother it's opening it. I'm not saying that's up into me.
+[19:50] I'm like I can't be bothered making a proper PCB layer. You can also just draw it if it's a simple circuit in the design software like ink, cap or illustrator.
+[19:58] Then you have to make it cutable. This means putting it into a format that your vinyl cutter wants and this is very dependent on the machine.
+[20:05] They all have their own preferences.
+[20:07] And then there's two things you can do. You can stick your copper tape on your substrate and then if your machine allows you to cut at different forces kind of in the same go.
+[20:16] You can cut copper tape just by itself peel off the rest and then cut your eyetline which is quite nice but it does have some downsides as well.
+[20:24] Or you can cut them separately and stick them together which is why I was doing on the right hand side here.
+[20:29] So we start with piece of copper tape that you might be able to see has a pattern cut out of it. You peel off the bit that you don't need.
+[20:36] Then we stick some masking tape on top so we can transfer it out to our base material and you're left with some copper tracks on in this case this is a PU polyuretane I think.
+[20:47] The kind of like squeaky material that every encoder made out of sometimes.
+[20:53] If you're using coverlay the kind of insulating film you can use that at that point then sold your components and then you can apply a capsuleation to protect the components.
+[21:02] But you can skip these it just means that your PCB will break more easily.
+[21:07] But in practice and workshops I haven't been using these that much because we're just kind of trying to get the basic idea across.
+[21:14] You might be thinking like okay well this isn't captain so can we use cheaper base materials.
+[21:19] Captain poly might has many advantages high heat resistance you can solder to it and it's not going to melt.
+[21:25] It's got good strength and it has other things I can think of at the moment and it is definitely the standard.
+[21:31] But it's expensive and it's not very sustainable. Soft by the gradeable and the company you make it don't have the best environmental track record.
+[21:38] So other plots of other plastics flexible plastic films but then the question is will soldering melt them and I'm going to leave that as an open question for now.
+[21:45] And then what about sustainable substrates like bioplastics my CLA and my Fino anything my biometrials you might think will come use that is in flex PCBs.
+[21:53] So what I've been doing so far is to figure out like okay I think this is a nice method I've made lots of little flex PCBs I think it's fun.
+[22:02] Do you other people agree with me they might not so I've run five workshops so far and we're going to briefly look at them and each have been with different people in mostly in different countries and have learned a lot from them.
+[22:17] And on the right hand side the images are kind of what we've made in these workshops so you'll notice maybe all of these are very simple LED circuits so the one in the bottom middle is literally just an LED in the battery.
+[22:29] This is a prototype I did put in a current limiting resistor later if anyone's like dots bad practice and then all of the rest of them are just like a parallel LED circuit both they've been designed in a way to make them look visually appealing.
+[22:42] Because some of these were with people don't have much experience electronics so you want to do a simple workshop but looks kind of fun.
+[22:49] I'm also to show like just making like two lines with some LEDs on it that's not very exciting but if you can do something a bit more creative it's more fun.
+[22:57] So that's my that's my view anyway.
+[23:01] And I've said so already so each workshop was a little bit different so kind of iterated through different things as you went along.
+[23:08] First workshop was at the 25 conference last year so we did the method where it could kind of apply the copper tape to capto on first and then try to cut it and then peel the excess copper off the captoon.
+[23:23] This end up being really fiddly partly because I realize oh no I don't have enough like tweezers for reading the copper tape for a whole workshop.
+[23:31] So I better buy a lot of tweezers and they were terrible.
+[23:34] So there was a lot of like noises people struggled with this and then I felt like we'll go through the whole process.
+[23:41] These are makers they want to see how to do this on the vinyl cutter but then we were like all cute at the final cutter and it didn't work very well.
+[23:49] So someone was like hey we run vinyl cutter workshops that we kind of do a bit of here's what I made earlier.
+[23:54] But people did guess their circuits working this man in the top right is a nice German man called Michael who's like I will help teach people how to service my cell there's a very grateful to him.
+[24:05] I also learned that many people fear the vinyl cutter they're like we have one but I don't like it and I still haven't fully gotten to the bottom of this.
+[24:13] But it seems to have a reputation as a machine that's a bit fiddly and in some fab labs it seems to be just pushed to decide gathering dust and people like that's too fiddly for me.
+[24:22] Which have I inside because I'm a big vinyl cutter fan so I'm hoping maybe we can re-evaluate the image of the vinyl cutter.
+[24:29] Second workshop was about a month later in center rug which is a wonderful community manufacturing helping Slovenia.
+[24:36] They've all kinds of different labs in a big old factory and this time I learned we'll cut the parts in advance with a couple of like pre-designed circuits and then people can just see how the vinyl cutter works.
+[24:48] So that worked better and these are members of the public most of them had never solder before and all of them managed to get the hang of surface mind soldering within a few minutes.
+[24:56] One woman was like I'm actually like I just got my tested on any glasses real time that I can't even see the components between the two of us we managed.
+[25:05] And we did use some clear nail polish just encapsulation which is a trick from e-textile people.
+[25:12] Clear nail polish can be used to to seal things in e-textiles and we didn't use any cover lay but then part of the reason for that was in a workshop sometimes you want a tailor for different skill levels.
+[25:23] So I wanted to be like okay you can put the LEDs anywhere if you want to just put one on somewhere that looks nice to you that's fine or if you want to go nuts like the guy on the left it that's too many LEDs.
+[25:34] That's not going to be super flexible but he liked it so that was fine.
+[25:38] So that was that one.
+[25:41] Piff camp which is an art and electronics summer camp also in Slovenia.
+[25:46] I decided to experiment with cheaper materials so get rid of the captain because it's expensive and instead both these PT sheets in different colors.
+[25:55] And this is just a simple LED circuit so soldering a battery and LED and a resistor and we find that you could soldered these but you had to be pretty fast otherwise the PT was melting under you.
+[26:08] So to kind of help with this I had people do sort of practice soldering so just practice on some scrap bits of copper so if they hadn't soldered before which some of them hadn't they could get a feel for it instead of like soldering and then everything's melting away.
+[26:22] So everybody didn't make a working LED circus and so that was like interesting I mean our flexible DIY PCBs don't need to look super professional.
+[26:34] If they work they don't need to be as robust as ones that are professionally made so it's good to know that you can kind of use cheap materials.
+[26:42] Then a few months ago I did another workshop at the Open Hardware Summit and realized that all of the ones I've done before don't really use the flexibility of the circus they're just flat so they could have been a rigid PCB.
+[26:55] So for this one you again I pre-made the parts and you could choose whether you want to cut on PT which is clear at the top or polyurethane and this was a simple add on our shitty add on for the conference badge so it sticks onto the badge that you got when you registered.
+[27:11] And in this case you could fill this into a loop or you could make a movie a strip which if you're a fan of non-owned or rentable surfaces and maybe that's exciting to you.
+[27:21] And this is me as guerilla epoxy which is a nice epoxy you can buy in hard rushops to use as the encapsulation and didn't I didn't figure out how to do the cover lay well but we did use some.
+[27:32] So it kind of learning things as we go along and again no one melted their polyurethane so that was good.
+[27:47] And then the final workshop was a bit of an outlier but I totally just impluted anyway so this was at the new interfaces for musical expression conference in London a couple months ago.
+[28:00] So we're not making any new circuit there's no soldering but participants were making a moisture sensor that that is a pitch controller for a simple synthesizer circuit that we built on a breadboard on the far left which goes into this kind of like rain cloud thing and then that goes on the inside of a rain coast and you put the moisture sensor on the outside this does have some sounds so we're going to try.
+[28:21] It's going to be quite screechy so we'll see what happens.
+[28:29] Okay, let's skip to the next one. This one's quite nice I like this one.
+[28:42] So quite a fun say and trim a simple circus and then this was the one kind of functional.
+[28:48] Beautiful music. So kind of not the same as the other workshop but still getting used to like using the deflexible material so on the copper tape.
+[29:03] So that's kind of what I've done so far on going issues are aligning the copper tape with the substrate can be a bit fiddly.
+[29:09] A vinyl cutter solter usually isn't great and different vinyl cutters have completely different solftwares so it's like you need to learn each one's quirks so far I've used these four different vinyl cutters.
+[29:21] And it's successfully with all of them but have had to spend time getting to know each one and then some machines like cricket machines are very, very common and they're quite I have a mini one which is my travel vinyl cutter which cost me like 150 quid and I think that's great like affordable piece of machinery.
+[29:37] But the softer is always like hey you don't want to change that setting it's fine or no I think you're doing that wrong and it's always trying to sell you stuff it's like you should buy these patterns I don't want I don't want that thank you very much.
+[29:50] So yeah, that's kind of annoying so these are all things that might be a little bit off footing for people.
+[29:56] And then I haven't yet attempted to make the cover lay part in a workshop so that's kind of unsolved.
+[30:02] Bonus project I mentioned flexible substrates earlier so I did have a collaboration with my friend and collaborator Maria Marisa Satscha at Piff Camp again last year so I'm resized she works with bioplastics a lot so plastics as you kind of cook it is the same rule materials.
+[30:20] So these are some gelatin bioplastic films that we made and then we made a touch sensor array and a really quiet speaker that you had to lean really close to listen to because neither of us is an audio electronic engineer.
+[30:35] And we did these did kind of work we had some issues with adhesion and some fun issues with humidity because bioplastics love to go crazy with humidity.
+[30:44] But it was kind of promising and we might do a bit more on that if it ever makes it high enough on my to do list.
+[30:51] So we're almost at a time bus in the future I would like to do more structured study to kind of identify water the tricky parts of what works on it doesn't.
+[31:01] Also like a low temperature bonding method so we didn't have to silver would be better dark conductive adhesives, but these are also kind of pricey and they can take a day to set which is a great if you're trying to do quick prototyping.
+[31:13] And non-painful and inexpensive way to make cover life film would be great and then more investigation into like biodegradable substrates.
+[31:21] I didn't do workshop or suggest one because I'm tired.
+[31:26] Didn't see many workshops but I would like to do more in future so if you're like I would like to to participate in that or could potentially do a distributed online workshop.
+[31:35] I would be good to know if people are interested in that and then documentation so on that subject I'm behind undocumented most of what I've learned.
+[31:45] But this presentation is on my website if you wouldn't look at that and I do feel a little bit more work to be done before it can make proper documentation because I started documenting it after my first workshop and then I was like.
+[31:58] Within a month I disagreed with everything I'd said so bit more to do.
+[32:02] Thank you for listening to me. This is where you can contact me and this is a picture of my knee strew of me and her going on an adventure.
+[32:11] So I'd like to interlead her arms in my talks. So thank you for listening.

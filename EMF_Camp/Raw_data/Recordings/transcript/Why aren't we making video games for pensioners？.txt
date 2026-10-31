@@ -1,0 +1,355 @@
+[00:00] Thank you so much for all coming along. This is such a privilege. I really appreciate
+[00:21] you to chat about. I'm going to be talking about today, which is making games for pensioners.
+[00:26] I'm a game designer from Sheffield. I've been building games, experimental stuff, as
+[00:33] well as education and inventing things for the last 12 years. I'm a big advocate for
+[00:40] approachable design and addressing play in equality. I want to say up front, there's
+[00:46] a lot of tech talks that will give you definitive answers and absolute. I'm just a
+[00:52] bloke. I've been experimenting and working with some researchers. There are people who
+[00:57] are far more competent in this field than me who you should defer to, but hopefully I
+[01:02] give you an interesting perspective and I'm not immune to bad takes and then very warm.
+[01:07] So hopefully this is a cohesive talk. Alternative control is this is something that I care
+[01:13] deeply about. It's been a through-line through my whole career. These are unconventional interfaces
+[01:20] that you can use to interact with computers that are different to a mouse and keyboard.
+[01:27] What I really like about them is they are extremely hard to make commercially compatible.
+[01:33] Unlike the games industry, there is this inherent artistry and experimentalism to it that
+[01:41] the industry lacks and I wish there was more of. I just want to get into the weeds on
+[01:47] approachable design versus accessible design. You might be more familiar with accessibility
+[01:54] and trying to design to the needs of individuals with disabilities. I kind of
+[02:00] differentiate between that approachable design and that before you even get to the point
+[02:06] of tailoring and experience for someone. So many people around the world just do not
+[02:12] engage with technology. So our far less receptive to engaging with it. So how do you make
+[02:20] games or technology more appealing to those people? So for how I got engaged with the elderly,
+[02:30] this is going back probably close to maybe eight, nine years now. Actually, no, it's not.
+[02:36] During lockdown, I felt like that long. In lockdown, I did an installation in King's
+[02:43] Lynn, which was like a projection map project working with other artists. For that, we had
+[02:48] an installation where you were six foot part pushing pedals on the ground. As part of the installation,
+[02:55] I had a toddler come over and give the game ago. A mother told me that it was the first game
+[03:01] that she'd ever experienced, which is always a privilege for me. It's one of the highlights of
+[03:05] what I do in my career. The real twist was that her grandfather, it was this gentleman on the
+[03:11] right, who happened to be the mayor of the town, had also never played video games before. So the
+[03:15] pair of them shared this intergenerational bonding of experiencing games for the first time, which
+[03:22] was such a privilege. That kind of really planted this seed of engaging that audience.
+[03:28] Another part of my work is I do hands-on crafty workshops with people, getting them to make
+[03:34] alternative controllers out of very simple materials. Craft is a very democratized medium,
+[03:39] so a lot of people have familiar with it in a way that they aren't technology. This lady in the
+[03:45] pink show here came up with this controller. It was very satisfying to use it for using
+[03:51] kind of controller-g erasing game. When I asked her what inspired the controller, she said scratch cards.
+[03:57] For me, it's such an obvious thing when you're actually looking at it, but what really,
+[04:03] really excited me about this was the prospect that this interface may be compelling to other people
+[04:09] within her demographic. Therefore, if that's the keyboard for that audience, so that person,
+[04:17] and the potential to invite more people in by getting people to dictate what intervases they
+[04:25] find appealing. Since then, I've kept going, I've kept building interfaces, I've worked with
+[04:31] audiences, it all sorts of different kind of walks of life. I did an installation, series of
+[04:38] installations in Rotterdam for a kids festival where we did a nature trail of games with my colleague
+[04:42] David at the back, and I've been building an alternative controllers, and specifically got a real
+[04:50] appetite for LED games. The reason I like LED games so much is that they are extremely cheap,
+[04:57] light and versatile, so you can weave them into the fabric of spaces. I do a lot of stuff with
+[05:02] LED rope, which if you've not come across as such a lovely material, unlike the fidelity and
+[05:11] chasing of fidelity of the games industry, I am far more interested in trying to make tech as
+[05:18] like malleable to culture as possible. Finding ways to weave it into spaces, use props that are
+[05:27] grounded in people's lives rather than stuff on screens. The first experiment that I did, which
+[05:34] you can try out in the beer tent is Glow Golf, which is kind of crunching the sport of golf down
+[05:39] to one dimension. I had this like pinball launcher that I've kind of hacked together out of
+[05:48] a walking stick that I kind of had when you pulled it back and released it to launch the ball,
+[05:54] which I kind of tested out in lots of different settings, taught it around Europe, and that proved
+[06:01] to be this really nice little box and controller, and format as a unit to do things like design
+[06:06] fishing games and it had a ball game as well. What I realized after building those three prototypes
+[06:14] that all three of these aligned with the interests of older people, and it kind of brought me to
+[06:19] this question of like can you build games for the elderly? And this might not be a question a lot of
+[06:25] people have thought about, but we did it. We built the Wii and Wii sports. This has been proven.
+[06:38] There was this huge influx of people that engaged with the Wii. Honestly, it was such a counter-cultural
+[06:47] moment. I don't think we quite recognize how significant it was, where it went from this kind of
+[06:54] medium of people playing in a singular form in their rooms to like inviting the family to play,
+[07:00] but also as I'll get into inviting the broader family into the equation. I really love this
+[07:07] quote from Sistar Raiwata, who talks about at the time how the strategy of Nintendo, which was
+[07:15] all about like not trying to compete on fidelity and power, but go after and engage the people who
+[07:23] are just ignored by these industry. So try and engage people who otherwise wouldn't engage with the
+[07:31] medium. And for why the Wii works so well, generally they were aiming to engage like kind of the family,
+[07:38] but the thing that they did right was that they kind of leverage muscle memory. So people do things
+[07:44] like go for drive a car or swing a tennis racket. These are all like learned motions that you
+[07:51] kind of get throughout your lives. So there's a lot of a foundation to build on. So that a lot of people
+[07:55] don't talk about as much. Is it at least in 2006 the kind of handheld peripheral that most people were
+[08:02] familiar with was a television remote and particularly with older people. So that was a real
+[08:07] tether for people to technology and they mirrored that as closely as they could. And that made it
+[08:14] extremely compatible with older people. And then a real master stroke by the team at Nintendo in
+[08:20] marketing was including grandparents in the family unit. I can't imagine it cost them that much to
+[08:26] do it, but by making it clear that they were as well as kids. When parents were buying it for their
+[08:34] kids, they considered their parents as well and created the potential for that intergenerational
+[08:39] connection. And the legacy of this is just incredible. I don't want to say accidentally, but
+[08:48] a kind of beautiful consequence of designing so broadly was that it bought play in an affordable
+[08:55] manner to care homes all around the world. Even 20 years on, organizations like AGK still reference
+[09:03] you know, we sports and the we as a means of engaging people in those settings. It was a massively
+[09:11] beneficial tool for research so around like not only people at the kind of end of life or old,
+[09:18] but also it all sorts of different medical contexts and settings because it was affordable and it was scalable.
+[09:25] And what I actually love is that there are leagues in the US of people doing we bowling who are,
+[09:31] you know, triple digits, there are 100 years old and they are engaging with video games, which
+[09:37] I could only dream of having an audience of such passionate people. And broad church, they, you know,
+[09:44] engage so many more people with games than arguably anyone had done for that point and welcomed
+[09:50] people in. And just to show as you know, even Gilbert, they did this incredible shot which won
+[09:56] any sports tournament in France, the crowd absolutely going wild, I want to build, I want to build
+[10:03] games for those two, incredible. So, you know, obviously it's been 20 years since, the Wii was
+[10:11] discontinued in 2013 and the work that's kind of point now where there's been all this amazing
+[10:17] research done but there's this big question mark around the future of this kind of immersive
+[10:23] technology like what's the industry been doing in this time and like why haven't we seen
+[10:29] we sports two or something as revolutionary as this. And it kind of comes down to like an
+[10:36] identity crisis within the industry which is that there has always been this perception
+[10:41] which you know was kind of true for a long time is that the industry was made for the young.
+[10:46] And there is this fixation and like kind of diehard kind of clinging to the young as a
+[10:55] an audience in like you know thinking that that's just going to last forever and often the
+[11:01] elderly have been thrown under the bus as a means of appealing to the young to kind of cement and kind of
+[11:07] withstand that kind of creeping of age of it and retaining that counter cultural status. And you know
+[11:17] the other thing as well is that there are genuine real challenges around designing for older audiences
+[11:23] as with accessibility like you know there is you know the this is the two quotes of onboarding
+[11:27] for people who have never played games before and obviously like as you age there are more kind
+[11:33] of requirements of disability. One of my friends and colleagues Alan Zaconi has a really great
+[11:38] quote where you said as a games designer one of the most selfish reasons to do accessibility is so
+[11:44] when you're older you can experience your own games you know regardless of where you're at in life.
+[11:50] And the other thing I want to mention is that like keyboards and mouse and game pads are
+[11:55] from my time building alternative controllers extremely hostile to to older people and
+[12:03] like lots of people just do not engage with the medium and I think that's the thing that's keeping so many
+[12:06] people out as the we proved that you know that you could bring that barrier down and we have to really
+[12:13] grapple with the reality of where we're at as an industry where games developers are dying of old age
+[12:19] like it kind of feels like you know this is the industry still young but the average age of
+[12:24] gamers is you know mid 30s and yeah like we've got gamers in the 60s and we're at a point kind of
+[12:32] demographically in the UK where like you know younger people are kind of potentially the next few
+[12:38] decades going to be outnumbered by over 65s which yeah like we need to start kind of factory in for that
+[12:46] and the thing is is that like to talk about this audience like play as for anyone when it comes to
+[12:52] like my kind of interest in play inequality like I almost consider play like this essential need
+[12:59] that's like needed throughout life and like particularly with older people it can kind of be a massive benefit
+[13:06] there's so many good things that it brings and yeah like it doesn't have to be fancy technology
+[13:13] it can be board games it can be kind of communal activities play ground games but also there is this
+[13:18] kind of stigma of adults around play as this thing that we all need and in the industry there
+[13:26] has been efforts in the last few years to kind of make controllers more accessible so you've got
+[13:31] things like the adaptable controller fantastic organizations like special effect to kind of tailor
+[13:37] installations for people living with disabilities and the thing is is that there's obviously been a
+[13:42] pushback for that in particular around settings and games of not wanting to compromise the hardship
+[13:48] of like beating really hard games but ultimately some of the best streams in the world right now and
+[13:54] kind of you know e-sports players and speedrunners will get old and they won't be able to play these
+[14:00] games as much as they could before. I love playing games I have high blood pressure so there are certain
+[14:06] games that I just do not touch now for my health and yeah like as you age like these problems will
+[14:13] kind of compounds and the one that I really want to talk to you about today is dementia so
+[14:18] from talking to researchers whilst exploring this like I have spoken to researchers who know
+[14:24] gamers who have dementia now so like the future is here so a little bit about dementia you know it's a
+[14:32] condition that you know comes in lots of different forms you've got Lui Bought Lui's Lui's Lui Bodies
+[14:40] vascular dementia you know Alzheimer's there's all sorts of different variants of it but you have this
+[14:45] condition that you know between a couple of years to decades causes a decline in mental health
+[14:52] and you know eventually you die and it's um it is the biggest killer in the UK right now and
+[14:59] the problem with that is unlike other kind of kind of health crises throughout history it is
+[15:05] extremely stigmatized so no one wants to talk about it so not only is this huge stigma there is a
+[15:11] massive amount of suffering of people who can't seek the support of others and yeah as you can see here
+[15:20] it will affect a vast number of people in the future and obviously now but it's going to keep getting worse
+[15:28] and yeah like as an industry as I mentioned before that there has been efforts to accommodate
+[15:34] accessibility and my drive is to try and push the industry to consider the elderly for those
+[15:43] accommodations and in particular we're trying to kind of raise the profile of like
+[15:49] dementia and like how we as an industry we can address this from a kind of current perspective of
+[15:55] what exists in care homes of the people living with dementia a lot of the technology is because of the
+[16:01] skepticism of it it is expensive it is very kind of hard to maintain and it's a premium and the other
+[16:09] thing that I care about is that because it's so high spec it's very hard to react to individuals
+[16:15] into reflect culture and from this perspective I basically set out to achieve a series of goals which
+[16:24] was to build kind of interactive play and kind of prove that you could build interactive play
+[16:29] with my knowledge of alternative controllers something that was like low low scope
+[16:37] but still engaging and still nourishing and using hardware that isn't walled off there's a lot of
+[16:44] talk and tech about you know kind of techno feudalism of like motes and keeping you know consumers out
+[16:50] from having access to this technology I want to make this as proliferated as possible and
+[16:59] the other thing is is just to get a deep knowledge of dementia and the communities that exist
+[17:04] in the support networks that exist and use alternative controllers to not only bring installations to
+[17:13] those people but also to not be prescriptive because that's another thing around tech that
+[17:19] often the people that are particularly the elderly don't get a say in actually defining
+[17:24] what interface they care about so giving them an opportunity to build their own controllers
+[17:29] these are some of the colleagues and partners that I worked on the project with it was honestly
+[17:34] such a privilege to get to work with all of them such a talented group of people I don't know how I'm
+[17:40] doing for time so but I just I just can't thank all of them enough for their incredible time efforts
+[17:47] and just deep knowledge on these topics so one of the people mentioned on the previous page
+[17:55] Dr. Jenny McRitchie has done a bunch of research around building controllers not all
+[18:01] alternative controllers what I know is an ADMI which is accessible digital musical instruments
+[18:07] this is one here which is like a slider box that you can use to control dynamic music and
+[18:14] obviously these are very close in overlap to alternative controllers and these were some of the
+[18:19] things that really stood out as things to accommodate into interfaces and these were all well within my
+[18:27] kind of skillset and in particular like people when I talk to about this stuff will be like well
+[18:33] you know does it cure dementia slow down dementia that isn't my focus you know the person like
+[18:42] experiencing the condition is is like so often ignored and it's all about like try to find a
+[18:49] cure get this person you know cured and just letting them experience joy in a non-medicalised
+[18:57] context is so rare so I really really wanted to try and engage with that as much as possible and
+[19:05] something that really kept coming up over and over again is that rather than trying to be prescriptive
+[19:10] broad brush make remembering that these are people and you deserve like dignity joy and
+[19:19] the opportunity to express and to accommodate that into things that I built so these were the
+[19:26] kind of organisations that ended up working with as part of the project so about a month or two ago
+[19:31] we went around these various sites in Sheffield and amazing partners to get to work with
+[19:40] kind of various groups at different points in the kind of disease just give a quick run through
+[19:46] some of the installations so we had singing tea pots which was basically where you had a couple of
+[19:52] tea pots on the table where you were kind of touching them and you get different bird sounds out of them
+[19:59] so you know you maybe touch the one on the left and you get the sound of a robin you touch the one on
+[20:02] the right and you get a pigeon and originally I had this ambition of light let's make a full
+[20:08] multi-sensory experience so let's put you know make it the sound let's do the lights that change
+[20:15] based on that but I also want to and you're touching the the teapot but I also wanted to put tea in
+[20:20] the teapot and the other researchers on the project were like absolutely not do not do not have
+[20:26] boiling water around electronics around people living with dementia that is a recipe for disaster
+[20:32] so we just stuck with the three for this and yeah just kind of like run through the next one so
+[20:39] I've got this with me so this is the peripheral for radiant vines which hopefully hasn't gone to
+[20:45] sleep let's find out oh yes so rather than using something like a mouse or a keyboard you
+[20:52] I'll try and just show this for the camera so you just as you order watering can you kind of tip
+[20:57] the watering can over and it works as you'd expect and it's just a kind of really joyful object
+[21:03] to kind of mosaure around with you'll probably see me as part of the festival just walking around
+[21:08] at night with this thing so if you see that come and say hello but yeah like when I'm commuting with
+[21:13] these equipment like people stop me on the train or you know the bus and be like what's that and
+[21:18] plug it in it's just so wonderful seeing the kind of joy that it brings from people and the way that
+[21:24] tapping a keyboard you know no one's gonna you know be blown away about at least in the modern
+[21:29] century and yeah it's it's a lovely installation of shown it or the festivals before
+[21:36] this one's swelling dutchies is again of a lovely kind of cooking experience where you've got a
+[21:42] Jamaican Dutch park where you're kind of steering the part and in kind of having that contact
+[21:48] it kind of swirls the LEDs around the bowl there's all sorts of kind of different variants we've got
+[21:52] acu and salt fish we've got what's it called? Brum Punch we've got rice and peas set is
+[22:01] there's a full spread in the kind of different settings for the installation and the great thing
+[22:05] that worked with this installation is it was compatible with skin contact as well and the
+[22:10] last thing I want to mention is the actual workshop sessions where we were kind of giving people
+[22:14] an opportunity to express themselves I didn't want screens in this at all so rather than having screens
+[22:22] we had LEDs that kind of came out of the peripherals we used the same hardware for the
+[22:28] the installations as we did the workshops which is the BBC Microbit which is a fantastic workhorse
+[22:33] would thoroughly recommend experimenting with those and yeah like all you had to do is tap these kind of
+[22:39] two eyes together and whatever you wanted to put in the meat in the middle of that you know it could be
+[22:44] two people holding hand it could be you know tapping a golf ball to a club whatever you could
+[22:51] connect it with tin foil the other thing I want to quickly mention is on the actual controller
+[22:57] I wanted to give people a means of expression so once they kind of connected up their controller
+[23:02] we had a dial that allowed you to kind of change the color of the rope which meant that like if you
+[23:07] made like a fish as you can control you could adjust it to blue if there's someone in one of the
+[23:11] sessions that made a puffing controller eating sandals so they changed it to yellow and like that
+[23:18] very minor amount of expression was just joyful and playful to expression it took to experiment with
+[23:24] birds was the thing I focused on and like the reason that was such a focus for the kind of software
+[23:29] and installation is because it's like such a deeply seated memory if there are a lot of people
+[23:36] like for me personally I grew up next to a ruckery so hundreds and hundreds of rocks so for me the
+[23:42] sound of those that birds is like very very deeply associated with home and what's great about
+[23:48] as well is unless you're literally having the same sample like repeating it's not too great as
+[23:53] like a as a sound and of course it can be tailored regionally so you don't have to have all the
+[23:59] same birds for the same regions this is roughly what the installation looked like so when you'd
+[24:03] get the different combinations of tea pots being pushed you'd get different bird sounds and that was
+[24:08] like an opportunity for people to like listen to different samples and try different stuff so I want
+[24:13] to talk specifically about one example which I've only got time to talk about one so this is memory hub
+[24:21] and this gentleman on the right here is Carl Case who is going to have a bunch of fantastic work
+[24:25] around how to make dementia care appropriate and tailored to different caravbean communities
+[24:32] as done things like great multi sensory kits around the history of a caravbean people and
+[24:40] it was such a privilege to get to work with him on this project and specifically to have the time
+[24:44] where we spent like an afternoon tailoring this experience to his group and you know these were
+[24:49] some of the suggestions that we did so you know because he knows this group so well you know
+[24:55] he knew that having a session of sea at the beginning would be a way of bringing people into it so
+[25:00] he selected the song of a chee-chey bud which is like it's a song about you know different birds
+[25:06] on the islands I should say bud right but like kind of bird you know various birds so that was kind
+[25:12] of the icebreaker for the session we chose birds specifically from the caravbean and we made sure
+[25:18] it wasn't just Jamaica because there was people from all over the caravbean and the different samples
+[25:24] wouldn't necessarily correlate for everyone and what was wonderful is he made this connection
+[25:29] because a lot of people would ask the question of like what's the link between the birds and the
+[25:32] part but it's quite common in Jamaica to eat small birds like when you're kind of growing up
+[25:38] and cook them so there was that link of you know the different sounds of birds and cooking and
+[25:45] we actually got Carl's hand in the game as well as as you saw from one of the previous screens
+[25:50] got him his hand steering the spoons my partner Simone was the one that actually kind of came
+[25:55] up with the concept for the controller for the the Dutch part motion honestly so chuffed that she
+[26:01] got to have that contribution because family of Jamaican heritage grandfathered down you know blessing
+[26:08] he unfortunately got to mention and he was like a kind of a keystone in the local community
+[26:14] was involved with an organization called Sedacca and it was just wonderful to get to give her that
+[26:21] opportunity to give back to other people who were living with the condition and the other thing to
+[26:26] mention is my kind of extended family through them were willing to give their Dutch pots which are
+[26:32] very expensive objects for the installation so in terms of how it went it was a wonderful session we had
+[26:38] about 25 people in which I was absolutely brick in it for so it was the other sessions were like
+[26:45] between nine and ten so getting nearly three times the amount was quite intimidating but we had
+[26:50] so many amazing volunteers and people to hand to make sure that these sessions went well
+[26:56] yeah honestly it was so much fun this was kind of like a rough schedule of what we did
+[27:04] and what was so satisfying I was really nervous when the session started and one gentleman walked
+[27:10] straight in with his cane and saw the Dutch pot and just started tapping it and started singing
+[27:15] and passed the Dutchy and I was like yes yes we've got him so at that point I knew and I had
+[27:22] that confidence that like this was a recognizable object and that that was that entry point to kind of
+[27:27] engage and we had a lovely activity of everyone in the group holding hands and touching you know
+[27:34] either part of the pot to trigger different bird samples and we kind of talked about stories of
+[27:40] growing up you know in Jamaica and around the Caribbean and the histories of you know having
+[27:46] like cock crawls and roosters around you or different birds and different histories and I was just
+[27:52] it was so lovely in terms of the actual hands-on sessions it was so well received we had so many
+[27:59] different controllers being made there was some lovely touch points where we had for example
+[28:05] some of them decided to make different islands of like where they'd come from and those two people
+[28:10] in the session who realized they had relatives who lived within a cup like within the same neighborhood
+[28:16] and recognized different landmarks which was just lovely to have facilitated I'll show you in a
+[28:21] second bit various kind of different peripherals and yeah like Carlin himself was really
+[28:27] chuffed that like how locked in people got on building this stuff it was it was just wonderful
+[28:34] it was really really good the other thing to quickly mention as well is that in particular like a lot
+[28:39] of kind of older old black women don't necessarily get to engage with technology so
+[28:46] getting to give them that opportunity to express within the medium was just was just wonderful
+[28:53] privilege and these are some of the kind of wild controllers that got made so these two
+[28:58] gents on the left these are the islands that they they kind of put together we got handbags we got
+[29:04] water bottles we got little birds we got a shark and a swimmer in the button right there and we got
+[29:10] the cross which it was really funny is when she held up the controllers just like this always works
+[29:16] for me connected it up on it it kind of showed the light I was like that's that's right that's that's
+[29:22] and yeah like I've got very little time but like I just want to give a couple of extra anecdotes
+[29:26] from the other sessions so from the first session we ran there was a gentleman who wasn't able to
+[29:32] engage with the controller because he was so far on with the condition but when the bird sample started
+[29:38] he started whistling vividly like the kind of so precise the the calls of the birds that were playing
+[29:46] you know completely out of the blue and when we asked his his wife like where that come from
+[29:52] he'd spent a lot of ties life in in the woods and kind of recognized these calls and unfortunately
+[29:57] from losing his sight he wasn't able to engage with anymore and like I loved the fact that he was
+[30:02] still able to participate when I showed the radiant vines at the botanical gardens this gentleman
+[30:11] he came up to give it ago he started watering the pots to like trigger the lights but then he also
+[30:15] started kind of reaching over and kind of pouring water onto the LED rope so kind of light-based water
+[30:21] and you know whilst there was a temptation to correct him what we did instead as we moved the pots
+[30:26] two those areas so it kind of matched his expectations and the installation was better for it and I
+[30:32] loved that kind of duet or like kind of dance of of being able to adjust the installation for him
+[30:39] and then the last thing I want to talk about is approach an example of non-approachability so
+[30:44] someone in our last session was terrified of snakes so the actual LEDs kind of snaking around
+[30:50] looked a bit too much like snakes for it to want to engage but I still got chance to check to her in
+[30:54] depth and we we kind of talked about how her relationship had played changed that she loved
+[31:00] scrabble growing up and throughout her life and her father was a mathematician and basically that
+[31:06] like she couldn't do the maths anymore but she still loved filling the board up you know with all
+[31:12] the letters and seeing you she could fill all the words and just the idea that like she had taken
+[31:16] upon herself to dictate what play meant to her in a way that was approachable and I just wish
+[31:23] there was more opportunity for that I really want to emphasize how critical it is for us now to
+[31:31] accept that it is possible to design for these audiences and it's possible for these audiences to
+[31:36] dictate play for themselves they are eager and we should accommodate their interests and engage them
+[31:46] and it was it was such a wonderful time the actual research paper from working with the university
+[31:53] should be kind of finished in the next week or so so hopefully that'll be out in the next couple of months
+[31:58] it's just been such a privilege working with I also want to quickly highlight that land and
+[32:02] kind of the lead research on it has worked so hard on it and I just want to say a massive thank you
+[32:07] to him for all his efforts there is still time for us as an industry to make this right there are
+[32:13] people who will have died without never experiencing the games industry but there is still so many
+[32:19] more people that we can engage in the next 20 years it's going to be so many people from our medium
+[32:24] who have cherished games throughout their lives who will not be able to keep playing games and we
+[32:29] have to accommodate them even just like a tiny fraction of what the industry you know pause into the
+[32:37] thousands of games that come out each month even like five of them going to these audiences these
+[32:42] deserving audiences would make such a huge difference to the lives of millions of people and I want to
+[32:50] also add it to this that like hack spaces I love that this is here this is my first DMF it's such a
+[32:55] joy to be here but I just wish that we could as a community bring some of this stuff the wonder of
+[33:01] this space into places that are just so often a you know in a drought of play and interactivity
+[33:09] so in terms of where to start the key thing that I would highly recommend is do not try to do this
+[33:16] on the standards of the industry use scrappy tools like I am not a professional programmer I have
+[33:23] botched my way through my career and thankfully I have some interesting things to show for it
+[33:28] there are so many great tools use tools make for kids the thing that's great about using simple
+[33:36] technology is that it welcomes people in and it means that you're on a similar level there's not
+[33:41] this weird power dynamic of being so far removed from technology what's wonderful about using these
+[33:46] tools as well is that kids are you know custom tutorials like scratch which gives them an opportunity
+[33:54] to have this intergenerational collaboration with old people and the again ditch the keyboard ditch
+[34:03] the mouse ditch the gamepad it's the easiest way to make peripherals approachable and I just want to
+[34:10] end by just saying like the question I always come back to when I always encourage games developers
+[34:17] to consider is like how can you reach one new person when you're building an experience who is
+[34:23] disconnected from play and give them not only an experience but a meaningful and a positive and
+[34:30] deep experience like and the other thing to very quickly say is the industry is on track for
+[34:37] 400 you know 100 400 hour experiences an experience of 100 seconds or 60 seconds can be just as
+[34:44] meaningful as one that lasts for days so that's it that's my talk I got through that surprisingly quick
+[34:55] this I just wanted to touch as well and just say my this is my grandma I this is kind of for her
+[35:05] I feel really really hurry for her
+[35:26] an
+[35:28] Yeah, yeah.
+[35:29] APPLAUSE
+[35:32] This is clearly what I needed.
+[35:34] They're remaining five minutes for.
+[35:36] LAUGHTER
+[35:37] So, like, she has been so supportive through my entire career.
+[35:40] She's 96.
+[35:42] And even though she doesn't understand the technologies I work with,
+[35:46] she's always been incredibly supportive.
+[35:50] And bless her.
+[35:52] She's in the last few months she's moving to OK at home.
+[35:55] And I always think of, you know, when I'm asking this question,
+[35:58] it's her that I often think of.
+[36:00] So, I hope you have people in your lives that you consider the same.
+[36:04] I hope you'll think of them.
+[36:07] Thank you.
+[36:08] APPLAUSE
+[36:11] APPLAUSE
+[36:12] Well done.
+[36:13] Thank you.
+[36:14] APPLAUSE
+[36:25] APPLAUSE

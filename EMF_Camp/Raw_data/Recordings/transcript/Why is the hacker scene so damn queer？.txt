@@ -1,0 +1,268 @@
+[00:00] Hello everyone.
+[00:14] Okay, Mike is working.
+[00:16] Good.
+[00:18] So, there we have the screen.
+[00:22] So, I wasn't prepared for being like on a big stage.
+[00:26] I expected to be like in a small stage, but I don't know.
+[00:29] Sorry, people are something.
+[00:30] So, basically prepare the talk on the train coming here.
+[00:34] Yesterday, when I saw this is going to be my stage, I did polish it a little bit or try to,
+[00:39] but we'll see how this goes.
+[00:41] I'm going to start a little bit with talking about me, who the fuck am I?
+[00:48] In 2011, I think.
+[00:51] I gave my name like the Nick Slyfer.
+[00:56] It is German.
+[00:57] It means to doubt.
+[00:58] Back at the time, I was studying philosophy and found it very interesting and good.
+[01:03] Doubling.
+[01:04] I still feel like it's an important thing to do in general.
+[01:09] And so, it became kind of like my Nick in chaos or like the HECA scene environment.
+[01:15] And I've been around the HECA scene for a while.
+[01:19] I was a chaos communication congress by the CCC.
+[01:22] I was in 2010.
+[01:25] However, there was a good time that I wasn't very active at the HECA scene.
+[01:31] I was like, basically it was like other things and it was kind of like a little bit moving away.
+[01:36] And then I came back to the HECA scene and it was kind of like, oh, that changed a lot of things.
+[01:41] And what I noticed, the most was it got really fucking queer.
+[01:46] And I was like, beforehand, I knew that to some degree, but it wasn't really visible.
+[01:51] And so far while I've been thinking to get a little bit into it, I did study for like two semesters computer science and math.
+[01:59] So, I do some naughty things, but ultimately I'm more like off the talking thing.
+[02:05] So, like a degree and culture studies and well I studied philosophy and some other topics.
+[02:12] And with that culture studies as with most of these talking study topics, I find it important to say that there's often not a very strict right and wrong.
+[02:24] Like very strict.
+[02:26] This is how it goes.
+[02:28] In math you usually have that, like well there's a creation and you have a proper solution.
+[02:33] And all these kind of culture studies.
+[02:36] Basically talk about people and people of like very different impressions and different ideas.
+[02:43] Values.
+[02:44] So maybe some of you will not agree with what I'm saying and this is part of the whole thing.
+[02:50] So, just more like a debate or like I'm trying to do that.
+[02:54] And make sure sometimes you can't have like very strict and very clear answers because people are messy and chaotic and that is a good thing.
+[03:06] So let's come to, oh, also, well yes, I'm pretty gay.
+[03:16] I am talking a little bit like from my perspective.
+[03:19] That is also like one of the things in culture studies that we often do is that you kind of make sure from like what perspective you're talking.
+[03:27] Because everything I'm talking is like kind of like flavoured in my own experience.
+[03:33] And some people have different experiences and that is okay.
+[03:36] And important to acknowledge, I believe.
+[03:39] So that was like some definitions.
+[03:42] What the fuck is a hacker?
+[03:43] That's like sure like the information security thing and like the computer science stuff.
+[03:50] For me the most important thing about hackers is they're investigating systems.
+[03:56] Like they think or like they try to think and like a bigger picture like how can you penetrate something like how can you figure something.
+[04:02] How do you develop something?
+[04:05] And the big important thing is for me it's like both the investigating part but also like the systematic part like how do you test things systematically.
+[04:16] They're like a little bit experts on finding weak points like how can you penetrate this system like how can you get in like what is broken.
+[04:26] And there's to quite some degree also like the approach of particularly packer scenes like these.
+[04:32] I would say that's like a big focus on improving things and fixing them.
+[04:37] Kind of like what is broken and whatever systems like okay how can we fix it like how can we make it good.
+[04:44] And yeah I am a bit focusing on this system.
+[04:48] We come to that in a minute.
+[04:51] And one thing that I did notice or like that is I guess very clear to a lot of people this scene is like has like a lot of neuro diversity like a lot of ADHD people a lot of people with autism with whatever diagnosis you can have we have a lot of them here.
+[05:09] And the science is not very clear on this as much as I understood and I'm like I'm not a biologist or like a not an I don't know medical expert on that point.
+[05:19] But neuro diversity correlates quite strongly with queenness not necessarily like this like the science is like not really clear why but we see a lot of correlation between this.
+[05:33] And the scene like the heck I see now together is like well it is full of out costs it is very much known I guess to everyone here I don't think this is news for everyone.
+[05:45] And it's like not really interesting that like special interest forks are like around here because well this is what we are.
+[05:53] And then come to queries who the fact are queries.
+[05:58] The easy answers like well they're like not just heteros.
+[06:02] For people who do not know what this means it's like the opposite of trans which means like well you're assigned the gender at birth and you're still are the same.
+[06:11] The opposite is trans and then it gets a little bit blurry with whether non binary people are like trans and everything but queries are basically the opposite that is like one definition.
+[06:22] And it's kind of like the umbrella term for like well all the less begins in case and non binary and gender queries and.
+[06:29] The huge amount of creators you can have.
+[06:34] I would say queries are also generally clash with heteronormativity.
+[06:39] And to some degree like the patriarchal system because like they kind of don't accept how society for become to that a little bit.
+[06:49] Decided how humans should live together so they challenge that and they clash to that to quite some point.
+[06:58] And they do that by having like a very self to to mind active decision like how their sexuality or like how they're living is happening.
+[07:09] I find it important to define.
+[07:13] I mean, queries also to some degree less about sexual preference.
+[07:18] There is a thing that like a couple of years ago I would strongly disagree with.
+[07:22] But now I know a couple of gays also less begins with say they're like less you know gay but like not queer.
+[07:28] And what they mean is kind of like well they are somewhat fitting into like the patriarchal system they're like not really clashing with it anymore because well gay like being gay or being less being as not as much as.
+[07:38] And I don't know, outcasts it was like 10 years ago or like 20 years ago like it got more accepted and then you have like some parts I would say from within the.
+[07:49] Seeing that is kind of like rejecting the queen is and from me, queen is more like the challenging of sexuality and gender norms altogether like.
+[07:59] What does it actually mean like why do we live in this patriarchal system how is it supposed to work and it's more like a conscious.
+[08:07] I think a conscious decision.
+[08:12] And for the next I do want to talk about gay da.
+[08:18] I do not mean the website that some of you probably know because there's a gay dating website in UK called gay da.
+[08:25] I mean more like the ability or sometimes affordability by queer people or gay people to see each other without actually knowing anything about it.
+[08:38] So it's kind of like a sixth sense that you know like oh this person yeah I see them yeah I know.
+[08:46] And a lot about it it's like kind of like subtle clothing hints or like oh this is like oh this the spot and it's like a little bit too deep or let's show like I'm bearing this girl that is very much not so.
+[08:57] It's a lot of gay.
+[09:00] But to something we also like the way you you look or like the way you intect with each other like sometimes it's like the the hands that you kind of I don't know I'm not sure why this is happening but for a lot of guys it is.
+[09:13] And it's a little bit to some degree something I would call doc whistling which is not really right because well doc whistling is originally when you call your doc with like whizzle that normal people shouldn't be able to hear because it's very high pitch.
+[09:28] And the term doc whistling got adapted into like the political landscape when people speak about like very broad terms that like a lot of people can agree with and only like a few people.
+[09:40] And it's an important thing and it would say it is a little bit similar with the gacy not so much like garnering support or like power something.
+[09:49] But it's like having kind of like signals that a lot of other people don't really notice so the example that I'm having is.
+[10:01] Who now in this room has the urge to check their phone.
+[10:07] I would say 98% of all gays know the sound whether they still use it or not it's like the notification sound of grinder.
+[10:15] And non gays usually have no clue what that means like they don't even notice what the fuck is that even happening.
+[10:21] The cover of month ago it got like a little bit more popular as it became like a tiktok friend.
+[10:27] And then you play the sound and then check the room like who's actively checking the phone and you kind of out them by that.
+[10:33] Not a particularly good thing to do.
+[10:36] But there's like kind of like the understanding of the scene like you have signs that you only you understand.
+[10:43] Yeah, that's like the doc was on to your own community.
+[10:47] And it is an important thing like it is how you recognize your own people how you connect to them how you know where to go to like where to feel safe.
+[10:56] Where to date.
+[10:58] Yeah.
+[11:00] And then there's like a thing queer love codes.
+[11:04] I'm claiming that.
+[11:06] The example here is the hanky code.
+[11:08] Who on this room knows what the hanky code is? Can you.
+[11:12] Okay, that is a bit less than half I would say.
+[11:16] So the hanky code is a cruising practice.
+[11:20] We come to cruising in a bit.
+[11:22] Where you basically have like kind of bandanas or hankachiefs.
+[11:26] And originally you put them into your back pocket and well I'm like varying a skirt.
+[11:30] I can't really put it in.
+[11:32] And different colors of the hankachiefs have like different meaning.
+[11:36] So the one we see here like the green one is the one saying that you're like a sex worker or like a puzzler.
+[11:46] If you have it in your left pocket it means you're offering sex work.
+[11:52] If you have it in your right.
+[11:54] Put back pocket it means that you're looking for sex work.
+[11:58] The white one we see is universal doesn't matter where you're where it just stands for your prefer safer sex.
+[12:04] Like only with condoms or sometimes even like no penetration whatsoever.
+[12:08] The purple one I didn't really know until like I've never seen that in reality.
+[12:14] Apparently it should be about piercings whether you want to be pierced or not.
+[12:20] I've never seen that in real life but I found this picture and I quite like that.
+[12:24] And if you don't have like a back pocket you usually take like this one it's like dark blue.
+[12:30] And you put it like around your wrist or sometimes even like around your neck and then like depending on where you have the knot.
+[12:36] It says whether you're like on the top side on the bottom side.
+[12:40] Or like also like with the light blue or like the dark blue means generally penetration.
+[12:44] Like if you want to have anal sex the light blue stands for blow jobs.
+[12:50] And you always have a little bit of the thing that like if you were at on the left side your top.
+[12:56] And if you're right on the right side you're the bottom or like you're the receiving part.
+[13:02] And you have like a lot of coats are kind of like come from that.
+[13:05] Like the the colors are still the same even if you were like harnesses or something like if you see someone in like a.
+[13:13] Dungeon with like a red harness usually means they're into fisting if you don't know what fisting is.
+[13:19] Google it or you somehow what I'm not going to go into there.
+[13:25] Same but like just like harnesses usually means that you're generally into be the as a play.
+[13:31] So you do have like a variety and like this coats even if like the the henky code isn't really in use anymore because we have like dating up and stuff nowadays.
+[13:43] And cruising isn't happening as much but the colors still very much active like you still see them at like lot of queer parties.
+[13:51] Yeah, so let's go a little bit into the history of queer and as and to some degree like the the gays scene.
+[14:00] I'm a little bit focused on the where am I I'm here.
+[14:05] I'm a little bit focusing on the gaze because it feel like they were more the forefront and to some degree it is also like the way gays have been discriminated is a little bit different from like less.
+[14:18] And a lot of non binary and trans folks is to some degree a point that we.
+[14:24] It's kind of like a new development and that sounds awful because no they've been around forever like we know that for like long time but we didn't have like a lot of words to that and we I've do come to that like a little bit more than the science he part about it.
+[14:39] So the history of like the gays in we do have like a lot of cruising happening for ever like we can go back to like ancient romance stuff and we know that that happened.
+[14:50] We see that like in the time of Shakespeare or like of I don't know like it was always a thing.
+[14:58] And if you're thinking at cruising but like some cruise ships somewhere like how was that connected to the gays in.
+[15:03] Now it is like a practice where you basically have sex in.
+[15:06] Some more shady places like some forests or like some park or nowadays or like for a while often like public toilets or something.
+[15:14] You may not approve but it is happening it has been happening since the beginning of time.
+[15:21] Also with the gays seen or like the the creation altogether.
+[15:25] There's like a lot of sex work happening there and it has been since ever and sometimes feel a bit like the scene is a little bit removing that because we don't want to have too much to do with that a little bit like the cruising like we don't really want to talk about it publicly.
+[15:38] But it's like an important part and it has been for ever as well as sex work is the oldest profession in the world.
+[15:48] At some point we got a little bit more liberal and we got like the gay bars and like the dark rooms and like we have more specific places where to meet and hook up.
+[15:57] One of them was like the stone wall in op still is so stone wall in where the stone wall writes happened in 1969 you probably not all know of this and was kind of like the yeah big start of the new gay liberation.
+[16:12] And well the last part is kind of like the online dating that came to life to everyone but also to the queries.
+[16:19] Now let's talk a little bit about like stigma and shame because stigma and shame is the big part of the scene of the scene whether we want to or not.
+[16:31] Having got fun sociologists like an American sociologist wrote a couple of pieces about like stigma particularly and he differentiated different she ate it between visible and invisible stigma.
+[16:46] So some people get stigmatized for like this skin color and you can't really hide it or like very bad so you always have to deal with it and something like being queer something that usually can hide pretty well like I don't have to wear heels and a skirt and I can put like my hair away and don't wear fancy earrings and then.
+[17:05] Maybe people don't notice that I'm queer maybe they still do but like I can try to hide it hiding your skin color something you can't really do and it has a little bit of difference like your gender you hardly can hide it to.
+[17:20] So the difference in like how you how visible you are for whatever you get stigmatized is also like a response in how you can react to it so if you can hide it people tend to hide it like you can't really hide your skin color so it has for a long time like a different.
+[17:38] And that is one of the reasons why a lot of the queer scene was for a very long time very invisible because you simply didn't see like they didn't show it.
+[17:48] Now I've lost my part yeah so with the stigma chain for some people it is more important not be outed than to be safe like going cruising into like some park and talking up with someone you've never talked to you don't know their name or anything.
+[18:09] It can mean that you have great sex but it also can mean that things really get ugly and you don't like it at all.
+[18:15] And yet a lot of people prefer this to some degree because it is safe because like you can't be outed like your co-workers or your family or something doesn't know.
+[18:25] So like some people choose the more dangerous approach over the possible being outed like telling your family or anyone like where you go.
+[18:37] And so there's like a lot of focus on anonymity.
+[18:41] Like you often have no name so like no no personal info even like today with like online dating that is still quite a lot of thing for a lot of people.
+[18:51] Also like a lot of not showing their faces it's got less over the years but it's still a thing for quite some people.
+[18:59] But then with that I also want to say like a lot of cruising to some degree also became a king like some people it isn't really about like oh my god I need to be really protected for some people's just the kick itself like oh my god what's happening is anyone gonna catch me like this is a thrill for some people.
+[19:17] And then well with the internet no one knows your dog.
+[19:22] I kind of disagree with it by now to some degree but back then it was like the cartoon was made in 1993.
+[19:33] It was very much like the internet was kind of like the safe place you can just like be whoever you are maybe that's also where the puppies were born.
+[19:40] I don't think so I do believe they were around longer than that.
+[19:45] But yes on the internet generally it's kind of like a safe thing or like they believe it was.
+[19:53] And then let's talk a little bit about like the sexual oh no I'm the one side.
+[19:59] On the sexual liberation.
+[20:01] What does it actually mean?
+[20:03] Well there was like the sexual liberation and like the 1968 and 69 it like the stole rights and we talked a lot more like in the 70s about.
+[20:13] Sexual sexual liberation I like kind of like getting out of Patrick here.
+[20:18] And what we'll see by now is that younger generations have less sex than older generations.
+[20:25] And that is to some degree why is that happening like we are more liberal so we can do more things but we do see.
+[20:32] And science or like an in statistics that younger people on average have less sex than previous generations.
+[20:38] However they also on average have more kinky sex like they are more kinky and they're also a lot more queer than previous generations.
+[20:50] Like no generation has been as queer as the young people today.
+[20:54] One of the arguments that is often coming a lot of it is like coming by porn because we watch porn.
+[21:00] So something is like well you can just like watch porn so you don't really have to find anyone like have sex with them anymore you can just watch porn and masturbate.
+[21:07] And be happy about it.
+[21:09] Often it is kind of like use oh my god this is like so even and so bad and like it's making everyone kinky and everyone queer.
+[21:15] And there is some point in it because like porn is to a lot of people also like an entry way to just know what you actually want to like to see that you're not alone with whatever is happening in your head or whatever is your fantasy.
+[21:30] The science on porn is really complicated like there is not a lot happened there's a lot of opinion about porn but there's like very little good science happening on it to some degree also because yeah academics are somewhat aware of porn that they're like not many many people researching it all together.
+[21:53] And then we have Michael Foucourt like the French philosopher who wrote already like he wrote a lot about sexuality and like what you can say about sexuality and he wrote already like a point that sexuality becomes like more individualized like people have more individual sexualities and that was before the golden age of porn like that was like in the 70s that he was like really active.
+[22:18] So it's like to little bit like we see some correlation but we don't really know this actually like an actual cause between this.
+[22:28] And as we are like the French philosopher Foucourt does anyone of you know the mini tell.
+[22:36] Yeah some people impressive.
+[22:39] I didn't until like a couple of days ago when I was researching a little bit more about the the talk here.
+[22:47] I was like in basically a shat system in France generated in 1980 and it was like shut down in 2012 however the last couple of years it was very little use basically for like some freight.
+[23:00] Right things.
+[23:03] And with the mini tell we had the mini tell was there it was like in the 80s a very popular way to share it like to do a lot of sex thing.
+[23:14] But now to what extent that was also queer I was trying to research it but as I just came across a mini tell a couple of days ago.
+[23:21] I don't really know how much it was however there's like a mess murder happened like in 1991 where like a French guy was convicted after killing three gay people for meeting over a mini tell.
+[23:39] So that's the problem with the ms sessions so that did happen and we know that mini tell was also useful like queerness.
+[23:46] And I am mentioning it so much because mini tell was kind of like the first proper online dating but just not completely true.
+[23:53] There were like some online dating happening like already like some systems happening in Boston before when the internet was done long before the web.
+[24:02] So first pick one and with that we come a little bit more into like the online dating altogether and like how did it develop.
+[24:12] The first proper online dating app or website was match.com and match.com was like originally the idea was like in 1993 and 1995 it became.
+[24:26] And it included from the very beginning like queer people it had like from the very beginning to something we like to focus on it after that the next gay sites that all like the next dating sites there were well like gay da we mentioned that already like in 1999.
+[24:43] And then I was in tour they came gay romyo by now only romyo German dating site.
+[24:49] In 2004 the Tats German newspaper left the wing newspaper talked about like the pink lists claiming that.
+[24:59] The like the gay romyo website is so popular in Germany that basically all gays are on that website.
+[25:06] So they talked about like the pink list at the 90s head to search for like queer's or gays well like re-enacted on that website.
+[25:14] So it was like really popular.
+[25:17] And then in 2009 no still in 2004 they came also okay Q put I guess a lot of people know here know this one.
+[25:30] And my experience was always pretty nerdy and pretty technical it got a lot less over the years but like in the beginning it was quite nerdy.
+[25:39] In 2009 we had grinder we heard the sound already like I would say the prime gay dating at nowadays.
+[25:47] And then like in 2012 Tinder became a thing.
+[25:51] And that is when I noticed like oh actually non queer people are using online dating as well.
+[26:00] So what I'm saying is that there's quite a time gap between when queer's used online dating and when like the head or sexual started with it as well.
+[26:13] Okay no it doesn't work.
+[26:19] So let's talk a little bit about heteronormativity.
+[26:26] The idea about like no we need to start with marriage which is well like a very heteronormative thing like well a woman and a man come together and they love in marriage other.
+[26:37] And I was speaking this is not really true as in they didn't marry for love that were basically work mates a little bit similar to what sometimes we nowadays are like put it again to you as I think.
+[26:50] It's called with like the work wife that you have because like you work together and back in the days like we go back centuries.
+[26:58] And marriage was basically like a union of people to care for each other when you're getting sick like when you have children like bringing up and it wasn't really anything about love.
+[27:10] We have a lot of religion forming heteronormativity not all religions but like a lot of them particularly Christianity.
+[27:18] And telling us like how we we live and they're like a point where heteronormative now where the very loyal approach and like the very you only have sex to make children was useful and smart and that is.
+[27:34] Before we had any kind of antibiotics which means like well back in the days a lot of people got like some kind of S.D.I.s and you couldn't treat them.
+[27:42] So like the idea about being very loyal to your partner made back in the time actually sense to save the population as it's whole because you could just like die of civilizor anything.
+[27:54] So I think like sometimes when we talk about heteronormativity or like caterer sexuals like this very strong focus on loyalty and monogamy.
+[28:04] We kind of missed from what time this approach came and back then it was like not super stupid that the religion was so strongly monogamous by now it doesn't really make any sense anymore because you can treat all of it pretty easily.
+[28:19] But back then it was like an actual thing.
+[28:23] Yeah and then well we did have like the Victorian age and like the restoration but was like when a lot of roles for people or like a lot of general roles were like a lot stronger and for them before.
+[28:41] And the idea about like marriage is for laugh is basically like a Hollywood idea.
+[28:49] Okay we don't have as much time anymore basically done.
+[28:54] That's like one thing like in the digital development so let's talk about like why this one is so queer.
+[29:00] Some princess girls like always kind of like the queer heaven and the hippie heaven before I became Silicon Valley.
+[29:06] Innovation is needed like always prescape by social need.
+[29:13] We can skip a little bit of it. So let's talk about the flip.
+[29:17] There's like a British philosopher Miranda Fricka who currently time term epistemic injustice.
+[29:25] What it means is that you need words to describe what you are or like what you're experienced.
+[29:31] So for experience was sexual harassment. So before the term sexual harassment was coined you couldn't really talk about it.
+[29:39] And it is a bit the same with like a lot of queer people because before you had words for like to describe you couldn't really say what you were and you couldn't really find anyone.
+[29:50] But in now creators is like a lot more accepted general in the public so coming back to the heck I've seen like where did the big flip come from why it's now everyone queer.
+[30:00] The heck I've seen became like a safe space. So like first when I was like entering the heck I space it didn't feel like a safe space or like it didn't feel like a queer safe space.
+[30:09] But when I came back and I was like oh my god they're a lot of queer and like the general acceptance is here.
+[30:15] So the heck I've been itself also became kind of like safe to just try out things and to figure out things.
+[30:25] And yeah, with that I think we are kind of done. Oh, no, I'm sorry.
+[30:36] Important thing I missed eights. One of the things we sometimes myths in the scene like we're talking about is also that like a generation of queer. So particularly gaze is simply vanished like they don't live anymore like we don't have a lot of all people telling us how to do that because the was a eights
+[30:54] A pedemie to some degree still is and just eradicated like a whole society. So that's it to some degree also like why we.
+[31:04] Yeah, why the flip just happened because now I feel like I'm the old one because people are 30 years older than me.
+[31:15] They aren't many careers or like many gaze, particularly. The early internet it was over average useful for queer.
+[31:24] Basically if you live like somewhere in the countryside you want to find similar people than yourself.
+[31:30] So when the internet was around it was like a really good way to just find each other because the one bar you can't really go to you're not sure if it's safe.
+[31:40] And so if you're like more inclined to use that you're also more inclined to get involved and develop it. So that's like one part why so many people end up here.
+[31:50] And the late internet like what we see nowadays is a little bit of the opposite.
+[31:55] As in first we kind of like made the internet for ourselves and now we have a little bit like works for most and often it doesn't really work for the careers anymore or for like specific groups.
+[32:06] There is like a fundamental thing. It's not so much about the creators. It's if some technology get adopted for like everyone it doesn't mean that the specific groups are like always best met and to the quite some degree I see that lately on the internet like tech development altogether.
+[32:24] And well you have like less niches that you can go to because a lot of regulation happened and you simply don't have the niches that we we need.
+[32:34] That means a little bit like okay we go to like mess it on and stuff and stuff like their own websites like try to find it and just something we I noticed that it's like the queer scene is moving a little bit offline again to some of you're like well we are meeting here we are not just like in some stream or something.
+[32:51] It is also like these events became more important like the offline events I mean it's also read and everything show we like all the digital.
+[32:59] But it's also like the the offline part becomes to some degree more of a safe space than.
+[33:06] Yeah online and this video we're gonna skip because we don't really have time for that but I guess most of you know this if not look for it the internet is for porn was like a.
+[33:19] Yeah, musical in New York.
+[33:23] And then well contacts if you do want to contact me there's like my email and my master and count also like some website.
+[33:31] You can check out also if you disagree with something if you say like I don't know missed a lot of things I'm just come to me to.
+[33:40] The queue and our tent I'm not sure where exactly it is afterwards and also come to me today because I'm only here today this is a little bit of an awful thing but there was the only thing I could manage.
+[33:52] Time was because I have to leave tonight certainly and with that thanks.
+[33:57] Thank you.

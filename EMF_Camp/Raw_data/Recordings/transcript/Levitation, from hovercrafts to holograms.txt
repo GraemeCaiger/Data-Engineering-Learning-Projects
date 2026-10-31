@@ -1,0 +1,288 @@
+[00:00] Excellent. So, levitation from hovercraft to holograms. I just want to start by saying
+[00:21] that I hope this talk will be very uplifting. I think it's good to break the ice with a
+[00:26] terrible joke, sets the ball for the tone of humour that you're going to get throughout
+[00:30] this talk. You may leave now, I won't be offended. So, what is levitation? We've all got an idea.
+[00:37] We've seen it in media like magic spells or something, but we're all nerds here. We
+[00:43] like a proper definition. So, from the Miriam Webster dictionary, to rise or float in
+[00:50] seeming defiance of gravitation. All right, so far so good. Magic spells are in, but does
+[00:59] flying count? Because planes can float in the air, but no one says planes levitate. Maybe
+[01:07] that's because you don't see planes still in the air that was moving so perhaps that's
+[01:14] the key difference. And in that case, does a helicopter count? I've found another definition
+[01:21] this time from Wikipedia. Levitation excludes floating at the surface of a liquid because
+[01:27] the liquid provides direct mechanical support. So, I guess boats don't levitate, but maybe
+[01:33] we didn't think that. But it goes on. Levitation excludes hovering flight by insects, hummingbirds,
+[01:42] and helicopters, rockets, and balloons because the object provides its own count of gravity
+[01:47] force. So, helicopters are unfortunately definitively out and probably hovercraft for the
+[01:55] same reason. So, sorry for the clickbait title, but I promise you there will be more
+[02:00] levitating at methods of transport later in the talk. So, levitation seems to be something
+[02:06] that happens to something rather than something an object does that it provides its own
+[02:12] power to do. So, that's a good start. We've got an idea of what levitation is and
+[02:17] some things that it isn't. So, far all of the things I've mentioned have one thing in common
+[02:23] and that's air. Which actually, spoiler is a bit weird because most of the methods of levitation
+[02:30] we're going to talk about today, don't involve air and can happen whether or not it's
+[02:34] there. But there is one kind of levitation for which air is completely essential, just in
+[02:40] a very different way to a plane. So, we're going to start with acoustic levitation. For
+[02:47] each of the methods of levitation that I'm covering today, I'm going to tell you a bit
+[02:51] about how they work, why they're useful and what's the coolest or weirdest thing that
+[02:56] we've levitated. So, acoustic levitation as you might expect, uses sound to make stuff
+[03:02] float. We know that sound is just wiggly air and you can think of a sound wave looking
+[03:08] like this. It's got amplitude and that's the height of those peaks and it has phase which
+[03:15] is where those peaks and troughs happen. According to the principle of superposition, waves
+[03:21] can add up. So, if I have two waves looking like this, if they're moving at the same time,
+[03:30] there would be parts where they're moving together and they have that big displacement or parts
+[03:35] where they cancel each other out. So, you can see the waves in blue and green, the two waves
+[03:40] that I'm adding up to get that wave in red. And the phase of those waves are where they have
+[03:46] those peaks and troughs. In this case, it makes what we call a standing wave. So, some parts
+[03:52] of the air are moving maximally and some parts of the air are completely still. So, now, imagine
+[03:58] getting two speakers playing those waves at each other. Congratulations, you've just built your
+[04:06] first levitatea. Wow! If you place a polystyrene ball into the column of air, it'll be trapped
+[04:13] in the low pressure zones between areas of high pressure and it'll be suspended. Now, theoretically,
+[04:21] you can use any size wave but most often we use ultrasound. So, that's a frequency that's above
+[04:27] the range that humans can hear. 40 kilohertz is common, perhaps because audible sound would be
+[04:34] really annoying and transmission in air drops off with frequency. So, using higher frequencies,
+[04:40] the wave doesn't travel as far so it's a good balance. It's also the frequency that a lot of
+[04:45] car reverse parking sensors work out. So, it's easy to get parts. You might have already known
+[04:51] that you can use sound to break glass but now you know that you can use sound enough reverse
+[04:56] car parking sensors to levitate objects. So, that example setup just had two speakers. If we
+[05:04] add more speakers, we add more power and we can offset the waves that are being produced by each
+[05:10] of the speakers so that their peaks and troughs happen in very specific places and create that
+[05:16] interference exactly where we want it. And if we keep scaling this up and adding maths, we get a
+[05:23] much bigger levitate that can handle multiple particles. What it actually creates is a sound
+[05:29] hologram because you're producing a 3D sound field. So, in the same way that a hologram and
+[05:37] optical hologram is producing a 3D image from a 2D medium. We've got a 2D array of speakers
+[05:44] producing a 3D field of sound. And this lets us move these particles really fast and with great precision
+[05:52] so we can make 3D shapes through the persistence of vision. That's the same way that all the pictures
+[05:59] in a flick book if you play them fast enough they look like a video. So, I hope this video works.
+[06:05] You can see we've got one little polystyrene ball being levitated. It's moving really, really fast
+[06:11] and at a certain point. Instead of seeing one individual particle, you see kind of a solid circle.
+[06:17] And I think in a minute it's also going to show an example with multiple particles creating a little butterfly.
+[06:26] Wow, but there's lots of other uses. If you want to know how stuff crystallizes,
+[06:31] that's actually a really difficult thing to study because any container that you have this stuff in
+[06:36] can have an effect on that process. So, if you do it in midair, that's problem solved. And this might
+[06:43] end up giving us better chocolates because cocoa butter crystallizes on the surface of chocolate as
+[06:49] it cools. And if we can understand that process better, we might be able to make design a chocolate.
+[06:55] Another thing it's useful for is levitating bugs. A relevant quote I got from a research paper
+[07:02] was using this process ensures the specimen is not physically damaged and all parts of the
+[07:07] specimen can be viewed as no pin is blocking the view. It also ensures insects too small to be pinned
+[07:13] can be imaged so we can take really great 360 pictures of tiny bugs and learn more about them.
+[07:21] But one big drawback of this type of levitation that we've seen so far is that all that stuff is really
+[07:27] small. So I'm going to ask a question that I will ask of all the levitation methods that we talk
+[07:32] about today could it levitate a human? Since the trap that the particles are suspended in
+[07:39] is created by the islands of low pressure between high pressure parts of the wave, the spacing
+[07:45] of those areas is determined by the wavelength of the sound to levitate larger objects you just need
+[07:52] a higher wavelength therefore a lower frequency sound. Fine, so we just use lower sounds.
+[08:00] But there's another problem. We need a lot of force to lift a human so the sound is going to be
+[08:05] really loud. You've probably experienced being able to feel sound before maybe even in
+[08:12] Nolsector last night and that was quite loud. Nobody levitated so it's going to have to be a lot
+[08:18] louder than that and all that energy moving all that air is going to generate heat as well.
+[08:25] So basically if we try to levitate a human this way I'm not sure if it would definitely
+[08:29] you or boil you first so I'm going to go with probably not sadly. So to sum it up for acoustic
+[08:37] levitation the pros it's precise it's material agnostic which means that we can it doesn't matter
+[08:44] what kind of material you're using it just matters the size of the material. The cons it can only
+[08:49] levitate small things and it might upset your cattle dog because they can hear sounds of a much higher
+[08:55] frequency than we can. The strangest or coolest thing that we've levitated I have a picture here
+[09:02] of a tiny fish. It's a little bit pixelated but I had to include it and also a video of a very
+[09:08] confused ant in the rest of the video they go on say that the ant was unharmed if a little confused
+[09:16] and then can it levitate a human sadly probably not. So what kind of levitation can we use if we
+[09:23] want to lift bigger stuff? What about magnetic levitation? If you've ever played around holding
+[09:30] magnetic poles of magnets, fridge magnets together with their like poles facing then you've
+[09:36] experienced magnetic levitation except you haven't because of this guy and his annoying theorem
+[09:43] earns sure it's theorem. Way back in 1839 he used some clever maths to prove that for any force
+[09:50] that varies as the inverse square of distance point charges cannot create a stable equilibrium.
+[09:56] That sounds complicated but all it means is that if I have a bunch of permanent magnets even though
+[10:02] there's a repulsive force between the like poles which is all I really need to counter gravity
+[10:07] there's no way for me to arrange them where that would be stable and by stability we mean that
+[10:12] whatever force we're using to levitate we want the distribution of that force to be such that
+[10:17] if I disturb my levitation object it wants to get pushed back to where I put it and it's not going
+[10:23] to fly off into the distance somewhere and one way of picturing the difference between stable and
+[10:28] unstable equilibrium conditions is thinking about a ball and a ball. If I turn the ball upside down
+[10:35] I can push my ball at the top of the ball but if I so much as breathe to near this it's going to
+[10:41] roll down and fly off into the ether but on the other hand if I turn the ball the other way up
+[10:48] arguably the correct way up and I put my particle at the bottom now it's going to happen if I disturb
+[10:54] it it will roll back down the sides of the ball and remain where I left it.
+[11:00] Berncher was theorem basically just says magnets are more like the first ball ball than the second one
+[11:06] so is that it for magnetic levitation then is it impossible enter the lever tron
+[11:15] it was invented by a guy called Roy Harrigan and I found this beautiful article from popular science
+[11:21] in 2004 that has this line I simply have to quote Harrigan had one distinct advantage over all those
+[11:27] scientists who had tried and failed to levitate magnets before him complete ignorance of
+[11:33] Ernst Schoer's theorem having no idea that it couldn't be done he stumbled upon the fact
+[11:37] that it actually can. This is a desk toy where it's spinning top can levitate above a fixed magnetic
+[11:44] base it works because the angular momentum of the spinning magnets prevents it from flipping over
+[11:49] and being attracted to the magnet in the base and there's also some effects with the gyroscopic
+[11:54] movement of the top precessing around the magnetic field lines it's not immediately obvious
+[12:01] how it works and there's might not be the only time I say this and this talk but trust me the maths
+[12:06] works out but it will stop spinning eventually because air resistance is going to cause it to slow
+[12:12] down and when it slows down the angular momentum is not enough to counter that for us anymore what
+[12:16] it tips over and touches the base but an interesting aside what happens in a vacuum when you don't
+[12:24] have any air to slow it down there's a quote from the original pamphlet that came with the toy
+[12:29] that says in some vacuum experiments the top falls after about 30 minutes why it does so
+[12:36] is not clear so if you have any ideas come and see me in the Q&A 10 afterwards and then if you want
+[12:43] to try this at home I have an example of an experiment that you can do with a rotary tool into
+[12:49] small magnets I personally was about to say that this is a great way to like win bar bets saying
+[12:55] I better can levitate that magnet right there in front of you but I mean I don't know if you bring
+[13:01] your rotary tool to the pub I think in this crowd there's probably a larger percentage of people
+[13:06] for whom the answer is yes and you might have seen those desk toys that you get all like little
+[13:12] planters where they're levitating they look pretty stable so how are we getting around and show us
+[13:19] there and there well and shows there in holds for a fixed arrangement of magnets but who says
+[13:25] we have to have a fixed arrangement of magnets what if we could move the magnet underneath to counter
+[13:31] any perturbation and better yet what if we use electro magnets so here electro magnetic field we
+[13:40] probably already know that electricity and magnetism are best mates they're like that annoying
+[13:45] couple that go everywhere together and yes my husband is in the audience and whenever an electrical
+[13:52] current flows through a wire it causes a magnetic field and similarly when a magnet is moved near
+[13:58] a conductor object it induces a current to flow in that nearby conductive material so take a
+[14:04] coil of wire pass some current through it you've made an electro magnet you can turn it on and off
+[14:10] and you can adjust the field strength by changing the amount of current that you're passing through
+[14:15] so that's how you cheat or ensure is there a static field can't give a stable levitation
+[14:20] but a changing one can by using an electro magnets to adjust the strength of the field and
+[14:25] nudge the levitating object back towards the centre all the time so let's sum up for magnetic
+[14:31] levitation the pros readily available or you need as a magnet and it's got a pretty strong force
+[14:38] cons only works with stuff that's magnetic and that leads me on to the next point what's the
+[14:45] coolest or weirdest thing that we've levitated with this I'm gonna have to say a funny shaped magnet
+[14:51] because those destoys are really cool and they might count but really it's just something sat on top
+[14:59] of an object that's levitating so I'm not counting them and I was about to say I don't make the rules
+[15:05] but this is my talk and I do so I'm sorry it doesn't count and then could it levitate a human
+[15:12] well I'm sorry to have to be the one to tell you but you're not magnetic so unfortunately no
+[15:19] since there's a link between magnets and electricity perhaps the next kind of levitation we should
+[15:23] look at would be superconducting levitation so weird thing happens to some materials when you get them
+[15:31] really cold they become superconductors which means that an electrical current can flow through
+[15:36] them with virtually no resistance and having already seen that there's a link between electricity
+[15:42] and magnetism I think you can guess where we're going with this a magnet near the superconductor
+[15:48] can induce a current and usually the material would have a resistance to this electric current so
+[15:54] the magnetic field that that current produced would be limited not so much in a superconductor
+[16:01] and it creates a perfectly opposing magnetic field now that's quite a crude description of
+[16:06] something that has a lot of other quantum mechanical aspects and effects again trust me the math works
+[16:12] out and that's not really the scope of this talk but if you're interested to know more you can
+[16:16] look up the mice and a refact one use of this method of levitation you might have heard of is
+[16:23] Maglev trains since they essentially hover over the track they don't have friction between the
+[16:30] wheels and the guide rails the same way that normal trains do so it's much easier without having
+[16:35] to counteract that drag force to reach really high speeds the first commercially operated Maglev
+[16:41] train was in Shanghai in 2004 but I believe the current world record holder for the fastest Maglev
+[16:47] train is Japan their Maglev train has superconducting magnets on board and then two coils sets
+[16:55] of coils in the guide way and by manipulating the current in those coils they can propel the train
+[17:01] and it hovers about a hundred mill above those tracks and their world speed record for a crude
+[17:07] train is a crazy 373 miles per hour another weird advantage Maglev trains might not be able to
+[17:17] derail in the same way that normal trains can the further a Maglev train gets away from its central
+[17:23] point in the guide rail the stronger the magnetic force pushing it back to the centre and it's also
+[17:31] useful for whatever this is I found this picture with no context on a blog post by Noidac
+[17:39] Corporation which is a Japanese manufacturer of motors this is the only reference I can find through
+[17:45] it anywhere on the internet and I thought it was just so silly I had to share it so enjoy the
+[17:51] the second one of the talk to sum up for superconducting levitation pros we can levitate really big
+[18:00] stuff like trains and it's pretty energy efficient once it's up and running but you do have
+[18:05] to cool things down to ridiculously cold temperatures which is a bit of a con what is the coolest
+[18:12] or weirdest thing that we've levitated again I would be tempted to say Maglev but like the last
+[18:19] example it's really other stuff resting on top of an object that's levitating so it kind of doesn't
+[18:26] count could it lift a human still know you're still not magnetic and also you probably wouldn't
+[18:34] like being at minus 200 degrees so what other options do we have for non-magnetic materials what about
+[18:42] diomagnetic levitation this is kind of a halfway house when I said earlier that you weren't magnetic
+[18:50] I wasn't being completely honest you might be diomagnetic lots of materials that aren't fully
+[18:56] magnetic a diomagnetic meaning that they exert and feel a slight repulsion in a strong magnetic field
+[19:04] this is the result of electrons in the material changing their orbits which creates a tiny circulating
+[19:10] charge and we know that currents create magnetism the difference to a normal magnet is that this is
+[19:16] only a repulsive force there's no attractive elements and it disappears when there isn't a magnetic
+[19:21] field around to create the effect but repulsion is all we need to counter gravity and make levitation happen
+[19:29] there's not a lot more of inner working to this one it's just magnets repelling each other
+[19:33] but some of the uses have been interesting and one of my favorites is levitating live
+[19:39] fruit flies so we want to study the effect that microgravity has on different organisms to tell us things
+[19:46] about how space affects living things but shooting fruit flies into space is expensive and time
+[19:53] consuming so if we can simulate a microgravity environment on earth it's a lot easier to do the research
+[20:00] they've actually done a similar experiment in space however interesting side note again
+[20:06] quote from the research paper the flies on the ground did not experience the conditions of the shuttle launch
+[20:12] indeed subsequent experiments show that the behavior of the flies on the ISS was sensitive to launch
+[20:18] procedures so flies are sensitive to space launch that's an interesting fact we now share
+[20:26] so if we can levitate flies the all important question is can we levitate a human
+[20:33] my answer is going to be maybe because we've levitated a frog and broadly speaking we're not too
+[20:41] dissimilar from frogs we have a comparable density and diameter magneticness so the strength of the
+[20:47] magnet that we needed to do it might be kind of similar however it would need to be physically larger
+[20:53] in size because most of us are a bit longer than a frog and it was pretty hard to make the first magnet
+[20:58] that we used to levitate the frog considering it was about a thousand to ten thousand times
+[21:03] stronger than a fridge magnet or about ten Tesla if you like weird units like I do but if we could
+[21:10] make that magnet unlike some other kinds of levitation if we used that to levitate you you'd probably
+[21:16] be fine by all accounts the frog was unharmed and joking aside you might have experienced a really
+[21:23] big magnetic field before because they're used in MRI scanners and they're perfectly safe we use them all the
+[21:28] time so summing up for diet magnetic levitation pros most materials can do it for us I think it's the
+[21:39] water in our bodies that's the component that has the strongest diet magnetic nice so that's the
+[21:47] same reason that the frog and us can both levitate so lots of lots of materials are capable of
+[21:52] doing it and all you need is a really big magnet but that's kind of also the con you need a really
+[21:59] big magnet and it's not as precision controllable as some of the other methods that we talked
+[22:04] about the weirdest or coolest thing that we've levitated it's gotta be the frog look at him
+[22:10] and could it levitate a human we're going to go with maybe so we talked about magnets on their own
+[22:17] and about magnetism and electricity being best friends but we haven't talked about electricity on
+[22:23] its own unsurprisingly our old friend Ernst has something to say about this as well so we've got
+[22:30] positive and negative charges they're not unlike the north and south poles that we have in magnets
+[22:36] so we already know there's no stable configuration of individual charges that will give us
+[22:41] levitation just like with magnets but just like in the previous example it doesn't count if you
+[22:47] vary the charges over time so pop a charged object between two plates and control the field between them
+[22:54] and bingo you've got levitation we use this often for studying molten materials and other
+[23:01] materials without having to put them in a crucible which could contaminate your sample and it's been
+[23:06] proposed as a way to propel craft on other celestial bodies where the surface has a charged present
+[23:13] I don't have a ton to say about this kind of levitation because although it's used in a lot of
+[23:17] really interesting and useful materials science research looking at the properties and materials
+[23:24] and how we can build different metamaterials I think the research is aren't doing enough goofing off
+[23:30] and levitating frogs and flies boo so summing up electrostatic levitation pros it's possible with
+[23:39] limited equipment you just need your electric charge but it does only work for charged objects and we need
+[23:45] a really high voltage to do it coolest or weirdest thing that we've levitated did you know
+[23:52] there are fountains of dust on the moon so the dust gets charged by ultraviolet and x-rays
+[23:58] from the sun which not electrons out of the atoms and molecules in the dust and that causes
+[24:04] positive charge to accumulate and these tiny one micron little tiny particles of lunar dust
+[24:12] repelled up to a kilometer into why I was going to say into the air but into space and this was
+[24:19] observed by the Apollo astronauts who saw a haze on the moon's horizon that was quite difficult to
+[24:24] explain considering the moon doesn't really have much of an atmosphere and there's some pictures
+[24:30] actually of the moon haze that you can see um could it levitate a human um I'm going to say no you'd
+[24:38] need such a high voltage that you're likely to turn into a conductor for that high voltage much to
+[24:44] your detriment at that point so another kind of levitation that might have something to do with space
+[24:50] is optical levitation so light is well very light uh photons of light are massless but they do have
+[25:00] momentum some of which they impart on any object that they hit as they scatter and go off in a different
+[25:05] direction the physics tells us that momentum is conserved so if the photons momentum that's its speed
+[25:11] and direction changes so most of the momentum of the object that it interacts with um the forces
+[25:17] admittedly tiny but the trick is to use a lot of photons and if they're all pointed towards the
+[25:23] center of the object then the net result is the object is trapped so where it is and you can do it
+[25:28] in a vacuum unlike acoustic levitation for example one vacuum where this might be relevant is space
+[25:36] um we've been using solar sails to propel craft for a long time now and they work just like the
+[25:41] sails in a boat but instead of having air particles hitting them and propelling them we're using
+[25:46] photons of light to do the work and one cool thing we've done with optical levitation is to make the
+[25:53] faster spinning object we've ever made a quote from the research paper with a circularly polarised
+[25:59] laser we drove a nano-dumbel to rotate beyond one gigahertz which is the fastest man-made rotor in the world
+[26:07] that's 60 billion turns a minute so really is fast and also just aside now I don't know if the
+[26:15] fastest woman made rotor in the world is any faster but we will leave that as an exercise for the
+[26:20] readers um what are the pros and cons of optical levitation so pros works on some extremely tiny scales
+[26:30] because photons are very small cons you need some seriously precision equipment and optics to make it work
+[26:37] and weirdest or coolest thing that we've leverated diamond dust and that's not just because it's
+[26:42] pretty pretty it's because nano-scale defects inside diamonds can be used as magnetic sensors
+[26:49] and researchers have this idea that if they grow neurons on top of this diamond dust they could
+[26:55] create a kind of diamond sensor so they could measure the magnetic field created by the neurons
+[27:00] and that could really open up some areas of research and neuroscience that would be really,
+[27:04] really interesting could it levitate a human I'm going to say no lasers already burn stuff so
+[27:11] you'd probably be blind and on fire before you took off and the final one that I am going to talk
+[27:18] about is good old air levitation um in a way this is the messy cousin of acoustic levitation
+[27:25] it mostly involves using a jet of gas to suspend something you don't have as much precision control
+[27:31] as we would say acoustic levitation but it lets you lift larger objects more easily
+[27:37] part of what's key to this is the co-anter effect which is the tendency of a fluid jet to stick
+[27:42] to nearby curved surfaces and we can use this to our advantage to make high and low pressure
+[27:48] air zones where we want them to produce air flow that generates lift it's kind of a crude approach
+[27:54] in a way but it lets us study how materials turn into glass for example which could give us better
+[28:00] lasers, fiber optics, useful stuff like that for example refractory oxides and materials
+[28:06] that survive extremely high temperatures which makes them really useful for building things like
+[28:11] spaceships but studying them at high temperature is really difficult because any container you put
+[28:16] them in or surface you put them on is likely to melt before you get up to the temperature that you
+[28:21] want to study them at so you blast some air you can suspend your sample on that air stream while
+[28:26] you heat it and you don't need any sensitive equipment nearby but besides that useful stuff
+[28:32] this method has given us air hockey which I think we can all agree is vital the limit really is
+[28:39] your imagination with this one here's a video of a guy levitating carrots and he's going to
+[28:47] levitate a second carrot in a minute and I just love watch out for the little caption that comes
+[28:52] up at the bottom of the video as he does the second carrots every carrot was successful so
+[29:02] very quickly summing up air levitation pros or you need his air it's very robust it works with
+[29:08] most materials the cons it's not very precise and it could damage smaller objects or more delicate things
+[29:16] the the weirdest or coolest thing we've leverated I mean I think all those examples were pretty
+[29:20] weird and cool but also could it levitate a human the answer is it kind of already has
+[29:27] indoor sky diving is kind of how this works so my final slide these are all the kinds of levitation
+[29:34] that we have covered today and what I'd really like to do just very quickly at the end is to get a
+[29:39] show of hands for each one of these methods to find out which is your favorite method of levitation
+[29:45] so we have acoustic magnetic superconducting diemagnetic electrostatic optical and air hands up
+[29:51] for acoustic okay strong star magnetic okay that that look pretty even superconducting okay yeah yeah
+[30:00] it is it is cool by definition it's cool diemagnetic this is quite split I was expecting there to
+[30:08] be like more towards one or the other optical oh that's that's just just one just one vote for
+[30:16] optical and air what about air we've got a couple of fans excellent so I've got to tell you now
+[30:22] full disclaimer the best kind of levitation is acoustic levitation you were all wrong apart from
+[30:29] the ones that put their hands up first and that is because acoustic levitation pays my bills
+[30:35] I work for a company that levitate stuff we've found and we're making cool devices to use in labs
+[30:42] and sorts seeds and I will be at the Q&A 10 afterwards if you want to ask me about that thank you very much

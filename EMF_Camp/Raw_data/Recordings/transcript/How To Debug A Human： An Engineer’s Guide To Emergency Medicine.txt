@@ -1,0 +1,374 @@
+[00:00] I would have to be a story from my own clinical practice, but the patient we're about to discuss
+[00:25] isn't real, they haven't ever existed.
+[00:28] All the images in the slides are images that have been taken from free-struck image sites,
+[00:32] they're not real patients.
+[00:33] This isn't medical advice, and it's most certainly not medical qualification.
+[00:37] So please don't go out and try some of the things that we've done talk about here on real people.
+[00:42] If you already work in clinical practice,
+[00:44] spectators are things that go through practice, but you should know that you shouldn't have to hear me say it.
+[00:50] For year, it's 285.
+[00:52] And a few years ago, we got a bit of anarex in pay for aay.
+[00:56] The thing is, an American billionaire has just decided that he doesn't much like the UK anymore, so he lost access.
+[01:04] Now that's not great.
+[01:07] Fortunately, someone somewhere has decided to back up on that,
+[01:11] it's going to be basically dealing with humans, as they're recomplicated embedded applications,
+[01:16] because that's more or less what they are.
+[01:19] We just forgot to put many options at engineers to connect to identify what's going on.
+[01:26] A little bit of a course of a stock, we're going to talk through what happens when a software engineer approaches the way that a patient is debugged, assessed,
+[01:36] and managed in the emergency context.
+[01:38] If you want to guess along along the way, the off-reet of two-touch things are mastered on,
+[01:42] and if you manage to get it right before the end of a talk, find me at Q&A, because I have a surprise for you.
+[01:49] I want you to meet Lisa.
+[01:51] Lisa is unconscious.
+[01:56] One of the things that we often talk about in emergency medicine, in particular, that course most areas of medicine is,
+[02:03] whether a patient looks well or looks unwell.
+[02:06] It's the skill-coding end of bed at ground, and you get better at a tablet time.
+[02:11] Lisa looks unwell. She looks pale, and she's not responding to us normally.
+[02:18] That's not good.
+[02:20] I felt like it probably shouldn't take much of a qualification throughout that hour.
+[02:24] That's not what we want patients to look like.
+[02:27] So if we think how are we doing software engineering, the best kind of patient, or this kind of problem,
+[02:32] we have a very systematic way of approaching things like this.
+[02:36] We can identify the problem.
+[02:38] We find the bug. Then we find what's caused for bug.
+[02:42] We work at how to fix it, and we solve the problem.
+[02:46] Fundamentally, the way that we approach a patient assessment is going to be more or less exactly the same.
+[02:53] It's just a very different context.
+[02:56] If you have the skills to be able to decompose a problem, you probably just need to acknowledge about how it applies to humans.
+[03:06] Let's do just that. Let's identify the problem.
+[03:09] How many people in the room are we having at some point in their life's software engineers out of interest?
+[03:15] I'm going to place the third act that most of you will recognize this from at least some point during your educational work.
+[03:23] This is the OSI model. It is a way of representing how different applications work across different layers.
+[03:30] The important thing about the OSI model is that in this model each layer builds on the ones underneath that.
+[03:36] So in order to have the application layer, you need your session layer to be working.
+[03:40] In order to have your network layer, you need your physical layer to work.
+[03:44] If there's a layer one failure, nothing at layer seven is going to work.
+[03:49] We actually have something relatively analogous in the way that we approach an emergency patient.
+[03:55] It's called our primary survey. Anyone who's done a medical qualification before of some kind, even if it's just an emergency Thursday at work costs,
+[04:02] we'll probably recognize that terminology.
+[04:04] But we do exactly the same thing in principle, whether you're doing emergency Thursday at work or working in a mayony.
+[04:11] The reason we do it that way is because there's lots and lots of things that can potentially kill you in just a few hours time.
+[04:18] There's not that many things on the other hand that can kill you right now.
+[04:22] And what we want to find is that all of our underlying layers are still working, so then we can go and build up to work out whatever else is going on.
+[04:32] So our primary survey has this our requirements gathering, both for triage and management of our patients.
+[04:38] And we've got to think systematically for each of these steps, but also integratively, making sure we're understanding each step that's going on in the context of all the others.
+[04:48] We're going to start by looking for catastrophic hemorrhage. If someone is bleeding out so much, they are going to exingue an eight. They're going to lose their blood value in the next few minutes.
+[04:58] We need to do something about that.
+[05:00] In the absence of any problems there, we're going to check out our way.
+[05:05] Make sure that we can get some kind of vaccination into the lungs, whether it's happening or not, then becomes the next question.
+[05:13] Looking for whether the patient is breathing.
+[05:17] Once you've worked that out, we can have a look at a patient's circulation.
+[05:21] Well, as I get in, we've got to get the blood around the body through right places.
+[05:25] We've got to get disability and disability in this context doesn't mean it's the patient in a wheelchair.
+[05:29] It means can the patient do the things they would normally be able to do?
+[05:34] And then we will move on to a rest-door examination, which if you've seen this before, you might have had called,
+[05:39] examine lots of different things.
+[05:41] So, that's a five-est亂 patient.
+[05:44] We can't see any obvious external age of bleeding.
+[05:49] And by the lack of it, our area is clear, taken in self-maintained, which is all about anything,
+[05:55] so we are saying that very well to keep a tube open basically from their mouth to their lungs.
+[06:01] Only other hand, our breathing gives us some pause, because when we have a left-up of breathing,
+[06:06] we're seeing what it's quite fast and quite deep.
+[06:10] It's got a good regular rhythm to it, but it's fast and deep breathing.
+[06:16] And we find radial pulses, so that's the pulse that you've got at your wrist, are fast but weak.
+[06:23] There's no difference on either side, you can feel them both that and they're the same.
+[06:28] But that's quite weak and quite fast.
+[06:33] There's a variety of eyes.
+[06:34] We know that our patient is only pain responsive, so we have a scale of responsiveness.
+[06:39] We often talk about it in the emergency medicine.
+[06:41] It's the AFP scale, which goes alert, voice, pain, and responsive.
+[06:47] So, one who is truly unresponsive in that scale, won't respond not at all, to even painful stimuli.
+[06:54] We know that this patient is responding to the painful stimuli, but not once they can do.
+[06:58] And if you're a nerd about this kind of thing in the room, you can probably calculate a GCS from the information I've given you.
+[07:05] So this is all concerning, this is a patient who's very unwell.
+[07:09] And one of the things that we need to be thinking about right at the top of our list of concerns here is something called shock,
+[07:15] which doesn't mean, oh my god, it means in a cute, circulatory failure,
+[07:21] where we're not getting the appropriate staff rounds of our organs.
+[07:25] Our body is a really complex micrcedorous architecture, essentially.
+[07:31] But given that we expect that to have a 100% SLA, it's not got a great deal of redundancy to it.
+[07:38] Which is a little bit unportable, really.
+[07:41] There's also no distributed tracing.
+[07:43] We can't easily work out where something's going wrong.
+[07:46] We have to come up with some hypotheses, and then test those components of the body to see what's happening.
+[07:53] So how do we go about finding a bug?
+[07:55] Or we come up with a different chilled diagnosis, a list of things which could potentially cause the kind of issues we're seeing.
+[08:05] It's nothing that's influenced, it's not an exhaustive list.
+[08:09] It roughly follows the order of what will kill you first.
+[08:13] So this, if I'm going to help you take in from mind the gap, which is an excellent resource.
+[08:17] And it's, sorry, doing mind the bleep, it just makes the resource.
+[08:20] It's a different diagnosis for this kind of patient.
+[08:24] So we've got our respiratory causes.
+[08:27] We might have someone who's not getting the oxygen and blood that they need.
+[08:31] We might have someone who's had too much carbon dioxide in their blood, and they can't get it off.
+[08:37] What's the one we've got carbon monoxide poisoning, which technically speaking you could argue is a subcategory of hypothesis.
+[08:43] Because we're having a lot of side replaces the oxygen in your blood so you can't get appropriate amounts of oxygen in.
+[08:49] We've got our confusion problems.
+[08:51] So this might be because someone's tank is empty if they run out of liquid in their system and have blood.
+[08:57] That's high pay of ammonia.
+[08:58] But it might be because the boil is broken, and isn't pumping correctly.
+[09:02] But that's cardiogenic shock where your heart has stopped getting one that needs to get around the rest of your body.
+[09:09] In my brain's danger-growing in pressure it might be the opposite problem, where our brain is sliding to the left too much.
+[09:15] And we're developing problems for anything for that.
+[09:18] Then we've got our brain causes.
+[09:21] So this might be things like intoxication, where someone's taken drugs.
+[09:24] It might be epilepsy where someone's having a seizure and we just don't need to select nature of a seizure.
+[09:29] Or it might be an et cetera lot of the way which is a little bit of a cheating here because it basically just means something wrong with a brain.
+[09:35] But hey we're thinking about things like spacercupion, lesions and particular out which is what you've got a massive brain.
+[09:41] The main thing I'm going to do is we're talking about here is our endoclin and environmental causes.
+[09:46] So it's just going to be things like hyperhyper thermo as someone is too hot to hot to hot to cold.
+[09:51] An acid dose is so an amcalosis where someone has too much acid or alkaline in their blood.
+[09:56] Or a hyperhyper glycemia where they've got something wrong with their blood sugar amount.
+[10:01] And there's a few different ways that we can tell the difference between these things.
+[10:05] But it's really important that we have the inflammation to work out what could be the problem in order to try and solve it
+[10:12] because we don't have that option of just poking about and ruining West Logs to see what's happened.
+[10:18] The first, and I'll give it an easy aspect of that to monitoring what we can do to look at a number.
+[10:25] We're sticking one of these on someone's finger.
+[10:28] This is called a pulse oxymeter and any of you have ever had any kind of hospitalization.
+[10:33] There's been two medins of fat men, they had an ambulance out.
+[10:36] You probably have had someone very quickly and not particularly informally shove one of these on your finger.
+[10:42] Almost immediately as soon as I walked in the room.
+[10:45] Because it's what most of us are trying to do is a bit of a question about whether that's a good idea or not.
+[10:51] What this does is it shines a red light for your finger and using some maths it works out how much of blood in your finger has oxygen in it.
+[11:00] Because red light reacts differently or responds differently to oxygenated blood has compared to the oxygenated blood.
+[11:08] And a sensor here has had captures that in terms of one of these waveforms.
+[11:12] While we can see the amount of oxygen in your blood, I know how fast your heart is going.
+[11:17] So we can see when we felt earlier that pulse was fast. We were right. That is a fast pulse.
+[11:22] And I think I've read about a hundred we tend to consider fast.
+[11:27] That oxygen saturation number, that's okay. We'd expect it to be around that range.
+[11:32] I'd be worried if it was being below 95, 94, 97 is all right.
+[11:36] But it's quite fast and that's a little bit worrying.
+[11:40] The next thing we can do to get a number, we can put the blood pressure on someone.
+[11:45] Give you a bit of a squeeze on the arm. See what those numbers are like.
+[11:48] Most of the blimmers we've probably had to have done. Hopefully most people in the room have not ever seen a result like that.
+[11:53] Come up on a blood pressure gas. I've had as that's not particularly clear on the screen.
+[11:57] That says 84, 84, 84. So your 84 is your systolic number, which is the blood pressure when your heart is squishing at the most.
+[12:05] And before is the diastolic number where your heart is squishing release.
+[12:10] Unless you work in emergency medicine or critical care, or anywhere, you probably won't have seen the number on the knee fat.
+[12:16] That's the map, the mean arterial pressure.
+[12:20] Most of the time, we don't care about this number particularly because it's pretty arbitrary.
+[12:26] Unless you are very, very ill. If you're very ill, we start worrying about it.
+[12:32] If your map is lower than 65, it can be an indicator sometimes,
+[12:37] that your organs are not being refused appropriately.
+[12:40] So, on number 57, I'm starting to worry a little bit.
+[12:44] So we've got some bloody bugging information. We know something is wrong. We found a bug.
+[12:50] We haven't found the cause of a bug, but we found the bug.
+[12:55] One other thing that we can do to really easily and simply address this problem is something called auto transfusion.
+[13:03] Which we really like having fancy words and medicine things that are actually really simple.
+[13:10] When I say auto transfusion, what I mean is, get the patient's legs and stick them up in the air.
+[13:18] And literally all we're doing here is we're titting the blood volume of your legs into your chest.
+[13:24] In order to try and make sure that blood pressure is going round your heart is increased.
+[13:30] I'm around the whole. If we take the blood pressure again, we can see that blood pressure has gone up.
+[13:36] It's shown that it was higher as I'd like it to be. It's still a low blood pressure, but it's a lot higher than it was before.
+[13:44] So we know that the patient is fluid response of the cell. That's also important because it suggests that we might be looking at someone who's not getting a volume in their tank.
+[13:56] So let's have a think about what the root cause of that problem might be.
+[14:00] Shock is provided into lots of different types, but there's four big categories of shock.
+[14:06] We talk about hypervillian shock, which we've talked a little bit about already.
+[14:10] We talk about cardiac shock, which we talked a little bit about already.
+[14:14] We talk about distributive shock, which is where the pipe work, which helps to get all that blood around your body, isn't working correctly, maybe it's clear soft.
+[14:24] An obstructive shock, which is where the pipe work has literally closed off.
+[14:28] The juicer was I would pretty bad example because it's a little bit more systemic on that.
+[14:32] Without talking much about the difference between the individual components, it's kind of harder to differentiate those, but I don't have the time to go into the specifics.
+[14:39] But one of the things which can happen, because a distributive shock, is something wrong with the brain, like we talked about earlier.
+[14:49] So we need to find a figure out how we can test this person's brain.
+[14:54] One of the easiest to be about on someone who's not conscious, is have a look at their eyes.
+[14:59] Now, again, with the directors here, I'm not making this particularly obvious, so it'll probably be more obvious on the home version.
+[15:04] And it's also not a particularly flattering photo of me, but when we look at my eyes here, what happens when I show in a light into my eye?
+[15:16] With people, get smaller. I realize that's really not obvious actually in retrospect. There we go.
+[15:22] With people, get smaller. And if you watch that again, you'll see what happens on both eyes at the same time.
+[15:31] But because we're sending a signal to my eyes to our brain, to allow that to happen, now there's loads of those signals.
+[15:37] They're really complicated actually, but you have 12 key nerves which come out of your brain inside your head,
+[15:43] which help to regulate lots of different things on your body.
+[15:48] We can't test lots of these 12 nerves if you're unconscious, particularly easily. There are ways of doing it, but they're not massively easy to do.
+[15:56] Shining a lighting the eyes is great, but only test a few of them.
+[16:00] But we might find in the conscious patient that we can do a little bit more.
+[16:04] We also find that the penant on the area for brain with us a problem, we'd be different sets of symptoms.
+[16:11] So for instance, someone who's got an injury at this part of the brain, we might finally have something called dysphyricochanasia.
+[16:18] Remember that thing I said about us having really complicated words for really stupid things.
+[16:24] Thisphyricochanasia is a very fancy way of saying, can't screw in a light bulb.
+[16:29] Because you can't do a repeated repetitive movement every day, and then we'll find my discurs.
+[16:35] Sometimes you'll see it done as fluffy fish as well, which is literally doing that over and over again.
+[16:40] On the other hand, someone with a frontal lab injury towards the front of the brain might have a executive function memory that accepts.
+[16:49] Now we're talking here about someone who suddenly develops those things.
+[16:53] If you have executive function memory deficit in general, feed to someone else, not me.
+[17:00] But in this case, our patient size are reacting normally.
+[17:03] And for the time being, we're going to say that as much as we can test, it's not actually.
+[17:08] Let's go with that as much as we can test. So let's think about other parts of our body.
+[17:14] When we want to go to your next and thinking about things which are really important to the body of the work,
+[17:19] Hearts probably get placed to look.
+[17:22] Fortunately, remember how I said we don't have the blood tracing.
+[17:26] Hearts are a bit of a cheat on that one.
+[17:29] You might well know that your heart is a really complicated electrical system.
+[17:34] It's one of the most complicated bits that I just feel in your body aside from your brain.
+[17:39] What actually happens when your heart beats is you have an impulse being said because I think of a sinusatial node, right at the top right at your heart,
+[17:47] down into rest of your heart, around and back.
+[17:50] But that impulse travels out to the rest of your body too, which means we can capture it and analyze it.
+[17:57] If you've ever had an ECG done before in a lecture cardiogram, this is exactly what's happening there.
+[18:03] We're capturing the impulses from your heart and analyzing them, turning them into squiggles with reconvenent interpret.
+[18:10] We put some extra ones around the side of your heart to just do lots of different angles,
+[18:14] to see when something is going on in a specific part of your heart to do.
+[18:19] So in this case, we've got a deabug trace of our patients' heart and it looks a little bit like this.
+[18:24] You've almost certainly seen these squiggles before on TV and films,
+[18:31] but you've probably just seen them as a flat line, whereas some random squiggles, somewhere on chart.
+[18:37] You've probably haven't seen the actual printouts that we get.
+[18:39] This is a slightly smaller version of the actual printout.
+[18:43] I'm just like any debugging. The skill here is interpreting the output.
+[18:47] Does anybody want to make a guess at what this output might suggest?
+[18:55] That's an entirely valid answer to a technology conference. I wasn't expecting anyone to.
+[18:59] And the actual answer is lots of different things.
+[19:02] This code for one person be a completely normal heart trace, because we are all really varied.
+[19:10] In a different person, we might be thinking a little bit about what's going on here or here.
+[19:17] Well, we've got what we call tool T-waves after our main heart contracting where our heart would normally relax.
+[19:24] This can be a sign as lots of other different problems going on.
+[19:29] In particular, problems of your electrolyte balance.
+[19:32] And again, there's no guarantee this is not an exact science. It all depends on the context of your patient.
+[19:39] But it might also prompt us to think back to our primary survey because there's a few explanations that sometimes get added to our primary survey when people talk through what to do.
+[19:48] Sometimes you want to stick on the end and F energy.
+[19:54] Because people will say the DEF gene from a survey that you're sensible don't ever forget glucose.
+[20:00] The next because your glucose is a really really important measure of your function.
+[20:05] It's really really important to regulate.
+[20:08] And it's really really easy to get wrong.
+[20:11] If you're someone who's diabetic, you already know that probably from better personal experience.
+[20:16] If you've ever seen someone who's diabetic, you probably already aware that they have to be constantly testing their sugars.
+[20:21] Lots of people now have CGMs, very nice and easy.
+[20:25] So we want to test our patients glucose now in a perfect world, but we would find this at this patient has a low blood sugar.
+[20:31] Because the patient with a low blood sugar is really easy to fix.
+[20:36] I love a patient with a low blood sugar because if they're awake, you feed them toast.
+[20:40] And then they wake up and everything is fine.
+[20:42] If they're not awake, you have to be a bit of a moron of that with them.
+[20:46] Unfortunately, when we test our patients blood sugar, we don't find that.
+[20:51] So a normal blood sugar should be somewhere between 4 to 8 millimols per liter.
+[20:55] Ish, it depends a little bit.
+[20:57] This is not an exact science.
+[20:59] If you're diabetic, you already know your sugar range best.
+[21:02] Anyway.
+[21:05] We find the blood sugar of 15.6.
+[21:08] That's too high.
+[21:09] We don't like that.
+[21:11] For the vast majority of people that is going to be too high.
+[21:14] So we can do another thing when we can look at something called ketone bodies.
+[21:18] My ketone bodies are produced by your body when it's not half the of your glucose balance.
+[21:23] A normal, an answer ketone's will be less than 0.6.
+[21:28] That's not good.
+[21:34] But it does mean we've identified what could be a problem.
+[21:38] Now, in real life, obviously, you can't exclude it.
+[21:43] Someone has multiple problems because people have this really terrible habit that's having more than one thing wrong with them.
+[21:52] And I really wish they'd stop because it makes my life hard.
+[21:55] But for the time being, we found a problem and we want to do something about that.
+[22:00] But we can actually collect a lot of these things together into a broader syndrome.
+[22:04] So we know we've got shock.
+[22:06] We know we've got a fast heart rate.
+[22:08] We know we've got deep, fast breathing.
+[22:11] And that's actually called a small breathing if you want to let it up.
+[22:15] We know we've got an altered mental status.
+[22:18] A high blood sugar and a high blood ketones.
+[22:21] And these are all signs, are they single condition.
+[22:25] That single condition is something called diabetic ketosodosis or DKA.
+[22:31] There are two bits missing from this picture.
+[22:34] And there are the bits which cause the hyper-thelemia involved.
+[22:38] Because we've got a lot of water, through repeatedly peeing it out,
+[22:44] and lots of first from over water that you're peeing out.
+[22:48] Because this patient was probably lost a lot of water,
+[22:51] isn't diabetic ketosodosis or something has an ultimate of status from that.
+[22:55] And as a consequence, it's high poe of the leemic.
+[22:58] Has that fast heart rate is shocked.
+[23:02] So we know we've got a high-pair glyceemia.
+[23:04] We've definitely confirmed that.
+[23:06] We don't technically know we have an acidosis,
+[23:09] but we can be moderately confident that we might do.
+[23:12] Likewise, we don't technically know for sure that we have a high poe of the leemia,
+[23:16] but we can be fairly confident that we might do.
+[23:19] And we'll still at risk, even on top of all of that,
+[23:22] of developing cardiac shock.
+[23:24] Because we might have an electrolyte imbalance going on.
+[23:27] So on and all, it's just an egg-grade day.
+[23:29] This is not having much fun here.
+[23:32] But now we know what the problem is.
+[23:34] So we can do something to fix it.
+[23:36] And what we're going to do is we're going to go back to our primary survey.
+[23:39] We're going to take our systematic approach again.
+[23:41] We know that we didn't have a problem with our catosodled bleeding.
+[23:44] And hopefully, unless we've done something very, very wrong,
+[23:48] our patient is not suddenly going to have started
+[23:51] to have a sore-free bleeding.
+[23:52] If they have, I think we should be asking ourselves questions
+[23:55] as to how they got there.
+[23:57] Our area on the other hand, that can change.
+[24:00] That's really easy to change, especially in the patient of old mental status.
+[24:04] So we're going to have to keep a really close eye on that.
+[24:07] If it does change, if they're no longer able to tolerate
+[24:10] their own airway maintaining, we might need to put an airway
+[24:14] adjunct in them to help things out.
+[24:16] So we can put a tube in your nose or down your throat.
+[24:19] So I hope you breathe if you can't secure your memory.
+[24:22] Likewise, if you're not breathing adequately to yourself,
+[24:25] we can use one of these devices called a bag valve mask
+[24:28] to help get some extra air into your lungs, basically.
+[24:33] On the circulation side of things, we know that we've potentially
+[24:36] got a hyper-elimia here.
+[24:38] So we're going to want to put a little needle in your arm, like anula.
+[24:42] And three of that needle, we will pop some good old salty pasta water,
+[24:46] which technically speaking is 0.9% sodium chloride.
+[24:50] It's salty pasta water.
+[24:51] It's literally very as many different.
+[24:55] The rest of this actually is hopefully going to be a question of time
+[24:59] and monitoring her reputation.
+[25:01] There will be some more bits that we'll do when we get to hospital.
+[25:04] Right now we need to get to hospital.
+[25:06] Sometimes the best medicine is diesel.
+[25:09] So we're going to pick this patient up.
+[25:11] If you had an ambulance at the fore for someone who can't move
+[25:13] from cell to you, might have seen one of these before,
+[25:15] that's called a skewed structure.
+[25:17] And it's one of the things that we really commonly use
+[25:19] to try and get someone out of a position where they're stuck.
+[25:23] We're going to skeep our patient up on our skewed structure.
+[25:26] We're going to get them into our ambulance, and we're going to
+[25:28] get them into hospital.
+[25:30] And in hospital, they're going to continue doing the same things
+[25:33] that we've been doing.
+[25:34] They're going to be giving some more of that cold salty pasta water.
+[25:37] They're going to be doing some monitoring.
+[25:39] But probably some insulin as well to help try and regulate
+[25:42] batch-sugar balance.
+[25:44] And they might need to replace glucose and potassium as they do so.
+[25:48] Because the sugar balance is really fine and technically.
+[25:52] This whole thing actually really is a low potassium state
+[25:56] that masterase as a higher potassium state.
+[25:58] It's complicated.
+[26:01] But the important thing is, we've got Lisa the hospital.
+[26:04] You've got her into a position where she's been saved.
+[26:08] We've done the job.
+[26:14] I hope if nothing else, what is convinced of her is that although there's a lot of knowledge,
+[26:20] there's lots of facts to draw on her.
+[26:23] The process is not that complicated.
+[26:26] I'm not sure if she was a software engineer.
+[26:28] I still work as a patient as a software engineer.
+[26:30] But I'm just about to finish a masterase on her medics science.
+[26:33] I should, hopefully, get my qualification on Thursday,
+[26:35] such word.
+[26:36] And in the process of doing that, lots of people have come up to me
+[26:40] inside, oh, those things seem completely unrelated.
+[26:43] What the hell are you doing?
+[26:45] And oftentimes actually, I have to convince them that really it's not that different.
+[26:50] You've got a much bigger knowledge base.
+[26:52] You've got a much broader staff about the human body.
+[26:55] But the process of breaking down a problem into its component parts,
+[26:59] identifying causes, thinking of what could go wrong,
+[27:02] and then finding out what's gone wrong and treating it,
+[27:04] is the same as debugging.
+[27:06] We just happen to be debugging humans rather than computers.
+[27:10] So if you take nothing else away from this talk,
+[27:13] I hope what I've been able to tell you is that if you can fix a board,
+[27:16] then you can fix a bike.
+[27:18] And if you can fix a bike, when you can fix a computer,
+[27:21] you actually have a print decent start,
+[27:23] managing to fix a person.
+[27:25] All you need to learn how to do is to let the behave work afterwards.
+[27:29] Thank you so much for listening.
+[27:33] Feel free to come and check in the end.
+[27:35] If this has inspired you, there is a queue up ahead there,
+[27:38] to find out how you can volunteer with some general ambulance.
+[27:41] They have not sponsored this talk.
+[27:43] I'm doing this of my own accord, but they are how I came into medicine
+[27:46] and I will incredibly grateful to them as a consequence.
+[27:49] So if you're interested, feel free to go now.

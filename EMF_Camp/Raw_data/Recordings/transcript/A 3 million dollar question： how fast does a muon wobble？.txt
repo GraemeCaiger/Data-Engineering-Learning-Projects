@@ -1,0 +1,294 @@
+[00:00] I'm going to talk a bit about particle physics.
+[00:27] I'm going to tell you, oh yeah, there we go.
+[00:32] I want to experiment that I work on.
+[00:36] As particle physics is a fairly,
+[00:40] he's a toxic subject in some ways,
+[00:42] and this is a fairly, he's a toxic experiment in a fairly,
+[00:45] he's a toxic subject, but it's one that got super interesting
+[00:48] because of what we measured.
+[00:51] So these are some of the headlines that we got really around the world.
+[00:56] When our results came out, so I'm going to try and explain a little bit about what it is we were trying to do and what we measured.
+[01:03] It was quite fun, I've got to say seeing people trying to explain our measurement in the newspaper,
+[01:11] but let's see how I get on.
+[01:14] So let's start big picture.
+[01:17] So what is particle physics?
+[01:19] We're essentially trying to understand the stuff around us,
+[01:25] the world around us, the universe that we live in,
+[01:28] by looking at it at its smallest scales.
+[01:31] So trying to understand what the fundamental building blocks,
+[01:34] that everything is made of and those are the particles that we talk about.
+[01:40] This is our kind of understanding of the universe.
+[01:45] Where particle physics fits in, you know, there was a big bang,
+[01:49] 13.7 billion years ago,
+[01:52] and in the big bang, or very soon after the big bang,
+[01:55] all of the particles that we know of were created,
+[02:00] and then essentially the universe has evolved since then.
+[02:08] As a field, it's been a kind of around for 150 years or so depending on how you count.
+[02:14] We've learned a lot.
+[02:16] Our understanding of the universe on this fundamental scale is really impressive now.
+[02:22] We have this theory called the standard model,
+[02:24] and this is the periodic table of the standard model.
+[02:27] So these are all of the fundamental particles that we know about.
+[02:32] As far as we can tell, this is it.
+[02:35] There isn't anything else.
+[02:36] So it's quite efficient in a lot of ways.
+[02:40] To break it down a bit,
+[02:43] you only need the four on the left to explain everything that you can see in the universe.
+[02:50] The top two, there's a up and down quarks.
+[02:53] Those make up protons and neutrons, which make up the atomic nucleus.
+[02:57] And then you've got the electron, which orbits the nucleus, and that's all the atoms in the universe.
+[03:04] We've got the one at the bottom is a neutrino.
+[03:07] So this is slightly weird particle.
+[03:10] It's involved in some kinds of radiation,
+[03:12] but it's really critical in how fusion happens in the sun.
+[03:20] So once over here, these are called bosons.
+[03:23] These are force-caring particles.
+[03:25] So these are how the ones on the left interact with each other.
+[03:29] There are some three different forces represented here.
+[03:33] We've got the photon, which is electromagnetic.
+[03:36] Glow-one's strong force, and then this weak force.
+[03:39] So this is how everything in the universe interacts if you don't count gravity.
+[03:43] That's one of the missing features.
+[03:47] We've got the Higgs boson up there, which is a slightly different kind of force-caring particle.
+[03:53] It's not really a force-caring particle.
+[03:55] That's the most recently discovered particle in this map.
+[03:59] It was discovered in 2012, and it's why other particles have mass, essentially.
+[04:09] Then there's all the other ones in the middle, and we don't really know why they're there.
+[04:14] There seems to be, we've got our four on the left, which make everything in the universe,
+[04:19] and then there's two copies of that set.
+[04:23] They're called generations, so there are three generations of particle,
+[04:26] and they get basically heavier as you go across, and the heavier ones all decay,
+[04:30] and you're just left with the lighter ones.
+[04:33] We don't know why.
+[04:34] We don't know why any of this looks the way it does, and that's one of the questions that we have nowadays,
+[04:41] is, well, how does gravity fit into this picture?
+[04:44] Why is this the particle content of the universe?
+[04:47] And we also know from cosmological observations, there's something called that matter out in the universe,
+[04:53] and that isn't here at all.
+[04:55] So there's clearly other stuff going on.
+[04:59] And where we're at, as a research field, is that, well, any experiment we've tried to do in a lab,
+[05:05] this picture can explain it.
+[05:08] But we know there must be something else out there, so we're now trying to do experiments to discover the next thing, essentially.
+[05:16] I'm going to talk a bit about this particle, which is the best particle.
+[05:22] It's called the Mjorn.
+[05:24] So we'll come back to that.
+[05:26] From where it's sitting, you can see it's like an electron but heavier.
+[05:32] So how do we go about discovering something new?
+[05:36] We've got two main ways of doing this, really.
+[05:39] One of them is using Einstein's equation, equals MC squared.
+[05:44] So we think there must be some other force of nature out there, some other kind of particle.
+[05:48] It's probably quite heavy.
+[05:50] If you collide things within a fantasy, you might be able to make this very heavy new thing that we've never seen before.
+[05:57] The other way you can do it is through the uncertainty principle.
+[06:00] It's a bit like quantum tunneling.
+[06:02] It's a bit tenuous.
+[06:03] I love this picture so much. I try and work it into all my talks.
+[06:07] The idea is that if you measure quantum mechanics allows the universe to borrow some energies,
+[06:12] so something that's extremely heavy can have a very small effect at a very low mass scale.
+[06:18] And that's the kind of measurement that I'm going to talk about.
+[06:24] But to come back to the first method, this is the kind of forefront of high energy.
+[06:30] The energy frontier, as it's called, it's the large hydroncolider.
+[06:34] It's just that side.
+[06:35] Geneva and Switzerland for scale, this white strip is the runway of Geneva airport.
+[06:39] It's underground, so it's not this giant glowing orange thing.
+[06:43] But it's been running for a few years.
+[06:45] It's where the Higgs bosom was discovered. It's going to run for another 15 or so years.
+[06:49] No other obvious discoveries have dropped out.
+[06:52] That doesn't mean there's nothing else there.
+[06:54] It just means that whatever if there is something to be discovered, it's quite buried in the data somewhere.
+[06:59] So we're also looking in other directions.
+[07:04] And this is the experiment I'm going to talk about.
+[07:07] This is called meong minus two.
+[07:10] For a sense of scale, it's much smaller.
+[07:13] You can see this two people standing in the middle.
+[07:15] And it's really targeted.
+[07:17] So with the LHC, the large hydroncolider, you can measure many, many, many things all at once.
+[07:21] With this, we were trying to measure one number really, really precisely.
+[07:25] So what are we trying to measure?
+[07:32] If you've done undergraduate quantum mechanics, you will have heard of this thing called spin procession.
+[07:38] It's a bit like a gyroscope, really.
+[07:42] So these particles, so electrons meong things like that, they all have this property where they appear to be spinning.
+[07:49] And they carry electric charge, so a spinning electric charge, a little bit like a magnet.
+[07:55] And if you put that in an external magnetic field, it will process.
+[08:00] The spin will process, just like a gyroscope. You get this rotating motion.
+[08:07] The equation which describes that procession, so that you've got that omegre there, which is the procession frequency,
+[08:18] it's given by this equation in a simple way.
+[08:21] The speed of this procession is given determined by the amount of charge, particle carries,
+[08:27] how fast it's spinning, how heavy it is, and how strong is the external magnetic field you've put it in.
+[08:34] And then there's this other thing in there, G, and that's just a number.
+[08:38] It's like a constant of proportionality.
+[08:41] And that's the thing we measure.
+[08:47] So a bit of history.
+[08:50] The first prediction for what G should be was comes from very early days of quantum mechanics.
+[08:56] Dirac, you can derive it from Dirac's equation, which is given here.
+[09:01] This is like the fundamental equation of the whole of particle physics.
+[09:06] It's a very, very important equation. It's on Dirac's memorial stone and Westminster Abbey, if you ever go to have a look.
+[09:12] But from this you can work out that G should be exactly 2.
+[09:17] And the problem was that people went and measured it about 20 years later, and they found that well, it's almost 2, but it's not.
+[09:24] It's a little bit higher than 2, and so that, sorry, I don't have a point of it.
+[09:29] The plus or minus 6 is the uncertainty on the last digit there, so it's, it's, it's a very close to 2, but it's definitely not 2.
+[09:37] And this was called the electron anomaly, and this was a real puzzle for, well, about a year.
+[09:42] Because in the same year, so Julian Schringer, who was a theoretical physicist at the time, went away and did a more complicated calculation.
+[09:50] And down here is some time and diagrams. It doesn't really matter if you don't know what these are, but there are ways of representing how particles could interact.
+[09:58] The one on the left shows an electron interacting with an external magnetic field.
+[10:04] And the one on the right shows a slightly more complicated way that that can happen, because you got an extra photon in the middle.
+[10:11] So the Dirac equation basically tells you the one on the left, and Schringer calculated the one on the right, and he got this answer here.
+[10:18] So it's 2 plus a little bit extra, and that little bit extra, then bought the prediction very close in agreement with the measurement.
+[10:27] And again, this was a very important result in the development of quantum field theory, it's on Schringer's grave stone as well.
+[10:35] The current state of the art, the theory, well, the precision has increased very, very dramatically, as you can see.
+[10:43] The predictions mostly done by, you know, Schietsan at there, who amazing guy, well into his 80s, he was still doing these incredibly complicated calculations and publishing them.
+[10:54] And you can see the measurement has also increased in accuracy, and the current, the measurement is more precise than the theory.
+[11:03] And this is, according to Wikipedia, the most precisely determined quantity in physics.
+[11:08] And what it tells you is that, you know, the theory really works. It really describes nature for the electron.
+[11:16] Now we come to the best particle, the meon. The meons of it heavier.
+[11:20] And because it's a bit heavier, you have to start worrying about other, other kinds of interactions that can happen.
+[11:26] It's this thing about the uncertainty principle.
+[11:28] If interaction is mediated by a heavy particle, and you get a bit closer in, in your energy scale, you start to feel the influence of that very heavy particle.
+[11:36] So for the meon, you have to calculate more things.
+[11:40] And the question is, well, what if for the meon, there are some unknown interactions happening.
+[11:45] So then if we did our calculation, we would get one number, and if we did our measurement, it would include this previously unknown interaction, and we would get a different number.
+[11:54] And that will be the sign that we've discovered something.
+[11:58] So how do we measure it? Well, it comes back to this equation.
+[12:02] We know the charge of the meon, the spin of the meon, the master of the meon.
+[12:06] So we just put some meons in a magnetic field. We measure how strong the magnetic field is, and then we measure that procession frequency.
+[12:15] This is our magnet. So it's the thing in, it's got a white blanket on it here to keep it the temperature level.
+[12:26] Our meons, they come in at the top, you can see those red magnets there.
+[12:30] So that's the meon beam line.
+[12:32] So when you put a charged particle in a magnetic field, it starts moving in a circle.
+[12:37] So then they just start going round down, round down, mark it.
+[12:42] And the animation on the left shows you what happens.
+[12:46] So at the start, the spin vector is aligned with the direction the meon is going.
+[12:52] But then the spin vector, you get this procession. So the spin vector starts rotating.
+[12:56] The momentum vector starts rotating, but at a slightly different speed.
+[13:01] So now you've got something that's a bit like a gyroscope on a carousel.
+[13:06] And we have to measure where the red arrow is pointing basically.
+[13:11] The method for doing that is really ingenious and it's been developed over many, many decades.
+[13:17] But we wait for the meon to decay, and it decays into an electron.
+[13:20] The electron has a bit less momentum, so it falls towards the center of our magnet.
+[13:25] And we have all of these boxes around, and they count.
+[13:29] They measure electrons that hit them, and they measure the time and the energy that those electrons are rived.
+[13:35] So why is that useful?
+[13:38] So the point is that the electron wants to go generally in the direction the spin vector is pointing in the direction of the red arrow.
+[13:45] So when the red arrow and the blue arrow aligned, the electron is basically going through them forward.
+[13:50] And it will have slightly more energy.
+[13:52] When it's anti-aligned, the electron is wants to be thrown backwards, and it will have slightly lower energy.
+[13:59] So the plot in the middle shows the energy spectrum that you measure as a function of time.
+[14:05] And you can see it's going up and down as the spin and momentum align, and then anti-align, and then align, and anti-align, and so on.
+[14:13] So what we do, the simplest thing you can do is just count how many electrons you see over some threshold.
+[14:20] So electrons above some energy level, and just count the number as a function of time.
+[14:25] And then you get this, the technical terms are wiggle plot for this.
+[14:30] And the frequency that you see on this wiggle plot is then the spin procession frequency.
+[14:38] Then we measure the magnetic fields. We've got the procession frequency and from that we can extract the g volume.
+[14:45] It is a little bit more complicated than that. This is why it takes several years to do this and to do it so the accuracy that we want to do.
+[14:51] I'm not going to explain this at all.
+[14:53] But this is really the fully equation that we use. There's many other effects that need to be taken into account and understood that the kind of part,
+[15:00] and the level of the plot on the left shows you a full wiggle plot and then some of the other effects that again have to be taken into account.
+[15:13] Given the time, I'll be one to the result.
+[15:20] So the results are shown up there. What we have on the axis is called A. So this is basically g minus two, which is the name of the experiment.
+[15:32] It's how far away g is from two essentially.
+[15:38] The top, the blue line is a previous experiment, which is that result came out about 20 years ago.
+[15:47] That was done at Brookhaven to be an Albrookhaven national lab.
+[15:51] And then the red points are from our experiment, which is in the US. It's firmly lab just outside Chicago.
+[16:00] We released three different data sets. So the first one you can see the top line has a large uncertainty bar on it.
+[16:09] And then we improved our understanding of the experiment and added more data.
+[16:13] And our measurement got more and more precise until we arrive at the run 1 to 6.
+[16:20] So the bottom red number, which is our kind of definitive measurement.
+[16:23] And if you combine it with all of the previous experiments as well, you get the purple points at the bottom, but you can see it's totally dominated by our single most precise point.
+[16:34] It's hard to kind of get it from this plot, but this is really an amazing achievement.
+[16:40] It's a measurement that's accurate to 127 parts per billion.
+[16:44] Like how do you quantify that number?
+[16:48] One way to think about that is if you try to measure how many people are in London right now and you've got it correct to within one person, that's the same level of accuracy.
+[16:59] Or if you measured the length of a football field and you've got it correct to within the width of a human hair, that's the same level of accuracy.
+[17:08] It's the most precise measurement that's ever been made at a particle accelerator.
+[17:13] And it was really like decades of progress from three generations of this, like iterative improvements on this experiment and the method.
+[17:22] The final result, they're combined with all the previous efforts that went into it was awarded the breakthrough prize.
+[17:28] So that's the 3 million prize that's in the title of my talk.
+[17:33] They call themselves the Oscars of Science, I don't know.
+[17:38] I'm not sure anyone else calls in that.
+[17:41] But it was a really nice recognition of what is really an amazing scientific achievement.
+[17:48] The reason it's hard to interpret on this plot is because I'm not showing you what the prediction is yet.
+[17:52] So here's just like, we've just gone and measured a number.
+[17:54] Is that interesting? Nobody knows.
+[17:56] What number did we expect to measure? That's where it gets interesting.
+[18:00] So now let's compare to the theory.
+[18:02] So this is a slightly different graph.
+[18:04] So this now shows how far the prediction is away from the experiment.
+[18:10] And the experiment measure is shown as the red band, so the band is the uncertainty on our measurement.
+[18:17] And then the green lines are some theory predictions.
+[18:21] And you can see that they don't agree.
+[18:24] And they don't agree if you're into stats at all.
+[18:29] They don't agree by more than five standard deviations.
+[18:32] Which is normally the point in my field where you would say you have discovered something.
+[18:39] And what could it have been? So it comes back to this fact that G is just this number,
+[18:43] but it has many, many things influencing it.
+[18:46] And if you do a calculation taking into account all the things that we know, you will get one number.
+[18:53] But nature will include everything that is possible.
+[18:56] And so there may be some new physics effects.
+[19:00] In our measurement, which are not in our calculation.
+[19:02] And so the fact that they don't agree suggests that we have discovered something.
+[19:08] But then there was a different way to do this calculation.
+[19:18] So the top one's the green points.
+[19:20] The calculation is actually very hard.
+[19:23] So we can do with this thing in particular.
+[19:27] You can ask me more in the Q&A afterwards if you want.
+[19:30] So there's a different way to calculate this number.
+[19:34] The top ones, the green ones, use data inputs to calculate it.
+[19:38] And the bottom one is what's called lattice QCD.
+[19:41] So this is almost like a first principle calculation.
+[19:43] It's done on supercomputers.
+[19:46] And the lattice predictions are shown in blue.
+[19:48] And now you can see that they agree actually rather well with our experimental measurement.
+[19:53] So you know, science.
+[19:56] It's the scientific method in action, as opposed.
+[20:00] We have learnt something about how to calculate this property.
+[20:05] We haven't discovered anything from the mentally new.
+[20:07] It seems unfortunately.
+[20:09] But now there is still a bit of a question as to why these two theory calculations disagree.
+[20:15] So I think when we put our first result out, there was a lot of excitement.
+[20:19] Because we didn't have the lattice points.
+[20:21] So the lattice point that only just come out.
+[20:23] So first we thought we'd really discovered something.
+[20:26] And now it seems like there's a lot of work to be done on the theory side.
+[20:30] And understanding why these two methods disagree.
+[20:33] So there might still be something unexpected hiding in the data,
+[20:36] which is behind the green points.
+[20:38] But we'll have to see.
+[20:41] I'm going to do it for time.
+[20:43] Oh, I've got all the, I've gone quite fast then.
+[20:48] Right. So that brings me to the end.
+[20:50] So this is really the status of this experiment.
+[20:54] I tried to think of like what is kind of a tagline for what we do.
+[20:59] And it's kind of like zooming in to see the big picture in a way.
+[21:04] I mean by measuring something so very, very precisely.
+[21:08] You can learn about effects that are that kind of influence the whole universe in a way.
+[21:14] We're trying to see if there are some influence on this number to like the end for decimal place,
+[21:21] which is caused by some extremely heavy particles, which existed right at the start of the universe.
+[21:26] And might explain why we have the standard model that we do, why the universe looks the way it does.
+[21:32] And a bigger tune on to my, to the funders.
+[21:36] If you interested in one or the more, I wrote a book a few years ago, you can find out more about it.
+[21:41] I feel like I would be remiss if I didn't stop talking about science for a minute and started to talking about politics.
+[21:51] Last year we were all very excited about our scientific results.
+[21:57] This year we're all spending all of our time talking about funding.
+[22:02] There is a funding crisis in our field.
+[22:06] There's been lots of headlines about it.
+[22:11] I'm obviously have a very strong opinion on the value of fundamental science.
+[22:17] I think fundamental science is incredibly important.
+[22:19] I think it inspires people to do scientific subjects.
+[22:24] I think it leads to kind of transfer of technology and knowledge and so on.
+[22:32] Because you know, when you do fundamental science, you end up developing technologies which didn't exist before.
+[22:38] Because you'd rather do something completely new.
+[22:40] And those fill out industry and so on eventually.
+[22:44] And what's happening right now in the UK is that the funding for fundamental science has been cut very dramatically over the last three or four years.
+[22:54] So the point where it's becoming a bit of an existential crisis in the UK.
+[22:59] And there's a real danger that many of the kind of exciting things that we do.
+[23:04] I just not going to be possible here anymore and they will be done.
+[23:08] In other countries.
+[23:11] I'll try and end on a slightly happy note.
+[23:15] That's all I had.
+[23:17] I'll be that gave you some sense of what this experiment does and maybe why it was exciting.
+[23:29] We have to leave here so they can set up for the next talk.
+[23:32] But I'm happy.
+[23:33] I'll go to the Q&A.
+[23:34] I'm very happy if anyone wants to ask me anything about any of this or just have a chat about particle physics or anything in general.
+[23:41] I'll be over there.
+[23:42] So thank you.

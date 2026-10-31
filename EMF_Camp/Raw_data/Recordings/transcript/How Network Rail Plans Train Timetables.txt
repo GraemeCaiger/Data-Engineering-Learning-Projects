@@ -1,0 +1,230 @@
+[00:00] Hello, can I ride him? Yes, yes you can hear me. Excellent. That's always the first thing to check.
+[00:22] Good. Who here likes trains?
+[00:25] Excellent. You've come to the right talk, then. So this is how net work, I forgot to open the screens up there.
+[00:31] How net work rail plans trains? Or why does the 20-post for train from Cardiff to Chester go early?
+[00:39] So my name is Charles. I am an operational planning specialist at net work rail. That's my official job title.
+[00:48] What that means in practice is I am one of the people who put train time tables together and for net work rail.
+[00:55] So as you can see, I've I love from solving puzzles which is great because train time table validation is one great big jigsaw puzzle.
+[01:07] And it's perfect job for me because I have loved trains my entire life. So enough about me. You're not here to talk about me here, right me.
+[01:18] What is it that I do? So I work for net work rail.
+[01:23] Do we have someone here from that work rail?
+[01:28] Yeah, we do. Excellent. I've met one or two other people rail industry people at EMF already this weekend.
+[01:34] So good to know I'm not alone here. So for people who don't know so much about the rail industry, there's lots of different companies involved in it.
+[01:43] So network rail run all of the own all of the track, the infrastructure. What we mean by that is the track signal boxes, bridges, tunnels,
+[01:54] Vyducts etc. And it's their job to maintain all of that. Then you have the train operating companies who run the actual trains.
+[02:02] So, set off with the main train operating companies which is the public sector publicly funded ones, the talks.
+[02:10] This is all changing in the near to medium future as GBR becomes a thing.
+[02:18] But at the moment, the structure of the industry is that you still have lots of separate organisations all running the different trains.
+[02:26] Some of them are publicly owned, some of them are still privately owned, it's a mixture.
+[02:31] And they are all funded by the different governments, most of them by the Department for Transport.
+[02:39] But in other parts of the country, they are devolved to Wales, Scotland and also London and Mersey Rail as well.
+[02:50] And those, the train operating companies are the brands that you will see if you get on board a train, they will be brands that are familiar to you.
+[02:56] So GWR cross country companies like that.
+[03:04] The other group of operators we have on the network are the open access operators.
+[03:09] These are private companies that are completely privately funded. They don't get whereas the Department for Transport and the devolved governments give very specific instructions to all the talks about what they want them to run.
+[03:24] The open access operators look for gaps in the market where they think they can see a gap that the talks aren't filling.
+[03:30] And then if they can get space on the network, they try to run trains to fill those gaps to make a profit.
+[03:36] So for them we have Grand Central, Whole Trains, Lumo, some of you probably heard of, and Heathrow Express is technically an open access operator as well.
+[03:46] Then final group of operators on the network are the freight companies.
+[03:50] So these are completely private. Essentially exactly the same model as the open access operators.
+[03:56] They are completely privately run, completely privately funded, and they compete against each other to get contracts with different customers.
+[04:04] So they take things like aggregates, steel, intermodal containers, lots of different types of freight that run.
+[04:14] And they don't get any private funding at all. Sorry, any, they're completely privately funded. Don't get any public funding at all.
+[04:26] So we've got all these different companies that all want to run trains on the same set of tracks owned by network rail.
+[04:40] So what they do is they do a thing called bidding for paths on the network.
+[04:45] And then network rail's job is to take all of the bid from all the different companies and put them together.
+[04:53] So what is a bid? Well first of all, it doesn't involve money, at least not at this stage.
+[05:00] What it involves is them submitting their time to their preferred time table, two network rail.
+[05:10] That network rail to see if they can get what they want from network rail.
+[05:14] So there are two time table changes a year, one in May, one in December.
+[05:22] This is when what we call the base time table changes, also known as the working time table.
+[05:28] This is the time table before it has had any kind of short term amendments, which are done for things like engineering work, special events, and so on.
+[05:38] So twice a year, about nine months before the time table change, all of the operators submit a complete bid to network rail, which is a complete set of all of the time tables that they want to run for all of the schedules that they want to have paths for.
+[05:56] Network rail then has about 12 weeks in which to validate the bid.
+[06:01] Now what that means is taking all of the schedules that all of the different operators want to run, putting them all together, seeing where they work, seeing where they don't work, where they don't work, changing them, and then, once they've done that, we offer them back to the toxin fox.
+[06:20] At that point, there is a little bit further back and forth where they can say if they do or don't like changes that we've made to them.
+[06:26] And we keep talking to them throughout the whole process, so it's not, so the mantra is no surprises on offer day.
+[06:33] So we try to keep them in the loop, discuss with them what they do, what we're doing, so that it's not a complete surprise what we've been doing to their trains when it comes to offer day.
+[06:44] Because if you try to offer them something that doesn't work for them, that's no good.
+[06:49] So what are we actually doing?
+[06:53] So I said that all of the train operators submit their complete time tables to network rail.
+[06:59] So if you think of a time table, you probably think of something like this.
+[07:05] So imagine you were going to be MF and you wanted to come here by train.
+[07:10] Some of you might have actually done this.
+[07:14] You'd probably look up something like train line, other journey planning apps are available.
+[07:19] And you'd get a screen that looks a little bit like that.
+[07:23] That's a journey planning screen.
+[07:26] Departures, you can pick you outward and return, fine.
+[07:30] Click on the train, you can see all the places it stops at, fine, nice and straightforward.
+[07:38] This is what it looks like to network rail.
+[07:41] It's got a complete list in grey on the right of all the places that the train is passing as well as the places that it's stopping.
+[07:49] So what we do is we take not just the places where the trains stop, but every point that it passes on it's journey,
+[07:56] so that we can see how it's interacting with other trains at that point in time.
+[08:05] And then we plot it on a graph.
+[08:08] So what we do is we put time on the bottom, the x-axis, to scale, and then we put all the locations that we want to plan our train at on the y-axis.
+[08:20] And then we do something like, let's say we want to have a train that's going from used into Birmingham,
+[08:25] stopping at all of these stations, put something on the graph that looks a bit like that.
+[08:30] And that is a train planning graph, nice and simple, nice and straightforward.
+[08:34] Got a train on there.
+[08:36] When this graph is sloped, it's moving, steepness of the line shows you how fast the train is moving, speed is distance over time.
+[08:43] When the line is flat, that's when it's stationary, stop moving.
+[08:49] Hopefully that's nice and straightforward.
+[08:52] And you can put a second train on the same graph.
+[08:56] And you can see that if you have a second train that leaves used in a bit later, and arrives at Birmingham first,
+[09:02] goes straight through the first train, roughly halfway between Milton Keynes and rugby.
+[09:07] So that's only going to work if you've got two sets of tracks and they can go past each other.
+[09:11] If you've got two pairs, if you've got two trains on the same track, that's not going to work.
+[09:17] They're going to clash with it, crush with them to each other just about.
+[09:23] Ooh, battery stop working.
+[09:28] Excuse me a second.
+[09:30] Just about there.
+[09:40] I'm going to take two seconds to just see if I can fix this but.
+[09:49] Yeah, it's working.
+[09:52] Excellent. Thank you.
+[09:57] So here's a timetable graph.
+[10:00] As as as shown on the train planning software, TPS that network rail uses, and this is pretty much exactly the same as the first one.
+[10:10] This is the West Coast main line out of London, Houston heading off towards Birmingham.
+[10:16] I've only put as far as about what for junction on here because any more than that you wouldn't fit it all on.
+[10:22] And let's just take a look at what we can see here. We've got different lines.
+[10:26] Each line is a train.
+[10:28] Different colors represent different sets of tracks. So West Coast main line you've got four tracks.
+[10:33] Two in each direction. So the green lines and the red lines are on different pairs of tracks.
+[10:37] On this particular graph, the green lines are the fast lines and the red lines of the slow lines of stopping trains.
+[10:43] The colors aren't particularly meaningful. They're fairly arbitrary.
+[10:48] But and then we've got trains that appear in disappear on the graph. That's where you've got trains turning onto that route at junctions or turning off that route at junctions.
+[10:59] So what we do is we look at these graphs and check if they work.
+[11:05] So what we're checking for?
+[11:09] Well, first thing we're checking for is headways.
+[11:18] Headways are the time between two consecutive trains.
+[11:22] That is the minimum time.
+[11:25] That is the minimum time after one train departs before a second train departs when the second train is going to get green signals.
+[11:38] So the way the signal system generally works is that the track is split up into what we call signal sections.
+[11:44] You can only have a one train and one signal section of a time.
+[11:48] Red signal in front of the first train means that the first train is protected by it.
+[11:53] Yellow signal behind that.
+[11:55] Wands the driver of the second train if they get that signal that the next signal after that is going to be at reds then you'd start slowing down.
+[12:01] Signal behind that is green.
+[12:04] Sometimes you get more than one yellow signal but that's the kind of the most simple model.
+[12:12] Most of the signaling does work basically like that.
+[12:16] So with the headways what we want to do is allow enough time for the first train to get far enough ahead that when the second train departs it's going to get green signals all the way through its journey.
+[12:26] And then we have a document called the train planning rules, time table planning rules.
+[12:33] This document lists all of the headways and all of the other rules that we use to take check if two trains are valid.
+[12:41] So the headways between two trains are different on different sections of track depending on the signaling.
+[12:47] So that's a little screenshot from the line between Dicut and Oxford.
+[12:52] And if you can read it it says between Dicut and Wolvercut three minutes headway or four minutes if you're following a stopping passenger train.
+[13:00] Beyond Wolvercut as far as hatred it's a six minute headway.
+[13:03] That's because the signal is there.
+[13:05] Our further apart.
+[13:06] There's less capacity on that section of line.
+[13:11] If that were a more intensively used section of line, there might be a case for upgrading the signaling to reduce the headways to allow more trains per hour through that section of line.
+[13:19] But we fund the signaling to the degree that we actually want to fit trains through it.
+[13:28] So when you're looking at the graph and checking if the two trains are far enough apart for to have sufficient headway, you also need to check the timetable planning rules to see what the headways in that particular location.
+[13:41] And that is how you look at the headway on a graph.
+[13:43] Two trains.
+[13:44] The gap between them is the headway.
+[13:49] Junction margins.
+[13:52] Probably the second most common thing after headway that we're checking for.
+[13:55] If you imagine driving a car and you want to turn right, you need to wait for a gap in the oncoming traffic before you can turn right.
+[14:02] That's a junction margin.
+[14:05] It's exactly the same with trains.
+[14:07] That is don't for junction in Kent pictured there.
+[14:10] I'm going to train going over it. I bet someone knows what class of train it is.
+[14:15] When we're planning the timetable, we need to say if a train is going to be going over a dark-ford-west junction at 11.0.7, then if you need three minutes after that, you can't plan another one to go past until 11.10.
+[14:29] Say.
+[14:30] I can't remember what the junction margin actually is at dark-ford-west junction, which is supposed that.
+[14:34] Three minutes is typical for some junctions. It's longer for five minutes, so it's more.
+[14:44] That is what a junction margin would look like on a graph roughly.
+[14:48] One train turning off.
+[14:50] Another train passing in the opposite direction.
+[14:52] Gap between the point where one is turning off.
+[14:55] That's your junction margin.
+[15:04] Let's put all this together and look at a real-world example.
+[15:11] I hope you haven't lost you so far.
+[15:16] I've got another graph. I'm getting loops for the graphs. I'm liking graphs. Next time I do this, I'll put in more graphs.
+[15:23] Woo! Yeah, woo for the graph.
+[15:28] This is the line between heraford and shrewsbury.
+[15:31] It's mostly trains for transport for whales, trains that aren't up here, but we also have various freight trains.
+[15:36] This is what the graph looked like when all of the toxin fox bid the December 2024 time table.
+[15:42] It's screenshot from a couple of years ago.
+[15:45] As is usually the case with most time table changes, it was mostly a rollover from the previous time table, which is why it mostly works.
+[15:54] Transport for whales didn't want to make many changes. Most of their trains are in the same place. Most of the freight was in the same place.
+[16:00] Most time table changes, unless you're doing a big recarced in which case there's usually pre-work involved.
+[16:06] It's usually a case of just validating what has been changed from the previous time table.
+[16:12] Because people like continuity, they like to keep things the same, where there's no need to change them.
+[16:18] However, they always do make some tweaks, and on this one, can anyone see where there is a problem on that graph?
+[16:30] Bit of a challenge, maybe a bit small to see.
+[16:38] It's probably not the fair question, so...
+[16:48] I think that is a junction. I think that is fine. Sometimes the graphs, you can't actually tell what the trains are doing unless you click on them and look at the individual schedules because of where the junctions are.
+[17:00] The graphs aren't always really an a visualizing it.
+[17:04] If anyone is noticing that bit, it's where we've got two trains going through the other.
+[17:13] So we've got two trains on the graph.
+[17:17] Both leaving at about the same sort of time, getting closer and closer together until the lines cross over each other.
+[17:23] That just does not work.
+[17:25] So one of these is a passenger train. The other one was a freight train.
+[17:28] And the freight train was bit, it's have a long dwell outside,
+[17:31] a truce recation to wait for in the next bit of its path.
+[17:35] I think this one was going to benefit cement works if I remember correctly.
+[17:41] So what do you do?
+[17:45] Well, you could tell one of the operators that they're not going to get their train.
+[17:49] Sorry, you can't run that freight train, or sorry, you can't run that passenger train.
+[17:54] That is an option. Sometimes there is no solution, and then you have to reject one of the trains, but if at all possible, you try to avoid doing that.
+[18:02] So here's what I did.
+[18:08] I put the freight train into a loop.
+[18:11] At Wooferton, we have a loop, which is a little bit of track that the freight train could recess into.
+[18:17] And it could go in there, sit there for how long it was, about an hour and a half.
+[18:22] And then carry on, it's way to shrewsbury.
+[18:24] And the long dwell that it had at shrewsbury is removed, and it carries on and it picks up its path.
+[18:29] Great.
+[18:31] Mostly great.
+[18:38] You can't see it on there, because I don't think it's fair to ask you, but there is still a problem with this.
+[18:44] So when I was looking for solutions, I was thinking, okay, I can put the freight train into the loop.
+[18:48] That's fine, but then I need to get it out again.
+[18:50] If we go back to the previous one, I'm thinking how long do I need to keep it in that loop until I get it out again?
+[18:55] Well, I need a big enough gap on the graph for the freight train to come out slowly.
+[18:59] And it's a big, heavy slow freight train.
+[19:01] Freight trains are slower than passenger trains generally, particularly when they're starting from a standing start.
+[19:06] We're going to need a big wide gap to fit it into.
+[19:09] There's a reasonably wide gap in the graph, but it's not quite wide enough.
+[19:14] Unfortunately, that freight train, if it came out after the passenger train in front of it just passed it,
+[19:21] it would get to shrewsbury not quite in time before the passenger train behind it caught up with it.
+[19:27] So the only thing to do there was to retime the passenger train that was in front of it.
+[19:36] So I looked at that and I thought, OK, this is the 40th.
+[19:39] This is the 42 from Cardiff to Jester.
+[19:42] What can we do with it?
+[19:44] Can it have a shorter dwell somewhere?
+[19:47] No, it can't.
+[19:48] It's got minimum dwells all the stations throughout its journey.
+[19:51] If I want it to go, can the freight train go later?
+[19:54] No, it can't because it bumps into the next train behind it.
+[19:57] And it doesn't pick up its path after that.
+[19:59] Can this passenger train go earlier?
+[20:01] Yes, it can.
+[20:02] But it's going to have to go earlier all the way from Cardiff.
+[20:05] So what transport for Wales had bid for was a nice hourly service going just after 20 minutes past the hour.
+[20:13] But to fix that, I had to change it so the train that goes after 4 o'clock goes at 17 minutes past the hour instead.
+[20:22] So you've got you've 324, what was the 422, the 523, the 622, sorry.
+[20:30] Yeah, the 622.
+[20:32] So if you're someone who lives in Cardiff, likes going to Shrewsbury, you know, great.
+[20:36] There's always a train just after 20 past the hour.
+[20:38] Turn up at 20 past 4, oh wait, I've just missed it.
+[20:41] Why does that one go earlier?
+[20:43] Well, it's because of that freight train.
+[20:46] So I sent that back to transport for Wales and they said,
+[20:49] Hmm, we don't like that.
+[20:51] Can you look at something else?
+[20:52] And a couple of us looked at it and we said, no.
+[20:57] Sometimes it'd be like that.
+[20:59] There's no, that is the least worst solution overall.
+[21:02] They still get their passenger train.
+[21:04] If you can read the time you're writing, it takes a little bit longer than the other trains in their time table to get there.
+[21:09] It's about 5 minutes longer.
+[21:11] But the freight train can still run.
+[21:13] It gets up half.
+[21:14] The passenger train can still run.
+[21:16] It gets up half rough at the same time as the other trains.
+[21:19] It's the least worst solution overall.
+[21:21] So that was what we went with.
+[21:24] Offered at the transport for Wales and they said, yeah, okay, that's fine.
+[21:27] We'll accept it.
+[21:28] And if you look at the, if you try to look at that today, it looks like that today.
+[21:34] Thank you for coming to my talk.

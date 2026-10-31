@@ -1,0 +1,295 @@
+[00:00] Welcome, welcome. This is Behind the Curtin. I am John, I am a production manager, technical
+[00:18] director, special effects supervisor. For the last three years of EMF, I came on in 22 to
+[00:26] run the music team. Since then, I've been one of the co-leads for the stage team, and this year,
+[00:31] I have been the Vigging Fire and Pyro Lead, which essentially means that anything to create
+[00:37] or destroy fire is unfortunately in my wheelhouse. Many, many moons ago, I used to do a lot of data
+[00:43] center engineering. Now, I mainly get paid to do things mostly on board where in West End.
+[00:50] I am licensed in an unreasonable number of Joe's Dictions, and I am here to explain pretty much all
+[00:57] of that to you in various forms. We're going to be talking specifically about a lot of the
+[01:02] in-depth technical details here in terms of how these types of systems tend to work. So,
+[01:08] quick to sclaim up front, this is a talk not training. I have an unreasonable amount of public liability
+[01:14] insurance. Please do not try anything that you are about to see at home.
+[01:19] So, first up, quick to have hands. How many of you have at some point gone and poked around
+[01:25] the front of house or back of a theatre or tech event venue? Maybe even here, excellent,
+[01:31] everybody here. You will probably have seen a number of different boxes in one of those stage
+[01:39] tracks. And those will be doing a number of different things ranging from networking, lighting,
+[01:43] audio, show control, video, power distribution, and even comms. And this stack is generally
+[01:51] relatively simple in terms of each section of it, but the complexity is always centrecoming when
+[01:58] you start integrating across them because we have various different segments in each one that all
+[02:03] have to interconnect and all have to do various different things in order to make sure that we have
+[02:08] lights and sound and video and all of the wonderful things that we use to not only bring you talks,
+[02:14] but also to bring you a mirriad of different live events and theatre in all this wonderful forms.
+[02:22] So, first up, every single one of the lights that you currently see illuminating me or anything
+[02:30] else in this room is controlled by a protocol from 1986 that most of the world stage lighting
+[02:35] still runs on. It was developed originally to replace a collection of proprietary incompatible control
+[02:41] systems, a problem that will never happen again. And the key limitations with DMX as a protocol is that
+[02:50] it is RS-45. It has 512 available channels per universe, a channel being a single parameter,
+[02:58] so red, green, blue, cut, brightness, intensity etc. And no error detection whatsoever.
+[03:07] It is completely one way only, which is extremely fun, except if you're doing RDM, which I am not
+[03:13] going to talk about here because that's complicated, but technically you can do two ways if you
+[03:17] start doing things that make you hate yourself. And it's interesting particularly because the standard
+[03:23] actually says verbatim that it is not an appropriate control protocol for devices that could cause
+[03:28] injury, which is interesting because in most people here, although at some point that you can just
+[03:34] go off onto eBay or Ali Express and buy a DMX controlled flame for, for maybe remarkably unscrupulous
+[03:40] website for about two to three hundred pounds, which more on that when we start getting to
+[03:45] piro control, but please don't do that. And yes, specifically this is a very dense, like you
+[03:53] have a lot of stuff going on here, but often that's still not enough because you may have several
+[03:59] hundred different universes, a universe being 512 channels based on the sheer quantity of
+[04:05] lights that you have, especially if you're dealing with things like LED pixels or any of the larger
+[04:11] more complicated fixtures that we get in the modern era. And long comes to solve that problem,
+[04:17] art net, which actually comes in in 1998 from a British company called Artistic License,
+[04:23] and it's their solution for blasting DMX over pretty much any IP network. It is UDP broadcast,
+[04:29] which means that every device gets every single piece of data. It won essentially on sheer adoption
+[04:36] because the practical difference is that streaming ACN is multi-cast. The good news being that
+[04:41] your subscriber devices only get the data for that specific universe, the downside being that you
+[04:47] need managed switches and good network hygiene and million other things, and Art net will run on
+[04:54] any off the shelf on managed ethernet switch. So you can tell which one succeeded on winning the
+[04:59] adoption war there. The flip side is that most modern installations that are using considerable
+[05:08] quantities of DMX over IP or anything that requires high redundancy will be using streaming ACN.
+[05:14] And especially if they happen to be using any form of addressable LED pixel, because a subtle
+[05:22] problem here is that with streaming ACN and to a lesser extent with Art net sometimes,
+[05:29] every universe of DMX is its own network packet being sent independently, right,
+[05:33] because each one has to go to a different place. So on a big rig that can be hundreds of packets per
+[05:38] frame. And without any kind of synchronization, each receiver is then going to go and act on that
+[05:43] data, as soon as it receives it, and then suddenly all of your pixels are like a fraction out
+[05:49] from each other, which can look really, really weird. Lighting you might not notice,
+[05:54] if you're mapping pixel wall or like big color bumps across the whole stage, you get like visible
+[05:59] tearing across it. So the good news is that we fix this. In the 2016 revision of E131, which is
+[06:06] the streaming ACN spec, they added a thing called Universal synchronization, which is a data packet that
+[06:11] carries a synchronization address, and then the source sends out all the data packets for that frame.
+[06:17] Every receiver then waits for the multi- revive, and then it sends out a single synchronization
+[06:22] packet on the Sync universe, which then causes all of those receivers to then update at the exact
+[06:28] point that they receive it, which is great. The catch is that it has to be multi-cast, which means
+[06:33] that you again need a network with proper IGMP snooping, and not every receiver implements the spec,
+[06:39] meaning that if you happen to get one that does this older or potentially like less implemented,
+[06:45] it will just ignore it and free one. So always worth checking whether that's actually going to work.
+[06:51] Yes, so show control. Almost everything in every single one of these stages, it has some form of
+[06:56] integrated show control, especially the video side is running off of a wonderful combination of
+[07:01] everything called Bitfocus Companion, and a few other things. Commonly, when it comes to technical
+[07:07] theatre, we are using a piece of software called QLab, which is probably the most common piece of
+[07:11] show control that people here will have heard of. It's a really easy entry point. What it does is it
+[07:16] takes a bunch of different cues, whether that's network messages, MSC commands, many show control,
+[07:22] OSC, different form of show control, time code, all of those in a defined order, and then let's
+[07:28] you fire those repeatedly and reliably. Because for most theatrical cues, we're fine with tens
+[07:34] of milliseconds worth of precision. The value is all in repeatability. You want to be able to know
+[07:40] that the thing fires the same every time each night, that your lighting board up doesn't have to
+[07:45] remember to hit go every time your audio board does in order to make sure that your lightning
+[07:50] actually sinks with your lightning sound. That can get really, really silly. And yeah, so this is
+[07:57] this is a zoo. Like we have all of these different protocols, and they all exist fundamentally
+[08:04] because all of these different problems have been solved by different industries, a different periods
+[08:09] of time, and then we had to sort of all push all of them together and all of their transports
+[08:14] and figure out how to make them all talk. So let's talk through a few of those now.
+[08:21] So first up, comms, the system that nobody in the audience knows exists and the one that
+[08:26] everybody running a show cares about immensely. This is how your crew talk to each other. So think of
+[08:34] this essentially as little video packs, single like group party lines, and that gives you the ability
+[08:41] to have everyone on that channel here and talk at once, like a big conference call. So there's a
+[08:46] few different major names in this. You will most commonly with analog party lines here,
+[08:50] clear common RTS, being the two big names, most of the tech of which still dates from the
+[08:56] roughly late 1980s, 1990s. And the idea of that in most cases is that there's either one or two
+[09:03] or three or four shared lines. Everyone here's everybody else. You do not have the ability to
+[09:07] directly dial people, and it's almost exclusively why it headsets with a few exceptions.
+[09:14] For the wireless intercom systems that run wireless, the on analog, and then nowadays we have much
+[09:20] newer, more consistent stuff in the form of things like the redell below series, any of the
+[09:26] modern forms of clear com, matrix intercom, which basically allows you to set up as many different
+[09:32] groups as you want, is configure different belt packs to be able to talk to those groups in
+[09:36] whatever combination you want, and then basically just fire off and have as many combinations as
+[09:43] you wish, which is what a lot of the larger TV and broadcast folks tend to do. And the other
+[09:49] fun with this as well is that a lot of the older packs are also for wireless, specifically 2.4
+[09:54] gigahertz, which will definitely fight with your Wi-Fi. Com's quirks, analog party lines are
+[10:02] can weird, because they are all running generally across a standard 3-pin XLR mic cable,
+[10:10] the difference is that it's duplex. So you are talking and listening down to the same line,
+[10:14] and then on the other line is 30 volts of DC that is then running all of the belt packs,
+[10:19] and that also actually carries the core signal, which is the thing where if you click the core button
+[10:24] on your belt pack that will then flash the core button for everybody else on the same loop,
+[10:29] because your SMs and automation folks and some other people can't always have a headset on their
+[10:33] ear, so you hit core and their belt pack then lights up to say, hey, look at me pick up there's
+[10:38] something you need to see. Clear com does one channel pro XLR like that? RTS puts it, two channels
+[10:44] across pins, two and three, and the trap here is that this is all on 3-pin XLR, and it's an identical
+[10:50] plug and there's 30 volts of DC sitting on the comms line. So if you patch your comms into a mic
+[10:56] input or a DMX node that takes three pin, congratulations you've just bunged 30 volts of DC
+[11:02] directly into it, and that is now most likely toast. Clear comon RTS also use XLR 3 again,
+[11:08] but with different pinouts, so even the two comm systems aren't interoperable with each other.
+[11:14] Which is an additional thing. All of the wireless systems are decked, they're all 1.9GHz,
+[11:22] like various different additional fuzz on top of them, but like Belera, most of them on Clear comstock,
+[11:28] it's all been decked, like why? Other than the fact that it is reliable as we all know being in this
+[11:35] field and definitely not having picked up a phone call that has just become like garbled.
+[11:40] Lovely, so let's jump on from comms to very quickly talk a little bit about Dante.
+[11:47] That's the elephant in the room for audio networking. It is the direct protocol that is currently
+[11:53] taking my voice from this belt pack through the air to the receiver at the back of the room,
+[11:59] and then through into the Yamaha DM3 sitting at the back. It is a holobly proprietary system
+[12:05] from an Australian company called Audinate, and it has quietly become the absolute default
+[12:10] for how audio moves around modern show environments. The cover thing about it is that it does all the
+[12:15] hard bits for you. Runs over gigabit ethernet, same switches, same cable unit on the use,
+[12:20] but it deals with all of your clocking, PTP clock discovery, routing, all of that, basically for you.
+[12:27] What you do is you go into a piece of soft-facled Dante controller and you say,
+[12:30] I want this input to go to this output, which is called a subscription. That point you can then go
+[12:38] off and select your latency offsets, anywhere from Marfa Miller 2nd to 5, and the trade off there is
+[12:43] basically your trading delay for tolerance on a more busy network, because obviously more packet drop
+[12:48] means that you end up with a situation where potential loss there means that you actually lose the data.
+[12:54] And obviously that means that you have one network cable that can carry hundreds or thousands
+[12:58] of channels in both directions, which can then replace the horrific multi-core XLR snakes that we've
+[13:04] been using for years. The good news is that you don't have to use this anymore, because we now have a
+[13:10] wonderful thing called AS67, which is a common mode, mostly open source protocol built around
+[13:18] sort of the Dante spec, which pretty much all of the modern intro, intru-operable
+[13:24] folks that use Dante support, and it lets you effectively intru-operate between multiple different
+[13:31] consoles that don't necessarily talk the same control protocols, they should all be able to
+[13:37] in theory talk AS67, as long as they're all set to that mode. And as with all things in life,
+[13:46] the eternal cursed nightmare of this is clock sync, because you always have to elect a single
+[13:54] grandmaster ptp clock for every single, like it babysitter ptp works by having the most accurate clock
+[14:01] in the room. And the practical thing to know here is that if you're in an AS67 or a Dante network,
+[14:07] as a general rule, every device is a potential ptp participant. That is to say that if something
+[14:13] boots up, and then it decides that this is your ptp grandmaster, while another device was already
+[14:19] decided that it is your ptp grandmaster, then congratulations, everything is going to start
+[14:24] unpleasantly clicking and dropping out, which is a great way to find out, especially midshow.
+[14:31] Now the fix here is threefold, which is one enable iGMP snooping on your switches,
+[14:36] be get some proper managed switches, and see get a dedicated grandmaster that you actually trust,
+[14:44] which usually if you're doing this should be your sound desk, or as you know, either your sound
+[14:49] desk or your reo or equivalent stage box, there's a bit of, yeah, people have strong opinions on
+[14:56] this that I don't really care about, but it's a diplomatic problem as much as the technical one.
+[15:02] So, next up we will touch a little bit on Viging, which is the corner that I have mostly
+[15:10] had my hands on for a EMF this year. I would like to make it very clear first that Viging is a
+[15:17] structural engineering problem first, and an electrical and software one second. The most
+[15:23] elegant show control systems you will find will not help you if your half ton motor is attached
+[15:28] to a beam that can't take the load. So, an example of this here, we have a trust directly above
+[15:36] your heads that is run up to a couple of spansets sitting on some half ton chain-whists
+[15:42] that I rigged a week and a half ago, dear God. And that is then connected directly to a pair of steel
+[15:50] safety chains, which then ensure that even if those directly, even if the underlying
+[15:56] underlying hoists fail that the trust then cannot fail on top of that. So, couple of terms that
+[16:02] you'll hear often when it comes to Viging, working load limit. Working load limit is not safety factor.
+[16:09] This is probably the single most misunderstood thing about entertainment Viging. So, you will generally
+[16:17] see most things rated at a safety factor of 5 to 1, which means that if you have a half ton shackle,
+[16:24] that is the 500 kilo working load limit, that means that it has been tested to break at 2,500
+[16:31] kilos. That does not mean that you can safely load it to 2,500 kilos. You load it to 500,
+[16:38] because the factor exists specifically to deal with things like dynamic loading, shock loads,
+[16:44] and the fact that everything does eventually degrade over time. The other piece of this, load cells
+[16:49] are your friend. If you are ever doing anything that is particularly complicated, I'm specifically
+[16:55] talking here to the folks out there who are doing circus rigging, which congratulations, I salute
+[17:00] you and I'm sorry. You have lots of wonderful complicated dynamic forces that will be going on there.
+[17:07] And often the easiest way to solve for that particular problem is putting a load cell on your
+[17:13] motor attachment points, which will then give you the exact ratios for how much things are actually
+[17:18] getting loaded. There's a few different companies that make these specifically wireless ones,
+[17:22] which are excellent. It allows you to basically get a full live picture of what all of your points
+[17:29] are actually doing, and then adjust them if necessary to make sure that everything is truly balanced.
+[17:36] That's fun. Interesting, please hold.
+[17:43] We appear to have lost slide.
+[17:50] No, we haven't. There we go. Excellent. Lovely. A small brief vocabulary of things that you will
+[17:57] potentially hear in terms of terminology when it comes to this. Structures. So this is box trust.
+[18:04] You will see some triangle or tri trust around places. I mentioned earlier we have a what
+[18:09] be called Spansets or Soft Chacals or Gack Flex, which is basically steel aircraft wire
+[18:16] encased within a much softer outer sheath, which we're able to use to set specific rigging points
+[18:21] for certain circumstances. Clamps various forms, doerty, cheeseburgers, different US and American terms
+[18:28] for those, and then chain hoists and also chain motors. You will hear those specifically referred to
+[18:34] in the context of single or double-braked motors. That effectively means in the form of a double-braked
+[18:40] motor that it has a built-in backup of some kind, which effectively means that the
+[18:46] motor itself is not capable of just free falling the load in the event that the first break
+[18:54] itself fails. Moving on from the main fundamentals of this, let's talk about actually flying things
+[19:04] in and out. So fortunately we do not have any counterweight flying on site as far as I'm aware of.
+[19:09] If you happen to find any please let me know. But as a general rule when it comes to most theatre
+[19:16] you will find one of two specific flying systems in use pretty much everywhere across this country
+[19:22] and reasonably the world. The first of which counterweight flying, all muscle, all vote. You just have
+[19:29] a single pulley set up loft bar, head blocks over in the grid, a baton or bar which is what actually
+[19:36] hangs your load set on a set of wire ropes and then an arbor which is a cradle that you then load
+[19:42] with a specific amount of weight in order to effectively offset the weights that you have then put
+[19:46] on the bar, the idea being that your flyman then only handles the amount of effort required to
+[19:53] move it out of balance. As a general rule you should always be very careful to
+[19:58] wits your bars before you fly them otherwise they will have a habit of running away into your
+[20:03] grid, ask me how I know that. And as a general rule you have relatively little feedback unless you're
+[20:09] operating any theatre that happens to have invested in some kind of a fun to house or top
+[20:15] down camera system run to their fly floor which some of them have but for the most part it is
+[20:22] you are relying on everybody else on the ground your stage managers, everybody else to act as
+[20:26] your eyes in ears in terms of safety systems and then you're putting a couple of marks on the rope
+[20:30] to be able to take it from one point to the other. We have in fact managed to move past this
+[20:38] though not without the addition of a quite considerable quantity of budget so we now have a lot
+[20:44] of automated flying which is motorized which is all computer control closed loop very very
+[20:50] fun systems and this lets you fly people and set and vehicles and whatever the hell you really want
+[20:58] reliably to roughly two the millimeter. Often sometimes beyond that depending on the system
+[21:05] a lot of the systems that you're here for this is Kenesis which I believe is now been bought by
+[21:09] Tate, stage technologies which also do a lot of stuff in that corner but a bunch of different
+[21:16] CM load star will also do some hoists that specifically have these kinds of features built in now.
+[21:22] And this all runs to the ANCE 143 spec and the critical number that you're looking for here is
+[21:28] safety integrity level 3 which is a formal standard for how often these things are allowed to fail.
+[21:34] The critical safety function here is 1 in 10,000 demands which I know seems low but realistically
+[21:43] that tends to be more than enough in a practical reality for what we're doing here.
+[21:48] And the key here is position control not to be controlled. You're going to tell it to go to position
+[21:53] X and stop there repeatedly and it will do the identical move every night because it's all being
+[21:58] watched by encoders and many other fun things. Usually redundant ones and the safety heart of it
+[22:05] is essentially that you will have pretty much two encoders on every single axis and if either of
+[22:09] those two encoders disagree about where something is the system isn't going to guess it's going to
+[22:14] east stop which is a very similar fundamental to a lot of what you'll get when it comes to aviation
+[22:19] engineering where you have like two pretty much two sensors on everything unless you're Boeing
+[22:24] and you get to define all of the motion envelopes in the software in terms of how quickly those
+[22:31] things will bounce between certain points. Quick thing on flying people everything on the automated
+[22:39] flying sides still applies but the moment that a payload becomes a living person rather than a
+[22:43] piece of scenery the overall extra layer of engineering comes in and the design factor goes up.
+[22:49] Generally if you're dealing with lifting scenery or vehicles or whatever else you're dealing
+[22:54] with a 5 to 1 sometimes an 8 to 1 factor for human flying you do a minimum of 10 to 1 on the entire
+[23:00] load bearing path which means that all components are rated at least 10 times the full working load.
+[23:06] And on top of that you do not rely on any single thing you should duplicate every single load path
+[23:11] dual suspension wires dual brakes dual secondary safety is that are completely independent of the
+[23:18] primary and can fall of S different required and all of this is wrapped in a lot of very specific
+[23:24] standards in the US it's anti-E143 in the UK you're looking at the BS 7905 lifting equipment for
+[23:32] performance standards and all of that then sits under the ABTT and DSA flying a performance guidance
+[23:38] and then all of that sits under Lola which basically is the mandated inspection regimen for all of this.
+[23:44] And also worth noting none of this is worth jack without a rescue plan because if your
+[23:49] performance ends up stuck in your grid you need a rehearsed practice way to get them down again.
+[23:55] Your performers are signing on fundamentally to your trust and you need to not only earn that but also
+[24:01] back it up. Yeah a a a a a point on this often these we we do a lot of complicated often very dangerous things
+[24:13] most often what you need to focus on is competence rather than having the right equipment.
+[24:20] The best example of this the one that basically every stage pyrocourse will teach you is the station
+[24:25] night club fire in Rhode Island where in 2003 we have us a band's tour manager showed up with a bunch of
+[24:34] jurbs untrained unqualified set them off it then ignited the acoustic fire in the walls and 100
+[24:41] people 100 people died 230 people were severely injured the venue was burned to the ground in roughly
+[24:48] six minutes. I say that not to be grim but because that is the clearest possible example of what
+[24:55] happens when pyro-tetniks especially but any form of critical safety system is used without proper planning
+[25:01] proper materials or safety assessments and without coordination with the venue. Like every
+[25:07] especially for pyro every single control we have in modern proximity pyro practice exists because
+[25:12] at some point something went wrong with it. Speaking of let's talk about fire alarms for a second
+[25:19] so fire alarm systems as soon as you start putting haze or smoke or pyro into a building that happens
+[25:26] to have fire alarms. Congratulations you are now interacting with the fire alarm system you should
+[25:31] know how it works for one there is a number of different detectors built within this you have
+[25:37] optical detectors which deal specifically with light scatter which is most likely what you end up
+[25:42] within most theaters you have ionization detectors which specifically focus on the combustion
+[25:46] particles you have heat and rate of rise detectors and you have multi-quiterio ones which is most
+[25:52] likely what you will have in most normal theatrical venues. The idea of this is specifically that in
+[25:57] almost all cases a theater is capable of being dropped into what we call a zone isolation mode and
+[26:02] what that means is that you can turn off or turn off certain facets of the fire alarm systems within
+[26:09] that area of the stage meaning that for example you can turn off the heat or ionization criteria
+[26:15] on a specific sensor and only look at optical light scatter for example so that haze might not
+[26:21] set it off but much darker thicker smoke that could come from an actual fire will. The specific
+[26:27] requirements on this again normally if a system is in an isolated or a silent alarm mode then you have
+[26:34] if that alarm then trips in most commercial venues this is not always true you will usually have
+[26:40] a roughly 15 second period in order to go and acknowledge that alarm on the panel at which point
+[26:46] you then have exactly one minute and 30 seconds in order to identify the alarm and cancel it out
+[26:52] otherwise it turns into a full scale alarm and you then have to deal with the joy of explaining
+[26:58] to your set people why all of your flats are now very wet. Yes, each back often always has its own
+[27:05] sensors so if you happen to have any smoke that is getting pulled up and through vents always keep an
+[27:11] eye on that and if you happen to be tapping smoke detectors which is a thing to be very clear that
+[27:17] you should only do if you are qualified and know which ones you're tapping make sure that they come
+[27:22] off the moment that your show window closes out and also always know who your fire marshal is
+[27:28] know who has the V-set keys or that jazz. Excellent we are going to jump through a couple of things here
+[27:36] because we have relatively little time. Let's talk briefly about LED wall. So for anyone who was
+[27:43] dealt with LED wall at some point you will know that it is a bunch of different LED panels
+[27:48] blocked all together with power running in between them and what looks like ethernet running in between
+[27:53] them. It is not ethernet. It is a horrifying combination of cereal and just a bit banged jpegs just
+[28:02] firing their way across the ether for some ging reason. Additionally all of the receiver cards
+[28:10] are not always but at least in the case of stage D for whatever reason. Very volatile meaning that if
+[28:17] you reboot them they then proceed to lose their config or if the flash on them tends to get a little
+[28:23] bit screwed over then they also lose their config and at that point you end up with fun things like
+[28:27] firmware mismatch or if anyone has seen the weird avant-garde art project that keeps showing up on
+[28:32] stage D's infobemer or of them turning 90 degrees sideways for some reason. Lovely we have run through
+[28:39] the specifics on that. Lovely I am going to finish off with this. Eight seconds. That is roughly
+[28:47] how long you have before any audience will notice that something has gone wrong. Not eight seconds
+[28:52] to fix it. Eight seconds before they notice. You may have longer to fix it if you can fill the
+[28:58] time but clocks on awareness are very very quick and the best crews that I have ever worked with
+[29:04] all have a few very specific things in common. They thought very carefully about what they would do
+[29:08] or something went wrong. They thought what would happen but what would what they would do before that
+[29:13] thing went wrong and they have clear decisions that they have already made dry runs familiarisation
+[29:19] runs abort procedures and very clear human layers. At the end of the day the principle across
+[29:25] every discipline should be especially if you are dealing with these kinds of systems if you are not sure
+[29:30] stop. Think about what you are doing figure out the parameters and then go back and do it the way
+[29:37] that you have now figured out. If it is a safety risk you can always call the show stop. House lights up
+[29:41] everything holds as is. Lovely. Thank you so much for coming through to this. None of this
+[29:49] is magic if you would like me to explain any other specific details or anything that I happened
+[29:54] to jump through on account of time as part of this. I will be in the Q&A tent immediately after this.
+[29:59] Other than that thank you so much. Thank you for showing up to this wonderful, wonderful thing that
+[30:05] we have all created together and yeah thank you.

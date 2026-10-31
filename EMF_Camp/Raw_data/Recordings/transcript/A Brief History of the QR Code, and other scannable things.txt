@@ -1,0 +1,180 @@
+[00:00] Thank you very much. Also, big thank you for coming to a talk at Half Six. This is
+[00:16] the, you could all be eating your dinner right now and you're choosing to be here somewhere
+[00:19] really thank you. I'm going to give a talk about QR codes and other scanable things. It
+[00:24] covers other things that are black and white. How do I end up writing a talk about QR codes
+[00:29] that he asked? The quarter-derived subject, I'll try and make it a bit more exciting.
+[00:33] It started off in a project that worked. There was essentially similar to the WhatsApp
+[00:37] remote login, where you can scan it with your phone and it largely being on your desktop.
+[00:41] And then I got really deep into like this QR codes. How do we prove that's us? How do
+[00:46] we know that's secure? How do we know what's going on there? How do you know that's from
+[00:49] WhatsApp? Spoilers, it's not from WhatsApp. How do you know that's from WhatsApp? There's
+[00:53] no way to prove it. And then my partner decided to run a slide tonight. I highly, very, very
+[00:59] recommend you doing this for your friends, get some beers, get some wine, everyone brings
+[01:02] a 10 minute presentation about anything they want to do and I don't know about QR codes
+[01:06] and then kind of evolved from there to become this talk. So highly recommend running a slides
+[01:10] night. So our story begins in 1952 with a patent for the barcode was first registered by
+[01:18] RCA. And it looks a lot similar to what we're used to. You know, some black lines with gaps
+[01:23] in between so far, so normal. That's the barcode. Okay, that is the barcode. Patents,
+[01:32] it was round. Looks a bit weird, doesn't it? I assume I've seen one of these in real life.
+[01:36] I was just the first time anyone's seen this. It was some people love patterns. So yeah,
+[01:42] the first pattern in 1952 for a barcode was round, which is very strange. But they didn't
+[01:47] really get much traction from there. They got patented and they didn't really enter the
+[01:50] world until I found kind of first evidence of a barcode being used as a 92. Of course,
+[01:56] it's trained in the UK. They had a physical metal barcode on each truck and car and
+[02:05] then they would as they was by at high speeds a scanner would be able to scan them. In 1962,
+[02:09] I think that's quite impressive. And so they know each one have a unique barcode. So in 1973
+[02:15] now, finally, the barcode's time to shine. The big problem is, is that shops all over the
+[02:21] world, specifically in the US, are struggling because when you turn up to the checkout with
+[02:25] your items, they're all individually numbered with their price and then the checkout person
+[02:31] has the tightener one in by hand. And you know, big shops are suffering, local shops are
+[02:35] suffering, everyone's really struggling. So the, so the, all the supermarkets get together
+[02:42] in the US and put forward the concepts of a universal product code and different companies
+[02:47] pitch their concept of universal product code, which looks something like this. These are
+[02:51] the different options that were proposed. You know, there's the old plastic circle, one
+[02:55] rule, all friends are the circle one now. But you know, the one we all know and love
+[03:00] is the barcode, which is from IBM. It's got 12 numbers. Yeah. And that one, the universal
+[03:10] product code submission and then started rolling out across the US and then over to here.
+[03:16] And then, you know, people were suddenly using them and I think the first item ever run
+[03:20] through a barcode scan and sold was a pack of, really, really mint gum. So, but now we
+[03:27] have anything called the European article number. It's sometimes also called the International
+[03:30] article number. It's got one extra number. Oh, they're 13 digits rather than 12. But that's
+[03:35] it. That's our classic perfect barcode. So, barcode is the things take over the world from
+[03:41] the 70s and suddenly supermarkets are going super quick, which is great. So, how do they
+[03:47] actually store this information? I might be teaching the suck eggs here, but each section
+[03:52] is made of a seven gaps and depending on how many are filled in with black or not, that gives
+[03:56] you a different number. This is important for the next part. You'll see that six is shaped
+[04:00] with two bars and we gap in between. And that's very important for the next piece of information.
+[04:05] I went to a rabbit hole. I found a book that was a conspiracy theory book about how,
+[04:12] this is in 1982, a conspiracy theory that eventually barcode will take over the world. We
+[04:17] have barcode on our foreheads and there was actually evidence in this book that the number
+[04:21] six, six is inside every barcode. I read the whole thing. It's quite a wild ride. It took me
+[04:29] everything in my, everything in my urge to not turn this entire talk to be about this book.
+[04:33] But, you know, the trust of the book, the new money system, is to discuss how barcode
+[04:37] from products, place and people become the universal system, but importantly the bottom,
+[04:41] the code of use of six, six and universal product code, barcode, etc. But really, this book is
+[04:46] really, that's bearing the lead a little bit. This book is going to tell you the
+[04:49] density of the consortium promoting the global use of six, six, six and spanned upon the
+[04:53] use of this number to create heads and nations, departments and governments, religious orders
+[04:56] and world organizations. Well, big stuff, obviously, it's absolutely nonsense.
+[05:01] But you'll see that they tried to put forward that in the barcode there are these
+[05:05] points in the beginning middle and end that show where the beginning middle end is. And you look
+[05:10] a little bit like a six, the knot, but they look a little bit like a six. So this book was trying
+[05:13] to posit the mark of the devil inside every barcode. So here we are 1994. Barcode has been going strong,
+[05:21] but we're now going to enter. The second dimension.
+[05:29] Chapter call Matthew Hirahara, working for a subsidiary of two,ator. Events to QR code.
+[05:34] Now QR code is made because of QR code, currently holds so much information.
+[05:39] I'm going to hold those 30 numbers. It's just simply not enough for the car parts that two
+[05:43] are to want to label. Then we'll have something really quick and we can hold enough information.
+[05:48] And so he comes up with this elegant idea of the QR code. And there's the original part of the
+[05:52] original pattern in Japanese, like lovely elegant illustration there showing the different parts
+[05:57] of the QR code and how they're the key parts is is that those three anchor points are there.
+[06:02] That's what you always need to a camera can always know which way up the QR code is
+[06:06] in which way, how to read it. There's other things available. There's other
+[06:11] scannable things available. And you may have seen some of these in the wild. I've never seen a
+[06:14] code of block in the wild I think, but data matrix you might have seen. You'll see it often on
+[06:18] medical related things or on like Amazon parcels or things like that. They're useful because
+[06:23] they're lots smaller than QR codes. You can fit a lot more information in. As tech code is really
+[06:28] fun because it looks like a little bit of a pyramid. PDF 417 is what you'll see like it's on
+[06:32] that US passport. I think and that's essentially a barcode just stacked on top of each other. So you
+[06:38] could have an infinite number of barcodes if you're willing to print a PDF 417 as told as you want.
+[06:45] The really amazing thing about barcodes is that they can they can be damaged or still give
+[06:48] it the information. So this is a valid QR code, Christopher Capedia, because it's got enough
+[06:53] redundant information in the QR code to give you the information you need. And that's called
+[06:59] Reed Solomon Eric Direction. He's an example of that. This goes to a really good block post that
+[07:03] looks plain and far more technical detail that I can do in 20 minutes or even could do with several hours.
+[07:08] If we fit a scan at these are all the same QR code, the same information going to the same URL
+[07:13] but as you can see they get steadily more and more busy, let's say. You can see the information
+[07:18] repeating over and over in special in the third one. So if you damage any part of these QR codes,
+[07:25] well, of the second two on the right, you were still better reading and I think that's amazing that
+[07:29] that kind of technology. The left one on the left though I think if you damage any part of it you
+[07:34] lose it and you'll be no recoverable information. That means we can do some silly things with
+[07:40] QR codes. That's how you can have a logo in the middle. It can cover up that part of the middle
+[07:45] and you'll lose the information but because there's enough information left over in the rest of
+[07:50] the QR code it will still work absolutely fine. You can change the color, you can do great.
+[07:55] If you can even change the shape of each individual, but that will make you go to QR code
+[08:00] jail if you do this. Don't do it. I just don't like it. That's why.
+[08:05] Okay so we're in 2010. Now QR codes are really starting to get everywhere. Do you ever
+[08:12] want to remember seeing these on bus stops that they still exist? I don't think anyone's ever tapped
+[08:15] and NFC phone on their tracks are used, it may be just a try out, it's either happens.
+[08:21] And the QR codes start coming out of everything like this is ridiculous. These are never
+[08:23] taken off. They're not popular, they're awful, they're so ugly, they're never getting anywhere.
+[08:27] Oh, how little did we know. We started to see a new crime happening. You can very easily print
+[08:37] our QR code, stick it on any sign and you can cover up that QR code for example and that
+[08:42] sign. Suddenly people are scanning your link going to your app to give you money for parking.
+[08:48] And you're sort of fishing, well this has a much more awful name called Quishing.
+[08:53] But it happens and yeah this is the one the greatest problems with QR codes. I'll
+[09:02] go into that a bit now. So that's the big problem in the day. When you see a QR code you have no
+[09:07] way to confirm that that's who it's from. If you may have noticed this QR codes floating around here
+[09:14] that have trust where the QR code written on them, those are mine. I hope people scan them.
+[09:19] You have no way of knowing. Before you scan it you have no way of knowing where it's going,
+[09:23] what it's going to do or where it's going to send you. There's a post about it on the Natural
+[09:28] Cyber Security Center and they say the QR codes using pubs or restaurants are probably safe
+[09:33] for you to scan. Scanning QR codes are open spaces like stations and car parks might be
+[09:39] riskier. And if you receive an email with a QR code in it and you ask the scan it you should
+[09:44] exercise caution. That last one's interesting because lots of scanners for emails don't necessarily
+[09:49] scan the QR code. So if you put like a fishing link in the email and it would get caught out by
+[09:54] scanners but they don't necessarily scan the QR code part. So if you get a QR code in an email don't
+[09:59] scan it don't touch it. Oh whoa what's this? Hold on a minute. There's a new contender
+[10:06] arrives in 2010. Does anyone remember these? Whoa. There are dozens of us. This is the Microsoft
+[10:14] tag and the Microsoft tag revolutionized the way of doing QR codes instead of storing the information
+[10:19] about the tag in the tag it just links to your RL on Microsoft servers. Now you may have opinions
+[10:26] about having everything hosted through Microsoft but they solve this issue because suddenly you can
+[10:32] cut someone off if they're using your QR codes and the tags in appropriately. You can before
+[10:37] you scan it you can see in an app where it's going to send you and what it's going to do. So it
+[10:42] really solved the problem. Yeah so depending on your opinion about sending traffic to Microsoft you
+[10:49] can now they've solved it. Brilliant. Amazing. So now obviously now we're living in a while
+[10:53] it's surrounded by Microsoft tags and the AMF is full of them and we've seen them everywhere obviously.
+[10:58] And Microsoft tags are incredible because you could design them they could have my horrible
+[11:03] designs but these are all valid Microsoft tags at the time. You could have the branding if you
+[11:08] wanted your brand to look like awful but you could brand them. How amazing. So here we are 2012
+[11:15] off-global rocking through this. It's the 60th birthday of the barcode and the company called AC
+[11:22] Label's Prince the world longest barcode. What a time to be alive. I'd like to imagine the size
+[11:29] of the scanner you need to scan that. Okay 2013. Oh man this is going well. What? Oh there's a QR
+[11:39] code on this. That's why it's on there. Okay let's reboot and um... this August 19th 2013
+[11:45] noticed the Microsoft tag service were terminated in two years and August and oh okay so Microsoft
+[11:50] killed the tag service brilliant. That actually sold it to another company just to keep it on
+[11:54] live support but it it it lasted all of three years before they said they were going to kill it. So
+[12:00] the solution to our problem was Microsoft and the solution to that problem was also Microsoft.
+[12:07] But the two our codes continue to not be secure but they're popular now that everywhere so like
+[12:12] okay fine just get on with our footlives. Here we are 2019. Master here with Harra enjoy the
+[12:19] 25th birthday of the QR code and there he is with a cake that goes to a page of popular
+[12:25] part of the QR codes birthday and he can relax knowing that his work has suddenly exploded
+[12:30] his work for ladling hard parts has exploded across the world in ways he couldn't expect and
+[12:35] honestly the QR tour of the QR code finishes at 2019 nothing nothing important happened after
+[12:39] 2019 right like this is the end of the talk right but oh no this 2020 okay things happened in 2020
+[12:46] suddenly we were living in a world of infinite QR codes. Suddenly like a thing that was like a
+[12:51] novelty that you'd use occasionally but suddenly everywhere using to scan your tests and then
+[12:58] we even lots of tests if you had a bad particularly bad week was Joe here that would be you did
+[13:03] have a bad week. This is the biggest QR code ever since that's why the poster has to be so big
+[13:09] because there's an absolute massive gooey in that part in this barcode we lots of error correction
+[13:15] but it's only how these everywhere they got to scan with with the NHS app and things like that.
+[13:19] Great idea this is perfectly for a barcode but suddenly there was a true the true pandemic was
+[13:24] QR codes so here we are 226 suddenly there's QR codes everywhere in EMS now there's no this one
+[13:35] I desperately wanted to get a temporary tattoo of a QR codes and the lovely folks at the furry
+[13:42] embassy printed me one until I realized that if you flip a QR code it doesn't work so you have to
+[13:48] print it because it couldn't when it goes on it's reverse so I was really hoping to do like look at that QR code
+[13:54] so just imagine there's one on my arm and you're like wow this guy loves QR codes and but they're everywhere
+[13:59] in EMS they forget that I think this is the tremendous an QR codes ever I've been trying to document them all
+[14:05] now you'll see when you go back into the real world you will see I want to see QR codes absolutely everywhere now
+[14:12] there's my trust to where you're going to go down that so I would I can say with absolute
+[14:19] certainty this field is certainly the field with the most QR codes per square meter in the wider
+[14:25] heart of herifid shear region I haven't yet the other so yeah we can enjoy that Guinness World record
+[14:32] but now that everywhere in the real world as well not just EMS so since COVID we now see them on on bar
+[14:39] as we scan to order our food we see them on the side of pint classes that go to a competition
+[14:45] about football when we're trying to enjoy pint of a sahi we see them on inventory apart I see them
+[14:51] inventory apart just a catalog something this QR code just says like a number and not sure what they use it for
+[14:58] on very curious though and that you know in this photo alone from Tom there's four QR codes visible in this
+[15:04] picture that goes completely different places there's even the concept of saying there's a QR code
+[15:11] but not supplying it which I we're correctly entertained as a QR code out they have to hunt it down
+[15:17] like some sort of scavenger hunt now this is my favorite this is a sahi nice saw when I was walking
+[15:23] through London you know have our pay apps when you're parking except this sahi has a very specific
+[15:31] notice to avoid pushing it's still the worst word ever made because it says this sahi does not
+[15:37] contain QR codes so now we have to also specify when something shouldn't contain QR codes although
+[15:43] someone's enterpriseing it to put a QR code on there that also enterprising enough to put a long
+[15:47] white sticker over that so go well done sahi people and back then I'm going to go as far as say this slide
+[15:54] does not contain QR codes so actually that's the end of my talk I hope you've really enjoyed it
+[16:01] I wanted to share leave it on the screen the best QR code I've seen this is as I was doing my
+[16:06] walking work in this talk this chap on on mastered on post of this is two QR codes in one
+[16:12] and depending on how you hold your thumb up you can get the different QR codes if you use your thumb
+[16:16] to cover up one of the squares you will get a different QR code and I think that's really really
+[16:20] impressive so thank you very much

@@ -1,0 +1,171 @@
+[00:00] I met a lot of people here at the Twitter.
+[00:18] I'm really for your stamina.
+[00:22] Thanks.
+[00:24] My name is Thomas Fisher.
+[00:27] I fell into the Kenbos Automotive Hacking around 10 years ago.
+[00:33] Everything started with one tiny video, which I want to show you.
+[00:41] Sorry we tried it with audio, but it did not work, but we get it running.
+[00:47] Maybe some of you already noticed one.
+[00:54] Does anyone find something a bit different there?
+[01:06] The cost is like swagger.
+[01:09] It is my 10 to 60.
+[01:12] What you are seeing here is a Tesla Trifetrain.
+[01:16] They are absolutely comfortable as you could see here.
+[01:20] And now the question is what does it have to do with my talk?
+[01:24] The reason this company, this conversion company, EVTV, I really highly recommend their channel.
+[01:33] They are a bit old because one of the owners certainly died, but their business model was basically getting 14.350 or something like this.
+[01:43] Getting a Tesla Trifetrain in it.
+[01:46] And also now we are people who are a bit more interested in hardware inside of the car, which should not be there.
+[01:55] I have a supply for example, Tesla batteries, also with the battery.
+[02:01] You need a bit more electronic components.
+[02:04] Otherwise it will not work.
+[02:07] Also if you have a conversion, there is a tiny, tiny problem because a lot of the components your car has should be there later as well.
+[02:15] So for example, if you have a climate, I mean look outside.
+[02:20] You want to have a bit cooler and in the winter it is really a high-d recommend feature that you have for heating.
+[02:26] So stuff like this, but all this components are really interwoven into your car.
+[02:32] So we have a whole network inside the car and all of this parts interacted with each other.
+[02:40] And the protocol, the language they are speaking, is basically the canvas.
+[02:46] The canvas was invented by Bosch in the middle of the 80s.
+[02:52] And it was really a necessary, in a moment, that we had something like environmental regulations, stuff like this.
+[03:01] So it was not enough to burn as much fuel as possible.
+[03:05] I mean, we still have some continents who do it like this, but they are getting smaller and smaller in importance.
+[03:12] And now we are in a new time that electric cars are much more much as they say.
+[03:23] It gives a bit more possibilities than a few years ago, because the whole automotive sector was really closed.
+[03:31] Yeah, really closed.
+[03:35] Yeah, a group of people.
+[03:38] And everything was really, it was the best one of all you could track down.
+[03:43] So for example, if we have some company in Wraftsburg, which wanted to have something like diesel, which burns a bit more clean, they were calling basically Bosch and saying,
+[03:57] Okay, yeah, but we need an ECU, which is in a diagnostics mode.
+[04:03] And the diagnostics mode allows them to use a bit less at blue than they wanted to have.
+[04:12] The problem is for them, there was a tiny paper trail about every tiny change.
+[04:18] And this was also the reason why the Volkswagen had to pay a lot of money in America.
+[04:24] Here in Europe and also in UK, they were a bit more, yeah, they were a bit more lucky.
+[04:33] Getting back with this engine, with the ECU, a modern car has more than one hundred small computers, ancient control units.
+[04:43] So we have ancient control units, for example, in a transmission, we have an emouterous, we have it in a lot of places.
+[04:52] And the first idea was to use this, the canvas, the highly robust protocol for basically everything, which leads to some other different interesting things.
+[05:05] So for example, BMW had the great idea, okay, let's use it to fall down the mirrors.
+[05:11] There was just a tiny problem, in a moment your mirror is broken, and there are two cables hanging around.
+[05:18] You have basically an unencrypted protocol, which you could help make different decisions, something like this.
+[05:26] So this was why they changed it and made different smaller variants of it.
+[05:33] So for example, this was then the linbos.
+[05:35] So at the moment if you have a car and you want to make the window up and down, they use basically the linbos of which is a smaller version of the canvas.
+[05:48] The cool thing is for us today, as, yeah, as headquarters or as creators is the canvas was incredible cheap.
+[05:56] So if you have some Arduino and some Arduino knowledge, and you just want to have a really highly robust protocol for it, the transformer is around 10 euro.
+[06:08] For Raspberry Pi, it's maybe a 30 euro, but then you already have two channels, you have already protection because they have different voltages.
+[06:18] So if you plug your car into your Arduino, you should look for the watchers because otherwise one of both can burn.
+[06:28] And now we have a really, really big chunks of using this protocol.
+[06:35] And also it is used in wide area at the moment. So for example, if you have, if any of you has a person at home, the chunks that is door will open with the canvas.
+[06:47] If not, maybe with the bicycle, the Shimano D-I-2, and the electric shift is also working with the canvas.
+[06:54] Also there are trains. There is, for example, also a highly recommend, a talker from some guys which helped the Polish train company with their DRM.
+[07:07] It was in the conference from the CCC, I think two years ago, it's also really cool, and they just used the knowledge about the canvas to document that there was some shady thing for the company.
+[07:23] So, the shady thing from the manufacturer going on, and that could fix it with a really good price.
+[07:28] So, also this was really quite talk.
+[07:32] The next thing, what can you do? At the moment, there are a lot of things which are already finished, which you can just plug in into the car.
+[07:45] My absolute favorite is the Machina M2. This is, it started as a Kickstarter, just give it to you.
+[07:55] So, the dogs, and this looks like this one.
+[08:05] What you can see here are three different types of basically the same. Those are two boards. The one board is Arduino board.
+[08:16] It is just an assias of the OBD port. The OBD port, this is the black thing on the top.
+[08:23] And this is the diagnostics port every car has to have. And also the cool thing is for us, it has to be a close to 50 centimeters around this viewing wheel.
+[08:34] So, if you are looking in your car, the chunks are really great, that is really easy to find.
+[08:41] But also there are two things which, in the review of getting good access to it, the one is German manufacturers,
+[08:52] because they are highly not interested that you play video on car, so they try to divide their networks.
+[09:02] Completely opposite the Japanese cars, so they normally have only one can was for all.
+[09:09] So, if you have a Japanese car or get access to it and you get something like this, where you have, for example, Arduino routine, which sniffs all the data on which comes to the canvas channel 1 and writes it to us decarts, you have a lot of explore.
+[09:30] The left from you is the newest version, it is Machinol A0, the thing is it got bluetooth connection and also you have the micro USB on the side, the specs really cool.
+[09:49] And then also to show you the final level of what works if you are a bit more robust in your risk calculation, is this one.
+[10:06] Come on AI, it is American.
+[10:11] It is not a stop anymore if it is 10 years on a market, correct?
+[10:17] There was an American hacker at George Hals who proved to Sony with a PlayStation 1 that building your own crypto is not a good idea.
+[10:30] From the money afterwards he made a company which makes this, he opens the auto piloting, this is called auto pilot.
+[10:41] And they are the mirror, there is a tiny device which looks a bit like some smartphone.
+[10:50] And basically this is what it started with in Android smartphone. At the moment it got three cameras, it got a special processor, especially for it.
+[11:01] And it allows all the flexibility your car allows in a technical way.
+[11:09] This means if you have lannuses, the input for the lannuses should come from your hands or from some camera, but also it can come from some Android smartphone which is below and with two different cables connected to your car, for example.
+[11:31] And this is basically come an AI.
+[11:39] If you are in your own private garden and you have for example your own race track in your garden and you have $1000 over and maybe 150 for the harness.
+[11:51] This is something to get your money on it.
+[11:55] If not, go through a page, look for the videos, it's incredible.
+[12:04] Come back to the...
+[12:09] Looking for this, just look at this.
+[12:14] This is so...
+[12:21] The great thing is with the machine. You can really...
+[12:28] You can sniff basically all the data which is on the canvas.
+[12:33] This is a lot.
+[12:34] So you can...
+[12:38] There's even a video on the machine-of-age.
+[12:43] They ordered everything from a car, so all the electronics without the motor and whatever.
+[12:51] And they landed just on the floor and they just connected it.
+[12:56] Also a lot of people at the moment who make chairs for cars and later,
+[13:01] also use real hardware because it's just cheaper.
+[13:05] You get broken down on the Toyota or whatever.
+[13:09] Ripped electronics off and the contractualization is a right converter.
+[13:15] And also as we at the moment know, writing code is not...
+[13:20] Yeah, it democratized. Let's put it like this.
+[13:24] And...
+[13:27] We have...
+[13:41] Now we've talked about...
+[13:44] We have a device which can...
+[13:47] ...save stuff to some...
+[13:50] ...some way of memory storage.
+[13:55] The biggest difference from the canvas...
+[13:59] ...converse to normal networking is...
+[14:03] ...everything works with broadcast.
+[14:05] So everything is just shouting on the same line basically.
+[14:08] This means you have as receiver to know what is the address of the center...
+[14:14] ...which is a bit weird concept in the first moment.
+[14:19] But if you think back in the 80s, okay, Ethernet was a bit...
+[14:23] ...yes, I'm not using it basically.
+[14:27] Then you can understand this.
+[14:30] So on this, this is...
+[14:32] ...save account, this is also open source software.
+[14:35] For me, I used it basically as an external for canvas data.
+[14:41] It works really cool.
+[14:44] What I really like is, for example, you have on the bottom right a lot of marked...
+[14:52] ...thing is, those are all the addresses of all the issues...
+[14:56] ...which are at the moment communicating.
+[14:58] We talked before, a relatively modern car has more than 100 issues...
+[15:04] ...which is a lot, so filtering is absolutely best friend.
+[15:07] So the easiest way is to sniff the data, filter it...
+[15:14] ...and also make only one action which you can control.
+[15:18] For example, if you know, okay, speed should be something...
+[15:22] ...I would say zero to 120 miles or something like this.
+[15:27] Then you can filter and in a moment you find the payload data...
+[15:33] ...for this value, congruent relations, the chunks of really high...
+[15:35] ...that you find the right address for it.
+[15:44] We also seen it before in the workshop that it was really...
+[15:48] ...you only can do it wrong when it comes to file format data.
+[15:53] So there is a lot of going on, but no real standard.
+[15:59] This is also why if you buy some Obededong, but Bluetooth...
+[16:04] ...it costs maybe 10 euro or something like this.
+[16:07] But this software can cost maybe up to 200 if it really wants to support your car.
+[16:13] Because it's a distillation of what is the sender address.
+[16:18] And what is the meaning of it?
+[16:20] This is what the companies are developers or whatever let you pay.
+[16:26] With the machiner, you are a bit on the more hacking side...
+[16:33] ...to do a bit more by yourself.
+[16:35] But on the other hand, you have a whole community there.
+[16:39] And the whole community already makes all the default scripts already publishable.
+[16:45] So if you just want to use the machiner to get a data...
+[16:51] ...just to see it on the screen or to use it for not device...
+[16:56] ...for sure there is already a ready-made script on one of the machiner pages.
+[17:03] With the canvas data, also, interesting thing is you have to know where the one message stops and where the next one stops and where the next begins.
+[17:16] And this is what is a bit really at the beginning, something which is highly confusing.
+[17:23] This is why I really prefer to use the savvy can, also to show it because then you have...
+[17:29] ...you see, okay, this is the timestamp, this is the next timestamp and also the package.
+[17:35] If you look at it yourself, I don't know for example, some of those profiles or something.
+[17:42] You have to decode it and you have to know how the message is.
+[17:47] It's not rocket science, but still we have tools.
+[17:51] So those are the biggest things I would recommend for you to look for at the moment.
+[18:01] The machiner is really something which works really cool.
+[18:05] And also, we are in the next transformation at the moment.
+[18:11] So we are changing the EVs are here even more present than in Germany at the moment.
+[18:16] We are changing to the software defined vehicle and this also changes a lot.
+[18:23] So if you have a friend who has the test lab asked them, look for the service mode, look for yourself.
+[18:31] If I see software locks from software developers and I compare them with the locks, the test lab, the car has already inside.
+[18:42] A lot of times I say, what is your profession?
+[18:48] This is how you want to do it, how much I have it.
+[18:52] It's really really written what is going wrong, who is responsible for fixing it, what is the impact of the whole system.
+[19:00] And stuff like this works only if you have a processing power if you have a real computer.
+[19:05] And you get rid of this basically 80s technology.
+[19:09] So I think this is perfect way also loaded to wrap up.
+[19:16] Thank you very much.

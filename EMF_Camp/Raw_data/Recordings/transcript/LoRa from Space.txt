@@ -1,0 +1,253 @@
+[00:00] Right.
+[00:16] Laura from space.
+[00:19] I've been working with sensors and Laura for a number of years now.
+[00:24] I initially initiated the oldest things network communities in the UK.
+[00:31] I was a co-founder of New Bride District Hackspace, based in Thatchham.
+[00:37] I've got a lot of experience making things.
+[00:40] For the past almost three years I've been working at a company called LaCuna space.
+[00:45] They produce a device to satellite IoT service.
+[00:51] As part of that service they actually build their own satellite payloads.
+[00:57] They don't build the whole satellite, they just do the payloads.
+[01:00] This talk is about how I've been involved in building those payloads and what goes into it and the testing.
+[01:09] So it's basically my day job.
+[01:13] What we're going to talk about how the payloads get put together, the testing we do on the devices that are going into orbit,
+[01:25] sending them into space.
+[01:27] We do some testing once the re-nob, before we can actually use the service.
+[01:32] Then some examples of the device to satellite service as it can be used in the fields.
+[01:41] There's a little bit of technical about the differences in the Laura that we actually use to get around some of the issues that we discovered in the early days of this program.
+[01:52] First off we actually got a build some payloads.
+[01:57] They arrived as a kit of parts.
+[02:00] We get PCBs from our PCB manufacturers.
+[02:04] We get metal work from CNC machine shops.
+[02:08] This is our been designed in-house by people.
+[02:12] A lot more experience at this than myself.
+[02:15] I'm just putting the whole lot together.
+[02:20] We actually build three different types of models of payloads.
+[02:26] We have an engineering model which is what we give to our satellite builders to actually ensure that the device fits in to their spacecraft.
+[02:36] That it can communicate the software all works.
+[02:40] We then produce flight models and these as the name says these are the ones that are going into space.
+[02:48] We have a final model an engineering qualification model which is the same as a flight model but it goes through a lot more rigorous testing and we've particularly used these for new devices, the new testing programs.
+[03:05] So this is a picture of one of our boards and as part of the process of getting it ready for space.
+[03:14] We have components need some additional mechanical help to secure them on the board.
+[03:22] You don't want to fly off when you're launching.
+[03:26] You can see there's some large inductors in there.
+[03:28] They got big blobs of epoxy just to hold them in place.
+[03:33] And the board also conformal coated to cater for the temperature changes and for if there's any condensation develops.
+[03:43] As it orbits the Earth.
+[03:46] But as with any new design you could get issues during the testing.
+[03:53] So these are a couple of photographs of one of our boards that's currently in orbit.
+[04:00] That had to have some modifications.
+[04:02] So if you know your surface mount devices, those resistors are the O4O2 size.
+[04:09] So these modifications were done under a microscope.
+[04:13] And I'd never done this before.
+[04:16] It was really tricky.
+[04:17] Those pieces of wire are less than a centimeter long.
+[04:21] So it wasn't easy to do.
+[04:29] So once we've assembled everything and it's going into space we need to secure all the screws.
+[04:36] So as you can see on the other screws on these you got blobs of epoxy because you don't want them coming apart when it's being launched.
+[04:45] And this is a picture of one of our second generation payloads.
+[04:49] The big black piece in the middle is actually Nvidia module.
+[04:56] So it's basically running Linux.
+[04:58] So we fly Linux in space and you can actually communicate with it and run commands on it from the ground.
+[05:05] Also do firmware updates as well which is quite fun thing to do.
+[05:11] So this is one of our first generation payloads.
+[05:15] This is looking at it from the side that would have the antenna mounted.
+[05:20] And as you can see you've got all the screws epoxy didn't place again.
+[05:26] The next stage of this is we actually put on the antennas.
+[05:31] So these are something that looks like it's in the size of a tuna fish can.
+[05:36] It's compacted. It's got a lid on it.
+[05:39] And this needs to be deployed in space.
+[05:42] And we've got more pictures of it being deployed later on.
+[05:46] But basically the deployment mechanism is a couple of heating elements.
+[05:51] So we've got two on there for redundancy just in case it doesn't work the first time.
+[05:56] So what they basically do is burn through a cord.
+[05:59] The lid flips up and you get a big spring coming out.
+[06:04] And the cables for that are routed underneath the antenna, round the side.
+[06:09] And yet again we've got the connector with the screws that are all secured so that they can't come loose during their lunch.
+[06:22] So with the Linux module you get in a lot of heat particularly if it's under heavy loads.
+[06:27] So there's been a specially designed heat sink and heat pipe mechanism.
+[06:33] So this actually takes the heat away from the module and takes it to the outside of the spacecraft.
+[06:40] And these have actually been quite effective.
+[06:44] So once we've got them assembled we need to do some testing.
+[06:50] Sorry excuse me.
+[06:52] With the EQM modules we've got to go through a series of testing involving vibration testing and thermal vacuum testing.
+[07:04] So this is one of our devices on a vibration table.
+[07:10] This is a rail space.
+[07:14] And the beauty of working somewhere like how well is we've got access to all these facilities without having to travel anywhere.
+[07:22] So this is a close of you.
+[07:27] What they do is they attach accelerometers to all the axes.
+[07:32] So we can actually see if there's anything moving that shouldn't be anything that's vibrating that shouldn't be.
+[07:39] And at the end of each test we take it off.
+[07:42] We ensure that it's still working and put it back because these plates only operate in one direction.
+[07:48] We've got to then physically turn it round to do the other axes.
+[07:57] So here's a little video of the vibration table in action.
+[08:03] So it runs through a sequence of different movements, different rates.
+[08:10] It could be anything up to sort of 3, 4G that it's simulating.
+[08:15] And then finally we do in the Z axis.
+[08:18] So the whole machine is actually tilted upright.
+[08:23] And these tests are then run.
+[08:29] So after that we move on to thermal vacuum testing.
+[08:35] So this is a view into this thermal vacuum chamber suite at Harwell.
+[08:43] So you can see there's two chambers in there.
+[08:46] There's a lot of chambers of different sizes.
+[08:48] Some of them you can fit a car in, some of them you can fit a bus in.
+[08:52] One of the facilities there, the new National Satellite Testing facility.
+[08:56] You can probably fit a coach in there.
+[08:58] So it's Kate, this is a big satellite.
+[09:00] But we're not at that scale.
+[09:02] We're just using the small chambers.
+[09:04] But before we go into that room, we've actually got to get dressed up.
+[09:09] So completely covered in overalls, cucumbers, boot covers, hoods, masks, everything.
+[09:18] So it gloves, they're also connected to a cable.
+[09:21] So you can plug into the grounding points in the room.
+[09:25] Which makes it interesting when you've got multiple people in there.
+[09:28] You're trying to cross around and you get tangled up in these cables.
+[09:33] So what the chamber looks like when the doors open.
+[09:36] So it's got a bed in there slides out.
+[09:39] You're attached your payloads, a touch a lot of thermocouples and temperature sensors to it.
+[09:47] So you can monitor the temperature in all the areas to make sure that it's heating up evenly.
+[09:54] So you actually push it back in and it's almost ready to go.
+[10:01] We've got the doors closed.
+[10:03] We need to ensure that it's actually operating.
+[10:06] So we come back outside and the outside of the chamber.
+[10:11] We don't need to get dressed up so we can come and go as we please.
+[10:14] We've got our equipment set up here.
+[10:16] We can communicate with the payloads to running functional tests, RF tests.
+[10:22] Just to ensure that it is working before we go and close the door.
+[10:26] Because once they close the door, they're starting to depressurise the chamber and start the process.
+[10:33] So it usually takes for this size chamber overnight for it to get decent vacuum in there.
+[10:39] And then we can start the tests the next day selecting different temperatures we want to run out.
+[10:47] But all the equipment has to go through a port.
+[10:51] So there's a series of ports on the outside of the chamber for your data, your power and RF signals.
+[11:00] And we also had an antenna hanging in there so that we could actually test the antenna when it was deployed.
+[11:07] So these cycles take a few days to run.
+[11:11] So it's not an instantaneous test process.
+[11:16] So when you go back into the clean side of the chamber, they have a port.
+[11:21] So you can look through it and you can see what's going on in the chamber.
+[11:25] There's a light on there otherwise it would normally be dark.
+[11:29] So once we've run the test, one of the last tests we've got to do is we've got to do an antenna deployment test.
+[11:36] And what that involves is giving the signal to the payload to actually say deploy the antenna.
+[11:44] So it's heating up the heating elements.
+[11:48] This has been truncated to about 10 seconds, but normally it's between 35 and 40 seconds.
+[11:55] And this is what's supposed to happen in space.
+[11:59] So we know that the commands, the circuitry and the deployment coils are all going to work.
+[12:06] Otherwise it's pretty much mission over if this doesn't happen in space.
+[12:13] So we come to finish off the thermal vacuum testing.
+[12:18] We open the chamber, dismantle everything, restore the antenna, ready for it to next stage.
+[12:25] And that's the engineering model finished with for that time.
+[12:29] It can be done with we can have additional testing if we want with it.
+[12:34] But all the flight testing, we then do in our own office in our own lab.
+[12:41] We have our own thermal chamber.
+[12:44] We have a basic RF box that we're doing RF testing.
+[12:49] We have vector signal generator where we can generate lower signals into the payload.
+[12:55] We can then measure the signals coming out.
+[12:57] We can do sensitivity tests to ensure that everything is working as it should and within spec.
+[13:06] Even though it's a small thermal chamber, we can actually get two payloads in.
+[13:10] And this actually speeds up the testing because from the campaigns last year or year before we had eight payloads to test.
+[13:18] So they were taken about a week to do each pair because of the cycles we were using.
+[13:26] Cooling them down to minus 35 Celsius, heating them up to 80, sense Celsius.
+[13:33] And we were doing operational tests at minus 20, zero, 20 and 50.
+[13:41] Just to ensure that everything was functional at those temperatures and could operate safely in space.
+[13:51] So with the RF chamber, we can run tests over the air.
+[13:57] We can then do emissions tests.
+[14:00] So we can actually tell if there's anything coming out that shouldn't be.
+[14:05] If there's any chips oscillating that are generating signals that shouldn't be there.
+[14:10] We can test those.
+[14:12] But these have already been through previous tests on the design stage.
+[14:17] We know that there shouldn't be anything.
+[14:19] If there is, then it's possibly a build issue or something else that's crept in on the way.
+[14:28] So heading to space.
+[14:35] Because we don't build the satellites ourselves, they go to a, especially satellite build there.
+[14:42] We've got to ship the payloads ourselves.
+[14:45] So this is our first generation payloads that were launched last June on their way to the,
+[14:52] to be installed in the satellites.
+[14:56] We have our second generation later on.
+[15:00] They were launched last November.
+[15:04] This is what the actual satellite looks like.
+[15:07] It's about 40 centimeters long on the body.
+[15:11] 10 centimeters square.
+[15:14] So basically a cylinder with the wings with the solar panel wings extending about 30 centimeters.
+[15:20] Our payload sits at the very bottom and the antenna once it's deployed hangs down from the bottom.
+[15:27] And that's the way that it's facing the earth with the antenna downwards.
+[15:31] As another couple of antennas which are used by the company operating the satellite for telemetry control
+[15:39] and retrieving the data as they pass over the ground stations.
+[15:45] So these launches were done with space X and what's called their ride share missions.
+[15:51] They called them transport of 14, transport of 15.
+[15:56] Because we wanted the satellites to be spaced evenly around the globe.
+[16:01] We used another device from DOR bits.
+[16:06] Their SCV vehicle which is just basically an autonomous space vehicle which takes the devices to the correct altitude,
+[16:15] correct location and then deploys them.
+[16:18] And if you look at the picture halfway up the which side is it.
+[16:24] It'd be the right hand side.
+[16:26] There's sort of a big box there with what look like two-gold tubes.
+[16:31] Those tubes are the launchers that the satellites are installed in.
+[16:36] And on the opposite side there is another similar vehicle with another two satellites in there.
+[16:45] This was from the SpaceX website on the day of the launch last November.
+[16:52] So they're installed in there.
+[16:54] It's about to be launched.
+[16:56] And with the SpaceX launches they give you lots and lots of information.
+[17:01] It's a bit of an education seeing what they produce, all the different stages.
+[17:07] They're describing everything that's going on.
+[17:11] They're videoing it so the whole thing can be watched live.
+[17:15] And we had launch parties sitting around drinking beer with everybody on Zoom or Google Hangouts.
+[17:23] Whatever it was watching the launches.
+[17:27] And also the boosters coming down.
+[17:31] Incidentally the same booster was used for both the transport of 14 and the transport of 15 missions.
+[17:38] And they'd already been used 30 times.
+[17:42] I don't know how many times they've been used since.
+[17:44] It's probably still in use.
+[17:48] And then that was another successful landing of the booster.
+[17:52] Once they're in orbit they also show you the deployments of the different payloads.
+[17:58] Because there's lots of different companies on there with their own satellites, with their payloads.
+[18:03] There's lots of different launch mechanisms.
+[18:06] And right at the very back you can see the IONSCV vehicle.
+[18:11] It's just being launched.
+[18:13] So this was from the transport of 14 mission last June.
+[18:17] And it was about 2 hours.
+[18:19] Yeah, this is you can see 2 hours 21 minutes into the flight when they would deploy it at around 600 kilometres up in orbit.
+[18:31] So once you've got the satellites in orbit, we want to make sure that it's actually working.
+[18:36] So the satellite builder was doing their own testing to make sure that the vehicle's actually working.
+[18:43] And once it's working they hand it over to us so we can do our own testing and what we're doing is we're doing scans.
+[18:51] So we've actually got the antenna still deployed, but it can still be used to do scans.
+[18:57] And the reason for doing that is that when we deploy the antenna, we can actually compare the scans to see if there is an issue or if the antenna had been deployed correctly.
+[19:12] One of the things we do need to know is has the antenna deployed.
+[19:17] Because there's no cameras there that there's nobody to watch it.
+[19:20] We actually have to rely on the telemetry from the satellite.
+[19:25] So we give the signal to deploy the antenna and about 35, 40 seconds later we see these massive spikes.
+[19:34] As you remember from the video earlier of the antenna being deployed in the thermal chamber, it looked quite a violent reaction process.
+[19:45] So once we know that's happened we can breathe a sigh of relief and then carry on with our testing before bringing it into service.
+[19:58] But a couple of things that have been found over the years is that Laura on its own is not very good.
+[20:09] Because Laura used the original Laura was using the chirps spread spectrum and it was originally developed by French startups likely out in 2010 who were then acquired by Sam Tech in 2012 who then went on to manufacture chips, licensed the chips.
+[20:28] And this is these are used in all of the devices if you use things like mesh tastic, mesh core and then you're the Laura devices it's using the same chips.
+[20:39] But they don't work very well with the gateway traveling at 17,000 miles an hour at a range of 360 miles.
+[20:48] So they came up with LRFHS which is the long range frequency hopping spectrum spread spectrum.
+[20:56] So this increases the network capacity increases the reliability and it actually works great on the satellite payloads.
+[21:06] But there aren't a lot of ground devices using LRFHS because what's needed to decode the signals as dedicated FPGA's, STR radios and a lot of software to put it on the various bits that are received on the internet.
+[21:25] That are received on the radio spectrum back together to give you a meaningful packet.
+[21:32] So antennas. We've already seen the antenna that's on the payload. This is a dummy one that we've got on our demo satellite that we take to shows and exhibitions.
+[21:47] It's actually made by a company called Oxford Space Systems based out of Harwell.
+[21:52] I've seen recently that they also do a VHS version but it's about 4 meters long.
+[21:59] So if you imagine another spacecraft with a 4 meter long antenna of the same sort of design then that's something to see.
+[22:08] But they also do other deployable antennas like big umbrellas. So if you imagine an umbrella that's 12 meters in diameter made of a knitted gold thread then that's a sort of thing that they can do.
+[22:23] On the ground devices we have a reference design and because the antennas are all used in circular polarization we have the antenna traces on the PCBs in a circular pattern.
+[22:37] So we've actually got 3 antennas on this board here. The out which has been tuned is the Laura antenna. So it can be tuned for the 868s and 915 megahertz band depending on where you're using these devices in the world.
+[22:57] You've got the next antenna in it is an S band which can be used which is in the 2 gigahertz spectrum.
+[23:06] That can be used where your regulations allow the third antenna is for the GNSS device so we can actually know where the device is.
+[23:21] So how look at how these ground devices are used to actually use the satellites. So we've got the basic reference device anybody wants to use the service. This is what they buy to start with.
+[23:35] It gets configured. They stick it outside. They then see their data and they can say yes it works in my situation.
+[23:44] This can actually work with the things network. So you've got an easy way of getting it connected very quickly rather than having to develop your own back ends.
+[23:57] The main uses is a lot of agriculture so we can do soil monitoring in fields. So this was a rapeseed field of near dead cut.
+[24:12] We're the monitoring rain gauges which can be tied in with the agriculture theme.
+[24:19] We can do tracking. So as we've got a GNSS device on there it's transmitting its location.
+[24:26] So I've actually got one on my camp event and it's been tracking my movements for the last 2 and 1 half years.
+[24:35] So it's actually got a location for where I was here last time and also when we're here this time.
+[24:42] We've got other use cases we use in them out in banana plantations in Brazil and Ghana.
+[24:49] They're monitoring the conditions and with some AI software in the back end they're able to predict a fungus that could affect banana plantations and decimate crops.
+[25:03] So they've got actually an early warning system for that. They can treat it and it reduces costs to the banana plantation owners.
+[25:12] We have other uses that are in the some Welsh valleys. So they're monitoring river pollution levels.
+[25:20] So you've got farm lands with chemical runoff going into the waterways. So these are picking it up early.
+[25:29] And other use cases are south Pacific. So we've got some monitors in the south Pacific that are monitoring the levels of water tanks because these islands don't have their own fresh water source.
+[25:42] It's got to be shipped in from Australia on New Zealand. So these are giving them an early warning to say we're running low, send a ship and the ship's taking a few weeks to get to them.
+[25:54] So that's being used there actively. And we're always having new customers, new use cases coming along very regularly.
+[26:07] So that is me. I'll be over in a QA tent if anybody has any questions afterwards.
+[26:24] Thank you.

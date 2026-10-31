@@ -1,0 +1,376 @@
+[00:00] So yeah, for my name's Tim, also known as Midzilla. And today I'd like to talk about a very weird art project I did a while back.
+[00:25] So before we start, I'll say I came up with this independently.
+[00:28] And, you know, when I did it, I thought it was one of the best things I've ever done.
+[00:34] But conceptually it is very simple. And, well, I mean, it's very easy to copy.
+[00:41] And also, it's quite likely somebody else might have done it before.
+[00:44] I don't know. I did look at the time, wasn't really able to find anything quite the same.
+[00:50] And, yeah, part of the reason I kept it secret is I thought, yeah, there'd be something.
+[00:54] There must be something we can do with this. But, yeah, nowadays we've got a generated video.
+[01:01] So, what bother with anything, I guess.
+[01:04] But, anyway. So, I'm a bit obsessed with photography and weird cameras.
+[01:12] And one of the projects I might have do list from about 10 years ago was to build a digital slit scan camera.
+[01:18] For those of you who don't know, I'll just quickly explain what a slit scan camera is.
+[01:24] So, there's a few different things referred to as slit scan. The ending of 2001 Space Odyssey was called slit scan, although what they did there is a slightly different technique to what I think of as a slit scan camera.
+[01:39] In a conventional camera, you have a lens at the front, you have a piece of film, and you have some kind of shutter in between them.
+[01:48] And an ideal shutter opens instantly, which, from out of time, then closes instantly.
+[01:54] And in reality, most jutters are focal plane shutters that take a finite amount of time to open a slide out of the way and then slide back in again.
+[02:04] And a lot of digital cameras, don't bother with the shutter at all, they have an electric phonic shutter.
+[02:10] And that's where you just turn the sensor on and off, but electrically it's quite hard to do that instantly.
+[02:16] So nearly all digital cameras have some amount of rolling shutter, with the sensor scan progressively, and then, yeah, just as if you had a physical curtain moving in front of it.
+[02:27] Some high-end cameras, like a Hasselblad, have a leaf shutter.
+[02:32] That's the shutter is inside the lens, still isn't moving instantly, but what film sees is effectively the image fade in and fade out rather than wipe in wipe out.
+[02:45] But in a slit scan camera, there is no shutter.
+[02:49] Instead, we have a slit, that is, a very thin opening in an opaque material, something like that, which is right in front of the film.
+[02:59] When you press the shutter button, the film is pulled past the slit, something like that.
+[03:06] So, slit scan cameras were, I think, invented to capture the endings of horse races.
+[03:13] And here's a famous public domain slit scan image.
+[03:16] This is a triple dead heat, which is pretty astonishing.
+[03:20] S slit scan cameras were useful for race finishes, partly because you can make your images wide as you like.
+[03:27] You can just keep pulling the film past the slit.
+[03:30] But the more important reason is that they don't capture a fixed moment in time.
+[03:36] They capture a fixed moment in space.
+[03:39] You put the camera at the finish line and it logs who went past in what order.
+[03:47] So, if you look closely at it, the horses and the riders look pretty normal.
+[03:53] But the background is totally blurred.
+[03:57] And as opposed, you could take a similar picture by putting a conventional camera on a dolly and riding along with them and taking a picture.
+[04:04] But it wouldn't be as extreme as this.
+[04:07] It's almost as if those riders are the only two dimensional shapes in a one dimensional world.
+[04:19] So, in my obsessive photography phase, I saw someone building a DIY slit sign camera.
+[04:25] And I've heard I don't have a link to it, but what they've done is they've taken an SLR with a motor drive and they've adapted it.
+[04:33] And the thing that was really new and interesting at the time was they were using an Arduino to control the speed of the film.
+[04:40] And the reason that's important is it's actually quite difficult to get the correct exposure in a slit scan image.
+[04:46] In a normal camera, the normal camera you have to balance the aperture and the shutter speed against what we call a film speed.
+[04:54] That's its sensitivity.
+[04:56] But in a slit scan camera, you need to balance.
+[04:58] If you want the correct exposure, you have the aperture, you have the slit width.
+[05:03] You have the film speed as in its sensitivity, but then you also have its speed as in the velocity of pulling it past the slit.
+[05:11] And you also want to balance the movement of the film against the apparent angular velocity of what you're trying to take a picture of.
+[05:20] If you move too fast or too slow, your horses will be squished or stretched out.
+[05:27] So, yeah, I thought wouldn't be great to build a digital slit scan camera.
+[05:32] So we take some kind of linear CCD and read out the data as fast as possible.
+[05:37] Yeah, for a reasonable resolution, we'd want probably an FPGA loads of RAM and it would read it out into RAM, dump it out to the SD card afterwards.
+[05:48] Yeah, so this is doable and I did make a start on it, but I didn't get very far.
+[05:53] Left on the back burner until I felt the enthusiasm.
+[05:59] In 2018, I was building my precision clock, so that's two of my precision clocks, synchronized two within a millisecond, or it's reading out to a centimeter second.
+[06:09] But in order to get these to work, to confirm they worked, I needed a high speed camera, but one of these, this is a second hand.
+[06:18] So many RX100 Mark 4 and this was the first consumer grade camera to offer a thousand frames per second video.
+[06:25] This upscale to 1080p, but it was exactly what I needed to get my clock display working.
+[06:32] So shortly after buying it, I was thinking about my digital slit scan camera project.
+[06:40] And I realized this is very similar hardware to what we would need.
+[06:44] I mean, the high speed camera has to clock data out of the sensor incredibly quickly.
+[06:49] So it dumps it into RAM first and then after you finish taking a video, it then copies it onto the SD card.
+[06:57] And it occurred to me, what if we filmed the high speed video, cropped it to be one pixel wide,
+[07:05] and then stacked all the video frames next to each other into a 2D image, wouldn't that be a slit scan picture?
+[07:14] Yeah, so I went outside, filmed a high speed video of the cars on the road outside, and ran home, wrote a really shorty Python script to test the idea, and there was all this.
+[07:26] That's a slit scan image.
+[07:30] It works.
+[07:32] So obviously the cars were a bit squished, but that's just because of the frame of the resolution.
+[07:36] I didn't try to get them to the right size.
+[07:39] Yeah, you can tell it's a real slit scan image, because the cars are all facing the same way.
+[07:46] This is the A40. There's a central reservation.
+[07:49] The cars on either side are driving in different directions in space, but they're driving the same direction in time.
+[07:59] So yeah, the bonnet always comes before the boot, unless you're reversing.
+[08:04] It's like, yeah, that's pretty cool.
+[08:07] Yeah, so a slit scan image is not like a 2D picture, it's a camera, a conventional camera.
+[08:13] It's more like a plot where the horizontal axis is tying.
+[08:19] Yeah, so that was my first mental leap that if you have a high speed camera, then you already have a digital slit scan camera.
+[08:27] You don't need to build anything.
+[08:29] So I immediately went outside and filled another video of the traffic, put it through the script.
+[08:34] We had, yeah, so here I had an angle to the traffic, and because of the perspective, the cars are changing size.
+[08:42] Like the bus is driving towards us, but those cars are driving away.
+[08:46] That skinny thing in the middle is a cyclist.
+[08:50] Because he's close to the camera, he appears to be moving quickly.
+[08:54] And so you pierce, squished, and this slit scan at the slower you move, why do you become a slit scan?
+[09:01] And eventually if you stop moving, you become a horizontal line.
+[09:05] So it occurred to me when I look to this image.
+[09:10] It occurred to me that we've taken a video file.
+[09:14] We've thrown away nearly all the information in it, but there's nothing stopping us.
+[09:19] We're going to be able to do this right directly, processing it again, putting the slit in a different position.
+[09:26] So instead of cropping it to be one pixel wide in the middle of the frame, we could crop to the edge.
+[09:31] So I've ran the script again, as a result of the slit scan.
+[09:36] Okay, so obviously at this point, the logical next step is to wrap the script in loop.
+[09:42] Produce every possible slit scan image after that source video, and then play them back as an animation.
+[09:48] Obviously, so it looked like this.
+[09:51] I mean, it's, yeah.
+[09:58] It's so weird.
+[10:04] I mean, it's a pedestrian that walks past.
+[10:07] Like, it's just casually scrolling through this bizarre environment.
+[10:12] Yeah, it's, it's very trippy.
+[10:18] So yeah, it's, it's so bizarre, but it's, it's not bizarre.
+[10:21] It's the road outside my house.
+[10:24] Yeah, so it's so happened that the following weekend, I was going to photograph a fair with a couple of my friends.
+[10:30] We're also into cameras, I was so in the user.
+[10:32] So I said to them, I said, oh, God, this amazing photographic technique.
+[10:35] And then if I quickly do a cartwheel for me, and this is this is the source video of Jennifer doing a cartwheel at a thousand frames per second.
+[10:42] And St James is park. Yeah, you know what a cartwheel looks like, and then put it through my script.
+[10:47] Look like this.
+[10:52] It looks like a cartwheel, but so because the legs are moving fast, they're tiny, and then we're at the bottom of the head stretches out as it slows down.
+[11:03] Oh, it's so good.
+[11:05] Yeah, yeah, then she tried to teach me to do a cartwheel, so that me attempting is not quite so graceful, but also you can see at the end the camera followed me and you've got a bit of coherency in the background because the camera moved very weird.
+[11:23] Here's Jennifer doing another ballet maneuver. We've filmed a lot of these.
+[11:39] Amazing.
+[11:41] And then we'd student Trafalgar Square, and I got Tom and Jennifer to walk around me in a circle, so they appear multiple times.
+[11:47] This is filmed at 120 FPS, so we get more in.
+[11:51] Yeah, there's just so much going on in this. It's like, look at people's legs as they walk.
+[11:55] It's like, so as a foot goes ahead of the other, one foot slows down becomes really wide, and then speeds up.
+[12:03] It's so bizarre.
+[12:06] Yeah, here's another one. Trafalgar Square.
+[12:10] What we can see in this one is the front of the bus is slightly darker, and the back of the bus is lighter.
+[12:17] It's like an even trail of light. That's the auto exposure of the camera because it's like a plot of time.
+[12:23] And yeah, there's a somewhere in here, there's a child that runs backwards, and they're the only thing that faces to the right.
+[12:34] There it is.
+[12:38] Like, oh, oh.
+[12:42] Yeah, the sad thing is Tom and Jennifer didn't actually see these results because my script was too slow.
+[12:47] It was so hastily put together that, yeah, just repeatedly decoded the video for every single frame of output.
+[12:54] When I got home, started to optimize the script.
+[12:57] Of course, decoded the video once and just hold it in memory and slice out the data we need.
+[13:03] I also added options for trimming and cropping the video.
+[13:07] We want to, if we want to output to be 1080p, that's 1920 pixels wide.
+[13:13] So we need our source video to be at least 1920 pixel 1920 frames.
+[13:18] So at 120 FPS, that's like 16 seconds.
+[13:21] It's a video's longer or shorter than it is, be trimmed or scaled.
+[13:25] We actually have a lot of variables.
+[13:28] We could crop the input video to change the length of our output video.
+[13:32] It's a bit weird.
+[13:33] We don't need to limit ourselves to a vertical slit.
+[13:36] We could do a horizontal slit, scanned vertically.
+[13:39] So here's the same thing again.
+[13:41] It's not very coherent, but it's very interesting.
+[13:45] Oh, here's the next video is to follow the square again, vertically.
+[13:49] And remember, the vertical axis is time.
+[13:52] So the pedestrian starts out as stripes,
+[13:55] but then they turn into double helixes because of their legs.
+[13:59] It's just, okay.
+[14:02] So I was looking at this.
+[14:04] I think this is the moment when it clicked what I was doing.
+[14:08] So if we take one of these outputs and run the script on it again,
+[14:17] it gives us back the original video file.
+[14:20] The process is its own inverse.
+[14:24] So it's with me on this.
+[14:26] If we think of our video as a four dimensional matrix,
+[14:29] then there's a mathematical term for what we've done here.
+[14:32] We have transposed the time and space coordinates.
+[14:36] And yeah, I went up to my friends.
+[14:39] I was like, picturesque, you know, as a four dimensional matrix
+[14:43] and transposed the time and space coordinates.
+[14:45] This is incredible.
+[14:46] And they are thought I was crazy.
+[14:48] We always knew he was a bit weird, but that is really lost the plot.
+[14:53] So what I needed to explain the process was a diagram.
+[14:56] So I turned my favorite bit of software in the world.
+[15:00] Blender.
+[15:02] Yeah, so if we ask FFNPeg to give us the video as a raw stream of bytes.
+[15:07] The first three bytes it gives us are RGB of the first pixel.
+[15:12] That is our first dimension.
+[15:14] The next three bytes represent the next pixel.
+[15:17] And so on and two we've got a line.
+[15:19] This is the second dimension of R array.
+[15:22] And then when it gets to the end of the line, it starts on the next one.
+[15:25] Immediately and it carries on till we've got a whole frame.
+[15:29] This is the third dimension of R array at the end of the frame.
+[15:33] It immediately starts on the next frame.
+[15:36] Our fourth dimension.
+[15:38] And if we stack these frames together, we can construct a data cube.
+[15:44] Oh, look at that.
+[15:49] Yeah, an all-ascript is doing.
+[15:52] It's playing it back in a different direction.
+[15:59] So yeah, just to get the most out of this animation.
+[16:02] Oh, thank you.
+[16:03] Yeah.
+[16:04] But tab out for a moment.
+[16:08] Oh, yeah.
+[16:09] Here we are.
+[16:10] This is the blender files.
+[16:13] Let it here.
+[16:14] So I'd love to blender.
+[16:16] I made this in blender 2.79.
+[16:18] I just opened it like the other day.
+[16:20] It still works.
+[16:21] Didn't even complain.
+[16:22] This is blender five.
+[16:23] And yeah, you can see you can see a legs striping the top there.
+[16:27] And yeah, the camera shake is really.
+[16:30] You can see how the stripes in the image are.
+[16:33] Yeah, just camera shake.
+[16:35] Yeah, it should start playing again in a moment.
+[16:40] Wow.
+[16:41] Amazing.
+[16:42] So yeah, a lot of fun.
+[16:43] We can animation.
+[16:48] Yeah, blender can't preview quite at full speed.
+[16:55] Well, there we go.
+[16:57] Right.
+[16:58] Where were we in our?
+[17:03] Yeah.
+[17:04] Yeah.
+[17:07] I think we were here.
+[17:10] I think.
+[17:13] Yeah.
+[17:14] So yeah, it was probably a few months between me
+[17:17] Realizing that it's a transpose and actually getting around to making this animation.
+[17:23] What are the things I tried to do?
+[17:25] Was come up for a name for the effect?
+[17:28] Maybe something in Greek that would describe
+[17:31] the language, the language could be called a
+[17:37] trans-bosing time and space.
+[17:39] Everything I tried to think of or maybe a name for something else.
+[17:41] So when you're up calling it, there's our title as you might have guessed.
+[17:44] Yeah, I did also see.
+[17:47] I had a quick look to see if anyone else are done this.
+[17:50] Because once you've seen that animation, it's actually,
+[17:54] well, it's kind of easy.
+[17:56] There's nothing to it.
+[17:58] out through done quite the same thing.
+[18:00] There is an effect in after effects called Slitscan,
+[18:03] but it's not Slitscan, it's rolling shutter.
+[18:05] So what they're doing is progressively delaying,
+[18:08] different parts of the image, which is a valid artistic effect.
+[18:13] It looks cool, but it's not transposing time and space.
+[18:16] So if you think of the data cube, it's
+[18:20] like it's tuned into a parallelogram,
+[18:22] but then played back in the same direction.
+[18:26] With our script, the next step, as far as I was concerned,
+[18:28] was to rewrite it now armed with a knowledge of what's going on.
+[18:33] I did produce a little program in C, which
+[18:35] shuffles the bytes for us, but it's not particularly clear what's
+[18:40] going on here.
+[18:40] I mean, you pipe FFM Peggy's stream to this,
+[18:42] pipe it back into FFM Peggy to re-encode the video.
+[18:46] But you wouldn't look at, I say, I guess it's the transpose.
+[18:48] And also it's not actually that efficient,
+[18:50] because we're dealing with lots of byte says,
+[18:52] 1920 frames, Act 10 ATP is about 11 gigabytes and compressed.
+[18:57] So there's definitely better ways to handle this sort of thing.
+[19:00] So what I want to do is use NumPy, the Python library,
+[19:04] until at a high level what we want to do.
+[19:07] So yeah, because even though NumPy is high level,
+[19:11] but a lot of NumPy is optimized very well as compiled,
+[19:14] and it's very good for big transforms.
+[19:18] A core of our operation, look like this.
+[19:21] So NumPy video in into an NDRA, and then just NumPy transpose.
+[19:28] As I understand it, NumPy transpose only affects the view you have
+[19:32] on the data.
+[19:33] It doesn't do any shuffling until you make use of it,
+[19:35] or write it to disk.
+[19:39] If you want to be really clever, we could think about how
+[19:41] all the data chunks are being shuffled about,
+[19:43] because a vertical slit is a sparse collection of pixels,
+[19:48] but a horizontal slit corresponds to a scan line.
+[19:51] So if you rotate our video before we do the transpose
+[19:54] and then rotate it back, it will be much more efficient.
+[19:58] Yeah, and rotating the video, you can just do that in FFMPy,
+[20:01] you just filter, and because it's got access to hardware acceleration,
+[20:05] it's very, very fast.
+[20:06] If you get the logic slightly wrong, you get a vomit,
+[20:09] it's at nonsense.
+[20:10] Here's some nonsense.
+[20:12] Even looks like vomit.
+[20:14] I would admit that some of the information is a bit pointless,
+[20:17] because even at this point, the old script was taking about a minute
+[20:20] to run, but for demonstration purposes,
+[20:22] I wanted to make a version of my script as short as possible.
+[20:25] I did get it down to about four lines of Python,
+[20:27] but because of you need to give all these arguments
+[20:32] to FFMPy, since it's somewhat unavoidable.
+[20:35] So it ended up looking a bit of a mess,
+[20:37] and I'm not sure if anyone could even read that here,
+[20:39] but I've added white space to try and make it clear.
+[20:42] If you ignore all of the FFMPy's sub-process stuff,
+[20:45] it is just videoing, and you're a transpose,
+[20:49] right staffed as bytes again.
+[20:53] Yeah, of course all of the parameters are hard-coated,
+[20:55] so what I wanted to do next was go back to my original script.
+[20:59] We write it to use this clear and fast way
+[21:02] of doing the transpose, but then keep all of the options
+[21:05] I'd added for the different modes and features,
+[21:09] but yeah, I got distracted halfway through.
+[21:13] Most of the source code was left in a state
+[21:14] that's not really fit to publish yet,
+[21:16] but I will put it up on GitHub at some point after this talk.
+[21:21] I also described the process to my other friend Tom
+[21:23] who showed him some of the results,
+[21:25] and he had to go up and make his own script for it,
+[21:27] which I've got, but yeah, he took a slight different approach.
+[21:32] Yeah, but so conceptually, what I wanted to do next
+[21:35] with this was explore different transformations of the data cube,
+[21:39] because what we've, although everything we've done
+[21:40] has been at 90 degree rotation, but what if we did a 45 degree
+[21:46] rotation and played that back?
+[21:47] I mean, you'd get some kind of hybrid result.
+[21:50] I'm sure there's a lot of experimentation
+[21:52] that could be done here.
+[21:55] Yeah, now that we've got this kind of mental picture
+[21:58] of the video.
+[22:00] So yeah, to finish up, I've got a load more of these examples
+[22:05] because I've made a lot of them.
+[22:07] So yeah, I'll just go through them.
+[22:11] So that's Jennifer doing another cartwheel.
+[22:16] And we've got, what's this one going to be?
+[22:20] Let's meet doing a rolling poly.
+[22:31] Then we've got me jumping up and down, I think.
+[22:36] Yeah, so because I'm going up and down,
+[22:37] it looks like a weird sine wave.
+[22:46] And we've got, yeah, more traffic.
+[22:48] This is the level crossing outside accent central.
+[22:51] So you can see the gates going up and down,
+[22:54] train goes through all these people waiting very weird.
+[23:05] This is a mini roundabout.
+[23:06] I've got a lot of traffic.
+[23:07] It always looks weird.
+[23:10] It pertention to the wheels of the cars that are so strange.
+[23:16] This is a fairground that was nearby.
+[23:24] So these are, like, it's a carousel.
+[23:29] It's very odd.
+[23:29] We've also got some vertical bands when the lights go past.
+[23:33] That's the 50 hertz frequency flicker.
+[23:38] Yeah, it's more of the fairground.
+[23:41] And this one you've got passengers on the carousel
+[23:44] who appear in two places and then merge with themselves.
+[23:51] Oh, and let's people work past.
+[23:57] Yeah, again, you can see the 50 hertz pulsing of the lights.
+[24:00] Yeah, another one.
+[24:13] I must have rocked the camera there because it's going up and down.
+[24:28] This is my fence cat.
+[24:30] It's quite difficult to capture a cat because some, yeah, it's difficult to get them to run past on cue.
+[24:45] It's cat again chasing a, trying to entice it past the camera.
+[24:50] That's just a spears.
+[25:03] This is a view out of a train window.
+[25:05] So it's very similar to that other talk that was on Friday by Filomena Gray.
+[25:10] What you end up with is essentially a normal picture.
+[25:16] What with this weird perspective stuff.
+[25:17] And again, the 50 hertz pulsing there.
+[25:20] Yeah, this is the view out of a bus, just driving past some trees and some cars.
+[25:29] Because of whatever frame rate I used, it's squished them all together and it's weird thing.
+[25:36] There's a WO line.
+[25:39] Here's another one of my friends on a kids roundabout.
+[25:46] Speaking spun, there's a person spinning them.
+[26:00] Another one of Jennifer doing another ballet thing.
+[26:04] This is cross-nesse pumping station.
+[26:12] This is a steam engine.
+[26:13] It's scan vertically.
+[26:16] It's very odd.
+[26:21] In this one, I put the camera on a gimbal.
+[26:25] The motorized gimbal that rotated it with a wide angle lens.
+[26:28] So the background looks coherent.
+[26:30] But it still sits scan.
+[26:32] You can see those bands where the auto exposure of the cameras,
+[26:37] you know, dimming it as the white fans go past.
+[26:41] Another similar one.
+[26:43] I think I must have started static and then started panning the camera.
+[26:49] Very weird.
+[26:54] More traffic.
+[27:01] Right foot chest.
+[27:21] This willKam angles.
+[27:30] I guess that was a railing in the foreground.
+[27:49] Yes, I've got lots of these.
+[27:52] What's next?
+[27:53] Yeah, this one has a side-list going up the hill and then a pedestrian walks pass, but for
+[27:59] some reason it looks like she's hopping.
+[28:06] I'm not sure what effect that was, but yeah, just finally this one.
+[28:11] I've been not done this for many years, just earlier today, about an hour ago I thought
+[28:16] I'd do an EMF one, so this is me pulling World of Techno, past the EMF sign.
+[28:25] So that's pretty much the Zellotype.
+[28:29] I've got the camera with me, so if anyone feels inspired and would like to pose or has
+[28:36] an interesting idea, we could do some of these later today if you like.
+[28:40] Yes, and that's it.
+[28:42] Thank you.

@@ -1,0 +1,424 @@
+[00:00] Thank you very much and good afternoon.
+[00:20] I think given the conditions today it's a warm welcome whether you intend to
+[00:23] be on or not.
+[00:24] If anybody does get too hot I have some warm care in the middle of the
+[00:27] talk I won't hold it against you.
+[00:29] So I just heard I'm going to talk a little bit about marine energy
+[00:33] what I mean by that go through some of the
+[00:36] different devices that are out there and talk a little bit about some of the
+[00:39] projects I've been involved with most of which have
+[00:42] involved Raspberry Pi's and things that are very familiar to
+[00:44] EMF and in one case a grappling hook which I think was the story I've
+[00:47] promised in the abstract so hopefully we'll get there in time.
+[00:51] I did realize we've put this together could easily have been a
+[00:55] big deal.
+[00:57] If you've got any questions or if there's anything you want to know more about
+[01:00] afterwards coming to find me in the Q&A.
+[01:03] So to begin at the beginning what is marine energy or at least what
+[01:08] do I mean when I'm talking about marine energy.
+[01:11] As far as I'm concerned it's anything we're taking energy
+[01:15] from the sea.
+[01:17] Generally that's going to be to turn into electricity although not
+[01:22] there's a lot of ways we can do that.
+[01:24] I would say that wave and tidal energy, wave and tidal power are the two
+[01:28] that you're most likely to come across most likely to see.
+[01:31] Wave energy comes in quite a lot of varieties we're talking about in a
+[01:35] minute.
+[01:36] Tidal splits quite nicely into tidal stream energy where we're taking advantage of a
+[01:40] flow of water from place to place.
+[01:42] A tidal range where we're taking advantage of that height difference between high
+[01:46] tidal and low tidal.
+[01:47] They're not the only ways of doing it.
+[01:50] It's not the only way to do it.
+[01:52] They're not the only way to do it.
+[01:55] The only way to do it is to take advantage of the temperature difference between
+[01:58] bits of water.
+[02:01] Particularly somewhere that's a little hotter than the UK normally is.
+[02:04] You can use the temperature difference between different depths of water or
+[02:07] different areas to generate power.
+[02:09] You can also do the same sort of thing by taking advantage of different
+[02:12] solidities and different salt concentrations in the water.
+[02:15] They're a bit fancy.
+[02:18] And we'll give you a bit of an honorable mention to offshore wind.
+[02:21] The actual energy bit of offshore wind.
+[02:23] I don't think counts as marine energy.
+[02:26] But there's an awful lot that has in common in terms of the structures, the
+[02:29] more rings and working in marine environment.
+[02:31] So you'll often find it included on the list.
+[02:34] Now the next thing to go through is like, well, why does this matter?
+[02:38] Why is it important?
+[02:39] Well, as far as I'm concerned, the UK is surrounded by water where an island with
+[02:44] other islands.
+[02:45] So we've got all of coastline and all of them.
+[02:47] See we can look at it.
+[02:48] And water carries a lot of energy.
+[02:50] I think at this point we're all pretty familiar with the idea of wind turbines.
+[02:53] How they generate electricity.
+[02:55] Water can carry 800 times the energy in the same space.
+[02:59] So with smaller, differently designed devices admittedly, we can get a lot of
+[03:04] all energy out of similar amounts of space.
+[03:07] It's not just the amount of coastline we've got that's advantage for the UK here as well.
+[03:11] We're home to the second largest tidal range on the planet.
+[03:14] The Bristol Channel, the 7th, history.
+[03:17] We're going to get 10 meters between high water and low water.
+[03:21] We think that's over 6.5 hours between one and the other.
+[03:25] That's a lot of water that's going to move from one place to another.
+[03:27] And a lot of energy that could be harvested.
+[03:30] It's a lot of wave energy as well, particularly off the northwest of Scotland.
+[03:33] Waves coming all the way across the Atlantic.
+[03:36] And all these ways which we could get sustainable, low carbon.
+[03:39] And perhaps a low-clee produced power.
+[03:41] There's an awful lot of assumption that these devices are looking at putting electricity onto the grid.
+[03:46] And that is something that's happening.
+[03:48] That is already in place.
+[03:49] But you can also look at using them to replace diesel in offshore communities and things like that.
+[03:54] So there's a couple of other places we can use it.
+[03:57] So to look at a few in a little bit more detail, tidal stream,
+[04:01] and I will admit this is where my experiences are little bit more.
+[04:04] So this is, again, using that fast flowing water.
+[04:08] And when we find good places to look at tidal stream energy,
+[04:11] it's pretty much anywhere where water driven by the tide is going to be funneled through some sort of gap.
+[04:16] And that might be around headlands.
+[04:18] I think there's one half of the funnel between islands and those channels.
+[04:23] But also places like esteries.
+[04:25] So I've mentioned the seven and the Bristol channel.
+[04:28] The water can accelerate as it moves upstream.
+[04:30] It's all very local and very specific.
+[04:33] And it's one of those things where it's important to remember that spaces three dimensions of this context.
+[04:37] So it can, as well as surrounding the coastlines coming in,
+[04:40] you've also got the fact that the shape of the sea, the birth imagery,
+[04:43] can also become shallow.
+[04:44] And you can get that sort of acceleration effect there as well.
+[04:48] There are a few different types of tidal stream device out there,
+[04:51] but mostly they end up looking like underwater winterbites.
+[04:54] So to give you some examples, two real devices, these are not renders.
+[05:00] So on the left hand side there, you've got advice from a company called Andrew Tiedro.
+[05:06] No need to double check the specific model in the picture.
+[05:09] But that's about 18 meters diameter on the road to the front of that one.
+[05:13] So this is not a small device.
+[05:15] As I said, the sea bed, generate electricity and come to the surface as liquid as you can get away with.
+[05:21] On the right, you've got a different approach.
+[05:23] This is the floating platform.
+[05:25] So this was one that was being tested in Canada, hence the colour scheme.
+[05:28] And this has got six smaller rotors.
+[05:31] And the road is a little bit about six meters in diameter.
+[05:34] Advantage being on the surface.
+[05:35] It's a lot easier to get there for work for maintenance and things like that.
+[05:38] So two different approaches, both being pursued commercially at this point.
+[05:43] So moving on, we then have tidal range.
+[05:46] And this is hit the news in the UK area.
+[05:48] As points has been a few different proposals.
+[05:50] tidal range uses that changing height of the tide instead of the speed of the flowing water.
+[05:56] So it's indulged by it in the physicist.
+[05:58] If tidal stream is taking kinetic energy more directly, water flowing over the blades.
+[06:04] tidal range is more about gravitational potential.
+[06:06] Taking advantage of that changing height over the tide.
+[06:09] Neither mechanically they're quite simple.
+[06:11] You build a wall that's big enough to hold the water back until the height difference either side of it is large enough to drive some turbine.
+[06:18] You let your water through, generate your electricity.
+[06:21] And once things equalise, you wait until the height difference builds up again in the other direction.
+[06:26] And let your water back through.
+[06:28] So these are lagoon, barrages.
+[06:30] And there's a few examples of those around the world.
+[06:33] And there's been a few proposals in the UK as well.
+[06:36] And from a technological standpoint, these look a lot like hydroelectric power.
+[06:40] So your typical sort of dam with turbines at the bottom is the same sort of idea.
+[06:45] And so a little bit of a diagram.
+[06:47] So hopefully illustrate what I was going on about in terms of the different water levels either side.
+[06:52] And again, you're going to heat some midpoint at low and high water.
+[06:56] But you can design a device that generates in both directions.
+[07:01] So that's the tidal side covered off.
+[07:05] Onto wave energy.
+[07:07] Now this is a little less, I feel.
+[07:09] But very interesting, there's an awful lot of energy in the waves.
+[07:13] And we're mostly talking about swell waves near the coast in this context, where the wind has driven over the surface.
+[07:19] Let's give us a wave there.
+[07:21] There's a much wider range of devices for wave energy that are being investigated.
+[07:25] Now I've got three categories here, and they're not particularly exhaustive.
+[07:30] But you can have devices that move with the waves.
+[07:33] But you've got six different kind of directions you could react to.
+[07:36] So where that surge, sway and heavy, three kind of linear motions.
+[07:40] Or roll pitch in you or in your angular motions.
+[07:42] If you can design a device that would work with either.
+[07:45] Or a device that would work with more than one these in combination.
+[07:48] Or you might design a device that works with one.
+[07:51] And unintentionally reacts with the other.
+[07:53] And that's a little bit of a bigger problem to deal with.
+[07:56] The other talk devices you can get might be something that reacts to pressure change.
+[08:00] So you imagine the waves coming towards the shore.
+[08:03] You've got to change in the height of the water.
+[08:05] That change in height gives you a change in pressure below the surface.
+[08:09] And you can then generate electricity from that either directly.
+[08:12] And there's a lot of research going on looking at materials, which give you kind of a capacitor effect.
+[08:17] That you can turn directly into electricity.
+[08:20] Or you might use something that can inflate and deflate under pressure.
+[08:24] Pumping a fluid, often air through a turbine.
+[08:27] And that is actually a theme for a lot of marine energy devices.
+[08:30] It's how do we turn energy from the sea into something that spins that we can hook up to a generator.
+[08:36] Because taking a spinning object connected to a generator to make electricity.
+[08:40] It's something we'd be doing for quite a long time now.
+[08:43] And so there's a common theme in a lot of those designs.
+[08:46] The last category is quite fun.
+[08:48] Designed for something we'd call overtopping.
+[08:50] It is, as it sounds like, you have your structure.
+[08:53] It might be fixed with shore, it might be floating.
+[08:56] As the waves come up to it, they run up the device or break over the top.
+[09:00] Dump water into the top of the device.
+[09:02] And as it empties through drives and aircodes.
+[09:05] And so again, typically drive a turbine to give electricity.
+[09:08] So there's a few more options there.
+[09:10] And then to give you a little diagram of what some of these might look like.
+[09:14] We have items that float on the surface and react to the motion of the waves.
+[09:18] We might have the point of zorbs there.
+[09:20] It designed to bulb up and down in the waves.
+[09:22] And again, react against something on the sea bed.
+[09:24] It's from being some paddle type devices that have been tested.
+[09:28] And these last ones, I think, are quite clever, a little bit of physics
+[09:31] in terms of how they operate.
+[09:32] So they're having this kind of overhanging wall.
+[09:34] As the water outside comes up and down.
+[09:37] The water inside is going to try and do the same.
+[09:40] Pushing air through the turbine to generate a low-t electric electricity.
+[09:44] And there's been a few of these tested as well.
+[09:46] So that's a fairly quick overview of where some of this energy comes from.
+[09:52] Now just all can a little bit about what I've been involved with from the work I've been doing.
+[09:56] And then I can get onto the tech of the stories.
+[09:59] In terms of work, we do as a research group at university.
+[10:02] We do computer modeling.
+[10:04] It's around a better understanding.
+[10:05] The other things might behave.
+[10:07] The performance often to back out by computer model or to improve it.
+[10:10] And we also try and do testing.
+[10:12] Taking devices and putting them into a real environment.
+[10:15] And then go to take them at sea or close to and see how they perform.
+[10:19] And get to what we expect.
+[10:20] You compute the models only as good as the assumptions you've made and the data you've got to begin with.
+[10:24] So they build on that.
+[10:26] But what sort of data are we interested in?
+[10:29] Now some of them you'd be able to take a good guess at.
+[10:32] If we're looking at something like tidal stream,
+[10:34] we're going to want to know what the flow speeds of the water are.
+[10:37] Both in terms of it's average speed.
+[10:39] Give us some idea of how much power we can generate.
+[10:42] But also things like turbulence.
+[10:43] You've been on an aircraft, we've experienced turbulence.
+[10:46] That's a fluctuation in the plane's movement.
+[10:48] You get the same thing with bits of the structure of a marine energy device.
+[10:52] And that might affect how much energy you can convert to electricity at that point in time.
+[10:57] But it also starts to think, develop things like fatigue and how that might impact on the life time of these devices.
+[11:02] So it's a level of detail that we're interested in looking at, particularly as we've already got these devices in the water.
+[11:08] We'd be interested in the surface behaviour.
+[11:10] So if we're looking at the waves, a couple of ways we can measure that.
+[11:14] You put a device that's going to float on the surface, measure its motion,
+[11:18] and it can report some detail about what the waves are that have made it move around.
+[11:22] Or you can use things like radar.
+[11:24] And pick radar off the surface and use some information there.
+[11:28] Or we can look at what's going on on surface currents.
+[11:31] We can use some work of colleague of mine did previously.
+[11:34] We've fly a drone over a tidal area.
+[11:36] Take some good quality video of the surface.
+[11:39] And then from that, work out what the current is doing at the surface.
+[11:43] You get this little 2D map.
+[11:44] That's hot layer.
+[11:45] Doesn't tell you anything about what's going on lower down.
+[11:48] So if you're going to be putting a turbine deeper in the water, that might not be enough information.
+[11:52] But it gets you a large amount of data quite quickly.
+[11:56] We might be interested in measuring tidal ranges.
+[11:59] I would say we've 10 together that information caused by doing something else.
+[12:03] The UK is quite lucky.
+[12:04] We've got quite a lot of historic tidal range data that's already available.
+[12:07] So we will measure it.
+[12:09] But we're not often depending on those measurements for the work we've been doing at least.
+[12:14] And if we're testing a real device, when we want to know where it is,
+[12:17] is it staying where we put it?
+[12:20] Has it wandered off a lot?
+[12:22] Do we need to phone someone to go and get it?
+[12:25] Or is it moving as we expected to?
+[12:28] And if they're positioned in motion, there is two slightly different categories.
+[12:31] That position might be slightly longer to where it's the motion might be how it's reacting
+[12:36] as it generates power sort of second by second.
+[12:39] And that's slightly more fine grain detail.
+[12:42] If we're testing something where we're generating electricity, we're trying to,
+[12:46] then we're going to want to know how much power have we generated or could we generate?
+[12:50] And the last category is one that I think anyone who's been involved with a project
+[12:53] that maybe hasn't gone quite to plan, we'll value.
+[12:55] It's what was that information.
+[12:57] Something unexpected happens, a lot of value in knowing when did it happen,
+[13:02] so you can go and look at the data later.
+[13:04] Whether that is, that was a strange noise.
+[13:07] I don't think we should have heard that.
+[13:09] Or actually someone's just gone screaming past it about a boat with a huge amount of weight.
+[13:14] Let's look at the data and see if that affected what was going on.
+[13:17] And both of those are examples that I've had windowing real tests.
+[13:23] So, sort of things we might look at measuring.
+[13:26] A lot of data, maybe a lot of sense and devices, we have to get to talk to each other.
+[13:31] Now, to try and get to some of the stories of some of the tech,
+[13:35] two different devices that I've been involved with over the last few years.
+[13:38] One of them is a full scale but small capacity turbines.
+[13:43] So what I mean is it's not designed to generate an awful lot of power.
+[13:46] And it's an open turbine design.
+[13:49] And by that I mean, if you want to go online and grab the CAD and have a look at it,
+[13:53] it's all freely available.
+[13:55] And so that's the RRS or the boat with an energy system.
+[13:59] Did a lot of testing with the impenetraxia and I'll show you a picture of that in a minute.
+[14:03] We also have one which I think is more technologically interesting.
+[14:06] And that's what we call the converging beam acoustic Doppler profile.
+[14:10] It's a little bit of a mouthful, hence the abbreviation.
+[14:13] And this is something that sits on the C-bed for a month or more at a time.
+[14:17] And it measures those flows beneath a surface.
+[14:20] So I mentioned earlier how we couldn't get that with the drone and that surface data.
+[14:24] This is one of the ways we can get that information.
+[14:27] And I'll talk about that in a moment.
+[14:30] So to start with the turbine, we started with a simple mechanical device.
+[14:34] So we weren't generating electricity with it.
+[14:36] And it actually had a water pump off the back, and we were using that as a kind of way of measuring how effective it had been.
+[14:43] And it's an odd thing to say, but as a university, we're not trying to make money directly from this device.
+[14:48] So it was never designed to be the best device we could build.
+[14:51] The sound that was practical to put together with local suppliers and local businesses as well.
+[14:55] It's a floating platform.
+[14:57] The turbine behind it on an arm that can rotate and extend into the water.
+[15:01] Just very nice as you tow it out.
+[15:03] And you only actually need that deep water once you get onto sight.
+[15:07] And you see a picture in a minute where you can see the blades on it.
+[15:11] It's got a shipping container.
+[15:12] So all your electronics are mostly in the dry.
+[15:14] We've still got some things beneath the surface.
+[15:16] You have to think about.
+[15:18] With the time we went with for something that was,
+[15:21] OK, low cost for something that is effectively about.
+[15:25] But then we've put some extensive sensors on it for the science that we can then take use of.
+[15:31] And so that gives us this device here.
+[15:34] So you see it's a floating platform.
+[15:37] It's made out of a couple of re-purpose sections of bridge.
+[15:40] It's a nice little tip.
+[15:41] It's a fair amount of recycling before we even started.
+[15:44] You see the shipping container in the middle to give us that working environment.
+[15:47] And the two turbine blades on the back.
+[15:50] Now why two rather than three from the pictures earlier?
+[15:53] Well if you've got two turbine blades,
+[15:55] it's a lot easier to just have some box section metal for the hub.
+[15:59] Makes it a lot easier to manufacture.
+[16:01] And you've only got to pay for two blades.
+[16:04] There's that.
+[16:05] For scale, that's three meters from tip to tip on those blades.
+[16:09] So not huge.
+[16:13] Now, trying to build this obviously trying to put electronics.
+[16:16] Sub-surface to measure things like the loads on those blades.
+[16:20] And that's quite tricky.
+[16:22] You've got things that are rotating.
+[16:24] Things are obviously going to get wet.
+[16:25] So we try to do things properly.
+[16:27] Spend a bit of money on the connectors.
+[16:29] You might see this black electrical cable running across there.
+[16:32] So we've got everything of the Rue 1 nice fairly expensive electrical connective that's designed to be.
+[16:37] I think good for 100 meters.
+[16:39] We're definitely not putting it that deep.
+[16:41] Okay.
+[16:42] And work from there.
+[16:44] Excellent.
+[16:45] Should be fine.
+[16:46] We've got our mechanical seals.
+[16:48] Plenty of gas gets there in there.
+[16:49] Lots of grease and sealant all done up nicely.
+[16:52] The blades can be put on without disturbing it.
+[16:54] So we get tested.
+[16:55] It was all waterproof before we left the university.
+[16:58] And then we got it back.
+[17:00] And for those of you who can see the images more clearly.
+[17:03] Yes, that's water inside.
+[17:05] What should have been our nice dry electrical space.
+[17:08] So it's safe to say that the sea is nothing if not determined.
+[17:11] And it doesn't matter how much you want to keep something dry.
+[17:13] It will find a way to wear it.
+[17:15] So that's totally what we looked up.
+[17:17] In terms of technology, this was all feeding back to a Raspberry Pi and laptop.
+[17:21] So we had a control cabin.
+[17:23] So fairly simple.
+[17:24] But gave us good data for what we were looking at.
+[17:28] So to move on to the doctor profile, this was based off existing technology.
+[17:33] So you can buy these devices off the shelf that sits typically at the bottom of the sea.
+[17:38] But one surface.
+[17:40] And they use the doctor shift.
+[17:41] So we're probably all familiar with the sound of the siren on an emergency.
+[17:44] They're going past to get that high pitch of the approaches.
+[17:47] Low pitch is that goes further away.
+[17:49] You can use sound at the water to do the same thing.
+[17:52] So beams of ultrasound send a ping from the device.
+[17:55] It scatters off in from it of particles of the water.
+[17:58] The dock pressure will let you work out the speed.
+[18:00] And the time it took from sending that pulse to getting the RECO.
+[18:05] Let you know how far away from the sensor it was.
+[18:07] So with one sensor, you'll get in velocities of the water multiple depths.
+[18:12] As you go through.
+[18:13] So if you're trying to work out how deep you're turbine goes,
+[18:15] there's quite a lot of useful information.
+[18:17] Downside is these beams spread apart.
+[18:20] So typically if you're in 20 meters of water,
+[18:23] your beams would be 10 or 20 meters apart at the surface.
+[18:26] And that's fine if you're going to assume that water is all doing the same thing across that space.
+[18:31] But if you look at the photo I'll put up at the end, we know that that's not true.
+[18:35] So how can we work around that and get better information,
+[18:39] particularly around things like turbulence that are quite small variations.
+[18:43] Now, if watching that means you need to build a bigger device.
+[18:46] The standard device is quite small.
+[18:48] We're thinking about this size.
+[18:51] And they'll say that the C-bed and you get a diverge, it's problem.
+[18:54] If you want the beams to converge instead, they've got to start further apart.
+[18:58] So it means more sensors, power supply, and something to coordinate them together.
+[19:03] Try to build something that was robust, fairly simple to build,
+[19:06] and try to avoid needing a big enough boat with a crane to put it in the water.
+[19:10] We ended up with this.
+[19:12] So we're going for scale.
+[19:13] That's a big e-trailer in the middle.
+[19:15] Corner to corner on this device is 10 meters.
+[19:18] So for a little sort of cake tin size device, that's quite an increase.
+[19:22] But it means we could get that better quality data.
+[19:25] The electronics went into a titanium canister at the centre.
+[19:29] And again, Raspberry Pi with a clock, which is quite important,
+[19:32] because 20 meters under the sea, you've not got the internet to set the time on that one.
+[19:36] And again, some nice sports-proof connectors to connect the data.
+[19:41] And this is where you start running into some of the issues of dealing with the sea.
+[19:44] If you see the picture up at the top right, those connectors are no longer the bright shiny brass colour they went in.
+[19:50] And unfortunately, you put two different metals in a conductive liquid, like salt water,
+[19:55] and you get a battery, and one of them gets eaten.
+[19:58] And unfortunately for us, that looked like those connectors.
+[20:01] Which we didn't think was going to happen, but it was something we learned the hard way.
+[20:05] Now, in terms of the device, we had some mechanical issues.
+[20:09] The rods we actually did it's job. That worked really well.
+[20:13] It wobbled. And this is one of those wonderful things where you get a nurse bit of positive feedback.
+[20:18] And you don't know any of it is happening until you've recovered it, because it's 20 meters below the sea, you can't talk to it.
+[20:24] So, one of the arms sat there, had a little weather awake behind it, and it wobbled.
+[20:29] So then the wake wobbled, which made it wobbled more.
+[20:32] And yeah, not ideal. So we did have to do a little bit of a green design.
+[20:36] And then we have the bit when we get to the ground playing hook.
+[20:40] There's quite a big device. We didn't want to use a crane if we've helped it.
+[20:43] Since some of my colleagues have designed a system, with those blue barrels of saw in the middle,
+[20:47] we're filled with water when we put it in the sea, and the compressed air tank to empty them,
+[20:52] and it allowed it to float to the surface when we were finished with it.
+[20:54] With an acoustic trigger, send a little coded message by the ultrasound from the surface,
+[21:00] release the valve on that tank, and up it comes to him.
+[21:03] And it's later, lovely. Tested several times, worked every time.
+[21:08] And until we needed it.
+[21:09] We even had a backup option.
+[21:11] Send a different code, it releases a boy that will float for the surface of the rope,
+[21:16] so we can tow it from there and lift it.
+[21:18] And that didn't work either, because the battery and the box are the top.
+[21:22] On the boat with us had been damaged.
+[21:24] So, you know, I don't remember then, got equipment.
+[21:27] 20 meters beneath us.
+[21:29] It's got to be recovered that day.
+[21:31] And that's where the grappling hook comes out.
+[21:33] And I invite you to imagine having to make that decision
+[21:37] of, yeah, stick a great big lump of iron down.
+[21:39] They eagerly near it, and hope that you grab a bit of the structure,
+[21:43] and not any of the bits of the electronics or the batteries.
+[21:46] But we recovered it successfully, and we've got some lessons for next time
+[21:49] for building another one.
+[21:51] And then we need to have more information about what's going on at sea,
+[21:54] so we can build better marine energy devices and work from there.
+[21:58] So with that, I'll leave you with a lovely picture-rest view of part of Southwest Wales,
+[22:03] where we were doing that testing.
+[22:05] And you can see just on the surface, someone at variation.
+[22:09] Thank you all very much for tolerating that talk and the heat.
+[22:12] If you want to know any more, I will be in the Q&A 10 shortly.
+[22:15] Thank you very much.

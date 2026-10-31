@@ -1,0 +1,317 @@
+[00:00] Thank you so much everybody.
+[00:21] Yep, this is Manintek hashtag yes all men.
+[00:26] Before we start I would like to thank all of you so much for coming to this.
+[00:31] It really means more to me than I can even really say with words.
+[00:36] I'd also like to just remind you that there is a content warning on this talk in
+[00:42] You can see it in the talk description on the EMF website.
+[00:46] Please take care of your own mental well-being because we are going to go in strong from the start.
+[00:52] Also, I will be reading from my slides.
+[00:55] I have ADHD as much as I would love to be able to memorize the whole talk.
+[01:00] Absolutely can't do that.
+[01:01] So I will be glancing down at my slides occasionally.
+[01:04] So I want to start with a text message.
+[01:08] Fuck you, you fucking ho, fuck you.
+[01:11] Then again, 20 minutes later, fuck you.
+[01:15] Then a 2 AM.
+[01:17] Fuck you, you fucking ho.
+[01:19] And the messages continued throughout the night.
+[01:22] I woke up to them on my phone from a colleague after we had what I thought was a normal night at the pub.
+[01:29] We'd all been squashed around one table.
+[01:32] You know, the way you are when a pub is busy,
+[01:35] but apparently my leg touching his was enough for him to decide that I wanted him.
+[01:41] And when I said no, that was my answer.
+[01:45] And he decided that that was an appropriate response to my saying no.
+[01:51] The next morning I showed my boss the messages and my boss showed the CEO.
+[01:56] And here's the part that I would like you to sit with, because it's the part that affected me more than the text themselves really.
+[02:04] They didn't reprimand the guy.
+[02:07] He was, and I'm using the actual words that were said to me, two valuable to lose.
+[02:13] He was cheap, he was effective, and replacing him would have been an inconvenience.
+[02:18] So instead nothing happened.
+[02:20] But what happened to me is that he decided he was going to make me disappear.
+[02:25] He stopped merging my polar requests every single one.
+[02:28] Not reviewed, not rejected, just left to rot,
+[02:33] because the woman who turned him down for a date didn't deserve to have her work exist.
+[02:38] My code, my actual professional output was hell of hostage because I wouldn't sleep with him.
+[02:44] Nobody made him stop.
+[02:46] I just had to learn to root around him the way you root around a fallen tree in the road.
+[02:51] You don't ask why it's there, you just change your journey.
+[02:55] Except a fallen tree doesn't affect your performance review.
+[02:59] Blocks polar requests do.
+[03:01] Work that never ships doesn't exist.
+[03:03] And as far as a promotional parallel is concerned,
+[03:06] somewhere in a productivity metric there was a version of me that looked like I was less capable of that.
+[03:12] Yeah, all because a man decided that my code should quietly die rather than let me see it merged.
+[03:19] And that's the part that people miss when they say,
+[03:21] Well at least nothing physical happened.
+[03:23] Something did happen. It happened to my career.
+[03:26] It happened in a column on a spreadsheet where it's invisible to everybody except for me.
+[03:32] And at no point in my career was I or have I ever been given coaching on how to manage that.
+[03:39] There's no confidence workshop that fixes a man who won't merge a code.
+[03:43] There's no negotiation tactic that unsens a fuck you text.
+[03:48] There's no resilience training that makes a CEO decide that a woman's safety is worth more than a cheap developer.
+[03:56] And throughout my career I have worked with some incredible women and I have seen them drop out of tech roles.
+[04:04] They're silently being bullied, they're having their confidence eroded and they're being unsupported to the point where they just can't stay anymore.
+[04:13] And I was recently watching another one of those women in tech panels.
+[04:19] And I just absolutely lost my rag.
+[04:22] The rage that I felt building up inside me. I'm sure you've all seen a similar one.
+[04:27] And they're full of good intentions. They claim to teach women how to survive the tech industry.
+[04:33] We need to learn to be more confident. We need to learn to negotiate harder.
+[04:37] We need to learn to be resilient.
+[04:40] One of the women on the panel actually said out loud, if you work hard, you'll be rewarded.
+[04:46] The implicit message every single time is that the problem is you. You're just not working hard enough.
+[04:53] The odds aren't stacked against you. There's no bias. If you're struggling to get ahead, it's your fault.
+[05:00] It's not the industry. You just need to work harder.
+[05:05] And I have been trying. I have been working harder and I'm tired and we're all tired.
+[05:12] So instead of telling women how to survive the tech industry, tonight I'm going to tell some stories of how I personally have survived the tech industry.
+[05:21] And by the tech industry, I mean men in the tech industry.
+[05:25] What they did to me, one woman, just my own stories, just one career.
+[05:31] In the hope that maybe it'll be shocking enough to some of you to start asking, what can men do to stop pushing women out of the tech industry?
+[05:41] And I want to make something super clear as we go in. Nothing that I'm going to say this evening is extreme. Nothing is a worst case scenario that I've gone digging for every single woman in this room has her own version of these stories.
+[05:56] This isn't unusual. It's a fucking Tuesday.
+[06:01] So let's start at the beginning. I have been told that's a very good place to start.
+[06:07] I got my first job in tech at 18. It was a gap year placement at a prestigious R&D department in the UK.
+[06:16] And I had zero programming experience. I was straight out of school at this point.
+[06:21] And I remember sitting in that interview feeling like an imposter before I'd even done anything to feel like an imposter about.
+[06:28] There was however a non-verbal reasoning test as part of the interview process.
+[06:34] And it was a booklet and you just sort of kept going.
+[06:37] And I found out later that you weren't actually meant to finish the booklet.
+[06:41] It was designed to stretch you to see how far you got. I finished the whole thing.
+[06:47] I fucking loved non-verbal reasoning. And I got the job.
+[06:52] And you'd think that would be the whole story, right? 18 year old girl finishes the test.
+[06:56] Nobody finishes and gets the job. But then something happened that laid the foundations of how I felt like I fitted into this industry.
+[07:04] Multiple men in my life told me that I'd only got that job because I was a woman.
+[07:11] I was obviously the diversity higher. There's no reason why they'd hire someone who had no experience writing code.
+[07:19] I was hired not because of the test, not because I interviewed you well. I was hired because of my gender.
+[07:25] What was between my legs was of course more worthy than what was between my ears.
+[07:30] Silly little girl. She thought she had other value.
+[07:36] And notice the machinery of the you only got that because you're a woman statement.
+[07:42] A woman achieved something unambiguous, measurable, provable, in this case she finishes the test.
+[07:49] The story that the men around her prefer is one where her achievement doesn't count.
+[07:54] Where the real explanation is her genitalia, not her mind.
+[07:59] And that was week one before I'd even written a single line of code and it kept going.
+[08:06] While I was there and I would just remind you I was 18 years old.
+[08:11] A colleague who was approximately 20 years older than me took a liking to me and he'd leave flowers and chocolates on my desk before I got into work.
+[08:21] So I'd arrive to find them waiting for me like some creepy awkward gift from a ghost.
+[08:28] And every single time I found them, my colleagues who were all men of course would be sat there watching and giggling.
+[08:36] It's not funny, it's that flowers on your desk again.
+[08:41] A 40 year old man leaving flowers for a teenager.
+[08:45] Hello, Rius.
+[08:47] Nobody told him to stop, nobody told him it was inappropriate.
+[08:51] The joke wasn't him, the joke was my reaction.
+[08:55] Think about the maths of that for a second.
+[08:58] It wasn't one man doing something creepy in isolation.
+[09:01] It was one man doing something creepy and a room full of men all choosing actively to find it entertaining rather than alarming.
+[09:09] Every single one of those men had a chance to be the person who said,
+[09:13] Me, she's 18 and she's trying to work.
+[09:15] That's not romantic. That's fucking weird.
+[09:18] Not one of them took it.
+[09:20] They all thought that he was weird. They told me, it was embarrassing.
+[09:25] But heaven forbid, they have an awkward conversation with him.
+[09:30] Silence isn't neutral in a moment like that.
+[09:33] Love isn't neutral either.
+[09:35] It's a vote every morning for his comfort over mine.
+[09:39] Fast forward a few years and I'm in London.
+[09:42] I'm attending a lot of events.
+[09:45] I'm really engaged in the front end developer community.
+[09:49] I'm going to meet up and conferences and I start thinking,
+[09:53] Oh, I'd like to give a talk.
+[09:55] I'd like to get involved in this whole scene to share what I know.
+[09:58] And the response that I got over and over was,
+[10:01] You should talk about being a woman in tech.
+[10:04] Not what are you working on?
+[10:07] Not what have you learned recently.
+[10:09] You should talk about being a woman in tech.
+[10:13] Well, meaning men told me this constantly.
+[10:16] And I think they thought they were being helpful.
+[10:19] Here was one subject where my gender wasn't a liability.
+[10:22] It was a topic.
+[10:25] The message that I took away was that men weren't interested in what I had to say about anything technical.
+[10:31] I should only speak to women.
+[10:33] And I should only speak about the soft stuff.
+[10:36] Things like imposter syndrome and confidence and resilience.
+[10:41] They don't want to hear about my actual work.
+[10:44] And yes, I do absolutely feel the irony of my standing here and doing this exact thing.
+[10:51] 20 years later, it is not lost on me, I promise you.
+[10:56] But at those same events, walking around with the same land you're done around my neck that everybody else had,
+[11:03] I would get us multiple times.
+[11:06] Are you a designer?
+[11:09] Are you here with your husband?
+[11:12] Not what you build.
+[11:14] Not what tech are you excited about.
+[11:17] The assumption constantly was that as a woman at a tech conference,
+[11:21] I must be decorative or accompanying somebody or it must be lost.
+[11:27] And these same events just part of me was so desperate to be involved in it to prove that I was worth as much as the men.
+[11:39] And I just kept trying and then it happened.
+[11:42] The first ever conference invited me to speak.
+[11:46] They sent me an email.
+[11:48] And I remember this email word for word because of the excitement of finally feeling like maybe I belonged.
+[11:56] But it was mixed with this bitter taste of disappointment and I've never been able to forget it because they said they needed more females.
+[12:05] Not we want you, not we want your expertise.
+[12:10] They needed a body that looks like mine standing on their stage so that nobody could accuse them of an all male line up.
+[12:17] I wasn't a speaker to them.
+[12:19] I was just a compliance box.
+[12:21] I was a shield against criticism.
+[12:24] And I wanted to just pause on that email for a second because I've thought about it a lot over the last few years.
+[12:30] The organizer of that event looked at their speaker line up.
+[12:33] Had a little flicker of concern about how it would be perceived.
+[12:38] And their solution was not let's find the most interesting woman in this field and go ask them.
+[12:43] Their solution was we need more females.
+[12:47] Present tense generic interchangeable any woman will do as if the point was never the expertise.
+[12:55] And I said yes anyway because it was my first invitation and I wanted to get on that stage.
+[13:00] But I remember standing backstage at that event acutely aware that some portion of the audience had been told implicitly to expect a diversity slot rather than a real talk.
+[13:12] That I didn't belong, that somehow I was worth less that I was just a pity listen.
+[13:17] And that I'd never be worth the same as the men in the line up.
+[13:22] And around that same time a separate use of this oddly biological phrasing.
+[13:27] I had to sit down with a VP at the company that I worked at and tell him that female is not a polite synonym for women.
+[13:34] After he used it in an email to complain that none of the women on the team were being sent to Siliconmilk roundabout that year.
+[13:40] Female is clinical.
+[13:42] It's the word you use in a nature documentary.
+[13:46] I had to teach a grown man in a leadership position this on top of doing my actual job as a front end developer.
+[13:54] And when I pushed for more inclusive language on the same kind of team in a different job when I asked them to stop saying guys to refer to a group that included me.
+[14:04] You will literally never guess what they did.
+[14:09] A man gave me a big plastic button.
+[14:12] One of those plastic ones that you record sound on to and my instruction was to press it every time somebody in the room said guys and everybody laughed.
+[14:22] It was hilarious apparently that the one woman in the room had been assigned to the job of nagging them into treating her like a person.
+[14:32] And my constant ask for equality was just a comedy bit.
+[14:36] It was so funny. Look at the big red button.
+[14:41] And then on the tech conference circuit itself once I got confident enough to actually start travel and start speaking regularly.
+[14:49] Constantly at every single event men were pushing alcohol on me.
+[14:53] It was always somebody standing a bit too close.
+[14:57] People thought it was appropriate to tell me about their sexual exploits.
+[15:02] I got sexist jokes offered like small gifts to attempt to flirt with me when I was literally just there trying to do my job.
+[15:10] And I want to say this plainly, I was there to work. I was not there to be somebody's holiday romance.
+[15:17] And one night while leaving an after party a man that I've been talking to offered to walk me back to my hotel.
+[15:24] He was another conference attendee and I didn't really want him to.
+[15:28] But I also didn't want to make a scene.
+[15:31] It was a strange city that I'd never been to. It was night time and some small part of me thought well better than the man that I've just spent an evening chatting to than the empty street.
+[15:42] So I didn't say no quite as firmly as I would have liked to.
+[15:46] He walked me to the hotel and then he followed me to my room.
+[15:50] And then he wanted to come in and see in his words, whether my room had the same layout as his.
+[15:57] And I felt trapped. I was alone in a hotel room in a city that I don't know with a man that I didn't want anywhere near my space.
+[16:05] And I didn't feel safe enough to tell him to leave in every hint I made.
+[16:10] Or feeling, been entire.
+[16:14] Fell on deaf ears. And I want to be really clear with the men in the room about what that feeling is.
+[16:21] It's not shyness. It's not playing hard to get.
+[16:24] It's a woman doing a rapid silent risk calculation in her head about which of the two options that she has in front of her are asking a strange man to leave her room or letting him stay is less likely to end badly.
+[16:40] And that calculation is exhausting. And it's one that's statistically, I'm going to assume that few men in this tent have had to make, especially at a work function.
+[16:50] And I want you to sit with how ordinary that night was, because that's the thing that should actually alarm you.
+[16:58] There was no drink spike, no threat made, no violence, just a perfectly friendly, seeming man in a perfectly normal industry party walking a colleague home.
+[17:09] Every single decision that I made that night was a reasonable one. It was a sensible attempt to stay polite and stay safe at the same time.
+[17:17] And it still ended with me trapped in a hotel room.
+[17:21] It's not a story about a monster. It's a story about how low the bar is for women to end up somewhere that they never wanted to be.
+[17:31] So let's jump forward again. I turned 40 recently and with that actually came a bit of a reprieve.
+[17:38] No more flirting or conferences. I'd gone from target to completely invisible.
+[17:44] But I swapped one piece for another. My body turned traitor instead.
+[17:49] Paramaniposes hit me like a fucking freight train. And I was surrounded by people who'd never been taught a single thing about why.
+[17:57] Including myself if I'm honest, I also didn't know anything about it. Not the basics, not the symptoms, nothing. And why would I?
+[18:04] We're not really taught it in school. It isn't in workplace inductions. It isn't in the well-being newsletters that HR sends out.
+[18:12] Women's health generally is something you're expected to work out for yourself as it happens to you.
+[18:20] These are just a few of the fun symptoms you can expect of paramaniposes.
+[18:25] I was in pain. I had severe brain fog. I was dropping words, mid-sentence. I felt like my brain and body were no longer under my command.
+[18:34] And this is still something that I deal with, day to day. And that exactly the same time that this started happening to me.
+[18:42] I also lost two people who were close to me. And grief and brain fog just stacked on top of each other and my work really started slipping.
+[18:51] And I was struggling visibly and I knew it.
+[18:54] And my CEO called me to have a performance chat with me. He told me I wasn't performing. I told him,
+[19:02] I'm fully aware that my performance was slipping. And I told him why paramaniposes kicking my ass and I was really struggling.
+[19:12] He told me he didn't know what paramaniposes was.
+[19:17] This was a man with a wife who is my age who employs at least two whole women.
+[19:24] He looked at an employee who was in genuine crisis and had nothing to offer. No curiosity.
+[19:31] No tell me more so I can work out how to support you. Nothing.
+[19:36] What he actually said to me was, people die. Life is pain. Just fine join your work.
+[19:46] A woman tells her CEO that she's grieving two deaths and going through an entire medical transition.
+[19:53] Nobody ever thought to explain to her and his considered management response is a line that sounds like it was cross-stitched into a cushion.
+[20:01] People die. Life is pain. Just fine join the work.
+[20:06] This is someone who has never had to survive their own body turning against them in mid-career.
+[20:12] How very inconvenient of me to have a mental and physical health crisis on his dime.
+[20:19] So no, 40 didn't bring reprieve. It just changed the shape of what I had to carry and who I had to explain it to.
+[20:27] And that's been my constant experience now of being a geriatric intake.
+[20:33] Things that happened to 50% of the population are unknown, untalked about and unsupported because they don't affect the men in the room.
+[20:42] So the final story that I have to tell tonight is that ever work secret Santa.
+[20:47] A colleague thought it would be a real good joke if he gave me what he called a rape kit as a secret Santa gift.
+[20:57] Not a testing kit. Nothing as clinical as that. He gave me gift wrapped a box of cable ties tape and rope.
+[21:09] And my all-male team had a good old love.
+[21:13] Only one woman in the room given a rape kit as a present. Oh, so funny. Such jokes.
+[21:20] She has her pick of the men in the room. What a hysterical situation. Not one person in that room.
+[21:26] Look shocked. Nobody called it out. I was stood there holding this thing feeling like the floor had opened up beneath me and I was falling into a pit of vipers.
+[21:37] At multiple places that I've worked, I've been the only woman on the team.
+[21:41] And coming up in the industry, there were constantly sexist jokes, yelled by colleagues across the room.
+[21:46] I worked at one place where the joke was, if you stepped away from your laptop without locking your screen, you got shock porn set as your desktop background.
+[21:56] This was just the texture of a normal working relationship.
+[21:59] I was constantly made to feel like I was a party pooper by not laughing at the joke, not finding it funny. I was a stick in the mud.
+[22:07] I couldn't take a joke. I was too sensitive, too emotional, that by not joining in I wasn't part of the team.
+[22:15] I've told a lot of stories tonight, a text message being a diversity higher, I'd wanted flowers, females, a plastic button, a hotel room, a rape kit, live love fucking love.
+[22:29] And if you take any single one of these on their own, I can hear the response already. I've heard it a hundred times.
+[22:36] Come on, it's not that deep. He was probably just being friendly. They were just trying to help.
+[22:42] It's just banter. You should have said no. You're reading too much into it. You should stand up for yourself.
+[22:49] And individually, maybe you could argue that.
+[22:53] But nobody experiences these things individually. I experienced all of it stacked for an entire career.
+[23:01] Alongside, I promise you, dozens more stories that I haven't got time for tonight.
+[23:06] And every single one of these moments is enough to be shrugged off on its own.
+[23:11] But together, they add up to a career long, low grade message. You do not belong here.
+[23:18] And if you complain about it, you're the problem.
+[23:21] And like I said earlier, none of what I've told you tonight is unusual. It's not a worst case scenario.
+[23:27] Everyone in this room has their own version, probably several.
+[23:31] And that's what I want them in the room to take away tonight.
+[23:35] More than any individual story. I want you to understand that this is normal.
+[23:40] Because if it's normal, it's not just a story about a handful of bad apples that you'll never meet.
+[23:46] It's the story about the orchard. It's the story about your team, your office, your conference.
+[23:52] Somewhere in your career, in a room that you were standing in, this has happened.
+[23:57] It's happened to your colleagues, to your friends. The only question is whether you were paying enough attention to clock it.
+[24:06] So here's the part of the talk where I'm supposed to give you the solution.
+[24:11] Five steps to fixing tech culture.
+[24:13] But I can't do that. The solution isn't mine to give you.
+[24:18] Because the problem isn't mine. I didn't send the text. I didn't leave those flowers.
+[24:23] I didn't give draft cable ties. I didn't think that walking into somebody's hotel room was an acceptable thing to do.
+[24:31] That was all done by men. So the work is on the men and the work is specifically on you.
+[24:38] So here's what I'm asking. Talk to your friends about this.
+[24:42] Not in the abstract, actually specifically asked them, have you ever seen this happen?
+[24:48] Has a woman ever told you something like this has happened?
+[24:52] What would you do if you saw a colleague send a text like the one that I read you tonight?
+[24:58] What would you do if you saw a man leaving gifts on an 18 year old's desk while everybody laughed?
+[25:05] What would you do if you saw a man leave with somebody after a conference?
+[25:11] And ask expecting an honest answer not a comfortable one.
+[25:16] Because here's the trap that I have a lot of men fall into.
+[25:20] Over and over right here. Oh, I know my mates. They're great people. They wouldn't do something like that.
+[25:26] But the men who did every single thing that I've spoken about tonight were somebody's mate.
+[25:32] The associate you're older the flowers had friends who sat there laughing instead of telling him to stop.
+[25:38] The man in my hotel room had friends. Somebody probably thinks he's a great guy.
+[25:43] The man who bought the right kit as a joke goes home every night to people who love him.
+[25:48] You can't assume that your friends and colleagues wouldn't do that because I promise you somebody's friend and somebody's colleague always does.
+[25:56] The only question is whether you'd know and whether you'd notice and whether you would put your own discomfort over the safety of another person.
+[26:05] You'll only know if you're actually looking for it. If you actually ask and you'll prepare not to like the answer.
+[26:13] Women are literally, we're just trying to work. We're just trying to build cool things.
+[26:19] We're just trying to advance our careers the same as you are.
+[26:24] We're not a work looking for a date. We're not at conferences hoping to hook up with their to learn.
+[26:31] I'd rather you have one awkward conversation with a friend.
+[26:36] Has anyone ever done anything like this around you? Have you ever hit on a woman at work? Have you ever offered to walk a woman home before?
+[26:47] I'd rather you feel that slight discomfort than have that friend be the reason why a woman doesn't feel safe working in the tech industry.
+[26:56] Why she feels like she can't take it anymore. The trade isn't close.
+[27:01] An uncomfortable 10 minute conversation for you against a woman's safety.
+[27:06] It's not even a real choice. It just feels like one because the 10 minutes is yours and the risk was never yours to carry.
+[27:16] I want to be specific about what's seeing it actually looks like day to day because I don't want this to sound abstract.
+[27:23] It's the meeting where somebody says guys and you notice without handing the moped plastic button.
+[27:29] It's the secret Santa where somebody makes a joke gift and it's making it way around the room and you're the one who says out loud,
+[27:36] that's not funny. Let's not do that.
+[27:39] It's noticing a colleague who is giving the women in the office a shoulder massage.
+[27:46] And then turning and having a conversation with him about not touching other people without their consent.
+[27:52] It's spotting when women are spoken over or when their points are being co-opted and saying, I think she was talking. I think she made that point excellently.
+[28:02] It's doing things like having sanitary products available in your office for your colleagues who need them.
+[28:07] So we don't have to stuff them up our sleeve and walk through office.
+[28:12] It's flexible working hours. It's things like conference crashes.
+[28:17] It's being at the conference after party and noticing if somebody has given someone else too much alcohol or if they're standing a little bit too close to them.
+[28:26] Or if the woman is angling her body away from them.
+[28:29] You can just walk over and start a conversation with her about something else.
+[28:34] It doesn't need to be a huge amount of drama. It doesn't need to be an accusation.
+[28:38] Just a rescue that doesn't need to look like one.
+[28:41] None of this requires any dramatic bravery.
+[28:45] Just requires listening, noticing and then being willing to be very slightly uncomfortable for 30 seconds in a room full of your peers.
+[28:54] And when you get it wrong, if you say nothing, you don't notice it.
+[28:59] If you laugh at what you thought was a funny joke or you assume something is none of your business.
+[29:05] Don't disappear into guilt about it.
+[29:08] If this day's private helps nobody, go back to the friend afterwards and say, I should have done something and next time I will.
+[29:16] That's my whole ask. Just do better next time.
+[29:20] Don't wait for the moment. Don't wait for the text or the flowers or the button.
+[29:25] Go and have a conversation with other men before there is a story that needs more conversation.
+[29:31] See it? Say it.
+[29:34] Fucking sought your shit out.
+[29:36] Thank you.

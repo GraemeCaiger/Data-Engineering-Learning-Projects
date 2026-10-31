@@ -1,0 +1,258 @@
+[00:00] So, welcome to EMF and my talk about MEMS in general, the macro mechanical measurement systems
+[00:23] in very small silicon things.
+[00:25] And one of these, one of the things, no two in the new batch, we actually have two of these
+[00:30] MEMS things, the Acceleration sensor, which was two years ago already, which was sponsored
+[00:36] by Bush.
+[00:37] And the second one, which I just learned, metonator, a compass for my Chinese company.
+[00:41] And I wanted to talk a little bit about what's possible these days and give some ideas
+[00:47] also what you might be able to do with your children.
+[00:51] So, what's meant in general, these are micro mechanical systems where you have one silicon
+[01:00] I will show that in multitodes and one plug is something moving where you can measure the
+[01:05] acceleration, the rotation, the magnet field, things like that.
+[01:09] And it's always a little bit of electronics in the second chip where you do the measurement
+[01:13] on the analog things and then have an interface for getting the data out to your micro
+[01:19] controller.
+[01:20] The things are very small, I will have samples where you can have them look on later
+[01:27] in the Q&A 10 or in the workshops.
+[01:29] How small things are getting in the meantime.
+[01:32] But it's most of the time it looks like this or similar I have also other examples
+[01:36] how mechanically these things are handled in the meantime.
+[01:41] Those sensors are around for quite a long time already.
+[01:45] You use it every time in your gaming toys, whatever everything which is moving, your mobile
+[01:52] phone uses that the first step was always just having gestures that if you're mobile
+[01:59] phone is up and down with various flow in the meantime.
+[02:04] Don't know how you call it vacuum cleaner or automatic, clean things, use it for
+[02:10] doing motion control and do indoor navigation to know how far they're moved and if they
+[02:15] have to rotate.
+[02:17] Things like that, we also have gas sensors where you can do air quality or alcohol measurements
+[02:23] and other things, they're in heroes, they can do headshaking and a lot of things which
+[02:28] are never used to myself.
+[02:29] So a lot of these things are already in the consumer and a correct technology wise, making
+[02:36] micro mechanical sensors at least that wastes started up in the automotive industry with
+[02:42] famous outtest from time-lough where a car flipped over and they realized they need something
+[02:48] for ESP for controlling the braking.
+[02:52] Sorry.
+[02:55] And then because I had a ESP sensor but it was bulky and very expensive for special things
+[03:02] in cars and that is how we needed small cheap and now and then the very first silicon
+[03:10] sensors got invented and a bit later they got so small and so cheap that it's plenty of
+[03:16] those sensors are in every mobile phone and in every smart device, every batch, things
+[03:22] like that.
+[03:23] These days, everybody is talking about AI and everything is done with AI and mobilization
+[03:28] and robotics and autonomous blah whatever.
+[03:32] The problem is with all these robotic and autonomous driving in the AI they need input.
+[03:36] They need data and then it's sensing if they have no clue what your delivery autonomous robot
+[03:44] is doing.
+[03:45] It's not working if your robot is trying to touch something and you have no information
+[03:52] what the robot is doing, it's not working well.
+[03:55] This is the reason why in the last decades sensors got changed a lot for how they've been
+[04:03] using it.
+[04:04] It started with you have a robot and it just has an acceleration sensor to make sure the
+[04:09] robot arm is not shaking too much and it's a smooth operation and you know where it's
+[04:14] heading to that's not all possible with only angle sensors and things like that.
+[04:19] And that famous indoor cleaning device which can use for indoor navigation that it's
+[04:26] 10 years later.
+[04:27] The measurement of the sensors is a bit more accurate and it knows when it accelerates
+[04:31] and can measure how much it's rotating if the wheels are slipping on your pocket
+[04:36] and carpet whatever to make reasonably precise movements of your lawn.
+[04:45] This is called grass cutting things.
+[04:48] They're also using that.
+[04:51] The next step was those co-bots really doing tech tile things and they're trying precise positioning
+[04:57] and getting hands on things in laboratory making sure that they don't have too much force
+[05:06] and things like that and can't harm anyone.
+[05:08] And now everybody's talking about humanoid robots.
+[05:11] They get to everything and help you with everything the problem is when they really have to touch
+[05:18] you, something someone else.
+[05:20] It's not helpful if the robot doesn't know what's the pressure the force is touching to.
+[05:27] This is the reason there's also measurement data that AI needs that the robot behaves
+[05:33] softly to you.
+[05:35] Right here you can see someone teaching a robot or whatever in the laboratory and now the robot tries
+[05:41] to take a glass or whatever or not crush it because it would be possible.
+[05:47] And this is why pressure sensors which before have been using used in mobile phones just for pressure
+[05:53] measurements for weather forecast and things like that nowadays and we're also for indoor navigation
+[06:00] that the mobile phone can measure which floor you're that body-recoming with something happens
+[06:09] and maybe you can't see or it's just unconscious.
+[06:14] The pressure sensor can tell how high you're from the basement of the building.
+[06:21] This is because they really measure which showed it in next slide I think.
+[06:27] In the accuracy of centimeters in the meantime, but pressure sensor's also can be used now
+[06:33] within the fingers with some fluid or whatever that if the fluid in the fingers with a soft tissue
+[06:41] start pressing on the glass or we have an example where the robot tries to touch strawberry
+[06:49] and shouldn't squeeze that and make juice out of it but just pick it up and put in some oils.
+[06:55] The pressure goes up a little bit and the sensors are so precise that you feel that pressure
+[07:00] increase in the tissues of the fingers with some fluid that you really can
+[07:05] softly handle people strawberries whatever you like and also make that meters which I've been
+[07:11] used just for having a compass and things like that. There also can be not at misused.
+[07:17] It can be used because they are horribly precise.
+[07:22] Empire shaking the fingers. No, it's at the wind.
+[07:25] If you have a small, it's not only measuring the earth magnet field but if you have a very small
+[07:33] magnet somewhere nearby you can detect very well how your sensor mechanics are moving.
+[07:39] So if you have anything where you want to make sure it's not slipping or moving or you want to
+[07:45] measure the distance then the magnets are so simple. In the workshop, I will have a model at 3D
+[07:55] model of a sensor if you maybe can show that very good with a 3D printed model of a whole sensor
+[08:03] an acceleration sensor and it's really working. You can move all the plastic parts and instead of
+[08:10] bringing the electronic measurement because it's all plastic there's small magnets and it's actually
+[08:15] with that sensor we can measure how those parts are moving and how an acceleration sensor is really
+[08:22] working and can be displayed on a tablet. Play with that later in a Q&A tent or in the workshop
+[08:26] switch up a gift. So these are possibilities using magnets for other things.
+[08:32] Actually old hall sensor things have been what I told in washing machines for decades
+[08:38] whereas on the excess and of your washing machine and that way if it bent down a little bit
+[08:43] they realize how high is the load of your washing machine and how much clothing you put in and
+[08:48] how much body your feet seems like that but that's now on a much finer scale also for
+[08:54] having tactile robot things so that what's possible these days with modern sensors and
+[09:00] here you're just in the middle see the measurement things of the most decent
+[09:05] generation of brushless sensors which in the old times they had resistors and for the
+[09:11] member on bending a little bit with a resistor you've measured the change of the length of the
+[09:17] system but that way a difference in pressure and this is the upper signal if you work upstairs
+[09:24] in a building it's with a lot of noise and six acts and now it's so less noise so that you
+[09:33] really can see every single staircase and play around with the showing hates in centimeter quality
+[09:40] and if you look at that thing that's a very small sensor I have a real one also in my
+[09:46] sample kit and looking at the dimensions it's fast you can't really find that the capacity
+[09:55] change is some auto farad typically if you're doing electronics you have many
+[10:01] and many attributes of morphe arts for everything women brain itself is only
+[10:06] what six picometer the variation which gets acted for a step and for the small
+[10:14] resolution and press up different so we have ten hundred thousand vector Pascal is the base pressure
+[10:22] and it's two Pascal so 150 one over fifty thousand to the record thing and just to get a little
+[10:31] bit an idea everything is soccer these days I would it's football here I think soccer is only
+[10:37] American that that membrane if you look at that it's really hundred twenty micro meter or two
+[10:46] higher down meters on top of the base plate if the membrane would have been the whole soccer field
+[10:52] and similar pictures we have for a magnetic meter the most recent versions use some quantum
+[11:02] effects for doing measurements the older ones had also have been magnetic or restrictive
+[11:07] things which is what's been used here in the sensor and new technologies and measurements things
+[11:12] it just made it a bit more precise and for doing that very short distance measurements and
+[11:20] also here the size is just if you that very small medium gray insulator this is the main part where
+[11:29] the physics happen for tunneling electrons which where the tunneling current changes if the
+[11:38] magnetic field changes and the size on scale up to several field again is two micrometer
+[11:48] lawn high we did that precise to make sure that all the magnetic stuff is working as expected
+[11:54] not just I think last example what also can happen now I talked a little bit about pressure sensor
+[12:01] the magnetic sensor for tactile things that it's not slipping very classical usage now of the
+[12:09] acceleration sensor which we are using also the truth I want is image stabilization it's been used
+[12:14] in expensive cameras for decades already for SLR cameras now it's standard in all the mobile phone
+[12:21] sensor chips that you measure that your camera chip is shaking and you do a lot of measurements
+[12:27] so pictures and then teach it all that that's very important for all the autonomous things which
+[12:35] use cameras for looking in the region that it's not an unsharped thing where you can't make the
+[12:40] cadet anymore that you get a sharp picture and have a nice picture of the kit makes a
+[12:44] I imagine easier detecting kits even reasonably good detecting kits but maybe not in
+[12:49] green plants and other things yeah a lot of other things somewhere was for the motion control
+[12:57] if the euro but tries to walk around and that you easily can detect when it slips
+[13:03] although the border over cover to whatever and hopefully is agile enough then to not fall down
+[13:11] and break things it's a lot of new opportunities where you can play with sensors now a little bit
+[13:18] what's ah this is a little bit just managed yet although they are been youtube again
+[13:24] it's just a little bit up this morning sorry for the old picture I didn't think about that slide
+[13:29] but it's all this is same this is really the sensor which is on the baseboard for both
+[13:35] generations for the baseboard thing this is now an IMU in the inertial measurement unit so it can
+[13:42] do acceleration in all three dimensions so both gravity and all if you accelerate something
+[13:48] if you move it in any direction that's getting measured by that thingy and also the rotation so
+[13:53] you can integrate that because now they're getting more and more precise in every
+[13:59] generation that you just can add how much you accelerate and how much you turn and to
+[14:06] indoor navigation with all of that and you really can count if you did a full circle rotation
+[14:11] with 360 degrees because they have resolutions of some really degree whatever things and I've
+[14:20] seen some of its people of colleagues working with our sensors here's a go around our main
+[14:25] building in the Cumbera in our company and working ten times around the building and doing
+[14:31] image track of not image track and weight tracking both with the sensor and GPS and since
+[14:39] they've been high building the GPS reception was quite bad and running ten times around the main building
+[14:47] the track looked much better and more precise and came to the front more precise than with the GPS
+[14:52] signal because GPS wasn't that great indoor GPS is not working at all so that's all possible with
+[14:58] those very small mechanical sensors where we have a real three-leaf pin the thing and these are
+[15:06] the times for the workshops like if so the first one this afternoon at three o'clock
+[15:11] said that you want to plug in so that three o'clock so where we can talk about MEMS technologies
+[15:16] about what's in the sensor how you can program the sensor and people for just playing a little bit
+[15:22] with microplighten that you can connect with a cable right your own very small program
+[15:28] getting measure when data switching on LDC how easy it is with all the microploters these days
+[15:34] playing with that and also if someone is interested I'm prepared didn't try that so far
+[15:43] talking a bit about how we can connect other sensors and playing around with other sensors as a
+[15:47] two-dug on extension having a extension board I use the breadboard and try to connect some of the other
+[15:55] for example a pressure sensor thing oh or is if you're interested in that getting contact with me
+[16:02] in the Q&A session have a look at the samples on the workshops with their way more time
+[16:10] then doing really hands on and programming if you're interested in that bring your notebook your
+[16:15] tilde gun that we can do some programming examets if you like other than that yeah a
+[16:21] push sensor tech is doing all these sensor things only for the consumer electrically the real
+[16:26] Bosch GmbH robot Bosch GmbH is doing that for the automotive all the sensors are
+[16:31] work them that's sure if they're so hmm yeah all the sensors are built up in a
+[16:37] fapec in hoitling and jaman it's near stoodcut in his southwest
+[16:41] can you can see a little bit the size of those things are I also have a real way for with me that you can see
+[16:47] a little bit of silicon and gold and that's what's over there can have a look at that later
+[16:54] this is now really as kind of real acceleration sensor with the same size thing if you
+[17:01] should have a soccer stadium then because now the whole mechanical things things which are
+[17:07] free to swing around in all the three directions for x y and set x is to do that measurements
+[17:12] and if you scale it up on the soccer player again that up up steel plate or the silicon plate
+[17:20] where I use either small spring things that's about tens in the meter above the grass and the
+[17:29] structure of thickness of that steel plate measurement plate is one meter so if a plate of one
+[17:35] meter thickness which is 9 mm plus minus so very precise in thickness and it's only tens in
+[17:44] millimeters with less than a millimeter variation on top of your soccer class that those
+[17:50] measurement things to take quality are working yeah and we really still pocket has a lot of problems
+[17:59] with automotive things but the consumer electrically is using more moss sensors to the robot
+[18:05] x a day and whatever needing more input to think about so our technology thing is booming and we
+[18:13] are hiring a lot of people look for people for electronics semiconductor programming AI for
+[18:21] understanding data the old sensors they had a little bit of hand program to sample out where
+[18:27] you protect if it's upside down or step counting is done in the sensors with a small CPU and more
+[18:34] and more this is not programmed any manually but you really have small models in the old time I did
+[18:40] AI in university in the 80s and of the 80s for biomechanics and it was just a matrix and
+[18:46] neural networks and it's exactly the same it's also what happens in sensors more and more
+[18:51] they're very small neural networks where you can interpret the measurement data and things like that
+[18:59] and making the sensors itself a little bit more intelligent I don't like that work but they have
+[19:05] more features and it's you don't have to program them manually and try to figure out what's the best
+[19:11] algorithm in see example whatever to take if this was a step if you stand up or sit down if you're
+[19:18] working or cycling with a bicycle or a sitting or car thing sensors can detect all those things in the
+[19:24] meantime both by programming and more and more just having a lot of sample data and then
+[19:32] analyzing the sample data with some AI if you like that so I'm wait first what that's gonna yeah
+[19:43] maybe you can switch on the camera for our things so what do you have could trust this horror
+[19:51] but I have some more presentation this is a big sample of that pressure sensor and here we can
+[19:59] even show how the sensors up build up in turn it can be opened and you can into the silicon things
+[20:07] whether mechanics are and the asic chips or the electronics are in and can have a little bit
+[20:13] diving in all things for different types of sensors and this is a very small sample the camera won't
+[20:22] get it about the real sizes of real sensors how they look so these are the small acceleration sensors
+[20:29] that's a pressure sensor which you can have a look at so if you pixelate your button with good
+[20:35] eyes you can get an idea what's in your mobile phone and your robots and what you can use for the next
+[20:40] generation of your own gadgets okay thank you very much for your attention
+[20:45] thank you very much Harold I think you're going to be doing Q and A in the Q and A 10s
+[20:56] yes so that's in the other side of the robot arms you've got no one other questions if it's possible
+[21:01] to have time I think we do actually so anything we need the stage was probably unclear
+[21:07] extraordinary information no maybe not anyone interested in coming to the workshop and playing
+[21:18] with mems with sensors with programming oh see some parts wonderful so
+[21:26] oh that's just another picture which I don't know anyway the old pressure sensors and gas sensors look
+[21:33] like that it's a gas sensor it's always a metal housing and there's a hole but gas or pressure can
+[21:38] get in and out the last pressure sensor of that generation the program is always with that hole also
+[21:47] fluid dust particles you you immunity can get in which is all not before all the sensors no
+[21:55] matter if it's the gas sensor or pressure sensor the last generation of that hardware had to
+[22:02] very small holes a tent of that diameter you can't barely see them by eye and now the new one is
+[22:10] there is no metal shielding no housing whatever is the only a jail inside and so you can use it
+[22:16] then it's completely covered and you can use it even in fluids and whatever this is white works for
+[22:22] the tactile things in robot arms this is where one is this step on so far the workshops are in the
+[22:29] workshop tent number six and almost in the afternoon playing around and asking around whatever
+[22:37] I have somebody else which I would like to learn the next day let's see what's interesting for you
+[22:46] other comments also how it's welcome is there a limit like
+[23:00] that's always a limit what the customer say it should be smaller because yeah when I'm only working
+[23:07] for the company now 12 years and I never did sensors myself but the old sensors I was working
+[23:13] on an optical system which was 5.5 millimeters in a high and it was planned to go in smartphones
+[23:18] 12 years 15 years ago but when we have been ready we're taking a technology that was no
+[23:23] smartphone around anymore which allowed any device having 5.5 millimeters in age
+[23:29] so if didn't went into smartphones then sensors had been a typical head of two millimeters
+[23:34] then they give oh this is way too high or can it is small slim and we have more electrosix
+[23:39] so modern sensors are 0.6 millimeters something like that the third of that head and yeah
+[23:47] look at the small sensors they always complain it's true big and it uses too much current
+[23:54] events what you do the tendency is going that you have multiple sensors what now happens also
+[23:59] for the size for the footprint of the sensors that we don't put the mechanical sensors
+[24:07] what I've shown before this is old technology the mechanical sensor and the electronic side
+[24:12] by side now it's getting stacked that we really have a mechanical thing and put the electronics
+[24:17] everything in silicon on top of no plastic cover and anything that's then called
+[24:23] basic caps so I have the cap on top and it's only silicon things with the mechanical things
+[24:29] and the electronics and the CPU and everything in two slices which are glued together
+[24:35] no plastic no nothing that it's getting as small and also then you shrink down the footprint
+[24:41] you can see the three printed model how this looks like a little bit one example is for example
+[24:46] then yeah it depends a little bit how many pins you need for what your sensors is all doing
+[24:53] I just noted that magnet sensor which is on it has exactly four pins power data that's it
+[24:59] so this one what is it it's an acceleration sensor has six pins look at the data sheet what it is
+[25:06] good for and this is exactly something like that this is the electronics the acic
+[25:11] the analog and electronic part here is the mechanical thing with all the springs and
+[25:16] measurement analog parts and you glued that together and on the silicon side of the electronics
+[25:25] output you get the soldering balls it's BGA bulk with a red this is also what you use for your CPU
+[25:32] big CPUs and your big computers and this is a small example and a real way for where you can see
+[25:37] that tin balls which can be used as the contacts for your small ones so this is also
+[25:46] dimension of these things depend it's a little bit can be in a distance of 0.6 millimeters the old one
+[25:52] like this 0.4 millimeters is always difficult to get contacts if you need that and things like
+[25:58] what it's me who likes don't know could accept this of it and this model you make the things
+[26:05] some effects are getting better but you get more noise and you're getting as always how much
+[26:10] electricity you need how good the signal quality is but tenancies it's getting smaller and smaller
+[26:16] and some sensors it are really horrible small and you can't see the pins anymore and
+[26:23] ever look at that in the DNA tent and maybe I rev up and we can meet wherever the Q and A tent is
+[26:34] if you want to have a look at that or come to the workshops and we can play around and
+[26:38] thank you very much

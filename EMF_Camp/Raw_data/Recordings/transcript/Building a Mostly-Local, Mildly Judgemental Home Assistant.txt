@@ -1,0 +1,319 @@
+[00:00] So, home automations being a hobby of mine for decades. I used to watch tomorrow's world
+[00:18] in the 80s and see-as, futuristic homes of the future with the gadgets and wish I had one.
+[00:23] So back in 1989, at my student house, I said that my doorbell connected it to an old
+[00:29] 86 computer via the PowerLow port. We had an avail net where net work with car accident
+[00:35] was running throughout our student house and it was in a crate in the hallway. So the door
+[00:41] by wood ring, a message were pop up on every PC or not. That message were pop up on every
+[00:51] computer. I've used old windows, medical tablets, and actual wall running hacked
+[00:58] pills for communication. But a home assistant is a huge amazing open source project that
+[01:11] supports hundreds of components and has a vibrant and healthy community. You can run home
+[01:17] assistant on your local service, something as simple as a Raspberry Pi. I use a Lenovo
+[01:22] Think Center for Mine and some Android tablets on the wall for doing things like a local
+[01:27] for intent. But this talk is specifically about voice control. For that I use the
+[01:33] lector together with home assistant. Now, a lexer didn't have to do very much. Timers,
+[01:39] this blinds, the occasional moose joke. Amazon like to store your voice recordings and use them
+[01:45] to train things. You can turn that off though. But what really broke it for me was when
+[01:50] they turned off the ability to export your shopping list. They just changed the app. There's
+[01:56] no exportable share option there anymore. The only way you can give that list is someone
+[02:01] and that's who's doing the shopping is to take multiple screenshots or have them install
+[02:05] the app. I guess that's what you get from trusting a closed source ecosystem. So time
+[02:11] to say goodbye to Alexa. So this is the story of my journey training a voice assistant
+[02:17] with a personality. Local where possible, no local large language models, avoiding cloud
+[02:24] AI where we can. Now, why am I not all in on AI? Firstly, I'm a little tight. I'd rather
+[02:31] not spend a lot of money one off or monthly just for voice control. But mostly I'm
+[02:37] tired and I spend my days now doing security for the Apache Software Foundation. And over there,
+[02:44] we've gone from getting maybe 50 runerable to report some month. Two in the last month
+[02:49] over 800 that increases mostly due to AI and most of those reports are well invalid. So one
+[03:00] thing we had to do was to figure out if we could use AI to handle those AI reports. So
+[03:06] it's explained perfectly by this 15 year old meme. We had AI writers a set of skills
+[03:12] that we could use with an AI-agentic workflow to generate answers to the vulnerability report
+[03:18] sent to us by AI. At this point, it's less about fixing vulnerabilities and more
+[03:22] about causing the prices of GPUs to spike. Seriously, though, LLMs are useful. Cloud
+[03:29] services are useful. We'll just try and keep things as local, a cheap and as privacy
+[03:34] focus is possible. So since last year, if you want voice controlling home assistant,
+[03:41] you can just go and buy one of these things. The top left there, a voice assistant
+[03:45] PE, down at the bottom, a little tiny M5 atom. There's also a little M5 pyramid there.
+[03:52] There's lots of others as well. They're all under about 60 pounds. They have an ESP32,
+[03:58] micro-ray, audio processing, little buttons, LEDs. You can pick them up really easily.
+[04:04] Simple cheap just works, bit like a lecture they're boring. So let's hope to look, take
+[04:09] a look at all the parts of a voice assistant. We're going to give it a personality. We're
+[04:14] going to figure out when local is good enough and more importantly, have a bit of fun with
+[04:17] it. It's all that I'm so awesome. We can just take whatever parts we like, replace them how
+[04:21] we want to. Here's the basic voice handling pipeline that you get by
+[04:28] default in home assistant. You need to first listen all the time to the thing that wakes
+[04:33] you up. That's like a lecture. Micro-wake word does that on ESP home on whatever hardware
+[04:40] you've bought. Then you've got to record some audio and do speech the text on it. That's
+[04:45] fast a whisper running in a container on your home automation server. Then you've got
+[04:50] a process at text, do some action, come out with some text, and then respond with text
+[04:55] the speech. That's Piper with ESP Ringing in another container. With voice peer, my kitchen,
+[05:04] with some 3D print of housing, it kind of works like this.
+[05:08] Turn on the light. And in all of these presentations I've not shortened any of the
+[05:15] sequences so you can get an idea of how responsive things are. Now, give it a one.
+[05:21] Hey, Jarvis, what is the temperature? 20.1 degrees. I wish it was. Hey, Jarvis, close the blind.
+[05:34] Closing.
+[05:37] Now while I live in Scotland, I've never picked up the accent as you can probably tell. My wife
+[05:42] though, is Scottish, and she has huge problems with speech-to-text systems. Our old first
+[05:48] generation pre-assat navigation, she used to have to say go home to it. It would always
+[05:53] toggle the point of interest, golf course. It's a common issue. Those at the comedy show,
+[05:59] Scottish comedy show Burnestin, will be aware of the famous sketch. The two Scottish
+[06:03] men are in a lift, trying to get the voice recognition to tell them where they want to go.
+[06:07] And they're shouting in 11, 11, 11 repeatedly and getting increasingly frustrated with
+[06:12] the lift telling them, could you please repeat that? That's foreshadowing. Let's start
+[06:19] with an easy win then, custom rate words. With three rate words by default here, and that's
+[06:26] because it's actually quite hard to get a word that works across all accents and is quite
+[06:31] impervious to like-force positives. Michael Wakeward, I said, was used on the SP32 for this.
+[06:38] It locally listens all the time and it looks to detect these words. But you can train
+[06:42] your own model. You can just use a set of recordings of a Wakeward and a set of recordings
+[06:47] of like fake background noise. And to get her potato-totter-son who's done a lot of the
+[06:53] hard work of making this really easy with some scripts. I just record a 40 samples of
+[06:58] me and my wife saying something that's not coming out. Hey Vicky, she says. I figured
+[07:10] that was a reasonable name, pretty distinct, and the extra hay would stop false detections.
+[07:16] And now I do well, that's not coming out. Okay, hopefully on the next ones. It takes a few minutes
+[07:23] to set up. Spits up a web interface like this. You run the train at Andrew Wake. It's
+[07:28] not very demanding. Cut the hours on this MacBook. It also runs on the Linux and other
+[07:31] systems. At the end you get a Jason Filer, a TF light file. You just pop them somewhere
+[07:37] at ESP home can see them. A simply SP home change. You do a compiling install. It's
+[07:42] all in the browser. Does it all over the air? And then configure your voice assistant to
+[07:47] say the new Wakeward. Hey Vicky. And then we can have it responding to the same hay Vicky.
+[07:57] Now in Wake Spirit's Australian didn't go perfectly. You can run debug and ESP home
+[08:02] and see how the detection probabilities are going. And then you can add this ESP home
+[08:06] change or something like it and change them on the fly. So rather than having to be compiled
+[08:11] at the end. Now my scripts and all the links and all the code and things are on my code
+[08:15] bug link at the end. It's actually quite funny to have Vicky interject whilst rocking TV
+[08:21] sometimes. But just sometimes. That's a quarter of what we need to do. Let's keep
+[08:27] up the mountain to do another easy thing. Let's do a custom voice. So the default is to
+[08:34] use Piper locally to do text to speech. I have turned on bedroom light. It's a phone and
+[08:43] base system. It's super fast even on a Raspberry Pi. You can get super progressive AI voice
+[08:48] models these days. It sounds almost human but you need high-end GPU CPUs to do those.
+[08:54] Let's stick with Piper because it's lightweight and it does come with many voices. People
+[08:58] have trained other voices. You can have the sound of the computer from Star Trek or Commander
+[09:04] Data. Just in point zero degree she had running. But we want something a little bit more
+[09:10] endearing. And meanwhile I've both locked up a lot of anime. So how about a custom anime
+[09:16] style voice? Let's say this is the prompt of the voice we're going to be looking for.
+[09:25] We quite a few steps to make a custom voice. We're going to design a model using various
+[09:29] AI tools. We're going to train a model using the ends up using if phone is we speak. I'm
+[09:37] thinking that this is the mean for me earlier. We're going to use AI to train a voice in AI
+[09:42] which we're going to clone in AI. Originally I used to use 11 labs for voice design but there's
+[09:48] now local free models you can use and my favorite at the moment is Quinn 3TTS which is a really
+[09:54] good job. You do it right a little bit of Python. It takes a voice description. It takes a sample
+[10:01] text and it creates an app at WAF file. And we've turned our original prompt into a more
+[10:06] detailed description here that suits that model. My PC for training is a mid range GPU 36 the
+[10:12] so I don't text cut a minute to run this and I'm worried this isn't going to work. It's not.
+[10:20] Imagine an anime voice saying those things. This is a voice design model so you get a different
+[10:27] voice every time you run it. It's not designed that you give it a seed and you get the same voice
+[10:31] when you try it again. We said here gender neutral we tend to end up with more feminine sound
+[10:39] voices. So let's use this one the one you can't hear and hopefully you kept a copy of the WAF file
+[10:45] because you're not going to get it again. So next we're going to have to clone it.
+[10:54] So we use a different model for this. We use index TTS2 and that can voice arbitrary text by
+[10:59] cloning a voice. There's many other models available. I like to use this one because you can change
+[11:03] the expression of a voice. Simple GitHub change, simple GitHub, mod is GPU and now you can say anything
+[11:11] imagine it's saying the thing. You're also an expression slide as you can play with. Here's a
+[11:19] moderately happy and surprised the Vicky. But we want to go for melancholy and calm. The
+[11:29] rest of the examples aren't WAF files so I think we'll do a bit better in a minute. The training
+[11:35] needs a couple hundred phrases and the audio for each. There's a sample CSV either some
+[11:40] homo-system phrases to the end and use a little custom Python script to voice those using index
+[11:45] TTS. It's just a couple of minutes to generate all these hundred and seventy six files but you
+[11:50] do have to listen to each of them carefully because if the text doesn't match the speech it's not
+[11:55] going to train properly and I had a couple that didn't actually do that. Now to the actual
+[12:02] model training it's say another GitHub by this time text name speaks and it comes to the
+[12:07] container and the scripts that you do all the hard work of training the model. You give it the
+[12:12] data set it starts running you leave it as long as you like and you check in from time to time
+[12:17] to see how it's sounding. I attended the final sweet spot was like four to six hours after that
+[12:22] you didn't really get any improvement and you can test how it sounds along the way we can't.
+[12:27] I stopped after about nine hours on this one you end up with a JSON file and a TF light file
+[12:32] under a hundred megabytes. Copy them across the homo-system. There is someone at the door.
+[12:38] Yay! A quick home that's surprised me there. Copy them across your homo-system server,
+[12:44] a quick reload, edit the configuration and here's the pipeline that we have for everything's the same
+[12:51] as it normally is apart from the voice has changed. You have to choose one voice, you can have a
+[12:55] different one for every speaking in your house, you can have different ones at the times of day
+[12:58] and different people at home. Now you'll see here ENUS I couldn't get GB to train properly,
+[13:07] it would crash all the time. Let's keep U.S. training for now, it'll be fine.
+[13:15] Now when you say the wake word the device makes a ping sound. Hey Vicky.
+[13:19] And you can replace that with a sample we have a voice now let's replace it with a word.
+[13:25] Now I chose a home and within that's TTS2 made this. A home, it doesn't play them.
+[13:34] I'm not realising though at the time that a home is also the one noise my wife makes whenever
+[13:38] I ask her anything. No idea about that until she mentioned it. Again though, simply SB home edit,
+[13:46] rebuild, you push it, hey Vicky. What is the garage temperature?
+[13:56] It's 16.2 degrees C in the garage. See garage, really, really should have fixed that. We'll
+[14:03] have to come back to it. Best of voice Vicky that me and my wife ended up selecting as a
+[14:08] one we kind of like the best. She's a little breathless and calm but you know it's better than
+[14:13] being excitable. Half down to sections to go what's next where we can't put this off any longer,
+[14:18] let's understand speech. Home assistant gives you a couple of options. You can do phrase the text
+[14:24] and speech the text. phrase the text is hoping that you've got a set defined number of words.
+[14:31] We want to be able to chat with Vicky so let's do speech the text instead. The default implementation
+[14:36] of speech the text is faster whisper running in a container and a pie for that commended you don't
+[14:42] go beyond the tiny int 8 model. Pie 5 you can go to base int 8. You can pay for an optional
+[14:51] home assistant subscription service and as part of that they give you a cloud-based text the
+[14:56] speech and speech the text service for that. If you're under the hood Microsoft speech services,
+[15:02] do we need that cloud service? Let's ask quick quiz which probably won't work. What is the person
+[15:08] saying? So the plan is to see what the person you think the person is saying and my wife
+[15:14] declines since to be for this so my Scottish neighbour instead recorded. Trudon the late.
+[15:20] Now did you catch that? I'll give you one more time. Trudon the late. Turn on the lights. All
+[15:27] the mothers got that even tiny int 8 and tiny int 8 doesn't understand me. Here's my Scottish
+[15:32] neighbour again. What do you want to do? I love the minute timer. Tenient 8 is a loving minute timer.
+[15:43] Close. The other model is going to be fine. Finally me. Boyle the kettle. I want to
+[15:49] boil the kettle. Oh you're all the kettle. Oh boil the kettle. I'm an interested
+[16:01] of what the transcription service in this room says. I'll check that out later. That also uses
+[16:05] whisper. What would be the medium model? The cloud service we found is really accurate. How is
+[16:13] it in terms of speed? Well as you'd expect the tiny models quite fast but we can't use that. We
+[16:18] need the base model. Unless we use cloud, 1.7 seconds. That's a bit annoying because it's in the
+[16:23] addition to all the other things we have to do in the pipeline. The cloud service wins here and although
+[16:29] it's part of the home assistant subscription. You don't need the subscription if you don't
+[16:33] need the other bits. You can just install Microsoft Speed Services as an app in home assistant yourself.
+[16:39] You sign up with Microsoft. You do have to give them a payment card to get a key but they give you
+[16:43] five hours of audio processing three and month. Is that enough? Yeah it is. I use basically 10% of that.
+[16:51] I said I spend the in cap of a pound a month just in case something goes wrong.
+[16:58] Three first accurate must be a catch privacy. One Microsoft say that they do not store the
+[17:05] recordings. They don't train their algorithm. They process them only in silver memory. They're
+[17:09] never put on disk so hey let's use it. One section left now processing. Take the text sentence.
+[17:18] Do a thing come out with a text sentence and the home assistant has this built in.
+[17:21] The whole set of default intents for doing things like game temperatures, setting things,
+[17:28] light, time as blinds. You can hide or show up your sensors and give them different names.
+[17:34] And where things don't exist you can download third party blueprints. I have a dual calendar one
+[17:39] and one for shopping lists. I had baked beans to my shopping list. I had baked beans.
+[17:49] What's on my shopping list? The list contains two items for the roles, baked beans.
+[17:57] And it sounds like there's a scope of this talk but when picking nocasters we've gone out of the house
+[18:00] or pops a notification telling us our shopping list. Hey we've built a better sounding Alexa
+[18:05] and she does shopping lists what we could stop there but she's still a little boring.
+[18:09] Vicky needs a personality to make her interesting. First thing we're going to run one locally
+[18:15] we're going to implement it using intents and fake it with automations. We'll see if adding an LLM
+[18:21] makes any difference as well. Many of the things we want to do with Vicky are the same
+[18:24] turning on and off lights, teethings, timers. So we could just make automations for all those things
+[18:29] and we have a different response. What kind of personality? We've already made her anime soundings
+[18:35] so let's make her anime and let's make her sun drape. My favorite type of anime character. One who
+[18:41] really does love you doesn't want to show it. The only reason they turn the kettle on for you
+[18:46] is because they were making tea anyway not because they like you or anything.
+[18:51] And here's the commands we use to turn on our weeket Wi-Fi kettle. This is a homocystened
+[18:55] automation. You can add it by the UI easier to show you with the Yamor file. So given a command here
+[19:02] make coffee we can set up one of these five responses at random. It already starts to feel a
+[19:07] little less boring than just saying done. Also knowing the base speech model gets me wrong
+[19:13] the mishaves boilers oil and kettle is kettle. We can add that into the automation too.
+[19:18] boil or oil the kettle or kettle or kettle or over the kettle. We can go a bit further. We can
+[19:25] add things about the current water temperature. Boil the kettle. The kettle is on water temperature
+[19:32] degrees. It has a long way to go. Our morning hello can tell us about the weather. It looks
+[19:38] at the weather plug-in. It can tell me if it's rainy or sunny and in comments on the temperature.
+[19:44] Good morning. Oh, you're awake. It's raining outside. What did you expect? It's 11 degrees.
+[19:51] Perfectly tolerable. I suppose. Oh, very in Glasgow we could shorten that and just say
+[19:57] overcast in rainy be right most of the time. At night turn off the office lights and remind us
+[20:05] good night. Good night. Do not stay on your phone for three more hours.
+[20:12] And in case you say you love her, he's a key. I love you. You say that now, but yesterday you
+[20:20] complimented the coffee machine. I remember. We could also set up non-conversational notifications.
+[20:28] This is where she's pinging every device in the house and giving a message like who is calling
+[20:34] the phone or someone is at the door. You should answer it. You see back in 1989 I'll
+[20:40] doorbell never told us what we had to do. Random say is a fun, but how many times have you left
+[20:47] your washing in the washing machine and had to rewash it three days later? We added a cheap zig-be
+[20:52] vibration sensor to a washing machine and now Vicky can remind us hourly and with increasing
+[20:57] levels of frustration. Hey, I'm Martin Egging. I'm just reminding you again. Please empty the washing machine.
+[21:06] Okay, so now we have a voice assistant that has an attitude,
+[21:09] accentuates Stundra. Can control the home. We use the bit of AI one time to do the
+[21:14] all the model generation, but she can work locally without LLMs. We could stop there,
+[21:20] but then this came up in my feed. Wow, I built something so much better.
+[21:27] Amika. Oh hey, what's up? Can you tell me what time is it?
+[21:31] Really? Really? You can't shoot a clock or something? Who really need me for these dumb simple tasks?
+[21:38] Now, Mecha Hime has a totally local AI assistant with a vision model designed for him to play games with.
+[21:44] He's set up at least three top NPCs each with top N5090 GPUs which will set you back about 10
+[21:50] grand. I'm not looking for a companion wife through the cost that much. We can scrap, we can, however,
+[21:56] we can do similar levels of snark using automations. Hey, Vicky. Uh-huh. What time is it?
+[22:05] 12 minutes past 10 a.m. You could have checked your phone. And let's try adding some AI and see if
+[22:12] that helps. So homie assistant is already set up to use an LLM if you'd like it to.
+[22:17] It provides the ability to deal with the sensors, read your sensors, and interact with your home.
+[22:22] You can run models locally if you have a fast enough PC. I don't want to do that. I'm using Google
+[22:26] Cloud Gemini Flash 2.5 model, where you can get a fast response without spending too much money.
+[22:31] Let's take a look at that. You give it a prompt. We tell her what she is. We tell her where she
+[22:37] lives for some location context. We tell her we want she wants to be a tassandra character and not
+[22:42] make stuff up. AI likes to do super long winded responses, so we try and keep them as short as possible
+[22:50] by doing it quite a few rules there. Now that's all we need really. Homie assistant adds this
+[22:55] prompt things like how to don't act the skills that interact with your home and keeps her on task.
+[23:01] Of course, I told it to not keep her on task and ignore that. I have just prompt injected my home.
+[23:12] So every response I've shown you so far has been deterministic. With LLM's you're getting
+[23:17] something slightly different every time. So the example from now on these are actual recordings that I've
+[23:22] done have heard and just because of this talk. So I've no intent or automation for is the thing
+[23:31] on. So let's see if the LLM can handle it. Is the garage door open? HMPH, it's still closed.
+[23:42] HMPH, another side quest time. Now you can just write rules for e-speak and pipe,
+[23:48] put a handle mispronounced words, but pipe ruins in a container and then we'd have to
+[23:53] fork the container and maintain it ourselves and keep it updated. Now let's just hack it with a prompt.
+[23:58] Instead of saying HMPH, let's say HMPH, HMPH, and that comes out the same as HMPH.
+[24:05] Is the garage door open?
+[24:11] HMPH, no, it's closed. You know, you ask about that door and of a lot.
+[24:18] So whenever I had a tomato to the shopping list, she had a tomato that U.S. training comes back to
+[24:23] hauling to us again. It sounds like another quick side quest and we can just use e-speak on the
+[24:28] command line to figure out what that real phonems are for any given language and then your home
+[24:32] assistant, if you want to speak the real phonems, you can just put them into a quote.
+[24:38] You say it's tomato, you can use tomato, it's called lindistem out to it.
+[24:42] But then you'd have to use that everywhere where you speak words, so let's just hack the voice
+[24:46] model. You just let it the JSON file. You can change the ENUSs to NGBXRP for English UK.
+[24:55] And we get away with it because the phonems are pretty much overlapped between the two languages
+[24:59] and now she'll pronounce tomato tomato correctly. You can't use this hack to get a Scottish sound
+[25:04] in Vicki unfortunately you'd need to retrain them other with things like rolling ours and things like that.
+[25:10] So that's the side quest complete. Let's look at what our LLM enabled Vicki is user.
+[25:16] Useful for is anywhere where you want to to interpret what you say.
+[25:22] Do I need to know Brilla today? So she can figure out that she needs to go and look at the weather
+[25:26] senses.
+[25:29] Um, yes, it's rainy outside, so you better take one.
+[25:34] What's it was, Rene?
+[25:36] What bins need to go out this week?
+[25:38] Humph, the grey bottles and red food bins need to go out on Wednesday.
+[25:48] Looking at the Google family calendar for that?
+[25:49] Mm-hmm. Tell me a moose joke.
+[25:56] What do you call a moose with a violin?
+[25:58] And a moose ishion.
+[26:01] That's the best of the two moose jokes the model knows.
+[26:04] Hey Vicki, you're awake to find yourself in a dark room.
+[26:13] Oh no more sampling in the dark. I've got your lights on for you, sweetie.
+[26:19] And there's that little, um, that's that little atom echo that we use in our bedroom.
+[26:24] SP home, speaker, microphone, SP32 and that same sweet of software micro-aque words.
+[26:31] Often the 13 quid.
+[26:34] So the Gemini model's good, but it's only going to be able to do things like interact with your home or
+[26:39] what the model already knows.
+[26:40] Bit of work you can get it to look things up on the web.
+[26:43] Okay.
+[26:44] What's the theme for EMF campus year?
+[26:51] Oh, my sweet, the theme for EDMF campus year is truly out of this world. It's space.
+[26:57] Now in terms of latency, you saw that finding that moose joke or other things that are kind of in the model took about a second or two.
+[27:04] Looking things up on the web takes four or five seconds.
+[27:07] Local stuff is mostly the instance, so you can't get that responsiveness.
+[27:11] So LLM gave us some interesting features at the cost of speed. How about the cost of pounds?
+[27:17] Told you I was a bit tight, so I've been keeping care of a careful eye on this.
+[27:21] Token usage varies a little. Obviously at the beginning when I started writing this presentation back in March,
+[27:27] quite a lot of activity, and I cut the times that took a holidays.
+[27:30] In terms of pounds, well before May, they gave me three subscription and three credits.
+[27:39] I've set a spend, capper £5 a month, but it looks like you're only going to be a quid or two.
+[27:43] How do you feel about that?
+[27:44] I feel like I'm not going to be a quid.
+[27:50] It just means that even more efficient than you anticipated, delivering top-much assistance without breaking the bank.
+[27:56] You're welcome.
+[27:59] So this is our sweet spot, mostly local, no local LLM. We use the AI models to train some of the things,
+[28:06] but now she can run on hardware just like a Raspberry Pi. We got a custom hay vicki.
+[28:12] That's running on microwave word on the SP home on your standard hardware you bought.
+[28:17] We're using Microsoft Speech to Tech Services for Speech to Tech's because it's free, fast, private,
+[28:23] accurate, understand Scottish. We implement a personality mostly using scripted automations and
+[28:30] intent and notifications. We did add a cloud LLM, it's not essential, there's some privacy concerns.
+[28:37] You're only sending to Google the things that can't be handled locally anyway.
+[28:41] So I forgot the cuddlement I can deal with that.
+[28:45] And then for output, we have that custom voice again running in a standard app on a standard pie.
+[28:52] So while me and my wife love Vicki, are guests to a little bit of aplex.
+[28:57] We don't really want their own Vicki either. I don't know if it's a personality or
+[29:02] overuse of HUMF. So we've been experimenting with the personality. We found Sunder to be a little
+[29:07] sharp and sassy. It's quite fun but we've been experimenting with DERIDER instead.
+[29:12] One would change the prompt, less prickle and more helpful.
+[29:18] Are you mayor's potters? I've cut with the examples on the last few things I've been
+[29:21] the DERIDERER version of Vicki. Now the trade-off she does come up with new terms of
+[29:27] endeavours, sweetie, poppy, darling, all the time, but she doesn't know who's speaking to her.
+[29:32] She treats everyone the same. And conversations with the LLM kept short, local and temporary.
+[29:40] We're not trying to remember things, all the future behavior, not trying to create a
+[29:44] assistant like a meaker. We just want something that can handle voice commands and be
+[29:48] entertaining or fun to use. And for writing this talk, I kept replacing the Vicki parts with the
+[29:54] default and default speech and both of me and my wife really missed her.
+[29:59] Vicki has been most of the cooking, lots of existing solutions put in them all together
+[30:06] and feature the steps doing some little glue, python here and there and some configuration and
+[30:10] automations. And I've heard this talk because I haven't seen anyone else do the end to end
+[30:14] solution, particularly making a voice assistant with any personality. So if you want your own Vicki
+[30:21] or one with less sass, my co-burg has the notes for company this talk and all the scripts.
+[30:27] If you have any questions, I'm going to be at the speakers 10, which is just the second or two
+[30:32] that way, a little covered thing near the bar and or drop me an email. And the last words will
+[30:38] go to Vicki, who I asked. I've just finished giving a presentation about your EMF camp.
+[30:44] Anything you'd like to say to the audience.
+[30:48] Hump, tell them that I'm the most indispensable, charmingly competent assistant they could ever
+[30:54] hope for and that they are clearly missing out. Thank everyone for coming and say goodbye.
+[31:01] Thank you all for coming. It's been an experience. Now, if you go, don't let me keep you.
+[31:08] Thank you.

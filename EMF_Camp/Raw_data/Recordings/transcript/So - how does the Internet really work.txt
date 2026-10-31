@@ -1,0 +1,280 @@
+[00:00] So this is an intro level talk so if you already know all of this you might be a bit
+[00:19] bored. I'm going to tell you how the internet works. If you go to computer science at a
+[00:25] university typically this is like a full semester so half a year of typically around 70
+[00:31] hours of courses and the total duration of time you spend on this is given as 180 hours. So I'm
+[00:37] not going to be able to go in total depth of how everything works but that being said.
+[00:44] I have a couple of goals and why I don't expect you to remember everything that I'm going to
+[00:51] talk about today. I hope that I'm going to be able to convey some of the core concepts and
+[00:57] abstractions that are used in computer networks in general and in the internet specifically. And I also
+[01:03] want to take away some of the fear of computer networks. I feel like some people are like a
+[01:09] free-it-lap-out computer networks thinking that they are quite complicated and I think that if
+[01:16] you understand some of the building blocks they are actually quite simple to figure out and
+[01:23] when you understand the building blocks it's come easy to understand how some things might work and
+[01:28] what's happening on your network and I also want to give you some pointers on how to experiment
+[01:34] with computer networks. If you're interested in this after this and how to debug common problems
+[01:39] that you might encounter in your networks at home. So typically when you interact with the internet
+[01:47] nowadays you're probably going to do a three-prowser either on your computer or on your phone.
+[01:52] And my talk most is about what happens when you enter an internet address like
+[01:59] blah blah blah EMF cam.org and hit enter. So the first thing that I want to mention is
+[02:06] what gets transferred over the network. So if you go to your browser and hit view source you see
+[02:12] something like this which is the HTML source code of the website which says how it looks like
+[02:18] what text is on the website what images are going to be downloaded and embedded. And that's
+[02:25] what you get what your browser gets from your internet to show you the website. In principle how this
+[02:33] works is fairly simple. In some ways so how you can imagine this is that you have
+[02:44] small postcards. So the start of me writing a small postcard that is like for me to
+[02:49] EMF cam.org and website please. And then EMF cam.org answers and gives me the website. And this
+[02:57] really is a little bit like postcards in that the amount of information that you can send at one go
+[03:05] to your network and get from your network as a rather limited. So on a postcard you have limited space
+[03:10] and like to get a full back page back you need to split up the information across several different
+[03:15] cards because you cannot fit it on one. And this also is the case on the internet on the internet.
+[03:21] The typical message size that you can send is about 1,500 bytes or 1,500 characters. If you are
+[03:30] sending a message that's more than 1,500 bytes it has to be split up across several of those postcards.
+[03:36] In networks you typically call them packets and no matter what you do on a computer network
+[03:44] your information will always be split up and that's one of the important core concepts.
+[03:49] Like even if you have something that looks like you have a connection that just flows like you
+[03:54] have are talking to someone over a phone over the internet or you're having a video conference
+[04:00] of the internet it still means that all of the data that you are sending and receiving is split up
+[04:05] into little blocks of 1,500 characters that you send and receive to the internet. And it's not just
+[04:13] your net not just the internet that works like that like even if you connect a monitor where
+[04:18] it is played for it it also uses like these kind of small packets that it sends around it.
+[04:26] For the rest of my talk I mostly go into talk about home networks. So if you use your internet at home
+[04:31] you typically connect to something like this that you have standing around somewhere so you have
+[04:38] this device connects to your internet provider at the one side and you either plug in an
+[04:43] network cable or probably use Wi-Fi nowadays to connect to the internet forward.
+[04:50] And to explain how this works. Let's start as a little bit of an abstraction and imagine that you are in a school class.
+[04:59] And it's the school class is not quite said that like normal instead everyone is sitting
+[05:06] quite spread via the other part you can see each other and you communicate via postcards that you
+[05:11] send via pneumatic tubes to each other. And each student gets one pneumatic tube and all of the
+[05:21] students pneumatic tubes arrive at the teacher. And the first time that the class comes together the
+[05:27] teacher just and the student arrive in random places the teacher gets all the pneumatic tubes.
+[05:34] The teacher has no idea what student is behind which pneumatic tube because everyone showed up
+[05:39] for the first time. So assume that we have two students in the class one also called Alice and the
+[05:45] other one is called Blair and Alice knows that Blair is in their class and wants to send a message
+[05:50] to Blair and the teacher will um gladly forward this. So what Alice does, Alice just says one pneumatic tube.
+[05:57] Alice can just say I have a message to Blair and send it out. When the teacher gets that message
+[06:04] the teacher sees oh this is a message from Alice. So the teacher can go and label the pneumatic tube that they
+[06:10] receive the message from Alice. Alice is behind this tube and then the message is from a foblier.
+[06:16] The teacher doesn't know where Blair is. So what does what do they do? They go and are like okay
+[06:24] if I just copy the message and send it to everyone um as um it will Blair will get it because they
+[06:30] are somewhere. So the teacher copies the message send it to everyone and then um it's Blair wants to reply
+[06:38] they can send the message back to Alice and since the teacher knows where Alice is sitting
+[06:44] they can send the message directly back to Alice without having to send it to everyone or to
+[06:49] try to figure out where Alice is because they already have the label on the tube and after they
+[06:53] get the message from Blair they can also label the tube foblier and this is how a lot of your home
+[07:01] network works. So if you have a switch on your home network so like a device where you plug in like
+[07:06] several computers um this is exactly how a switch on your home network forwards messages between
+[07:14] the connected computers or other devices it just learns where everything is on the first message that
+[07:21] it receives. How does this work on a slightly different class? So let's say that we have a class where
+[07:27] there are more students and there are so many students that the teacher doesn't want to deal with all of the
+[07:31] pneumatic tubes instead there is like a hierarchy where some students have several pneumatic tubes
+[07:39] and then send their information on to the teacher and let's say that Alice, everyone has come together
+[07:46] for the first time no one knows where anyone is and Alice wants to send a message to Taylor this time
+[07:51] and it kind of works in the same way Alice sends out the message and then since no one knows where
+[07:56] Taylor is everyone just sends them to all of the other connected pneumatic tubes
+[08:02] being like at some point of time this will hit Taylor and while they are doing that everyone writes
+[08:09] down that the message came from Alice and puts that on the pneumatic tube that they got the message from
+[08:14] Alice for. So how do computers do that because computers obviously networks do this because networks
+[08:21] don't use names so the network that you are most likely to have at home is either Ethernet or WiFi network
+[08:30] so Ethernet for cable network and WiFi obviously for WiFi and both of these substandards of the same
+[08:37] standard group which is itriply a dotool it doesn't really matter what it stands for and what important
+[08:43] is they from a functional perspective for us wired and wireless networks work exactly the same
+[08:49] and in this kind of networks devices that are part of the networks are identified by an address
+[08:59] that looks like this this address can either be called a Mac address a hardware address an Ethernet
+[09:05] address a device address the planning on who you care as it doesn't really matter what's interesting
+[09:12] about it is that each computer and each even each network card that you have in your computer
+[09:18] has one of these addresses and the address is programmed or burned in on the time that your computer
+[09:27] is produced so each network interface on every computer in the world that does WiFi or that
+[09:35] connects from internet has a globally unique address which is really important because like
+[09:44] assume that we have a class where you have two addresses humans are really good at figuring out
+[09:48] well one of them is Alice A and one of them is Alice B humans are really good computers are not good
+[09:55] at dealing with non unique names so it's really important that names are globally unique and if you show
+[09:59] up to a new network no one else will ever have the same name as you if you go to your network
+[10:06] settings on your computer and click on this you typically can find the Mac address or Ethernet
+[10:14] address somewhere so this is Mac OS on the left side where it's called a Mac address and the Linux
+[10:21] command line interface where it's called an Ethernet address on the right side and at this point of
+[10:27] time I want to talk a little bit about a piece of software that is called via shark so let's say
+[10:32] that you are interested in network and wants to see how this happens at your home network
+[10:36] via shark is a piece of software that you can install no matter what operating system you have
+[10:42] at what's in Linux Mac OS Windows and when you start it up it looks something like this
+[10:48] this might look a little bit overwhelming but it's rather easy it shows you the network interfaces that
+[10:53] you have in your computer and the squiggly line that you see at the right shows activity and
+[11:00] the squiggly line is really helpful because it shows you which network interfaces that actually
+[11:05] does happens on and so you can just select a network interface that has the most activity which
+[11:10] will typically be the one that you are connected to with the internet and if you click on that
+[11:15] you start seeing a screen like this where every line on the screen is a packet that is transfer
+[11:22] from or to your network and when we click on the one of the lines and expand down here you can
+[11:27] see what I just told you about so here inside this yellow circle you see there is a destination
+[11:33] address in the source address and both of these are those Ethernet addresses that are talked about
+[11:37] so they are in an essence the names of the computer and the message is sent between
+[11:44] those two addresses so after hearing this you might or you should probably ask yourself
+[11:52] how does this scale because if at a home network it's quite clear how this works but
+[11:58] assume you want to talk to EMF-CAM.org or to Google you cannot just send out a message randomly
+[12:04] and hope that everyone sends it on till it ends hits the first hits a computer of EMF-CAM
+[12:09] and that everyone remembers how to send it back to you and the way that this works is that we
+[12:17] introduce a small layer of abstraction on top so assume that instead of just being a class we have a
+[12:24] whole school in a class students might just show randomly and sit at random places and you have to figure
+[12:30] out where they are but if you're building a school you probably know exactly which classrooms you have
+[12:37] where the classrooms are how the classrooms are connected where the corridors are and where the
+[12:42] numeric tubes or the cables are connected different classrooms so if you have someone that wants to send
+[12:48] a message from class one to class five as you put a lot of energy into building up your school
+[12:54] and building up the connections you know what the optimal path is and that a message should probably
+[13:00] travel directly like this from class one to class five without hitting anyone else in between
+[13:08] so how do you do that on the internet you use the the final tool that you use for these IP addresses
+[13:16] you probably have seen those before nowadays there are two different versions of IP addresses
+[13:22] IP stands for internet protocol there's the internet protocol version 4 which is the top
+[13:27] and the internet protocol version 6 which is the bottom and both of them are used simultaneously
+[13:31] at home you as the somewhat more likely to encounter version 4 addresses and principle they work very
+[13:38] similarly I believe 6 addresses just look more intimidating because they are longer because you're
+[13:46] more likely to encounter before I'm mostly going to talk about version 4 addresses which you look like this
+[13:52] and if you break them up in components they are quite easy and essence they are too pasted
+[13:59] the font three numbers all numbers go from 0 to 255 identified in network and the last number
+[14:06] identified the host so the computer or device on your network typically so if you go back to our
+[14:14] school example how this looks like is we have all of our classes and now we give each one of our
+[14:22] classes a different network because each class has a bunch of students the for example class one
+[14:28] gets all addresses that start with 1921681 class 2 gets all addresses that start with 1921682
+[14:35] class 5 gets all addresses that start with 1921685 and then you give everyone who is an any of the
+[14:42] classes one of the IP addresses in there so a student in class one could for example have IP address 19216813
+[14:49] and now if someone from class one wants to send a message to class five
+[14:54] you can use the IP addresses to figure out where the message is supposed to go because once it
+[15:01] has yet teacher you teach and knows oh this is best in class five by so in the IP address then
+[15:07] it can go to the school coordinator who knows oh this goes to class five and he can send onto the
+[15:12] teacher at class five who then can try to figure out which student it has to go to
+[15:17] so to talk about how this looks like on the network cable in your network let's make this a
+[15:25] tiny bit easier and say that you just have a small class three students a teacher and the teacher
+[15:31] is directly connected to the internet and now say someone from the internet wants to send a message
+[15:37] to Blair in this case and what happens is that the message arrives from the internet from your
+[15:43] internet provider in this case and arrives at the teacher at Casey because Casey is the only person
+[15:47] that is connected to the internet and Casey gets the message and sees that it's an internet protocol
+[15:53] message and it's meant for Blair and sends it on and how this looks like on your network is
+[16:02] let's if you break this up in steps so you still have your network message and we learned earlier
+[16:08] that on network messages are in essence address between individual people so in this case on your
+[16:15] local in your classroom the message still comes from your teacher so you the teacher sends a message to
+[16:21] Blair and this is the ethernet layer and so you are network layer and inside of that message
+[16:31] is the internet protocol message which says this is a message that comes from the internet from this IP address
+[16:37] and that destination is this IP address which belongs to Blair and inside of that IP address
+[16:46] you have the actual content that you are transferring which in this case is high there this is the
+[16:52] payload if the internet protocol message typically it's more than just a short message typically you
+[16:57] have something like if you access a web page you access it via HTTP or HTTPS if you access it via
+[17:03] HTTP you have HTTP is the hypertext transfer protocol which is the protocol that you are using to
+[17:11] transfer web pages in there if you use HTTP S you have TLS which is an encryption protocol
+[17:18] which then contains HTTP and then you get your web page and one of the really important things that
+[17:24] I want to take a way you take away from this is that what you do in networking a lot is that you just
+[17:29] layer levels of abstraction and top of each other so we have the local network here which contains
+[17:36] the internet protocol message which contains the actual information that you are interested in receiving
+[17:43] if you go back to a snapshot we can also see this here so this is the same packet that we had earlier
+[17:49] we have our ethernet message of the source and destination on the local network and just below that we have
+[17:57] the internet protocol message that says that this is from this source IP address to this destination
+[18:03] IP address so this packaging is exactly what happens in your local network at home and I talked a
+[18:08] little bit about that you use switches for a local network switches only do do not participate do not
+[18:16] do internet protocols that fit all they just forward messages in the local network um there's another
+[18:20] device that has called routers at your internet provider they might look something like that and
+[18:27] there the devices that are responsible for figuring out which direction an internet protocol packet has
+[18:32] to go to reach its destination at home you typically have something like this so what kind of device
+[18:40] is this if you turn it around the labeling of the ports gives it a real little bit you might not be
+[18:45] able to read it in this case the yellow ports say land on them which means local area network and
+[18:52] the blue ports is land which means wide area network and an essence between behind the yellow ports
+[18:59] is something like a switch that just forward stuff in your local network and between the yellow
+[19:03] ports and the blue ports is a router so this is kind of a device that's a little bit of both so
+[19:09] but how do we talk to the internet so let's say that you are someone either you are a person
+[19:17] that shows up to class for the first time you and your teacher is connected to the internet your
+[19:24] teacher needs an internet protocol message an IP address to be able to talk to the internet they get
+[19:30] this from the internet provider in a way that I'm not going to mention because there are several
+[19:35] ways that this works but they have an IP address so if you show up I'm to the network you have a
+[19:41] name because that's burned in I'm so you are Alice and the first thing that you do is you ask
+[19:46] what is my IP address and then the case here it applies you IP address is 1,2,1,6,8,0,2 so that moment
+[19:54] you have an IP address this also shows why you need a name too because if you didn't have a name
+[20:00] you couldn't ask for an IP address because you can't just you need something so that information
+[20:07] can be sent back to you some kind of identifier so you need the two levels you need the lower level
+[20:11] the Ethernet level to be able to ask for an IP address in the first step and this is exactly how IP address
+[20:19] is typically assigned to you in your local network so if you go back to the Linux command line and type
+[20:24] IPA you see your IP address in the IP lane in Mago as an network settings you also see your IP address
+[20:30] and this is exactly how your computer figures out what the address is on the local network this is
+[20:36] also exactly how it works at EMF once your computer joins the EMF Wi-Fi it's just then a message
+[20:41] or what's my IP address and it gets an answer from another computer EMF that will tell it this is your
+[20:46] unique address and go continue so but I was talking about this scenario so when we go to
+[20:55] that laptop EMF cam.org we put in an address we do not put in an IP address so how does this work
+[21:04] and the answer is that there is an additional system that is called the NS which is the domain
+[21:11] name system which means domain names like EMF content.org is a domain name to IP addresses
+[21:18] and how does this work so if you go back to the example that we just had we have Casey who is
+[21:27] connected to the internet while it's internet provider and when Casey connects to the internet
+[21:33] they either manually have to type in the address of a DNS server on the internet during
+[21:40] configuration or you are a P automatically tells you the name of your internet address of the DNS server
+[21:49] when Alice connects to the network and gets the IP address via DHCP Casey also tells them hey if you
+[21:58] want to know the domain name of a server just then the message with the request of what the domain name
+[22:06] the app address for the main name is to me so if Alice wants to know the domain name for EMF cam.org
+[22:12] they send a message to Casey that is like what is the domain name of EMF cam.org Casey is like okay I
+[22:18] know the address of the NS server on the internet and sends the question onto the NS server on the internet
+[22:25] with the NS server on the internet either randomly already knows what the address of EMF cam.org
+[22:31] is and can just reply it's this IP address or if they do not know they do this in a similar way there
+[22:37] is a hard coded list of IP addresses of like top level responsible servers on the internet
+[22:43] that you can ask who is responsible for all addresses and origin and then you go to that and ask okay
+[22:49] who do I ask for addresses and origin and then you go to send a message to the origin name servers and
+[22:55] are like who is EMF cam.org here and they tell you this IP address is responsible for before
+[23:01] EMF cam.org and then you ask those who is with adaptor.emf cam.org and they will send you every
+[23:08] play but that happens in the background you don't do not see that in the local network you just
+[23:12] send out a question and you get a directory play back which first goes to Casey and then Casey sends
+[23:18] it onto you and if you go back to via chat this is exactly how it looks like so on the
+[23:25] in the green bar on the top you can just put protocol names to filter your network traffic by
+[23:29] so that you don't see everything because there's a lot going on I typed in the NS there for the domain
+[23:35] name system and then I clicked on the line where the request for EMF cam.org is and you can see that
+[23:41] here which says query EMF cam.org a which is a query for an IP address doesn't really matter why
+[23:49] and then a couple of packets down when you click you see an answer to this which is
+[23:56] VMF cam.org is at IP address 3727241 one one one one one really interesting thing about this is
+[24:06] when you internet doesn't work when you type in a name you can try figuring out if the
+[24:12] font is DNS which it often is or if it's somewhere else and one of the ways that you can do that
+[24:17] is that you can send a message to something without using the domain name but just using the
+[24:22] IP address there's a tool that's called ping that's available on windows Linux everywhere that you
+[24:27] can use in the command line and if you tap ping IP address it will just send a short message to an IP address
+[24:34] and if the IP address replies you will get a pung bag and it will tell you that you got 64 bytes back
+[24:42] and if you know an IP address on the internet that is likely to always be up 999 999 is one of those
+[24:49] you can just ping 999 999 if you internet doesn't work but if this works then the NSS broken and you
+[24:55] can change the NSS for example or you can complain to every is running your DNS server if this doesn't work
+[25:02] then something else is lower level is down and you do not have any internet protocol connectivity
+[25:07] to your provider and probably you link us down so but how do packets on the internet go to the
+[25:14] right place I just talked about the example of the spik school where you just build things up and you
+[25:18] know which direction you have to send things but the internet is obviously not like this because
+[25:24] the internet is like lots and lots of networks connected together and you have to know which direction
+[25:29] to send stuff so this looks something like this so each of the clouds here is a network on the
+[25:37] internet the top left one is EMF cam and the other one's just other networks on the internet and
+[25:46] to be able to participate like on the internet as a network then sends messages directly to the
+[25:51] internet which you internet provided to pick a leaders you need a unique identifier that identifies
+[25:57] you network on the internet and each network that participates on the internet is known as an
+[26:02] AS which stands for autonomous system and has a unique number that you can request from a registration
+[26:09] agency and EMF cam is AS 60,079 for example and EMF cam has a whole bunch of IP address they have all
+[26:19] IP address is starting with 92,1829 and most of the IP address is starting with 1,217 and
+[26:28] EMF cam wants the people can reach it so what it does is just EMF cam knows the next internet network
+[26:36] that is connected to directly that it has wires to and it just sends out a message that is like
+[26:42] hi I am AS 60,179 these are the two networks that belong to me if you encounter any messages
+[26:49] any IP messages that are bound to these addresses send them onto me and then the next network
+[26:55] takes this message and it's like hi and sends it onto everyone that is connected to them and it's like hi
+[27:00] I am AS 65,542 if you want to reach these messages send them for me and I will forward them and you do that
+[27:08] kind of till you hit a loop at which point you stop so that you don't forward this for all eternity
+[27:15] but you forward this till it ever hits in essence every single router of every provider that
+[27:22] is part of the internet and this protocol that does that is called BGP the border gateway protocol you might have
+[27:28] further for them so if someone from the bottom left wants to send a message to EMF cam now they have two
+[27:33] choices they either can go right and send a message to AS 64,500 AS 65,542 or AS and then to EMF cam
+[27:42] AF 60,179 or they can send it the other way directly to 65,542 and then to 60,79 and obviously what you do is you choose the
+[27:54] shorter version that goes through the least amount of networks and this is actually in principle how routing
+[28:00] on the internet works you just send out the information which appears addresses you have to
+[28:04] all connect it providers on how connected networks and then you choose the shortest path out of the knowledge that you
+[28:11] have if you curious which networks a message of you go through their programs like this one is called
+[28:18] my trace out on Linux that you are just like how do messages go from me to EMF cam.org and you can
+[28:24] see on the left a list of ASs so autonomous systems that you message go through and if you're interested
+[28:30] you can look at who that message goes through if you want to play with things like this more
+[28:36] there's cool things like networks and multilators there are two big ones that I'm going to
+[28:41] mention there more are GNS 3 and container lab GNS 3 is more based on graphics but you can just click
+[28:50] together on network and experiment with really an extensive hardware that is just launched inside
+[28:56] of your computer and click use her switches and routers together and do stuff like that and if you want to
+[29:02] play with a BGP you can for example there are networks that people play with BGP where you use VPNs
+[29:08] to connect yourself together and then you can set up on your Raspberry Pi if you have one at home you can
+[29:13] set up a BGP network and be like I have this address room that you get allocated and talk to other
+[29:19] people and see how you configure that see all of the messages that I exchange play around with having
+[29:24] several or how you do it so that if one link fails that automatically fails over and all kinds of stuff
+[29:30] and so in essence if you interest at any of this I just want to encourage you to play with computer
+[29:35] networks it's not that complicated it's a lot of fun if you want to see what's going on on your
+[29:40] network there software for that you can just install and then directly do that if you want to run
+[29:45] some services for fun use Linux installs and network services you can run the in-service the HP service
+[29:50] web server that home and just figure out how they look like and then look at the network traffic
+[29:55] you can play with expensive hardware by just using simulators you can become parts of like
+[30:00] virtual networks where you can practice hard box like to be an ISP and if you have any questions
+[30:06] about this I will be at the Q&A 10 just outside there on the right for the next 15 minutes this

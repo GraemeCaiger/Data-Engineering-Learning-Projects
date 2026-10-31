@@ -1,0 +1,211 @@
+[00:00] Hello and welcome to my talk. My name is Misha and this is a talk run by me
+[00:27] without AI. There's if you require captioning, it's the left of me or you can access it using the
+[00:39] EMF Talks website. Does everyone who have captioning, who needs captioning in your audience?
+[00:46] Can you all see it? Okay, yep, there's no no one looking horrified at me. So a bit of a no-one
+[00:57] terminology. I'm not deaf. My perspective on this comes from having speech difficulties which
+[01:05] now are a lot better than they used to be but especially when I was younger I can use the standard
+[01:12] phone via talking. To my knowledge the term TTY is preferred by my deaf friends and from the
+[01:24] deaf community literature I've seen. It's preferred over the TDD which is telecommunication
+[01:33] devices for the deaf. You will probably see a lot of the literature about this referring to TDDs
+[01:45] but however specced and the wishes of the people that I talk to I'm going to refer to them as TTY devices.
+[01:53] Also this talk will talk about autism and ableism and oralism because of the nature of the
+[02:04] topic. So obviously I'm not going to be going too heavily into it but if it does it come up setting
+[02:12] you're welcome to leave. You don't have to watch it. So who am I? I was really nervous about writing
+[02:19] this slide so I got my best friend to write it so this is who I am apparently. I really love phones.
+[02:29] I always have I grew up around a lot of phones and just found it really interesting. I care about
+[02:35] accessibility and technology and how they intersect. My life as a disabled person will be very different
+[02:42] with that technology and we should all be able to use it and yeah I hope I'm a good friend.
+[02:51] So what is an autotiphone? Is this an autotiphone? No no really. So autotiphone access is when you
+[03:04] can't use the standard procedure of talking verbally or hearing the other person talking to you
+[03:12] and you can't talk back or they can't hear you. You might also need alternative phone access
+[03:18] for things like dialing the phone. So a very common way of using alternative phone access is just
+[03:27] asking someone else to make the phone call for you. That counts alternative phone access but
+[03:33] there's a lot of options and often there are better options. There are things like text phone,
+[03:37] a relay system or a radio phone and that's what this talk is going to focus on. So why does anyone
+[03:44] need alternative phone access? Traditional phones just aren't accessible if you can't hear,
+[03:50] if you can't speak in a way that's understood or if you can't dial. There's you think in 2020
+[03:57] 6 this wouldn't be a big problem but the amount of services that need phones are more than you
+[04:04] might imagine. You'd often need to call a doctor or a bank and you need to be able to be
+[04:09] understood and to understand them. So how many people can benefit from alternative phone access?
+[04:17] So there's more than 18 million people in the UK that are hard of hearing or deaf. That's about
+[04:24] a third of the population that could potentially have difficulty using a traditional phone system.
+[04:32] Also in the UK 1.9 million children have speech and language difficulties. I was one of these kids
+[04:39] and one of these adults. There's not much research on adults with speech of goodies and differences
+[04:47] but that's more of a research issue. It doesn't mean we don't exist. And there's also 87
+[04:54] thousand deaf BSL users in the UK. BSL is its own recognised language. It is a language with its own
+[05:01] grammatical system terminology. It's not just signed English and people deserve to be able to communicate
+[05:10] in their own language and the language that they use with friends just like the majority of people do when
+[05:15] they talk on the phone. So a common question I get asked when I talk about alternative phones is,
+[05:22] why can't someone else just call for you? And for that I want you to think you're often using the
+[05:29] phone in situations such as emergencies calling 999 or you're making emergency appointments or you're
+[05:38] doing something with your financial information and you're talking about things that are very
+[05:43] personal. Do you have someone with you 24-7 because you often need to be physically with them for
+[05:51] identity verification who you would completely trust with everything in your life. Like for
+[05:58] instance, as an adult, how do you feel about asking your mum to make an appointment at the STI clinic for you?
+[06:05] It's not ideal. So that's why we need these technologies. So I've used alternative
+[06:15] technologies along with a lot of my friends. For everything from calling up trades people,
+[06:21] I try to call you your land lady for uni admin, for counselling and booking exams. And also
+[06:31] for things like health services, making dops of appointments. One of my favorite ones is that
+[06:37] we're used to live. The audiology department had a phone line only that you had to ring if you're
+[06:44] hearing a dog cochlear implant is broken to make an appointment to fix it. Why? Just really,
+[06:54] this can be an email. Why? But unfortunately, in a world full of admin people often forget that things
+[07:01] like phones aren't as accessible as you might think. Also, we've only did to ring up the council
+[07:07] about something. And yes, that is mostly what people use text phones for. In the UK at least.
+[07:15] So why did I personally need alternative access to a phone? You might think, here I am standing
+[07:20] on stage, giving a presentation. But because of my speech difficulties, I can be really
+[07:25] difficult to hear on older phone networks, which was obviously a problem in the past. And also,
+[07:34] if there's a lot of background noise, if I'm taking a call where it's windy or in a coffee shop or
+[07:39] wherever it can be quite difficult, also, a lot of early automated speech recognition systems,
+[07:46] such as press 1 to be transferred to the health department. Did not understand me. There was then
+[07:53] a period where it improved and I could be understood. And now we have AI. One of the first things
+[08:03] that AI speech recognition system does is classify your voice as either voice or background noise.
+[08:10] One of the ways it does is filtering between whether you have a clear start to the sound of your voice.
+[08:17] Alas, I don't. And a lot of AI speech recognition just thinks my voice is a Russell in the wind.
+[08:26] It's not. So, how did access to a telephony stop? With this, does anyone know what this is?
+[08:37] Okay, what is it?
+[08:42] Yes, so this is a TTY device, a teletyposhit or teletypwriter. It's a method of sending and receiving
+[08:52] text characters over telegraph lines. These use a keyboard to send an apprentice to receive.
+[09:00] In the 1960s, people made modems to interface with them. With the telephone network and also with
+[09:08] computers, so they weren't just using the telegraph technology anymore. So, a bit of history.
+[09:14] Now, slight caveat, I have heard these discussions mostly with people who don't use spoken English.
+[09:24] So, therefore, I'm not entirely sure in the pronunciation of people's names, because I haven't
+[09:29] pronounced them verbally very much. So, apologies if I pronounce it wrong. So, an American physicist,
+[09:36] Robert Wyverk, who was deaf, was the first person to use telephony equipment to code and send text messages.
+[09:43] He developed a modem for connecting the TTY systems to the phone network, a bit like how we use modems
+[09:50] to connect computers to the phone network to do dial-up internet. And he was in the US and he set up a few
+[09:59] of these things like in public buildings, for things like weather announcements and news. So,
+[10:06] then further on Paul and Sally Taylor worked very hard and did a lot of campaigning within
+[10:11] deaf communities in the US, for TTYs to become more available in deaf clubs than other community
+[10:17] spaces. They were really the people that spread the message of the TTY network to people that needed it.
+[10:25] So, how did TTYs work? So, unlike the telegraph system using dots and dashes with more code,
+[10:33] TTYs, particularly in the early days, used a five-band coding system called Badoincoding. This is
+[10:39] faster and more accurate and allowed for easier communication of longer messages than more code systems.
+[10:48] So, this is Alpadoincoding works. It's a fun one. If you've learnt more code, you like more
+[10:54] code and you're like, oh, what can I do next? Badoincoding is for you. Also, it's a music genre,
+[11:00] I don't think they're related, but it's also very good. You should listen to it. So,
+[11:06] these early devices that were developed for Wirec and Taylor were only capable of half-Jupac's
+[11:11] communication. Now, this means that you could only receive an incoming message or send one.
+[11:18] If you started sending your next message before you'd receive the rest of the other message you were
+[11:24] getting, then we'll just cut them off. You get half your message. This meant that early TTY was a
+[11:33] little bit slow, but compared to nothing or writing a letter, it is so much faster and so much
+[11:40] more convenient. Later on in the 1970s, portable TTY devices were battery powered and more
+[11:48] personal were developed. This was a huge change in things because it meant that a lot of people
+[11:54] that were deaf or couldn't access the ordinary phone network had smaller and more personal phones.
+[11:59] So, you don't have to talk about your crush when you're in the middle of a library.
+[12:05] Obviously, it has technology developed through a 20th century. As the microchip was developed,
+[12:11] these new features were added, things like taking voice messages and answering machines,
+[12:19] and the cost and size also went down. Famously, the company Mycom and the 70s in California
+[12:27] developed a duplex battery operated TTY. This solved the problem that we had earlier with TTY
+[12:33] devices and meant that you could talk and receive messages at the same time. This meant that
+[12:39] you weren't as worried about having messages cut off and it reduced the amount of dead air.
+[12:46] And made talking to people using TTY a lot less awkward and clumsy and fumbling.
+[12:53] So, this is an example of a TTY device that was made in the 19th. It looks very 90s.
+[13:04] By this point, also, it wasn't just adopting coding. There were lots of different encoding types.
+[13:10] This is an example of a 90s text phone. It is the fact that what I used to use.
+[13:27] They basically made text phones a lot more accessible and they were just a nice piece of text.
+[13:36] So, if you can't use TTY devices or you want to talk to someone that's on a standard phone
+[13:44] network, they use this verbal communication. How do you translate between TTY, red and text,
+[13:51] and verbal communication? You use some of the last phone operators that exist on the British
+[13:57] phone network, which are real operators. The real ATM and the UK are very lovely. I think they're
+[14:05] based in Scotland. You call them up and they then transcribe verbal communication for you to be able
+[14:12] to read it or they read out your text-fran communication. They follow extremely strict privacy standards
+[14:19] and they also explain to people what really calls are. An example that you get at the beginning
+[14:26] of a really cool is, hello, this is a really service. I'm a really operator, the person who's
+[14:32] calling with is either deaf, hard of hearing or has a speech difficulty. So, I'll be helping
+[14:37] them communicate. How may introduce you? Now, the reason I've included this example is because
+[14:44] quite a lot of the time people hear this, think it's a scam and hang up. It's not a scam. It is a
+[14:52] real service used by quite a lot of people in the UK and hopefully, soon to be used by more people.
+[14:59] There was a period in the 1920s where because in the US, do you say licensing really calls
+[15:06] were free? A lot of scammers would use a really service to trans scams people. That is partly
+[15:12] how it's got a bit of a bad reputation. But they've done a lot of things over there to change it
+[15:17] and in the UK it was much less of a problem. So, if you receive a phone call like this, don't panic.
+[15:23] We know you're not used to it, it's okay, we're not going to bite you.
+[15:30] So, text phones also use a lot of abbreviations. They're sort of like text speed but specific
+[15:36] for text phones. So, a common one is starting conversations with all why, all why. This dates back
+[15:43] to the very, very early first TTY machines because they work mechanically and the letters are
+[15:50] not and why but the most stress on the mechanical system. So, it's a way to test the TTY machine
+[15:56] with working properly. It's also now in common parlance used to signal the or starting a conversation.
+[16:07] The next one is GA, this stands for Go ahead, you use this when you've said something, so you've
+[16:14] asked a question and you want to indicate that the other person can start typing. So, how are
+[16:20] you go ahead and then they can reply? S.K. This means stop King. This is when you've come to the
+[16:27] end of a point or you want to break in a conversation. It's usually done to tell the relay operator
+[16:34] that there's not going to be any more text afterwards. S.K. I wish S.K. S.K. could be used in normal
+[16:44] phone use. S.K. S.K. is an indication that you finish the conversation and you're going to
+[16:50] hang up. S.K. S.K. gets rid of using a phone and go, goodbye, goodbye, goodbye, goodbye. Goodbye.
+[16:59] Goodbye just S.K. S.K. Please can we make this a thing a proper entire phone network? Please
+[17:05] I am begging you. Oh, our OPR, depending on how old you are, it's operator relay or
+[17:13] operator relay. This is for if you need to ask the relay operator a question or tell them
+[17:22] something about how they're reading out or transcribing what you're saying. So you might
+[17:29] need to ask the relay operator to please wait until I finish the entire phrase before you
+[17:35] transcribe it. Or please can you go a little bit faster? Or if you want them to say something
+[17:42] with a particular emphasis you can use the OR or OPR to indicate that. For access now a lot
+[17:52] of text phones and TTY systems don't have a delete key because they're based off early
+[17:58] type writers. So if you make a mistake and you want to get rid of a word or a letter you
+[18:04] just put xxxxx this indicates to either the person or the other text phone or the operator
+[18:12] that they need to not read out that word or sub it in with whatever you put next. So
+[18:21] thousand long time ago how have things changed in the days of this text phone in the
+[18:25] nineties? So it was the 2000s, it was the 2010s, what did we do? We developed an app.
+[18:36] So next generation text is something I love to hate. It is an out for mobile phones, windows
+[18:44] and later macOS, it was designed to turn your mobile phone with its touch screen into a text
+[18:50] phone. It allowed you to use multiple devices as your actual keyboard for your text phone
+[18:57] say if you have a tablet but you want to make a call with a text phone you could connect
+[19:02] it. It was great and meant that loads of people didn't have to physically buy or rent
+[19:08] expensive physical text phones. Allow to a lot more people to use the TTY system but it had
+[19:15] a lot of downsides. For instance all of your phones and devices must be connected to the phone
+[19:21] with an inter-decornexion, usually a data connection to make that call. In the early days
+[19:28] we were talking like 2014, 2015 they didn't really support Wi-Fi connections and would try
+[19:34] to use weird things like Bluetooth. It meant that if your mobile phone is the phone you
+[19:42] are using as a text phone you need both a mobile data connection, a very small amount of data
+[19:48] but a data connection nonetheless and a standard mobile phone connection on GMS or whatever
+[19:55] you're using to use this and also the app kind of looked a bit ugly. It's 2014, 2016, 2018.
+[20:04] We have nice design because we're not just a really clunky grey box like we can do better
+[20:11] and they did eventually with the relay UK. Relay UK is a relay service that's run by BT.
+[20:19] It's made of relay operators. They released that own relay UK app that works with the standard
+[20:26] telephone network. Relay UK app was really great and it was a much better upgrade from nice
+[20:35] generation text and it still worked with the standard phone network that we had and all in all
+[20:42] it was a lot better. It's not ideal but we're going now. In 2022 the phone network in the UK
+[20:53] changed from BSTN network which uses a control code line separate to the voice line,
+[21:02] you use a voice line then freaking happened to connect calls to each other. Then we started to upgrade
+[21:11] from that to fiber optic trunk siblings. This meant that all the control tones and the tones
+[21:18] of what these characters were that were sent by older-style text friends have completely broken.
+[21:26] I bought this to EMF because that's the only place it works anymore and I want people to know
+[21:32] about the history of TTY before it became just an act that you use. There's also another service
+[21:41] which is 55. In 2019 after some rather unpleasant instance you can look up the place in
+[21:50] England Wales introduced something called the silent solution. Tell me you didn't have any
+[21:56] deaf and disabled people who knew about history on your marketing team when you called it this.
+[22:02] The silent solution allows you to go online and find from a mobile phone and press 55 if you
+[22:08] can't communicate verbally. You then get asked a series of yes or no questions that you can
+[22:14] very easily respond to by pressing the numbers or tapping the phone. However it's not possible
+[22:20] for deaf or hard-efficient people to access their service. So really UK runs a very important
+[22:27] free service for all people that need to use it that might be deaf or hard-efficient.
+[22:34] In the UK to connect them to emergency services that incredibly skilled with working with the UK's
+[22:41] emergency dispatch of services and it links in very well. So we've come to modern times
+[22:50] we use things like BSL as a primary language. There's services like signed video, other services
+[22:58] are available, not sponsored, that can use a three-way conversation with an interpreter to talk
+[23:08] in BSL and then communicate with someone else that uses spoken English. This works over voice
+[23:17] and so it doesn't technically use the phone that work in a standard way but it's primarily
+[23:23] how most of the people that use BSL talk to each other using the phone today. So BSL signed video
+[23:37] interpretation can be kind of difficult especially if you're talking about very special
+[23:44] technical topics that requires a high level of interpretation for capillary. It also requires a
+[23:51] very strong and stable internet connection. Yeah your video breaking down might not be that bad if you're
+[23:57] having a spoken conversation but if you need that video to communicate then you really need to have
+[24:02] that strong connection that we've got about now with five general of cities but there's a lot of places
+[24:09] where I'm not quite up to it. So this is why the relay connection and relay UK is still really
+[24:15] important and still used. What about the future? Well it's a bit uncertain really. Lots of people say
+[24:23] to me why don't you use AI? Oh thank god I'm so glad you've all said that. So AI doesn't work
+[24:33] for a huge range of people. As I said AI speed recognition often doesn't recognize me as speech
+[24:40] which usually talk you over, definitely disable people is more a metaphor than this but
+[24:47] also it doesn't work if you've got a particularly strong accent. I know a lot of my
+[24:53] I live in Wales and a lot of my friends with strong reach to a well-shack sense. AI speed recognition
+[24:59] has no clue what they're trying to say. Also AI is used a lot by scanners to steal personal information
+[25:09] and a lot of people here AI on the phone and assume it is one of these spam calls. Also do you want
+[25:15] to give a large language model the kind of personal information about your medical history and
+[25:21] close family relationships so you might be using this service for you're going to be using it to
+[25:26] talk to doctors to talk to therapists. I don't want that sort of thing. So oh god I'm so sorry about
+[25:35] the formatic but that is my brief introduction to alternative text phone and really phone. I hope
+[25:43] you enjoyed it please can't find me later. I'll not be in a Q&A tent right after this because I want
+[25:48] to stay for the next talk but I'd like to say thanks very much for listening and thank you to my
+[25:53] deaf and disabled friends that were very patient when I asked them lots and lots and questions
+[25:58] about how they found relay and what it was like in the past and how it developed and thank you to
+[26:05] my friends at work on the phone network for explaining the ins and outs of the kind of more technical
+[26:11] end of things and thank you very much.

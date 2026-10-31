@@ -1,0 +1,163 @@
+[00:00] So, today, absolutely, if you're here for this talk, which is the ship and the bottle printing
+[00:20] you're met with a seascreen, a sea street at one go, then you're in a right place.
+[00:27] So, let's just briefly go over what I'm going to kind of cover hopefully in this session.
+[00:33] First of all, I want to store the gree on what a sea street is. It's not something I was familiar
+[00:37] with when I thought about this project, which is funny. Then talk about some of the interesting
+[00:44] design challenges I've added into the mix to make this an interesting build. Then walk through
+[00:52] some of the main subsystems on how we solve those design constraints for those subsystems, which
+[00:59] in a moment typical way that you do for something like sea scuter. Finally, hopefully you bring it all together
+[01:04] to show you building a ship in a bottle, printing a sea scuter in a single piece using a 3D printer.
+[01:11] And lastly, it's speedo time. You can see hopefully single swim and whatever thing actually works.
+[01:18] So, if we get to all that, we're doing well. Okay. So, first of all, what is a sea scuter?
+[01:26] So, if this is what you think of as sea scuter, it first thought comes to mind. Then it's not this,
+[01:33] it's not real, but it is often when I talk to people, they will think of something like this.
+[01:38] A sea scuter is more like this, or this. So, they come in different shapes and sizes. They're basically hand held devices,
+[01:48] which you can propel you under the water for like scuba diving or snorkeling or just yeah, recreational.
+[01:56] I say different sizes and shapes. And it really sort of drives you along a few kilometers an hour, some a bit faster.
+[02:04] So, that was the challenge. And I'm probably going to be trying to build something which looks a bit like this, which this is obviously being done.
+[02:13] There's hundreds of different types of sea scuters exist in the world. So, part of the drive for this project was, I really passion out about making things
+[02:25] and pushing different techniques like additive matter of actions to the limits. And I was thinking, well, how can I kind of showcase and test what you can do is like a consumer grade 3D printer.
+[02:35] And I was thinking, well, what kind of interesting constraints we put in place only really 3D printing could or might be able to solve as a challenge.
+[02:43] So, I'm in a time build something this, something that looks a bit like this with some constraints. So, there's only two real constraints I'm adding into this.
+[02:52] So, first of all, the whole must be printed in a single piece. So, if you're familiar with concepts like printing in place or basically as a single print, which looks a bit like this.
+[03:04] So, on a build plate printing up, that's the whole. And secondly, the whole must be here, mentally sealed. To get some value out of doing that single print.
+[03:11] It's going to have no holes or seals in the whole at all. So, all the points you've got to prepare there, you've got a must on off switch, you've got throttle and data connections and power.
+[03:20] We're going to cut all those links. So, where you normally have cables or drive shafts coming out, we have to work out. Can we do this in a way that doesn't require any holes in the hole?
+[03:30] And that is probably the trickiest part of the design challenge.
+[03:38] So, first sub system, this thing's going to go in the water. Now, at 3D printing, it's not not great typically. If you're trying to put something in a 3D printing, it normally will leak to some degree, but I need to have some real reassurance.
+[03:54] I was going to be putting a lot of electronics into this. That's even if I went under underwater and not just below the water, but you know, meters deep, but this thing wasn't going to leak on me.
+[04:03] So, I did a whole edit testing, built all these other top pictures, there's a lot of mini holes, I scaled down versions, and I built myself with all different materials, each colors are different material and different way of printing.
+[04:18] And at the bottom we've got, you can just see lined up testing the next week, other. I gave myself the target of at least 40 meters water depth, which means it needs to be able to withstand four bar of water pressure, which is quite a lot of water pressure.
+[04:32] A equivalent, I mean, I think on the top. So, I've got this test setup, which you can sort of see the steel rods and it's a polycarbonate cylinder, which I've trashed, I used to up to four atmospheres, going up incrementally with all the different test hulls, testing how much water was taken up during a soaked test.
+[04:52] Low is a really interesting result, but to cut it short, the best and the process that I ended up going for, which was reliable, was ASA using a 3mm shell, which was a proxy coated and using a small nozzle, like a regular nozzle.
+[05:10] That's the end to give me the most reliable ability to go down to four bar and get no water ingress at all.
+[05:16] So, I was happy I had a system which was watertight at the depth, so I needed to be watertight too, so we could then start thinking about what was going to go inside of this hull.
+[05:29] So, the next thing, most things, first thing you think about normally is the dry train, so I've got a propeller I need to drive, but I can't make a hole for a shaft.
+[05:37] So, we have to look at what kind of other systems exist, and I can't make any holes ready for electrical wires.
+[05:42] So, how do I drive this system?
+[05:47] So, the solution is using magnets, a magnetic gear, and that magnetic gear, I won't go into too much detail, I'm actually doing a workshop on it, which is almost directly after this, thinking workshop four.
+[05:59] If you're interested building these in a bit more information about them, but, simplistically, we've got the great things about magnetic gear is a non-contact.
+[06:09] I'll explain what that means in reality in a second, but there's basically no need holes, and you get a reduction gear in for free.
+[06:18] So, you can take a motor and it gears it down as part of this non-contact drive, so I kind of simplify my overall design.
+[06:25] So, the main parts of any of most magnetic gears is you've got inner rotor, which is magnetised in the north of the south is red and blue.
+[06:35] We've got a middle layer, which is the field constant trater layer, which is all about focusing and channeling that magnetic flux through to the outer layer, which is what interacts and drives the outer rotor around.
+[06:49] So, this kind of, a little animation to try and help visualize this as it's really counter-intuitive.
+[06:57] I think I'm going.
+[07:01] Yeah. So, as you can see, you can be interaction between the red and blue attracting each other wanting to move a little bit.
+[07:09] So, they're not quite in the most optimum, so you can see there's a bit of going to be a force exerted, particularly on these three points.
+[07:16] And what happens is we rotate it that moves around, so it actually goes in the opposite direction, which is what ends up driving the outer rotor in the opposite direction to the inner-roader.
+[07:24] So, that's a really cool feature of a magnetic gear, which is not just a magnetic coupling that you think of, but actually ends up driving your outer, the outer, and the opposite direction.
+[07:32] So, it's kind of like, message with your mind a bit.
+[07:34] So, for this system, we end up with a 4-1 gearbox ratio, and actually this is the ratio ended up going with C-screw to build.
+[07:44] And this is a cross section, so this is hopefully going to explain why this thing works.
+[07:50] So, on the outer we've got a new hopefully see there's magnets at the top of the bottom, that's outer rotor.
+[07:56] Then we've got the inner rotor in here, which is another magnet, this bits in a chamber of the C-screwter.
+[08:03] And here we've got the bit that's doing all the interesting stuff, which is the field constant rate of layer.
+[08:10] So, embedded inside of this, which is the hull, so this is basically the hull of the C-screwter, are the iron pins, which is focusing the magnetic foot lines through the outer rotor.
+[08:21] And because they're completely separate, we can seal it off with a cap at the end, which means that the inside can be dry and the outside can be wet.
+[08:28] So, we can drive this system without any worry for getting it wet.
+[08:32] And I can design this in a way that it should be 3D printable in place, which was also tricky.
+[08:37] So, this design should achieve.
+[08:42] So, next thing, right, okay, so we've got our drivetrain, well I kind of have a bit fixed with that now, because I've got the geometry and the gearing ratio.
+[08:50] If you want to get into sort of propellers design, it's like a whole whole thing in itself.
+[08:54] So, I just went and looked at some competitions and found the top 5 or 6 propellers and scaled them up and down.
+[09:03] This is these are some of them, I also mixed, interesting shaped ones, so these all apparently did well in a competition.
+[09:07] So, we've got sort of standard propellers of much sort of root pitch with a sort of a slender, very standard propeller and lastly a Toroidal propeller, which I just really wanted to try, because I've never seen one work.
+[09:21] And I've heard interesting things about them.
+[09:23] One of the things is that they're supposed to be quite quiet.
+[09:27] So, just a little video clip, so I created this testry.
+[09:31] Which has got some nicely budged together, luggage scales, which is measuring the force, that the propeller is putting out inside my bathtub.
+[09:42] And the current is going up, so I'm just gradually increasing the current on the power supply to see when it starts the Toro slips and the gear slips, and that's the maximum power output I can get from each propeller design.
+[09:56] What you can't hear, because I think I turned up sound for this one, was the blue pillar, which is the Toroidal propeller, and it was just amazing, so much quieter than all the other propellers.
+[10:10] And it was printed badly, I mean it was the surfaces of an ops move, it was probably not exactly the right size scaling, I did a putable scaling sizes, but it was just so much quieter and develop so much more power at lower RPM.
+[10:24] Which would work quite well for a magnific gear, because if you make it spin faster than the peaks in the torque spikes you get through resistance in the water, we'll make it more later to slip.
+[10:38] So, really good, it wasn't the best, but Toroidal propeller was a really interesting thing to test.
+[10:45] Great, so I found the best propeller to use, the couples with my dry terrain.
+[10:52] Next up system, power system.
+[10:54] So, okay, sound power system, we've got a batteries and we've got need to get power in and we just store the power so we can power our sea scooter without it being plugged in.
+[11:03] So, first challenge is that this is quite a constraint system, I need to build this on a commercial, not at home, 3D printer.
+[11:13] So, I was kind of my size constraints, we're pretty strict.
+[11:20] So, I need to make sure I've got a decent size battery which I can fit inside my hull, without interfering with everything else, and giving space for sort of a bit of flowing of air and trying not to let things over here.
+[11:30] The second thing is that as you can see the power one, we cut that power so normally to have obviously conductive cabling or something going in, allowing you to be able to charge a battery pack.
+[11:41] So, we need to do this wirelessly, which I'll get onto a minute, but first of all, the battery system, I ended up going with a lithium ion phosphate battery chemistry, because it's as far as the lithium ion class, it's very stable.
+[11:56] These actually were supposed to go in a car, there were surplus being tested, I think.
+[12:01] And I came up with a good voltage that won't do me any harm, but it's a high enough to be able to get as much power as possible, is about 26 volts, which is what we try and on to charge them, I think you need about 30 which will be important in a second.
+[12:13] And this system, but eight of them together, get 65 hours with the amount of power that's just unit, we get 40 minutes of run time, which I thought that's alright, for a first go if I can get anywhere near that, I'm doing well.
+[12:25] So, great, so I've got a system and then I had to develop my own battery housing, so this is four cells, then some collars, then another four cells and the in-cap.
+[12:40] Just to try and make it as compact as possible, so it really fits in and on to everything else I'm going to need to fit in there, it's still a lot more to go in, but that's where we've got up to.
+[12:49] But hopefully still we could half of it free to be able to fill with electronic things.
+[12:56] So the next step is great, so I've got a battery now I need to use something to get the power in.
+[13:01] So we're going to run something which I'm sure you're all familiar with, which is wireless charging, which there's lots of types of wireless charging from the toothbrush through to the iPhone and more advanced things.
+[13:11] But I'm going to use inductive resonance coupled charging, which is like a Q charger or what you get in your phone, because that's relatively efficient and relatively widely available.
+[13:21] You can see here, we've kind of got my test setup, we were measuring current and voltage and we're trying to put a load on it, running at 24 volts, because that's the voltage that we're going to be using for charging.
+[13:33] And I ended up having to create two of them in in parallel, and because I need to get enough current to go through, we also give a bit redundancy.
+[13:45] We've also got a boost converter to get the right voltage, because I think it drops down to 12 on the outside, and there's actually 5 millimeters of gap.
+[13:51] So here you've got two plates, that 5 millimeters separated, this is not the plate, this is the secondary coil, but they're separated by 5 millimeters.
+[13:59] We've got about two amps going through it at the moment, great, so it can put through a load, how about let's test it on the actual thing I want to use it for, rather than lots of complicated calculations.
+[14:09] So here we are, we now actually got the setup connected directly to the battery, and we were able to get an amp up charging at nearly 30 volts into this battery pack, which means I should be able to charge it in a couple hours, which to be honest, it was was was better than I thought I was going to end up with.
+[14:27] I think we are on to winner, all that have to do is create some kind of docking station for this, which you'll see in a minute, to be able to house the other side of the wireless charging, and then we've kind of got our charging system sorted.
+[14:40] So great, right, next system down, this should work, so we can get power in, we can store the power, and we can drive the power out.
+[14:48] But at the moment it's only going to do either all the power, all the time, or none of the power, all the time.
+[14:55] Oh, sorry, this is just a quick animation of an all kind of like, together so that the wireless charging calls, we can just stack them on top of that battery pack with the boost converters behind them.
+[15:06] Also, yeah, redundancy as well, just in case because they were, and they weren't great quality ones and it was a bit worried about overheating, so I thought well, you know, if one breaks, then I can still charge something, I just do it with a system that works.
+[15:20] So next up system, wireless control, so we can get power in, we can do stuff, now we should focus on making your faster and slower, so the throttle that master switch and you know, collecting data as well.
+[15:33] So these challenges kind of constraints we've got, again, we've got no holes in the hole, obviously, for human-to-face devices to control the sea scooter, and,
+[15:43] electromagnetic calls don't really transmit well through water, particularly for things like wireless and Bluetooth, lower frequencies, they do some extent, and the lower you go, the better you get, but then you get other connections with antennas and,
+[15:54] the data rates and stuff like that.
+[15:56] So the sake of this and also the fact that if it's controlling the throttle, I really want this to be reliable, because I don't want it to sort of just jam on or get stuck off or anything in between.
+[16:08] So I wanted to be kind of like, yeah, pretty reliable. So I actually ended up going with, this is playing, I will play it.
+[16:18] Okay, this is it all, a combination of all sensors, read magnetic sensors for control, and we use this in Wi-Fi to send stuff back and telemetry and other stuff back.
+[16:29] So here we're connecting up the mast on off switch, onto it there is sound to this one as well, but it doesn't seem to be happening.
+[16:37] And now this is the whole sensor, so this is the throttle, so as we go closer further away, you can see it spinning at different speeds, it also sounds different.
+[16:46] Next to it further down, that's going to be the switch we're going to use in the sec, which is another whole sensor, which tells it when it's in the docking station and therefore outside of the water, and so it can start trying to use wireless, going up to the cloud and coming back down to my base station.
+[17:01] And see it, I've just put the magnet on the base station, so it thinks it's in the base station. Now we've got all kinds of telemetry, can you read it?
+[17:11] Okay, just about, this one says pressure over here, so we measure the internal pressure, see, scuther because I don't want to be doing this, and it's slowly taking on water and building up pressure.
+[17:20] Same with the temperature, I don't want to overheat things are so to melt, and also humidity as well, another sign for whether things get in wetting side, and lots of other metrics as well.
+[17:29] That sort of just get downloaded from the last time the C-scuther ran.
+[17:33] So I think we've got a system, I mean, there's all the parts that we need to put together.
+[17:39] Now is the trick, can we bring it all together and put it into a single print. Now this is the whole point of this, oops, did that one?
+[17:49] Yeah, so the print, so this is kind of bringing it all together, and this is one of my three printers.
+[17:55] So we know, we need to print the whole, and one of my main constraints, we need to print this whole and a single piece.
+[18:00] Now this is the start of the print here. Let's just go through it together.
+[18:04] So I've kind of obviously sped up, I think this print was about 30 nows.
+[18:08] So first of all, I'm dropping in though that magnetic, I'm conducting concentrating layer, so these are magnetic rods poking them in, during the builds, we paused it.
+[18:18] Pop a bit, I glue in just to make sure they're not going to wrackle around at all, they work fairly snow, but I need to make sure there's a little bit of clearance.
+[18:24] So I didn't have to hammer them in.
+[18:28] We're off again, so carry on printing, so we've got ballistic heroes all the bits are in there now, ready to go.
+[18:34] We've got a threaded piece that we're just putting into the hole there, so when we go on to our first major widget insertion.
+[18:42] Okay, here we go, so this is what we just looked at, this is the main widget we're putting in, we're putting two in.
+[18:47] This one weighs over three kilos, with all the magnets in it, and we're just putting that strain to the build.
+[18:52] This is all part of the same print, dropping it down, it's really important that the height and the orientation because all the systems that are magnetically controlled need to know where the sensors are.
+[19:01] So we've got little notches that it's clicking into, and it's got a thread to be able to screw into the right height.
+[19:07] Great, we start printing, it looks like it's going to fail, it doesn't fail because I realize that three kilos pushes your base plate down, so I have to move it up by 0.3 millimeters to save it.
+[19:17] But I think I only lost one lap, one layer.
+[19:21] We're making printing nearly all the way up to the top, until we get to the top where we want to insert a second piece, which is the wireless charging units, they're just connecting.
+[19:31] This one's on scale things, still quite big, but not as impressive as the last one.
+[19:37] Another option of this is the big flat surface we've got makes this a lot easier to print over the top of.
+[19:47] And there we go, so that was one print, everything inserted, I then covered it in a potty and let's see if the thing will actually work.
+[20:02] This is the maiden boy of the C2 channel, let's take the double-sick thing off the print and see if I've asked for something to go through.
+[20:20] We're here, hey, hey.
+[20:27] All right, this is a good.
+[20:36] So it's actually quite hard to find a place that you can do this, so we'll let you test turning experimental device in.
+[20:42] Very cold, oh my god, this is my son, let me use that one.
+[20:45] Oh god, this is cold.
+[20:48] And it was quite cold.
+[20:51] So it's gone in, and the first thing I do is I try and max out the throttle and it slips, that we have to start again to re back up the throttle and we're off again.
+[21:04] Thank you.
+[21:14] So the thing works, which for the first time and that's the final print of three-year scooter, I didn't
+[21:20] mention handles, but that's how we get the proportional control with the magnet in there as well as bit work there.
+[21:25] But yes, so it worked. So you can print a ship in a bottle using a 3D printer and quite a lot of design.
+[21:35] I guess there were some things that we maybe saw in there which you can do, so it worked, which is fantastic and I was very happy.
+[21:43] What next? So can we do better at the waterproofing of it?
+[21:48] So the next thing I kind of looked at, but more recently, is can we change the way we do 3D printing?
+[21:54] So there's some other techniques that you can do, you might be able to make out, but maybe a bit difficult, but we've got a normally you do 3D printing in layers.
+[22:03] Try a new technique, which is where you stagger the layers. So it looks like a brick wall instead, which means it's hard for water to get through.
+[22:10] There's no planes that can separate, and it's you can get high of full factor, and so I did a whole lot of testing to show how much better this works.
+[22:18] In fact, I don't even need to do the epoxy coating on it, almost confident enough. I can definitely make holes that I can go up to full bar, and they don't leak at all without any coatings or post-processing, which really surprised me.
+[22:33] And then the next thing was, can we give it more power? So we've definitely, the system we've designed, I've designed, can definitely accommodate more power.
+[22:41] The weakest link is the magnetic gear at the moment, because that's maxing out is torque, and then it starts slipping.
+[22:46] So how about we just make a bigger one? So this one is designed to instead of being like small competitors, it's actually the exact same diameter as the hull.
+[22:56] So the idea is it kind of is just more like a tube. This has got half a kilo of near-dene magnets in it. It puts out about between five and ten times more torque from what I've measured than the little, the midi gear, which I've built.
+[23:12] So if you like this kind of stuff, I've got lots of videos on my YouTube channel. If people would like to have a look, a lot more detail, a lot of other things I've built, and the hull, this is documented there.
+[23:24] And as I said, I've also got a magnetic gear torque, which is going to happen shortly after here where we're actually building miniature magnetic gears. So things you can take home, which work exactly like this in fact, the exact same gearing and kind of like design, but really scale down to get the max power out of something, which is as big as a large amount of torque.
+[23:39] You can take home. So that is it for me and from Design to Make. Thank you very much. If anybody's going to request us, I will be in the Q&A time.

@@ -1,0 +1,229 @@
+[00:00] Thank you for being here.
+[00:20] Is this meant to be on screen?
+[00:24] It should be in a moment.
+[00:29] It's a tradition at the MSF to have a walkily and prepared and horrible bad stock.
+[00:38] I intend to continue this tradition.
+[00:42] Thank you for being here.
+[00:44] I'm here to tell you about the technical decisions behind the other one.
+[00:48] You know this, I specifically am not saying the badge, because we are rebranding.
+[00:55] And we'll no longer be calling this the badge, because before not using it as a badge,
+[00:59] they're using it as a beautiful thing to play with.
+[01:04] So we were slightly demotivated with a badge team after 2022, because we didn't get the 2022 badge,
+[01:13] we wanted it to do.
+[01:16] We were super, super tired, and we put a lot of work into it, and most of them, like every conference badge, ended up in a drawer, never to be seen again.
+[01:27] I'm pleased to announce that actually we have put up a new release for 2022 badge, so it now does what we originally intended it to do.
+[01:37] So you can finally, four years later, and this applause is not for me, it's for Mathew Dittle this work, and Mathew, it's his birthday today.
+[01:49] So yeah, happy birthday Mathew, one live on stage.
+[01:57] But it's a problem with conference badges that they tend to end up released quite late, usually like, at the end of usually it's been the second day of the event,
+[02:11] and then people have like one day to do something with it, and another day to enjoy it, and then that's it.
+[02:19] And then it wanders into a drawer, never to be seen again.
+[02:22] And every single time there's always been people who do amazing things for the previous event badges later on, like somebody made a 3D renderer for the 2016 badge, I believe at some point, many years afterwards,
+[02:40] but we wanted to kind of break this cycle of we're producing eways that ends up in your drawer.
+[02:48] So we got together and we thought about this for a bit, and we figured out we want to make a badge that will persist across events, and that will be able to be reused and developed for before the event starts, so that when the event actually happens, there's already lots of things for people to enjoy.
+[03:16] Like the ridiculous, jost game that somebody made, which thank you for that, John, has been trying to prevent that from happening for years, and it's finally happened, so nice.
+[03:27] So we came up with this concept of a badge that is reusable.
+[03:33] So because it's writing to do, we don't want to be creating eways, we don't want to be creating stress, because it brings more joy, if you have it ahead of the event, and because we're really really tired of solving the same problem over and over again, and then it ending up in a drawer.
+[03:51] So what we did was we, every time we've had like some sort of gimmick for every year's badge, and we wanted to have the gimmicks because they're really fun, but we don't want them to define the badge, so we literally moved them to the side, and we came up with this idea of a expansion.
+[04:18] So we had this badge that would solve most of the hard problems, exactly once, and then we'd never have to touch it again, ideally, and we want to reuse it over and over, and yet have the ability for people to add gimmicks to it.
+[04:41] So what we came up with was this, which we're currently using, and I want to go through this a bit, so you can, you can get a sense of what's on it and what it's for.
+[04:55] So we decided to actually reuse the same microcontroller that we had in 2022, because we had good experience with that, and we had a really good relationship with the vendor.
+[05:09] In 2022, we made, or this was my mistake, actually, I made a horrible mistake, by putting the antenna to close to the, to the clock source for the chip, which meant if the Wi-Fi power was turned up to high, it would just blow up, like it would just not work at all.
+[05:32] It would just reset and not do anything. We'd notice this really, really late actually in the process, because we tested Wi-Fi once, we saw that it could scan for networks, solve the networks, or like, okay, Wi-Fi works, check that off, and then many, many weeks later, we were like, okay, I tried connecting to Wi-Fi, my battery set, and yeah, it turned out that we put the clock crystal in the return part of the RF path.
+[06:02] Just by flipping the antenna to run way around. So yeah, we ended up producing Wi-Fi transmit power.
+[06:10] So then, as president, who are very kindly sponsoring this Wi-Fi chip, they came up to us and went like, well, we'd love to sponsor you again.
+[06:20] However, please don't make us look bad like this, and like we want to sign off on your layout before we do this.
+[06:30] So this time we picked this module here, which, and if I have a pointer here, should we do?
+[06:42] Yeah, no, that doesn't work. Okay, yeah, so we picked this module, which it has the microcontroller.
+[06:51] Oh, yeah, there we go, you can see that they think. It has the microcontroller, and it also has the crystal inside, and it also has the antenna matching that work inside, so that there's no possibility for that particular issue to happen again.
+[07:06] And we also reuse the antenna from last time, which is this ridiculously tiny thing at the very top of the image called A1.
+[07:16] And even though it's so tiny, it actually has a really nice radiation pattern, so it's a fairly good Wi-Fi antenna for its size.
+[07:27] So yeah, we tried to actually like put all the expensive and complex bits on this board, and then have another board that is specific to the specific event.
+[07:40] So like the green one in 2024, and the space on this year, which was meant to be much easier to manufacture and cheaper, and yeah, nice and easy to replace.
+[07:56] We were hoping, actually, that somebody would make them on front board, and I have heard of at least one person attempting that, but they didn't get it done.
+[08:04] So yeah, I'm really hoping next year we see some front boards that people have made themselves, because that would be really cool.
+[08:13] Yeah, so we put the USB on here, and we put power management on here, and the power management on this badge is actually much nicer than what we'd usually put on an event badge, because it's meant to be reused.
+[08:27] So we could afford to actually spend some more and put in some really nice parts.
+[08:35] So we have a nice power management I see for battery management, which also does boost conversion, so we can put five volts out on the second USB board.
+[08:47] And we put in two USB boards, because we figured hey, we're printing landyards every year.
+[08:53] We don't need landyards, we can just use a USB cable and plug it into into both parts.
+[08:59] A lot of people seem to not like that and have been asking us for landyards.
+[09:04] So this year we put holes for landyards on the mid board, so that you can put in a traditional landyard, so that that also works as well.
+[09:15] Yeah, we actually have a power delivery protocol chip on each of the USB ports, because we wanted to enable communication from batch to batch using power delivery messages, which is kind of working.
+[09:37] And we actually deviated from the USB standard to slide a bit, because we wanted to have these glowing USB cables actually glow when you plug the badge into itself.
+[09:52] So we detect that special case and it does actually provide power to the cable to make it a cable glow.
+[10:00] So we have these six connectors for hex pensions.
+[10:04] And we've routed pretty much every pin on the microcontroller to one of the hex pensions.
+[10:12] And the nice thing about the USB 32S tree is that it has a full pin mixing for all the peripherals.
+[10:23] So it doesn't matter what pins you put things on, it still lets use of the internal peripherals.
+[10:30] So you can do a SPI communication, you can do audio, you can do SDIO on any port, and it doesn't matter which port a hex pensions plugged into.
+[10:41] The only thing that does matter is the analog pins.
+[10:46] So the analog measurements only work on the tree left most hex pensions connectors.
+[10:53] And we bundled them together.
+[10:55] We were thinking about, do we spread them out so that there's two on every expansion, or do we bundled them together?
+[11:02] So you can do, you can have like four on one.
+[11:06] And then there was this one person who made an oscilloscope for the 22 badge, and we were like, we want to do that.
+[11:15] So we decided to bundled them together so that people can do crazy shit like that.
+[11:22] Yeah, so the expansion connectors we wanted them to have enough pins to do useful stuff.
+[11:28] So there's, yeah, one of them, like typical batch expansion things that you see at various conferences is the shitty adonctor, which I think is a really disrespectful name because people do really beautiful things with them.
+[11:49] So within the community it's been unofficially renamed to the simple adon connector.
+[11:56] Yeah, so we thought like, how do we do an non-shitty adon connector?
+[12:02] So we wanted to have enough pins, we're on the heavy enough power.
+[12:07] And we found something that doesn't actually need any connector on the other side, so you can just plug a PCB into it.
+[12:15] And that's also nice because it mechanically grips onto the PCB.
+[12:23] So it's possible to do things that are not electronic.
+[12:29] And one of my favorite expansions I've seen is a 3D printed piece of plastic with a pencil sharpener stuck to it, which is amazing.
+[12:39] And I actually met the person who made this at this event and they gave me a bunch of them, like this is the worst expansion, like no, this is the best expansion because it shows that anybody can do this.
+[12:55] And we tried to make it possible for people to, for this to be their first PCB.
+[13:03] And a lot of people at this event have actually shown up with their first PCB ever, which is a hex-pension.
+[13:11] And we really, really proud of those people, like this is exactly what we intended, you did it, you're great.
+[13:19] Yeah.
+[13:23] So we wanted to kind of prevent hex-pensions from messing up the entire batch and to make it tolerant to making mistakes when making hex-pensions.
+[13:42] So we have currently meeting on every port.
+[13:46] So even if you have a short circuit, it doesn't do anything.
+[13:50] We have power switching so that if you don't accidentally get power, any pins unless you pull down the hex-pension that pin,
+[14:05] which actually costs some problems for people last year because there were some hex-pensions that didn't do that, and they just didn't get any power.
+[14:17] Yeah, and then we have a separate I2C bus for every hex-pension.
+[14:23] And this goes through a box.
+[14:26] So we have a chip on the, we have a chip on here.
+[14:33] This is the one on the bottom next to the tree circles.
+[14:38] That's an I2C box, which lets us switch the internal i2C bus on the, on the ESP32 to any of the hex-pension ports.
+[14:50] And it's also technically possible to connect a hex-pension port to another hex-pension port.
+[14:56] I don't think anybody's done anything that can use this so far, but it is possible.
+[15:01] So think about it in terms of shenanigans.
+[15:07] Yeah, and obviously we're on our fins because we only have this many on the main microcontroller.
+[15:15] So we added a bunch of I2C-based IOL expenders, which are the chips you see around the outside.
+[15:25] And now if you can see my cursor, so that's one of them.
+[15:30] And they give us extra fins. So we have a bunch of these extra fins on every hex-pension connector.
+[15:36] They are the low-speed fins. And they also double as, as current sinks.
+[15:43] So it's possible to actually attach leads to them and drive them with a set current.
+[15:51] And again, this is something that like we've, we've told people this exists, but I don't think anybody's actually used it so far, so please do.
+[16:01] We have two USB ports, but we only have a single USB peripheral on the, on the jet.
+[16:07] So what we've done is we've added a mark that can switch the on-board USB to either of the two ports.
+[16:17] And this exists so that we can use the USB out-port to actually plug USB devices into and have USB host support.
+[16:26] So we can, we can like plug-in keyboards or a barcode scanner.
+[16:31] We are considering actually putting a barcode scanner attached to a badge to check out badges in the badge sent at some point.
+[16:38] Which may work. So there was a thing yesterday, the Wi-Fi went down.
+[16:44] And nobody could connect to Wi-Fi except badges.
+[16:49] So for some reason, the badges are the most resilient Wi-Fi client we have.
+[16:56] Yeah, this is the expansion detection circuit.
+[17:08] And yeah, we have this current limiting chip on the right here and we're limiting to 600 milliamps on the 3.3 output.
+[17:19] And this number may sound familiar to you.
+[17:22] We'll get to that in a bit.
+[17:25] Yeah, these are the 3 boards we have this year.
+[17:28] And yeah, we promised ourselves, okay, next year we said two years ago.
+[17:34] Next year, we only just need to do the one board.
+[17:37] Like it's going to be super easy this time.
+[17:40] We don't, yeah, like we don't need to do anything.
+[17:43] And then we ended up making 3 boards and then two more for the keyboard.
+[17:49] So a lot of you complained after last time with good reason that the buttons were too fragile.
+[17:59] The screen kept falling off and people kept breaking the screens by smashing it against things.
+[18:05] So we decided this time let's have two PCBs and sandwiched the screen between them so it's more protected.
+[18:14] A bunch of you then complained like, oh, I designed this nice 3D printed case which will no longer fit.
+[18:19] Or like, you don't need a case anymore. We fixed it.
+[18:24] Yeah, yeah.
+[18:27] So we have these buttons that now stick out through the front board and they're clicky, which is also something lots of people wish for.
+[18:35] And we've added the compass I see to the front board as well.
+[18:43] And yes, somebody who's in the audience here had this wonderful idea of making a no pointer app, which uses a compass and a GPS expansion to always point to no sector.
+[18:59] Yeah, yeah, I promised you some of by one errors.
+[19:05] So this is one of our prototypes.
+[19:08] And I had to botch this connector on there because it's off by one.
+[19:15] Yeah, I noticed this very, very late in the process after having already made a bunch of prototypes.
+[19:22] And then before I tried to put them together, somebody wanted to make a case for this.
+[19:28] So we did a 3D export and while doing the 3D export, we noticed this.
+[19:35] Yeah.
+[19:37] Thank you people for complaining to me about not having 3D models to do cases that you don't need.
+[19:44] Yeah, so that helped us spot this slightly earlier than we would have otherwise.
+[19:51] Yeah, we have a few fun secret things in there.
+[19:55] So the this connector, this is on the front most board, which now has touch sensors as well.
+[20:04] And this plugs in the same way that the screen did.
+[20:07] So we have slightly offset holes that kind of just grip onto it.
+[20:11] And then we have this six pin connector here.
+[20:14] And what else has six pins and connects to a badge?
+[20:18] Exactly. And this pin out matches the shitty ad on connector.
+[20:23] So you can take off your front board and plug in a shitty ad on if you really want to.
+[20:30] Yes, we also have a secret serial port in the USB out port.
+[20:35] So the USB out port has the side band USBs, which are usually used for like display moldy stuff.
+[20:42] We put serial on them. It only works one way up.
+[20:46] But if you need a serial port for debugging, you can of course somebody has made a expansion that does this.
+[20:53] You can plug in a expansion that gives you access to a serial port.
+[20:59] And we also have secret SFP ports.
+[21:03] So SFP is a standard for like high speed networking.
+[21:09] And you see it on various like high speed switches.
+[21:13] And the hex expansion connectors are actually SFP connectors.
+[21:18] And in fact the pin out matches an SFP module.
+[21:25] So all the high speed pins are mapped to the differential pairs.
+[21:30] The power is in the same place. It has the same power specifications, which is 600 nm, a 3.3.
+[21:37] It has ITC in the same place.
+[21:40] And if you can get a module that goes slow enough, you can drive fiber off the badge.
+[21:49] Yeah.
+[21:57] I also promised you something about naming things.
+[22:01] We almost called hex pensions nodules.
+[22:05] Yeah. It was going to be the nodular badge with nodules plugging into it.
+[22:11] And then somebody came up to us saying, like,
+[22:17] have you ever met a cancer patient?
+[22:20] And so we dropped up.
+[22:23] Yes. Expansions is a way better word anyway.
+[22:27] Yes.
+[22:30] Yeah. And I also promised you something about Getshow being awful.
+[22:34] Getshow has not been awful this year.
+[22:36] Getshow has been absolutely wonderful this year.
+[22:38] FedEx has been awful this year.
+[22:41] We always have some sort of problems with shipping because things happened in the last minute.
+[22:45] And you may have gotten an email about your keyboard.
+[22:50] And yes, we have 1,500 keyboards sitting in the badge stand that we can't give out because they're missing a critical bit,
+[22:57] which was supposed to be delivered many days ago.
+[23:00] And it's currently stuck somewhere on its way to a target shop in Great Malvern.
+[23:07] And we can't pick it up till Monday.
+[23:10] So yeah, that didn't work out so well.
+[23:13] We've figured out something for this.
+[23:17] If you've not picked up your keyboard yet, you should have gotten an email that tells you what to do.
+[23:27] Yeah, and there's one more thing which is Getshow.
+[23:31] So we've been leaking shit posts about Getshow for months now.
+[23:37] And the reason for this is we have this touch sensor on the frontmost board.
+[23:47] And it advertises itself like this.
+[23:57] So yeah, technically the badge has streaming ketchup protection.
+[24:05] It should not be triggered if you pour ketchup over it.
+[24:10] We have not tested this intentionally.
+[24:15] And I recommend you don't because ketchup is one thing that we know of that absolutely destroys the electronics on the badge.
+[24:24] So we have one badge that's been returned that had absolutely awful damage.
+[24:32] And it's because it had ketchup on it.
+[24:34] Please do not pour ketchup on your badge.
+[24:38] Blood is also bad. Always probably fine.
+[24:44] Another thing that's definitely bad is Balsamic vinegar.
+[24:49] Thank you, kitchen, because yes.
+[24:54] Yeah, so yeah, we built this thing.
+[24:56] I wanted to tell you a way way more about this hard, but yeah,
+[25:00] yeah, we yeah, I'm awfully unprepared because I've been running bad shifts for.
+[25:06] Yeah, all of this event.
+[25:12] So yeah, we figured, okay, we're like we're just making one board, right? How bad can it be?
+[25:18] How bad can it be? And then we spent so much, so much time on the art for this because we just couldn't get it right.
+[25:26] And it just didn't look right. And we made two prototype rounds and both of them didn't look right.
+[25:32] And then it was so late in the process that we sent this out to manufacture without having seen a proof.
+[25:40] So just based on what we learned from the prototypes, we sent this out from manufacture.
+[25:46] And the first time we actually saw it, lit up was here in the field.
+[25:52] Yeah, this could have been bad. It turned out okay.
+[25:56] Thank you. The art was mostly more ag. Thank you, more ag. You're awesome.
+[26:08] There are many, many, many, many secrets hidden in the art.
+[26:18] It's worth it taking your budget part and looking at it in detail because there are so many things.
+[26:26] So all the cats are real cats except space cat and Lord Changs.
+[26:32] All the other cats are real cats. Everybody on the badge team sent me a picture of the cat.
+[26:38] We drew the cat. We put it on the board. And the one member of the badge team was like, but we have a dog.
+[26:44] Can we please? Like, yeah, come on, send me the dog. If we drew the dog, we put it on the bed.
+[26:50] So all of these things are real. They are actual real cats. It's an actual real dog called Ernie, I believe.
+[27:00] Yeah, and we've hidden lots of secrets in the art. It's worth looking at closely.
+[27:08] There are some places that look like they should have a sponsor logo, but have a cat instead.
+[27:15] And this is where you know a sponsorship has fallen through.
+[27:19] So it happened once two years ago, so there's a cat as replacing one of the sponsor logos.
+[27:26] And if happened again this year, so there's a cat replacing another sponsor logo. Happens.
+[27:31] Yeah, it's the same cat for names rare.
+[27:35] Yeah, and this is all I have time for. I am very very very happy to take questions about technical details of the taildog on.
+[27:50] Because, yeah, there's a lot of things that people are not aware of that I can possibly help with because people are trying to do really weird shit with it.
+[28:02] And I absolutely love what you have all done. I have seen remote control cars. I have seen air quality sensors.
+[28:11] I've seen fluffy things that light up. I've seen illuminated sharks. I've seen a bad detector.
+[28:25] Geiger counter, yes. And just so many things. And like last time we figured, okay, we're releasing this way too short way too close to the event.
+[28:37] It was like five weeks before the event. Nobody's going to have time to actually make anything cool.
+[28:44] And then like 60 people show up with expansions at 2024, which is like what?
+[28:52] And now this event is holy shit. Everywhere I look like I walk around at night.
+[29:00] And I look at people's things. You are awesome. You are amazing. Please keep doing weird shit.
+[29:11] It's just, it is so working. See this. All this effort has been so working. Just see people enjoy things and make beautiful things out of them. Thank you.
+[29:41] Thank you.

@@ -1,0 +1,587 @@
+[00:00] Thank you.
+[00:16] No fires.
+[00:17] If this talk incites you to fires, don't do that.
+[00:22] Some kind of rebellion might happen after this.
+[00:25] I'm a professor of AI and society.
+[00:30] It is my job.
+[00:32] I'm also on the same thing to look at high societies being impacted by AI.
+[00:38] This year, we ran a survey about it.
+[00:42] We've seen lots of headlines saying there was commencement speakers being booed at US graduation
+[00:51] and things being set on fire.
+[00:54] The uptick of AI wasn't very good in companies.
+[00:58] We wanted to see what it was like in the UK.
+[01:01] I've been coming to EMF come.
+[01:03] This has been 10 years since the first time at EMF come.
+[01:06] The last lot of the single one I'm so far, I've talked about sex robots.
+[01:11] I'm not talking about that today.
+[01:13] I'm really sorry.
+[01:16] This is going to be violent and sex.
+[01:21] Anyway, not really.
+[01:23] I'm also going to need audience participation.
+[01:26] In the moment we'll get to that.
+[01:28] The first of all, the chat GPT was released in November 2022.
+[01:32] Very, very quickly spread.
+[01:34] By within 16 months, most economies worldwide had access to chat GPT.
+[01:40] It was uptick, which was really, really rapid.
+[01:43] We've been doing weekly, 3 million users and it's just kind of snowballed from there.
+[01:47] I know, open ART, I have like a billion weekly users.
+[01:52] Active users.
+[01:54] As you might expect, news coverage has also dramatically increased.
+[02:01] The red arrow mark, the point where chat GPT was released.
+[02:05] You can see all of the headlines that followed that.
+[02:08] Of course, the headlines at the start looked a bit like this.
+[02:11] We're all going to die.
+[02:14] It's very much as it's existential threat.
+[02:17] It's the end of humanity.
+[02:19] The AI has been around for ages.
+[02:20] You know this.
+[02:21] We are at a tech festival.
+[02:22] You know that AI, as a discipline, has been going since the 1950s.
+[02:25] I have it in my job title.
+[02:27] It used to be fun, and it's not because everyone hits it.
+[02:30] We have lived for AI for many years.
+[02:33] It's behind the scenes and all of the things we take for granted.
+[02:36] Like Google Maps, like Recommender Systems, lots of different things.
+[02:40] So specifically, generative AI has got people exercise.
+[02:44] I'm for good reason.
+[02:45] So you know, it's like an academic weapon of mass destruction.
+[02:49] Actually, I'm maybe sort of a degree with that.
+[02:52] Big tech, as X-plane, Russian, and the AIR is the risk.
+[02:56] The narrative around this is very pessimistic.
+[02:58] It's all about how things are going to be.
+[03:00] I'm going to go terribly, terribly wrong.
+[03:02] And then when this happened, so there was a big scramble of all these companies
+[03:06] to release their models to the public, which is a really stupid idea in the first place.
+[03:10] And if you met the public, they're awful.
+[03:12] They're not awful.
+[03:13] But so it's really the chat to be teaming, being ruled out.
+[03:16] So of course everybody else wanted to rule their models, like, too.
+[03:19] And we're sending open letters.
+[03:21] People were writing these letters going, we must have an AI moratorium.
+[03:24] We must pause.
+[03:25] I thought that's very convenient if you're worked for a tech company who's got their model out there.
+[03:29] And you go, we must pause now just while we have the competitive edge.
+[03:33] Of course, no one paused.
+[03:35] It kept going on and on and on.
+[03:37] And the industry is enormous.
+[03:39] This is way bigger than the dot com boom.
+[03:43] It's huge, absolutely vast.
+[03:45] Stupid, sign thing, am I?
+[03:47] It's of money.
+[03:48] Trillions.
+[03:49] What I can't even conceive of what a trillion is like.
+[03:52] So that was then.
+[03:53] So I have the headlines changed today.
+[03:55] The headlines are, I say things like,
+[03:57] AI tools could be bad.
+[04:00] Or, guardrails aren't working.
+[04:03] Or myth loss is going to hack everything and destroy everything you love.
+[04:08] Or, I'm a personal favorite here from the telegraph,
+[04:11] Pope invokes Gandalf as he issues AI warning.
+[04:15] Yes, that's the Pope turning to the other good book.
+[04:18] To say, we must learn a caution retail from Lord of the Rings.
+[04:24] So if the Pope evolves, gosh, you must be doing something right or wrong.
+[04:28] The Vatican's actually been involved in looking at AI ethics for a number of years.
+[04:33] They had the Rome call it when I was a few years back.
+[04:36] So they keep an eye on it.
+[04:38] But what was interesting, if you wied through the 45,000 words of the Pope's latest in cyclical,
+[04:42] and I got through about 33 size and off them before I started a bit of CMI,
+[04:47] if you read through that, you'll find that the main thing's happening is,
+[04:52] in Pope saying, well, we can't leave it up to the tack bros.
+[04:55] And all of us academics have been saying that for ages.
+[04:58] Of course, you can't leave it up to the tack bros.
+[05:00] But what the Pope also was saying was, I think we, the arbiters of morality,
+[05:05] it is the Catholic Church, we should be in charge.
+[05:08] No.
+[05:10] So why don't people, one of they worried about why are people unhappy about this?
+[05:14] Well, it's things like this, it's the hidden labor in the supply chain,
+[05:18] and people behind the scenes who are making AI happen,
+[05:21] because one of the dirty secrets of AI is it's not really that artificial.
+[05:25] It's people behind the scenes doing things like moderating content that's really, really graphic,
+[05:31] horrible violence, sexual images, that the AI has flagged them,
+[05:36] and they need a human to check it.
+[05:37] And of course, that is outsourced to the global size,
+[05:39] to people who are being paid a tiny amount of money with no support
+[05:43] to go through these horrific images.
+[05:47] And they are chat about the turns out to be 700 engineers in India,
+[05:50] because it turns out that's a more effective way to run your call center,
+[05:54] just use people.
+[05:56] And it's things like data centers,
+[05:59] that a form of environmental colonialism, where they're plunked on in other people's areas,
+[06:03] you don't find a data center in the backyard of a tech bro.
+[06:06] They all go to poorer areas, and they use very in the ranks of water,
+[06:10] but they need clean water to operate.
+[06:12] There are different ways of cooling them,
+[06:14] and they're all required that initial clean water to run them.
+[06:17] And the huge amounts of energy to the point where the tech companies
+[06:20] are buying up nuclear power stations to power the data centers,
+[06:24] which could be nuclear power by a different way,
+[06:27] could help.
+[06:28] Let's see.
+[06:29] And then we've got headlines like this, right?
+[06:31] Driverless taxing, finalized the set on fire in San Francisco's China time.
+[06:35] This is a couple of years ago.
+[06:36] And it turns out that self-driving cars are really easy to hijack,
+[06:41] and I've got to stop signing some delights when I say that.
+[06:44] But it turns out if you stick like a traffic cone on the bonnet,
+[06:47] it gets very confusing just stops.
+[06:49] And if a lot of people are crowding around itself,
+[06:51] driving car, it's been taught not to run people over, so it stops.
+[06:54] So you have these basically ripe for the picking.
+[06:57] Why they particularly burnt this one?
+[07:00] People are unsure, there was a campaign going on about safer streets.
+[07:03] It may have been part of that, but rule on a couple of years,
+[07:07] and it's people hijacking them and burning them,
+[07:09] because they're rioting about other things.
+[07:11] There are anti-ice protests, for example.
+[07:13] So it's just a handy way of being able to riot.
+[07:17] Close to the home in the UK.
+[07:20] The government put out a consultation last year,
+[07:23] lit last year.
+[07:24] And it said, tell us what you think about people's work,
+[07:29] copyrighted work, being used to train AI models,
+[07:32] because we think we should give them to the tech companies
+[07:34] to train their models on.
+[07:35] And 11, I said 250 people went,
+[07:38] no, no, not happening.
+[07:40] They stole that from us, and we want to properly compensate it,
+[07:43] which is fair.
+[07:45] So this is one example of where really, really, where I think it's
+[07:48] only ever happened once before, where every single newspaper
+[07:51] in the country, including online, had the same cover
+[07:54] the day the consultation closed, saying,
+[07:56] make it fair as part of a campaign,
+[07:58] because journalists also know that their jobs are at risk.
+[08:03] So back to this survey.
+[08:05] We decided to do the survey, and so before I start,
+[08:07] I want, with some audience participation required.
+[08:09] So I want to test the temperature of the audience.
+[08:11] So I'm going to ask if you're positive, negative,
+[08:14] or mixed feelings about AI.
+[08:16] So if you're positive about AI, can I have a woo?
+[08:19] Woo, woo, oh, interesting.
+[08:22] Okay, if you're negative about AI,
+[08:25] can I have a woo?
+[08:27] My people, my people.
+[08:30] If you're mixed, can I have a, meh?
+[08:33] Yeah, that's what I thought.
+[08:35] That bit held, okay.
+[08:37] So that's what we find with our surveys.
+[08:39] Really, really, really mixed.
+[08:41] Here's a little bit about the methodology.
+[08:43] So the survey was carried out last month,
+[08:46] between the 12th and 15th of June.
+[08:48] And it was carried out by asking,
+[08:50] 255 people across the UK.
+[08:52] That's a pretty standard size for a survey,
+[08:54] to test the weight of feelings in the UK.
+[08:57] So 255 people.
+[08:59] And it was across the four nations of the UK.
+[09:01] So everyone, even Northern Ireland,
+[09:03] my home country was asked.
+[09:05] And normally people leave that off,
+[09:07] because it's so small, it's barely significant.
+[09:09] So that was nice that we included them.
+[09:11] The data were all where we needed to be
+[09:14] representative of the population.
+[09:16] No, the bit that we got stuck on freeages
+[09:19] was why do we ask people about AI?
+[09:22] What do we mean by it?
+[09:23] Because we were really interested in high people,
+[09:26] conceived AI.
+[09:27] And what their whole perception of it was as a thing.
+[09:32] And we wanted specifically to ask about LLM.
+[09:35] So the word in we use was the term artificial intelligence.
+[09:39] Artificial intelligence tools,
+[09:41] sometimes called AI tools.
+[09:43] For example, chatchipy-tclog,
+[09:45] Gemini co-pilot.
+[09:46] Now, this is not fit nicely into what I think AI is.
+[09:50] I think AI is an infrastructure.
+[09:52] I think it's an ecosystem.
+[09:53] I think it's a pipeline from raw materials
+[09:56] through to output.
+[09:57] I think it's lots of these things.
+[09:59] But I also wanted to know what people thought.
+[10:01] I'm high in our classifying it.
+[10:02] Because when they push back against AI,
+[10:04] they're not pushing back against these tools.
+[10:07] They're pushing back against something else,
+[10:08] so they can't quite put their finger on.
+[10:10] And it's all tied in with a bunch of other stuff,
+[10:12] like power, geopolitics, what's happening on their land,
+[10:16] how much control they have.
+[10:18] But we just asked about tools.
+[10:21] So what we did find is it's the kind of what we thought might happen.
+[10:26] AI is perceived more negatively than it was two years ago.
+[10:30] So there was a survey two and a half years ago.
+[10:32] There was a survey that ran in late 2023.
+[10:35] And the negative response to AI,
+[10:38] people know I think there are more risks than benefits.
+[10:41] It wasn't by much, but it is declining.
+[10:43] And that's interesting because it's been embedded for quite a while now.
+[10:46] It's being pushed dramatically by schools, universities,
+[10:49] the government, the government, especially.
+[10:51] See it as a big economic growth factor.
+[10:54] So all very pro-innovation.
+[10:56] They put a skills page so you could skill yourself
+[10:59] with some courses that it's script from somewhere.
+[11:02] So that was interesting.
+[11:05] Will AI benefit you in particular?
+[11:09] That's what we started to see some interesting differences.
+[11:12] And we decided to look at generations,
+[11:14] because we know there is generational difference in attitudes.
+[11:17] And so as you might expect,
+[11:19] Gen Z thought that they would benefit the most.
+[11:23] They would be obviously positive benefits from AI.
+[11:26] And the rumors didn't, they were quite against it.
+[11:30] When our comms team put out the press on this,
+[11:33] they said, oh, Gen Z and millennials, like AI,
+[11:36] boomers hit it.
+[11:37] And all the Gen X included,
+[11:39] you forgotten about us again.
+[11:41] We had this forgotten generation.
+[11:42] No one ever cared what we think we were third.
+[11:47] We also asked, and this is a repeat of a question.
+[11:50] Previously, we also asked people to select words
+[11:55] that corresponded with their emotions around AI.
+[11:58] And yet again, this is a seem as a survey earlier survey.
+[12:01] The most common choice was nervous.
+[12:04] I don't care, you get other words, you get hopeful,
+[12:06] you get afraid, you get confident and excited.
+[12:09] But nervous was still coming out at top.
+[12:12] Interesting, because people are not saying that it's less scary
+[12:15] than those headlines for us suggested.
+[12:17] We're seeing different headlines now.
+[12:19] We're not seeing the end of the world type stuff anymore.
+[12:23] When you look at it again with a break time,
+[12:26] you find that Gen Z are selecting words that are much more positive
+[12:31] by AI, and that's it's possibly not the easiest thing to read on this screen.
+[12:35] But essentially, the towards the right is the positive
+[12:38] and the left is a negative.
+[12:39] So blue words are those positive sentiments and red,
+[12:42] are those negative sentiments.
+[12:44] So Gen Z and millennials both fairly positive
+[12:47] and their word choices are right AI.
+[12:49] Gen X, we're negative, boomers.
+[12:52] Weirdly, you know, it's the boomers.
+[12:54] I said it's like, I'm not slagging off boomers,
+[12:56] my parents are boomers.
+[12:57] But it is the boomers who are sharing the lots of AI
+[12:59] generated imagery like my mother, who will send me pictures
+[13:02] and go, look at this dog doing this really cute thing
+[13:04] and like this AI mother.
+[13:06] But yeah, still very nervous and anxious about it
+[13:09] despite sharing all these names.
+[13:10] Yes, it's Jesus with the refugee mother.
+[13:12] Okay.
+[13:16] We asked people if they limited their AI use.
+[13:20] And this surprised me.
+[13:23] 42% of people said they deliberately limited their AI use.
+[13:27] And that included people who limited people who use it
+[13:31] every single day.
+[13:32] So even if you are a regular user of AI,
+[13:34] even if you're a Gen Z, and in fact, especially if you're
+[13:37] in Gen Z, you're more likely to limit your AI use.
+[13:41] Well, this doesn't really track because all along
+[13:43] the government's been telling us, oh, if people don't use AI,
+[13:46] it's because they don't know how to.
+[13:48] So we're going to skill everyone.
+[13:49] And we're going to invest millions of scaling.
+[13:51] Well, it turns out that you can do that if you like,
+[13:54] but the people who are using it know how to use it,
+[13:56] also limited.
+[13:57] 42% limiting deliberately their AI use.
+[14:01] And when we asked them from one single reason,
+[14:05] I genuinely thought it would be the ethical concerns
+[14:08] of the environment or it's exploitative or I don't like
+[14:12] the fact that it was a big tech, but it wasn't.
+[14:13] It was privacy and security.
+[14:14] That was the top reason why people wanted to limit their AI use.
+[14:18] And the close second was, I prefer to keep doing my work
+[14:21] the way I always do it.
+[14:22] So fear and change.
+[14:24] Fair enough.
+[14:25] The stuff doesn't always work the way you want it to.
+[14:28] So that was quite surprising.
+[14:30] So what we find was this real mix of things.
+[14:32] It wasn't a simple straightforward picture.
+[14:35] And it's not that easy thing where if we just give people the tools,
+[14:40] they will use them.
+[14:41] In fact, people who have the tools and use them often don't really like it.
+[14:44] And I think we asked people to do free comments on this.
+[14:49] This one kind of sums it up.
+[14:50] So this person said, I use AI and awful lot and I find it very useful.
+[14:54] However, I do fear that if not regulated very stringently,
+[14:56] there's a danger to its usage.
+[14:58] I don't think we can get away without using it,
+[15:01] and it makes me really worried and sad.
+[15:03] So although I use it every day, I really wish it wasn't a thing.
+[15:06] We just don't know what's real or not anymore.
+[15:08] And if you do that culture, that ambivalence that's going on.
+[15:11] Because there's almost a guilt attached to using it quite often.
+[15:16] And you know that it's not particularly good.
+[15:20] But my God, it's quick.
+[15:21] Or you know it's going to lie to you.
+[15:23] And with the confidence of an estate agent who's trying to sell you a flat that has damped,
+[15:27] but it's not really damped.
+[15:28] Honestly, it's just a feature wall.
+[15:30] Into that kind of confidence.
+[15:32] And yet we still go ahead and do it.
+[15:36] No.
+[15:37] For the next bit, this is where the game comes in.
+[15:41] So we ask people to rate their feelings towards AI.
+[15:47] We ask, we have a bunch of things and people and objects.
+[15:51] And we said, give us a popularity.
+[15:54] How you'd rate their popularity.
+[15:56] So we're going to play a game here.
+[15:58] When we ask people to rate their feelings towards AI,
+[16:01] 29% felt positive about it.
+[16:05] And 39% felt negative about it.
+[16:07] You don't get to have it.
+[16:08] No, in this game, it's just positive about negative.
+[16:10] So we're going to play the game higher or lower.
+[16:14] Which, to anyone, my edge is also played cards, right?
+[16:18] So basically, if you're below that edge, don't worry.
+[16:21] Which is higher or lower.
+[16:23] So what we're going to do is, I'm going to give you a person or a thing.
+[16:28] And you're going to shout higher if you think it's higher and lower.
+[16:33] If you think it's lower. So AI, let's go back in for a second.
+[16:37] AI sits at 29% positive, right?
+[16:41] When I ask you, do you think King Charles III is higher than AI or lower?
+[16:46] Which do you think it is?
+[16:48] Higher or lower?
+[16:49] Higher.
+[16:50] Higher.
+[16:51] Okay. Seems to be pretty much an anonymous higher.
+[16:54] I can't confirm.
+[16:57] King Charles III is 47% of people are positive and only 19% negative.
+[17:02] So he wins the popularity contest with AI.
+[17:06] Okay.
+[17:08] The M1 motorway.
+[17:10] I don't know how familiar you are with the M1 motorway.
+[17:12] If you're from Northern Ireland, you can substitute the M1 to Northern Ireland for your motorway.
+[17:16] It won't make a difference.
+[17:18] Okay.
+[17:19] M1 motorway.
+[17:20] Higher or lower?
+[17:21] Higher.
+[17:22] Whoa. That was a bit more mixed.
+[17:24] Okay.
+[17:25] If you think it's higher, go yay.
+[17:27] If you think it's lower, go yay.
+[17:30] Okay.
+[17:31] It is a fought lower.
+[17:33] So, oh, right.
+[17:35] So, the M1 motorway.
+[17:36] Only 19% of people were positive about the M1, the poor M1.
+[17:39] Um, I'm starting to think it's a negative for about it.
+[17:42] Okay.
+[17:43] I think this one is probably going to be easy.
+[17:46] Donald Trump.
+[17:48] Higher or lower?
+[17:50] No.
+[17:52] Donald Trump wasn't a lower.
+[17:55] Donald Trump's got 60% negative, right?
+[17:58] Nineteen for 14% positive.
+[18:01] Yeah.
+[18:02] I mean, that was a kind of an easy one really.
+[18:04] But, you know, if you're a, you can tick that as a win.
+[18:07] Okay.
+[18:10] Poep.
+[18:11] Leo, the 14th.
+[18:12] Oh.
+[18:13] Hmm.
+[18:14] Higher?
+[18:15] Higher?
+[18:18] Sameish.
+[18:20] So, that was an interesting one.
+[18:22] So, Poep. Leo also, people were 29% positive,
+[18:25] which is a match for AI.
+[18:27] But the Poep is less negative at 12%.
+[18:29] So, that would be the Protestants.
+[18:31] Um, it's making him not going to hire.
+[18:34] Um, but yeah.
+[18:35] So, he's more, he's less negative.
+[18:38] But the same amount of positive.
+[18:42] The NHS.
+[18:43] Higher or lower?
+[18:44] Higher or lower?
+[18:45] Higher or lower?
+[18:46] I mean, we all love to bitch about the NHS, but the NHS is, of course, a wonderful thing.
+[18:51] So, yes, it was higher.
+[18:52] It was just called really, it was solid 63% and only 13% negative.
+[18:56] Um, so I think that's probably to be expected.
+[19:00] Not the NHS is an interesting one.
+[19:02] You hear lots of stories about high.
+[19:04] There'll be lots of investment in the NHS with AI.
+[19:06] And it's going to be great.
+[19:08] And AI is really good for healthcare in some cases, right?
+[19:11] It has some good purposes, diagnostic imaging.
+[19:14] It's not, it's not perfect.
+[19:16] But it has its its uses.
+[19:18] Um, and yet the NHS, if you talk to anyone about their IT system,
+[19:22] they will just run to you for five hours and cry.
+[19:26] So, you know, bring in there.
+[19:28] I've maybe fixed it with just two thousand machines first.
+[19:31] Okay.
+[19:32] This one surprised me.
+[19:33] Which way did it surprise me?
+[19:35] Oh, I don't know. That's for you to guess.
+[19:36] When turbines higher or lower?
+[19:38] Higher or lower?
+[19:39] Higher?
+[19:40] Yeah, but you ought to be your old nice law.
+[19:42] Yeah, you're welcome to green technology.
+[19:45] When turbines have been monitored by the tabloids for years.
+[19:48] So, I was quite surprised.
+[19:49] I thought we were going to get a, when turbines, evil thing.
+[19:51] You know, add a millibrand over there.
+[19:52] And he sangly, I do things with green energy.
+[19:54] But no, it was, it scored higher.
+[19:57] Okay.
+[19:58] Um,
+[20:02] And to my bottom wins our higher lower.
+[20:06] Oh, no.
+[20:07] All right.
+[20:08] Okay, so obviously he was the lowest scoring of everything.
+[20:14] As he should be.
+[20:16] So, he only scored 7% positive at 71%
+[20:20] negative.
+[20:22] So, yeah.
+[20:24] Not particularly surprising.
+[20:26] All right.
+[20:28] Let's go to different, different example of human behavior.
+[20:34] So, David Atmera, higher or lower.
+[20:37] Higher or lower?
+[20:39] Of course, David Atmera is higher.
+[20:41] The man is as close to your national treasures we had.
+[20:44] 70% positive, 5% negative.
+[20:46] Who are the 5%?
+[20:49] That are saying negative things about David Atmera.
+[20:52] I think we need to find them and shame them publicly.
+[20:56] Just checking what time I have left.
+[20:58] Okay.
+[20:59] And then this one, world of techno, higher or lower.
+[21:03] Higher or lower?
+[21:05] Higher than ever.
+[21:06] But only I was asked.
+[21:08] So, that was just my, my EMS love for world of techno.
+[21:13] I just felt I had to put them there.
+[21:15] If you've not yet met him, go and find him.
+[21:17] I have a whole thing on gender in robots.
+[21:19] But that was last year's talk.
+[21:21] Go find him, tick him for a walk.
+[21:23] He's brilliant.
+[21:24] Okay.
+[21:25] Enough of my higher and lower.
+[21:27] That was thank you all for playing.
+[21:28] What does all this mean?
+[21:30] This is where the slides get a bit texty.
+[21:32] And I have to really peer at them.
+[21:34] So, when I put this into PowerPoint,
+[21:36] PowerPoint's design decided that it would give me a sad looking robot.
+[21:39] I rightly it should.
+[21:40] So, this is my sad robot, contemplating what all this means for AI.
+[21:45] The companies that build the technology tend to assume that if people are familiar with it,
+[21:50] they will like it more.
+[21:51] And that's not what's happening.
+[21:53] Access to AI does not automatically translate into regular use.
+[21:58] So, people have access, despite what the government is worried about,
+[22:02] the skills are there.
+[22:04] They are still choosing not to use it or to limit their use of it.
+[22:08] A rejection of AI is not just due to lack of skills.
+[22:12] One of the things that came out of this, we ran around table alongside this.
+[22:17] And one of the things that kept coming up was this idea of AI's tools and the definition of it.
+[22:22] Because when AI becomes infrastructure, which it is, it is an infrastructure,
+[22:26] and it is built into everything.
+[22:27] It is built into welfare systems and into borders and into workplaces and into schools and into hospitals.
+[22:35] It starts being used by us and it starts being used on us.
+[22:39] And that was the thing that is really worried.
+[22:42] Or, you know, it become difficult or impossible.
+[22:45] And 70% of people thought that they couldn't avoid,
+[22:49] so 70% of people said it would be difficult or impossible to avoid being exposed to AI even if they wanted to.
+[22:55] 70% so if you can't avoid it, how can you meaningfully consent to its use?
+[23:01] I think we have a huge question here because it is being baked into everything.
+[23:05] It is the top of the search bar, you know, we need something online, you are getting an AI summary, which is quite often wrong.
+[23:10] It is in your phones, it is asking you if you want to change your images,
+[23:14] like it is style and air brushing figures out of existence, my god, the power.
+[23:18] It is there, it is always on, it is always around us.
+[23:22] How can we choose not to use it if it is being forced upon us?
+[23:25] There are really big questions around us, I think.
+[23:28] So what do we do?
+[23:30] Is there actually hope?
+[23:32] Yes, there is.
+[23:35] We do have some power, we are up against huge tech companies, I am not a tech negative person, I am not an anti-AI, I work with people who are very anti-AI.
+[23:45] I have very, I hold the same nuance views as some of the people in the survey,
+[23:49] but I think we should have better control of it and we should be able to consent to it.
+[23:54] So the first good bit of news this year was that the government backed on on their plan so far,
+[24:01] we will see if it is synics into the back door, they backed on on this idea that they will give our copyright to tech companies through this model,
+[24:08] where we can opt out if we do not want that to happen, which would have been unworkable really.
+[24:11] If you imagine every person who has ever written anything, having to individually contact a tech company and say,
+[24:16] take my work out if you are a training model, I am your training together.
+[24:20] So they have backed on, they had those 11, 250 responses, which they had asked if they can have permission to use AI to analyze.
+[24:28] They got those responses and they very clearly felt the weight of AI.
+[24:32] I mean it helped that Paul McCartney was going to dinosaur straight and telling them not to do that.
+[24:37] You've got national treasures on your side on the side of good.
+[24:42] We've seen a lot of stuff on protest around data centers, and it's starting to have an impact.
+[24:48] People are able to halt the progress of these data centers.
+[24:53] I've seen it locally myself, I live in Norwich, and recently there was a woo from whoever was from Norwich.
+[25:00] The recently on all the community groups, there was a notice when I divided by it, they are going to build a data center nearby in Kazakhstan.
+[25:09] Before anyone knew what it was for, whether it was an AI one or not, there is other data centers in the area.
+[25:15] Immediately, lots of different disparate community groups were all going on, we have to stop this.
+[25:21] People were getting really, really active about protesting it.
+[25:26] I think that gives me hope that there is collective action to do this, but it has to be collective.
+[25:32] It can be individual as well.
+[25:33] I've appeared to students who work on everyday resistance, on individual resistance.
+[25:37] On the choices we make around what we use, I won't make AI images, not just because I think they look like piss.
+[25:43] I mean it really awful.
+[25:44] But I don't make AI images.
+[25:46] I occasionally use our lambs, I've got 500 words, I want to turn it into 200.
+[25:50] I still feel guilty the whole time, but I do it.
+[25:52] I think you have to make your choices, it's a bit like fast fashion, it says maybe, but I'm wearing a sequence from the charity shop, I'll have you know.
+[25:59] And they really itch.
+[26:01] There's things like in the Super Bowl recently there was an ad for flock, which is basically with a time teaming up with Ring Dorbel to create surveillance networks,
+[26:13] and police could tap into on smart doorbells.
+[26:16] Rightly so people were a bit horrified by this.
+[26:18] People had these Ring Dorbels for a while, I'm surprised they haven't noticed that it doesn't just surveil what's around you.
+[26:23] It's a village you go in and out of your home as well.
+[26:26] But good, there's a backlash.
+[26:28] It's lawsuits, it's class actions against tech companies, there were things like copyrights, or there are things like people being harmed because they've been vulnerable on this being a horrible negative spiral that they've got into and they've ended up taking their own lives.
+[26:42] So there are things happening, there are people pushing back.
+[26:45] And the big thing we have in our favor is our consumer power, because they're right to make money, make no mistake.
+[26:52] And they're not making any.
+[26:54] Like tech companies are all running at huge losses, they're promising promising promising.
+[26:57] You see it in their advertising, they're promising artificial general intelligence.
+[27:00] They still have it to find what they mean by artificial general intelligence to keep shifting to gold posts.
+[27:05] But they're so kind and on investment.
+[27:08] And if we as consumers push back and say we don't want that bit.
+[27:12] And the one argument I hear all the time is people say, well, it's going to happen anyway.
+[27:17] You've got to get on board.
+[27:18] No, they want you to think that.
+[27:20] They want you to think that that is a narrative of technological determinism that we can choose to reject.
+[27:25] It doesn't have to be like that.
+[27:27] So when we were just just to wind up, when we were releasing our survey results, it coincided with the launch of the air was this list.
+[27:36] Which is sort of a collective set up by a number of different groups, including Karen Harle, who wrote the Emperor of AI.
+[27:44] And they've just got together ways of not trying to get rid of AI.
+[27:49] It's not anti-AI.
+[27:51] It's more anti the power, disparities more, anti the influence of big tech, with like a say in it.
+[27:58] And so they formed a website where you could, if you're interested, you can go and have a look at that.
+[28:04] And they were looking for somewhere to do a launch of the UK, and I was able to find them a room and my university.
+[28:11] And they say, Kim along, and we all did some like little lightning talks around this and around the different ways.
+[28:18] The people can try and ship AI to help them to benefit society, right?
+[28:23] Why are we trying to fit society into AI's mould? Why are we not trying to get AI to fit with us?
+[28:30] That would make much more sense.
+[28:35] So I think my time is pretty much up, but I just want to finish off by saying, if you do want to read our survey, this is just initial findings.
+[28:43] We're going to publish a full academic paper on it, but there's a QR code there that link you to the survey.
+[28:48] And that was done with my two PhD students, Dylan and Orianne, and with Professor Jaxil Go from UCL.
+[28:55] And it's just been really interesting.
+[28:57] And we want to hear from people as well.
+[29:00] We're not trying to understand this and mixed reaction to it, because there is a pushback, but it's not just a rejection of AI.
+[29:07] It's a rejection that's tied up in many different things.
+[29:10] It's a different feeling, powerless.
+[29:12] This is AI's no longer a technology. It's a whole geopolitical thing.
+[29:16] It starts at the raw materials, and it runs right through to that that data that's being turned over and generated.
+[29:23] And we need to find a way of making it our own.
+[29:26] And there's nothing wrong with pushing back so that we can ship it the way that we want to.
+[29:30] Thank you very much.

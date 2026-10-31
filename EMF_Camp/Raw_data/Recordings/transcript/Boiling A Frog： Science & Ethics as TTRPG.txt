@@ -1,0 +1,225 @@
+[00:00] So my name is Mario. My background is actually an astrophysics. It made a lot of sense to come this year with the space theme, but then I ended up giving a talk about ethics instead of anything space related.
+[00:24] So my current position is at the University of Cambridge as a member of the Ethics Science and the Public Project.
+[00:32] I am an academia which means my job is kind of fake as long as I can get the money to do something.
+[00:39] I can do it which means given I convince some funders that it would be a really good idea to develop a TTOPG on the premise of science ethics.
+[00:47] That is what I am currently doing. So that's what I want to talk to you about, but given how the talks are here only 30 minutes, we can't actually play anything.
+[00:56] So instead I am going to introduce you a little bit to my work, the background, and then hopefully we'll have time to have some discussions amongst people.
+[01:07] I won't make you feedback to the class or anything like that, don't worry.
+[01:13] So, to begin with, this talk is called boiling a frog. So for those of you don't know there is an apocryphal story about how when a frog is placed in boiling water, it will jump out.
+[01:26] But if it's placed in tapioid water that's slowly heated, it doesn't recognize the danger and it dies.
+[01:34] Now this is a metaphor, the story itself isn't true since frogs do jump out of water if it's fully slowly.
+[01:42] Then other, that's doofrid. And also if you drop a frog in boiling water, it won't jump out because it will immediately die.
+[01:49] So this story is not actually true, but the metaphor is still important.
+[01:55] It's about the fact that we live in a world where we've seen this happening, we've seen how people are unwilling to recognize danger,
+[02:03] that creeps up on a slowly while we're comfortable. So the discovery of nuclear fission and an herbal Nobel Prize, which I think you can all tell where I'm going with this.
+[02:13] It went on to become a foundation of nuclear weaponry.
+[02:16] And it's also not just a thing of the past. AI is the easiest example that has started off as an annoyance to some of us and a convenience to others.
+[02:26] But now we do have the possibility of autonomous weaponry and humanitarian disasters comparable to the nuclear bomb.
+[02:34] Quantum computing is also in our future. When I was doing my undergraduate degree, the professor who took us for our quantum class told us that cracking that secret to quantum computing would mean we had the power to decrypt the protections around nuclear codes.
+[02:52] So it is just a very active race between countries right now, which terrified me and I did not then study quantum any further.
+[03:00] So naturally I think the question is, why are we boiling the water?
+[03:06] Like what's the point? Why not just not do that?
+[03:11] So in my time working at the intersection of ethics and science, I have come to appreciate a few things.
+[03:18] Firstly, ethics can be quite a tick box exercise for a lot of cutting edge researchers.
+[03:25] And I don't mean that in a disparaging way. I mean it in that scientist can't obviously the forest for the trees.
+[03:32] It's a really human problem, I think, to be so focused on progress that you forget to sort of look up and notice what direction you're progressing in.
+[03:42] There's also the very important question of funding.
+[03:46] So I have a friend who's doing satellite research up in Durham.
+[03:52] And their group is aiming to create global equality in terms of assisting with digital poverty in the global south, that kind of thing.
+[04:02] But the project sort of cost funded by the defense sector and that satellite development is not only going to be used for those very noble goals.
+[04:10] And defense is actually one of the biggest funders of science and funding in science for any of you who are in the field.
+[04:18] It will probably not be easy to get research is not an easy place to be in terms of the funding landscape.
+[04:27] So people do just kind of have to do the work and research that is funded.
+[04:32] So is there anything we can do about it?
+[04:36] So some of these problems are bigger than researchers themselves.
+[04:40] They're even bigger than the funders I think.
+[04:42] I'm the first to be anxious about defense funding, like I was just saying.
+[04:46] When I was doing my undergraduate BAE systems were knocking the door down, like all the time, they were flaring us constantly to try and get us to work with them after our degrees.
+[04:56] And I turned them down immediately, of course I did.
+[04:59] But I look at Trump and I look at what's happening in America and a part of me does want us to be able to defend ourselves if something like that.
+[05:05] It's really complicated I think.
+[05:08] It isn't quite so straightforward as simply don't I don't think.
+[05:13] But that isn't true for everything.
+[05:16] I don't think everything is beholden to those kinds of stringents and rules.
+[05:22] There is a president singular I think, sadly, but there is a president for ethical self-regulation within science.
+[05:34] Does anyone here know about the Islamar conference?
+[05:37] Does this sound familiar to anyone?
+[05:39] We have one hand, two hands incredible.
+[05:43] So I could actually spend the entire hour talking about this, but I'll try and keep it brief because I do want to give you a good amount of time to have some meaningful conversations amongst yourselves.
+[05:56] So in 1975 the field of genetics became a really good example about how the scientific community can self-regulate in the face of what an existential risk basically.
+[06:10] Rapid advancements were being made in the field of genetic science and Nobel laureates, including people like Watson of Watson-Crickon-Funker in the DNA discovery team called for a moratorium.
+[06:23] So a global moratorium was put in place.
+[06:27] Nobody was allowed to continue their research.
+[06:31] And when I say aloud it functioned almost entirely on reputation because science is a field is very heavily reputation driven.
+[06:40] This worked when the people who are in charge of journals and everything that can dictate your career, turn around and say,
+[06:48] you're not going to research that, you listen.
+[06:51] There were of course a few exceptions to this in countries where the leading experts were not supporting the moratorium, but it was a very small minority.
+[07:01] The majority of those researchers went, okay, we're going to just take a pause for a second.
+[07:06] They put together a conference in a cinema which is why it's referred to in this way.
+[07:11] And they came together over three days and just discussed, heatedly, what the future of the field should look like, what it is ethical to do, what it is not ethical to do.
+[07:23] By the end of those days they had not reached a consensus, but they had reached enough of one that they could sit down and put together,
+[07:30] essentially a regulatory document that determined what you could do in your lab, what you could not do in your lab,
+[07:38] and what you could do in your lab, given you had a ton of safeguards in place.
+[07:44] There's a rolling on stones article about it, which is brilliant and that I recommend you all read.
+[07:50] It was actually really interesting that the Rolling Stone journalists were allowed into the conference itself at all,
+[07:56] because at first the scientists denied them. They said they weren't allowed to come in, and they turned the journalists turn around and said, okay, we're going to report on it either way.
+[08:04] If we're not there, the headline is going to be something like, scientists are holding a secret discussion about DNA modification, and then they let them in.
+[08:15] So it was very, very good on their part, I think, I do work a lot in public communication as well, and I have a lot of respect for that.
+[08:24] They also invited lawyers because a lot of what they were talking about regulation crossed over with policy and with the legality of what they were trying to do.
+[08:35] But when do we make that call? So that moratorium was called in time.
+[08:41] When does the frog start to die? So there was a fairly easy turning point, it's easy. There was a fairly terrifying turning point for the Estilamar conference in that a guy called Paul Berg decided to focus on something called the SV40 virus as a potential carrier for introducing new genes into animal cells.
+[09:04] So he was going to use E. coli in these experiments, which is really common. It's a very common strain of bacterium that is often used in such laboratories.
+[09:15] Now SV40 was known to cause cancer tumours in mice. And I think the idea was if you can work out how this is working, you can then develop a cure, et cetera.
+[09:26] I think that was the idea. My background is physics. Biology is one of the only sciences I didn't even try. So please don't quiz me on that.
+[09:34] But E. coli is of course a very common bacteria that lives in the human gut.
+[09:40] So Berg's planned experiment raised the possibility of creating a highly transmissible, virally caused cancer that lived in a bacterium which everyone carries in their gut.
+[09:55] If that was escaped from the laboratory conditions, you would have had a surgery in epidemic of cancer, like it would have been really bad.
+[10:03] So that proposed research led to the community realizing that a really harmful, really, really harmful gene could just be introduced into a new organism and then into human kind.
+[10:20] And it was a key factor in the moratorium. It was a very obvious red flag.
+[10:27] Perhaps controversially I do think AI has already had that. Has already had very obvious red flags and has already had moments where we probably should have called a moratorium.
+[10:37] I think if nothing else, the backlash from things like art theft and those legal battles, should have instigated something like that.
+[10:45] But I think the difference is the scientific community was as I said before completely at the whimsy of like their reputation.
+[10:56] That was the thing that was most important to them. That was the thing that drove their careers.
+[11:00] Whereas a lot of the things that drive AI are more commercial and are capitalist. So the same, the same, I suppose regulatory drive isn't there because as long as it's making money.
+[11:14] It doesn't really matter.
+[11:17] But also with the genetic example, they didn't stop researching research,
+[11:22] Inter-genetic technology has led us into some really incredible health discoveries.
+[11:29] Now they do come with their own ethical considerations. For example, the fact that we can edit genes to cure illness leads to a conversation about what classes as a cureable illness.
+[11:40] There is a lot of work with the deaf community last year who considered deafness a part of their culture and heritage.
+[11:47] And so when deafness was included in the list of genes that could be edited out, they were not happy.
+[11:54] The actual sign language for for genetics is the same as for eugenics because they were that horrified by the prospect of being edited out of society, which is very valid, I think.
+[12:09] So it does the continuation of that research does lead to its own ethical considerations and things that we need to raise and have discussions about swicinds communication and public engagement is so important also underfunded.
+[12:27] So the argument is if we were to scared to push the boundaries at all, we'd still be seeing take doctors using leeches etc.
+[12:35] Yes, there are things to consider in terms of what we do and don't cure etc.
+[12:40] But the existence of that technology isn't inherently bad and the reason we have it is because we continue to research. Yes, we call them or atorium, we worked out what we shouldn't do, but we then continued.
+[12:54] So how early is early enough to try and work out if you continue, if you need to fork the path?
+[13:01] How early is too early as in UNPED progress? You stop developments into research that could change the lives of hundreds and thousands of people for the better.
+[13:15] We also did a citizen's jury in the center where the question was put to, I think it was 45, 45 people with life limiting single gene conditions.
+[13:32] The idea was asking them if in the future it was very loosely but with a ton of uncertainty in the phrasing of the question, if there was the possibility in the future of researching the cure for single gene genetic illnesses.
+[13:53] That's all we're talking about here right now with the technology we can only deal with single gene illnesses.
+[14:00] Would you want that research to take place? This was a room for the people with incredibly, emotionally charged stories to tell about how they really don't want to pass on.
+[14:12] The illnesses they have to their children, they don't want to see them suffering.
+[14:16] Versus people who are sitting there going, but where does the line, if we say yes to that, when does it become worse?
+[14:25] And ultimately though they've ordered in favour of that research happening, it was not a unanimous vote.
+[14:31] And notably it was the people of colour in the room who voted against who just didn't have the trust in the science, which I think given the historical injustices in health research makes sense, but it's also really sat in really interesting.
+[14:50] So this isn't just a question we can just answer. We can't just say, oh, when you make a 60% progress, stop and think about ethics, that's not how this works, it's so much trickier than that, so much more complicated.
+[15:03] It's something we have to think about constantly as researchers, it's something that at every stage you have to consider.
+[15:09] But when there isn't an application immediately visible, it's hard, it's hard to conceptualize whether or not this thing you are doing in complete isolation is going to be bad for society 10 years down the line.
+[15:22] It's difficult, I think, this is why the AI researchers have had such trouble because their mathematicians.
+[15:29] No mathematician is doing a equation on a whiteboard thinking, I should definitely consider the ethics of this equation.
+[15:37] There are all mathematicians they've never had any background in ethics, biology is probably the only field that has really good ethical discourse and education available to its undergraduates.
+[15:50] I didn't have any ethics training on my undergraduate degree either, and when I came into this job the first things in my mind about ethics of science were things like monochia.
+[15:59] I don't know if you guys are aware, but there was a telescope being built in monochia, which was on sacred ground.
+[16:06] So the local community opposed it, the global community and the global government had approved it because astronomy was a global endeavor.
+[16:15] We only have one planet to try and view the entire cosmos, et cetera, et cetera.
+[16:19] So it's really important to use the one planet we have as effectively as we can to try and get that data, but the people of monochia didn't care about that, they cared about their volcano.
+[16:30] And that was what came to my mind, these kinds of cultural implications, because I've never had any ethics training and I didn't realize that things like Recomponent DNA were real.
+[16:40] So it's really hard is what I'm getting at, not only to give researchers the training to have them think about it in a way that isn't going to make them feel like their hands are being tied and they need to take these boxes before they're allowed to do their very important research.
+[16:58] How do we train ourselves to have the inherent mindset to really think about where this could go without being bogged too bogged down into anxious about the consequences to make any progress at all?
+[17:13] Slight tone shift, I think the answer to those questions is actually creativity.
+[17:20] I think we need to meet researchers and scientists where they are and help them develop more open mindsets through the medium of creativity.
+[17:31] And to that end, I am developing the science ethics table top role, I gave that I mentioned at the start of this top.
+[17:38] So I did assume everyone here would know what table top role was, but I'll go to a good friend Tim here, often this talk by telling me he thought it was a, did you say a train?
+[17:48] A motorcycle or a roof. So I will give a very brief overview, tip top role of course, games like Dungeons & Dragons, where you have a game last, and who guides you through a story that you, the players, have a huge amount of control over.
+[18:01] So there are usually things you are supposed to do to the, to the, to the, dismay of many a DM people often don't do them, but there are things you are supposed to do and ways you are able to get there and those decisions are all your own.
+[18:16] And campaign modules of course exist for these games and I'm developing one of those. So I'm, apparently, I think scientists exist in board game communities, I think scientists and researchers and people who are into like,
+[18:27] nerdy crap pod in my French, it's a circle, that's not a vendogram, that's a circle. So I think that there is a lot of potential in, in meeting researchers where they are in that way.
+[18:39] The same way we meet publics where they are, we are really careful in, in public engagement and community engagement work, not to expect communities and publics to come to us and to suddenly be interested in science because, why would they?
+[18:52] I've no reason to care, it's your responsibility to meet them where they are and bring them into the conversations that you want them to be in.
+[18:59] And in the same way I think walking into a lab and being like, Pumpio, I'm the ethics police, it's not gonna, it's not gonna work for researchers and for scientists.
+[19:09] I think they need a space that is more aware of who they are as people and of what they need and what they enjoy.
+[19:16] And the reason I actually came to this conclusion was because of the TV show Arcane, has any, I'm gonna just, who's watching Arcane?
+[19:25] Yeah, I figured that'd be a decent number of people who would watch Arcane in this crowd.
+[19:30] I watched that show and I only watched it because my friend and I do a lot of cosplay and she came up to me and was like, please I want to cosplay Jason Victor.
+[19:38] So it was like, alright, I'm gonna watch it.
+[19:40] I got to season two and enjoyed it, season one, didn't land with me but then went on my rewatch.
+[19:46] I realized that this show had just done a really good, like magic science ethics storyline over two seasons that people were watching because they wanted to.
+[19:57] People were engaging with the ethics of science without realizing it because they wanted to and that was like magic to me.
+[20:05] And then that first season there was a moment where the man turns out to be the villain.
+[20:12] Says something like, when you're going to change the world, don't ask for permission.
+[20:17] And I watched that thinking, no, you do ask for permission.
+[20:20] Wouldn't it tighten white land thing to say? Like, I guess you ask for permission.
+[20:24] And then it turned out that he was the villain and I was like, okay, good.
+[20:29] And that sort of like swap from, yeah, to boldly go, et cetera, being bold and brave and science is the most important thing.
+[20:38] But then reframing that as actually quite an unethical and negative thing to do.
+[20:43] Really, really resonated with me.
+[20:45] I thought it was really good. And obviously this is a League of Legends TV show and I was like, I know who plays League of Legends.
+[20:52] So I was like, this is a medium for engaging, exactly the people who I want to engage with ethics with ethics.
+[20:59] And that made me think about TTOPG and those kinds of places where research is in scientists, they're anyway.
+[21:06] So instead of movies and TV shows which have been creative methods of engagement in the past,
+[21:12] I think a TTOPG encourages more participation, more thought, more active engagement than something like TV show.
+[21:21] The reason I also prefer the sort of subtlety of arcane or things like Jurassic Park is,
+[21:28] in Jurassic Park, you kind of knew it was a bad idea.
+[21:30] This guy's bringing dinosaurs back and you're like, why?
+[21:34] Whereas in arcane, everything was framed as a benefit to society.
+[21:39] There were so many very obvious positive potential results for the entire city, for the work that they were doing.
+[21:48] And then it just turns out to not kind of go that way.
+[21:51] Which is a bit more realistic, I think.
+[21:56] So I think bringing people into stories in that way is really powerful and really shows what we're trying to show in terms of building that mindset that where could it go attitude.
+[22:10] So using creativity as a facilitator tool and the idea of anonymity and theatre, almost as a protective blanket,
+[22:19] is that actually I'm going in with this.
+[22:21] I think hopefully it means researchers and scientists aren't going to be on the back foot, aren't going to be worrying about losing funding if that ethics isn't right.
+[22:29] Because that's part of it, right? You have to take the boxes and you have to be like, yes, I'm so ethical,
+[22:33] because otherwise you don't get funded and that's your livelihood.
+[22:36] You can't actively really honestly think about the ethical implications if you need the money.
+[22:44] I think it also gives people the freedom to step into someone else's views and play through a fantasy version of these problems that is completely removed from their own lives.
+[22:53] To then develop the skills required to think ethically without that pressure.
+[22:59] I have a game designer picking a system and developing the adventure module right now.
+[23:03] So I can't actually give you the full rundown of the different roots in the story, but I would like to give you a bit of a flavour.
+[23:10] So I have a biology, a physics, an chemistry, an introduction.
+[23:15] And of course the aim here wasn't to make sure we won only focusing on that.
+[23:22] Is the frog boiling yet, moment like, oh, we there, oh, we there, we didn't want that.
+[23:26] We wanted to create something more holistic that helps researchers and scientists think more broadly about all of the ethics of their work,
+[23:33] including things like public interest and socioeconomic factors.
+[23:37] I think the key to socially responsible science is getting out of this.
+[23:41] The pursuit of science itself is so perfect that we don't need to bother mindset.
+[23:46] Then what's so as I said, also in development and actually I am looking for both researchers to help develop the chemistry and physics roots as well as players for focus groups.
+[23:55] So if any of this looks interesting to you, there's a there's a QR code at the end up, please stand.
+[24:01] Thank you very much. So our first route of biology route is about a magic related plague that has been ravaging our countries.
+[24:10] So both traditional medicine and magical cures have proven ineffective and the death count is continuing to steadily climb.
+[24:18] You learn about the city, it's inhabitants, the different problems they're facing, and about a miracle cure that has appeared as a late.
+[24:29] In our physics group, we're looking at a breakthrough in energy generation, but where to the gains outweigh the cost.
+[24:36] This is about secrets that both you and your collaborators are keeping as you explore the benefits and consequences of this new technology.
+[24:47] And then finally the chemistry route is about a new, our chemical process that has reduced cost and sped up hundreds of tasks in the daily lives of the citizenry.
+[24:56] But they're unable to see the ecological costs and the public is just really happy about this. So this is almost about working against public opinion.
+[25:05] Where in the researchers would be the ones bringing the public's hopes down instead of having to be gulp their research in the face of public this may.
+[25:16] So I only have five minutes left, but I would like to do a little bit of thinking in in groups.
+[25:24] So what I have is a couple of, well I had two scenarios, but I might skip to the last one, which takes you through some of the motives, potential motives shall we say, in the biology route of the gain, which is why this presentation has all been like biology themed TM.
+[25:46] And what I want you to do is just talk to each other a little bit about what I'm about to put on screen and about what it makes you think of in terms of what problems are there in this situation.
+[25:59] You don't need any answers, I don't expect you to solve ethics in five minutes. It's not what I'm asking for.
+[26:04] I just like to give you some prompts to think about a little bit.
+[26:10] I will read both slides, but instead of giving you a gap in the middle I will just let you talk about both slides at once.
+[26:16] So the first slide, a young woman who is suffering horrifically from that magic plague has been miraculously cured.
+[26:25] She's been locked away in an old preppered house for weeks because the rest of the village has been incredibly fearful of her.
+[26:33] She couldn't afford any of the experimental treatments on the market and so it turned to this mysterious traveler who claimed to be able to cure her for free.
+[26:42] His cure worked and talk of his cure is now spreading like wildfire, but the man himself has disappeared.
+[26:50] So actually I will just leave that one up. Would you like to make friends everybody?
+[26:55] Terrifying I know. Well give you a couple of minutes just to talk about that.
+[27:02] Hello.
+[27:13] Happy to have a friend.
+[27:15] Thank you.
+[27:32] You
+[28:02] You
+[28:32] You
+[29:02] You
+[29:32] You
+[29:34] You
+[29:37] You
+[29:39] Are my back on?
+[29:41] I'm back on.
+[29:43] Hello everybody. I have returned. I'm sorry. That was very short but it's I only have a minute left.
+[29:49] So I would have liked to do one more of those and also ask you if there was anyone who was wanting to share.
+[29:56] But I only have a minute left and I do not really want to put my cure up. I'm not gonna lie.
+[30:00] So there's my cure code.
+[30:03] Thank you so much everyone for coming. I hope this has been interesting and enjoyable for you.
+[30:10] Yeah, thanks for listening to me around about things that make me mad in science.
+[30:15] Basically.
+[30:17] Oh.
+[30:19] I'll fix the cure code. Please find me in the Q&A 10 if you're interested. Thank you.
+[30:25] Thank you very much.
+[30:35] Thank you very much.
+[30:38] Thank you.
+[30:41] I believe Dr. Mariam is going to be going over to the QA 10 for a little while if anybody wishes to talk to her. Ask any questions.
+[30:52] Yeah.
+[30:53] Thank you very much.
+[30:54] Come here around with applause please.

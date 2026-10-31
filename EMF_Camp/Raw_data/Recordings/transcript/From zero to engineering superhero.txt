@@ -1,0 +1,174 @@
+[00:00] Hello everyone. This is the last day of ENF. You all collectively had the great time at
+[00:27] Brazil, the Nullsector was fantastic. You saw amazing projects, you shared your passions
+[00:32] with others, and you all got inspired to work on projects for the next two years.
+[00:38] The aim of the stock is to give you a couple of tips to help you turn that inspiration
+[00:44] and that motivation into a portfolio that can actually score you a couple of extra points
+[00:50] when it comes to turning that whole being to a professional endeavor. Before I tell you,
+[00:57] more about how I got here. I guess I have to properly introduce myself as I suspect.
+[01:05] Most of you know me as a just this weird guy in a lab goat with goggles appearing at
+[01:10] EMF on the warp aren't reasons. Maybe five of you know that I have a YouTube channel,
+[01:16] but only probably members of a T-side hack space that know what I actually do.
+[01:22] But first, before we continue, could you give me a show of hands? Could you please
+[01:31] raise your hands if it happens to work in an engineering sector?
+[01:38] Okay, so I guess it's like 50-50 split. How far of you came to see if I'm talking bullshit?
+[01:46] The other half came for useful advice. So the first half don't be afraid to call me out on that.
+[01:52] We all here for the same reason.
+[01:57] So I'm Matt and I'm equally at bragging about myself as I'm at giving keynote speeches.
+[02:05] I wrote this actual speech for years ago for EMF. It got accepted.
+[02:12] Then I got scared and I bailed because I am terrified of public appearances like this on a stage in front
+[02:18] of audiences. Nothing was scary than being here right now.
+[02:24] It took me four years to build a courage to be here and it took me years to build a courage
+[02:28] to actually do something about my life and move into a professional field and become an engineer
+[02:33] and don't worry. The irony of this situation isn't lost for me.
+[02:39] So let's do it properly.
+[02:46] I'm Matt. I'm an artist by heart and degree.
+[02:52] Make and you to be more influence by choice and engineer by Sherlock and hard work.
+[03:01] I work as a project leader for company called Love and Automation and we deliver industrial
+[03:06] automation to the biggest companies. When I don't travel the world delivering robotic systems
+[03:17] to one of the biggest companies in the world like AstraZeneca or Johnson Johnson, Fujifilm, I spend time
+[03:26] tinkering at home and well coming up with the best optimisation strategies
+[03:34] for afternaps.
+[03:39] Also after this speech I'll be certified with the industrial keynote speaker and I'll show
+[03:44] I'm going to add that to my LinkedIn portfolio Monday.
+[03:54] This is my second time on the stage delivering the speech to an audience and well
+[04:02] if I told myself that this is what I'm going to be doing. About six years ago, I probably
+[04:08] would laugh at myself in disbelief because I could not see this coming.
+[04:15] So I have a confession to make. At 18 years old, I kind of getting into the art school
+[04:22] and getting art degree wasn't my first choice. Somehow I failed at the polish eggs. I'm
+[04:28] polish by the way. The way it works in Poland, you have to reset the test and then you
+[04:34] lay to university, you can't select the course of your choice. So you have to pick something
+[04:38] otherwise you go to military conscription, at least that's how it was back in a day. So I did
+[04:44] sign up for the art degree because me as an 18 year old thought like drawing half naked people
+[04:50] for a degree was a good idea. I mean it was certainly popular with ladies. But after I finished my
+[04:56] degree, I came to conclusion that standing in front of me needed to view panel and trying to
+[05:00] demonstrate how my ability to draw half naked humans was a good idea, didn't pan out that well.
+[05:09] So over the course of the next couple of years, I was doing art and then I was working as a person
+[05:22] in a baker and factory and then I did a couple of other jobs but my biggest achievement at this point
+[05:31] was well how 33 or was outliving the Jesus and traveling from Poland to UK on the bicycle
+[05:40] before mobile phones and GPS where a thing, three Italy. That's a correlation, not causation, by the way.
+[05:53] I figured I have to option set. Option one, I could get old, get through my midlife crisis and by myself
+[06:02] a Porsche. It's a good option. Option two, find new direction in life and passion.
+[06:12] I'm standing here, I turned 42 last year, I draw five hours in a 13 year old,
+[06:19] all the to this stage to present to you. So it's fair to assume I went with option second.
+[06:25] I don't have that Porsche. In hindsight, it would have been probably easier to buy that Porsche.
+[06:32] For the next couple of years, I had to learn everything. I mean virtually everything. It started
+[06:38] with electronics and programming, then to preserve my thoughts because I don't have a great memory.
+[06:44] I was writing it down on my website and then when I got some traction, I had to learn how to
+[06:50] properly manage a website, make a YouTube channel, do web admin, be a serial specialist, social
+[06:56] media manager becoming a cloud service expert when they all went offline. Fill in from the
+[07:02] counter then become a business owner. All of that, all of that wasn't easy and it took all my
+[07:08] spare time. But I did achieve one thing. I become a zero with a hobby. I wasn't particularly
+[07:19] brilliant at any of those jobs. I was really good at nothing though. But I was stubborn, I was organized
+[07:26] and I'd do everything to escape the board of my work. Turns out that the job dissatisfaction
+[07:36] was a really good motivator to get your life going in a different direction.
+[07:44] And one day, when I was on the fifth result of the Google search page, and you can tell this
+[07:51] speech was written four years ago because no one goes past AI, so many nowadays, right? But you know,
+[07:59] when you try to solve this problem for your project and you venture to all the way to the fifth
+[08:03] result of the Google search page, you're in trouble. But then you hit me. I discovered one thing
+[08:09] about myself. I'm really good at solving problems. And that gave me a direction in life,
+[08:14] something that I really, really needed. So, which, I have a question. Do you know what's the
+[08:32] difference between an engineer and a maker? You could also say that one gets to pay to play with
+[08:43] the toys, the other one gets paid to play with the same toys, right? But the main reason is suddenly
+[08:48] much more boring. It's documentation. But lots of it. So with the unhinged combination of, you know,
+[08:57] end of the world's COVID pandemic, newly acquired sense of direction and temporarily
+[09:04] ignoring my main purpose syndrome. I decided to send an email to my current employer with nothing but
+[09:12] this. I'd love to tell you that I got the jobs right away. I leveraged my fame and online
+[09:22] following and but to have to be in a heavy traffic while driving and trying to answer a rapid
+[09:28] fight question, so I'd have a phone interview in the language that isn't my native. You probably
+[09:34] went as good as you would expect. I didn't hear from them for the next eight months.
+[09:42] Long story short. After three follow up interviews requested by me because I was still
+[09:55] too scared to actually change my life to apply for a job and work industry. I have nothing
+[10:00] about. I accepted the job office, started to work as a technician in an industry. I had a very
+[10:06] little experience with. Moving from, you know, going from moving servers by Arduino board to
+[10:13] trying not to puncture a hole with a robotic arm that costs more than my salary was a bit of a leap.
+[10:21] And each day, a consistent literally of me panicking because I don't know what I'm doing.
+[10:26] Everyone else know what they're doing and I'm just hoping that no one's going to find out that I'm
+[10:31] faking it and I spend days and days learning new things and trying to catch up and hope that my
+[10:37] brain is not being to explode. Thankfully, neither of that happened. L'Aban still doesn't exist
+[10:44] six years old. It doesn't know that six years old I'm still faking it and I'm just doing it on the
+[10:50] biggest scale. I'm still having tons of different Google websites open, you know, either background
+[10:56] and just carrying on as normal. By now, some of you just not as a very particular theme
+[11:05] emotion to this talk. Many of you probably relate to that feeling of not being good enough,
+[11:09] not having the right skill. Or just simply not having to encourage to stand and do what you
+[11:16] want to do. It's scary. It's terrifying. It's like I'm terrified right now. There's a lot of people.
+[11:21] This is not familiar to me. But I can assure you that the person next to you does in no
+[11:33] that you feel this way unless you jump on a stage and grab the microphone and tell everyone about it.
+[11:42] And that you aren't alone, right? The same process, the same thought process goes through the heads
+[11:48] of everyone, which is also scary because some of our assa- like brain doctors and pilots.
+[11:54] I don't know how they do it. So over the six years, working as an engineer, I've learned that
+[12:03] it wasn't my online thing that got me my job. My online presence, however, had everything to do
+[12:12] but not for the reasons I thought. And since we all agree that I can't really invent a time
+[12:19] machine go back and tell myself, although all those good tips I've got for you, the next very
+[12:24] best thing I can concur in my fear, stand on stage and give you those couple of hints and hope
+[12:29] that you're going to use them for the good for progression of your career. As long as you mind
+[12:35] full of one thing, that's all these words of wisdom and the less I'm going to present,
+[12:42] I'm composed on the engineering sample of one, just myself. So first, the fear never goes away,
+[12:50] you'll always be scared. You'll just push that call post again and again again, again, it's going
+[12:55] to be bigger, greater, bigger things. But I doesn't go away. The only thing that you can do with it,
+[13:00] it's that fear and use it as a propellant, as a fuel for your learning. Because when you scared,
+[13:06] you'd do stuff that's hundreds and then percent, so continue doing that, continue learning.
+[13:10] This is how you progress. You never learn anything by being comfortable. You need to get
+[13:15] uncomfortable to learn. You are all unique. It's very easy to find in a trap window, you surrounded by
+[13:25] I am surrounded by people that would get this talk so much better than me. But we are all individuals.
+[13:33] You are the master of what you've learned, all the knowledge that you've got. This is incredible
+[13:39] resource and be proud of that because no one else has that skill only you. This is the hardest one.
+[13:48] Value your time. Value your time and expertise because everyone in the world will try to
+[13:54] handle value. Don't be afraid to draw boundaries. This is probably most difficult to skill to master
+[14:01] because your value will change over time. Your time and effort becomes more valuable. But all you
+[14:07] need to know is just a bullpuck figure about where you're sitting. One of the things I discovered
+[14:13] was when I heard my back end, who couldn't do a lot of things that I used to get paid for,
+[14:18] I thought I was going to start saying no, I didn't. Instead of that, I just raised my price to figure
+[14:24] out what actually all the people think about me and my skill and my creative input. And I was amazed
+[14:31] how undivallued I was adevalluing myself. And that was revelation to me.
+[14:42] Okay. Now, I'm done with the inspirational purpose was like a kind of general thing. So let's get
+[14:49] to the meat of things and let's talk about things that are overlooked and are undervalued.
+[14:53] And we'll talk about all the practical skills that you should keep in mind. You've got those skills.
+[14:59] This is nothing you knew. I'm only here to point out that you need to add a different priority
+[15:05] to the start that you're already doing. I'll maybe focus on the thing or to the on the list that
+[15:10] isn't there just yet. So let's start with the first. Preserve your ideas. Write them down.
+[15:16] Do everything to make sure that you won't forget. I'm getting older. I keep revisiting my book
+[15:23] and I get excited about the projects. I never knew like I never knew I've wrote and done.
+[15:29] Even though I was excited for days about them. Second, document everything. The commutation is
+[15:36] important. You can be brilliant engineer but if you can't keep the track of your work or can't
+[15:40] present your documentation to another member of the TV, you useless. It's all about communication,
+[15:46] and being a team player. If you don't play as a team, you're going to be out,
+[15:50] competed by all the teams that can deliver the project on time and on budget.
+[15:55] And you can do this. Third one is silly. Project manage your hobby.
+[16:02] And you know, you're doing that upgrade to the 3D printer. It's great, right?
+[16:06] But write for a puzzle for it. Do the cost thing. Do the procurement stage. Write it down.
+[16:10] Make your evidence. Do the track record of that. That will score you points in an interview because
+[16:15] none of the engineering students are doing that. They just brilliant at CADO programming.
+[16:19] Well, they forget about the paperwork because it's not important to them. It's not showcasing
+[16:24] anything extra. But that's what it's important. Next one, don't stop at 80%. I know it's tempting.
+[16:33] It's good enough. We all have been there. I've done the project. It works. You have 3D 23,000
+[16:38] bugs. And it only works if you press a selected combinations of keys. Try to finish them to a 100%.
+[16:45] Even if you fail document your failure, explain why and how and what's the scope of fixing that.
+[16:51] Because it matters. I have no choice. If I start on the project,
+[16:55] I can't just abandon the 80% side. Good enough. You make your medicines, Johnson and Johnson. It's
+[17:00] 80% successful. It's fine. It doesn't work like this. You have to complete your projects.
+[17:06] 100% you have to show that you can do this.
+[17:09] Don't, and on top of that, don't be afraid to revisit all projects and make them better.
+[17:16] It's a perfect case for your portfolio. Take something that you construct a 10 years ago and make it
+[17:21] better. Make your current. Make the documentation. Make a part of your portfolio. It matters.
+[17:28] Lastly, don't limit yourself to a field experiment with new things. Learn outside of your comfort zone.
+[17:35] Because there is this saying, Jack of Old Trains Master of Non, but not many people know how it
+[17:41] goes further. It goes like this. But oftentimes better than the Master of One. This means that if
+[17:47] you are the most useful tool in that toolbox, you've been going to be used the most. The most
+[17:53] valuable, not the niche special wrench to do. A perfect ball once a month. Every day hammer,
+[18:01] that's what you want to be to fix everything. That's you. And since you are the GMF, you're probably
+[18:10] a adult person already. But most importantly, regardless of your age, regardless of how you feel
+[18:20] but it's so late for you to not so late, you have only one life and dying, dying with a regret
+[18:28] that you haven't tried it. It's probably less terrifying now. It's more terrifying. Yes,
+[18:34] it's definitely more terrifying than trying to compete for the same job with students in
+[18:40] 30-20s. Trust me, that. So, before you give up on your dreams, the most rewarding ones will take
+[18:50] most of your time. There'll be extra hours sleepless, times, research, everything. This is how you
+[18:56] recognize what you want to pursue. It has that value in your heart. You are willing to put
+[19:01] extra times and go do it. You're already miles ahead in that journey ahead of me. You do, because
+[19:09] you're here. I didn't know about EMF until I was already employed. And you're all here and displaying
+[19:17] projects. Displaying the ability to do everything. You dare. So, share your skills, showcase your skills
+[19:25] with all the end to learn and network, because that will become important in this journey.
+[19:31] And if you're interested in taking your hobby to a professional level, use my advice to refine your
+[19:37] process. Give yourself a better professional start. And it is true. You will need some luck
+[19:45] along the way. There's no other way around it. I've been extremely lucky. But no amount of luck
+[19:54] which will compensate for the lack of readiness. So, that great things ahead of you. Go get them.
+[20:04] Thank you.

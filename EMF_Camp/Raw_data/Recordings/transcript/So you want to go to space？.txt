@@ -1,0 +1,165 @@
+[00:00] Thank you. Hi, I'm Emily. I'm assuming you want to go to space as you're here. This
+[00:24] is not going to worry about the bureaucracy, the paperwork, the training you might have to go through.
+[00:29] This is how you physically get from here to up there. Not ignoring the decades of planning
+[00:37] and all of the rest of the things that you would have to do if you wanted to do this. Just physically.
+[00:46] Just use a rocket. I know they're big, loud, monumentally complex fireworks, but they do work.
+[00:53] We launched 320 on my slides over there. Sorry. I've been looking behind me.
+[01:08] Okay, shall I start again? So, you want to go to space. How are we going to get there?
+[01:15] Let's not worry about paperwork. Let's not worry about regulations and long training
+[01:20] periods of becoming an actual astronaut. What are we going to use to get there? How are we going to get from
+[01:27] here? Oh, we have that. So, just use a rocket if you actually want to go to space today.
+[01:36] They're big, they're loud, they're monumentally complicated fireworks, but they do work.
+[01:42] We humans launched 324 of them last year. And yeah.
+[01:48] Theoretically, they're quite simple. You throw an explosion out of one end and it pushes you the other way.
+[01:56] The engineering involved is a little more complicated. That Saturn V is just starting to burn
+[02:02] through 2,000 tons of fuel and oxidizer in 2 and a half minutes. It needs to move 2,000 tons of liquid to do that.
+[02:14] Which is difficult on its own. You know, 2,000 tons of liquid is a lot.
+[02:23] Doing it with fancy caracene and cryogenic liquid hydrogen is very difficult.
+[02:29] Moving it into an explosion fast enough that the explosion keeps exploding.
+[02:33] Is the reason rocket scientist is something of a meme.
+[02:37] Also, to make things more efficient, you're going to want to drop bits of your rocket as you go
+[02:40] doing something called staging. Where empty fuel tanks are not worth carrying all the way to all
+[02:46] bits. So once you've emptied them, drop them and then start a new explosion and then next bit up.
+[02:53] If you want to reading to take away, go and look up the rocket equation. It'll explain kind of
+[02:59] why that's important, but it's complicated maths.
+[03:03] Okay, but that's kind of normal. We didn't hear it coming here to talk about normal rockets.
+[03:13] What if we don't have a launch pad? This thing was a 1962 rocket that was planned called C Dragon.
+[03:21] The idea was, well, actually, the little bit on the front right hand end is an Apollo capsule
+[03:28] from what they've thrown us at in five. The idea was you get a ship builder to make this thing out of
+[03:37] plate steel rather than fancy aerospace grade stuff and it's a lot cheaper. Then you float this 150
+[03:44] meter long thing out into the ocean. You flood the ballast tanks on the one on the other end.
+[03:49] It starts pointing towards space and then you light it and hopefully it gets all the way there.
+[03:54] I never found out if the astronauts were supposed to get in it before they tilted it up right
+[03:58] or not. I kind of hope they were just because it would be fun. They never actually built one of
+[04:04] these things. They made a few small scale test ones, but yeah, in space travel there's a giant
+[04:11] difference between paper and space. It's a diagram, yes, this early in the talk. Let's try something else.
+[04:20] What if we make the first stage not a rocket? This missile looking thing on the wing of the 747
+[04:27] is a rocket designed to go into space not to the ground. This one is called Virgin orbit.
+[04:39] They tried to launch one out of a space port and nuclear and comall, it ended up in the Atlantic.
+[04:44] It's a bit of a source of object flying in the bar later. The basic idea was you lift the rocket
+[04:48] through the worst of the atmosphere with the plane. We know how to use planes. They're common as
+[04:52] much. You get it moving roughly the right direction and outside of the thickest bits of the atmosphere.
+[05:00] So you need a lot less fuel. The problem is the rocket can only be as big as your plane can carry,
+[05:06] which is why it's a fairly tiny little rocket. Plains can only get so big, runways, building
+[05:15] rags, etc. What about something which needs less fuel? We have the delightfully named
+[05:23] rockoon. A similar idea, similar idea, except instead of a jet aircraft, you use a balloon.
+[05:31] It gets you even higher out the atmosphere, but it's basically impossible to aim the thing.
+[05:36] Where the balloons blow around in the wind, that's kind of the point.
+[05:39] If you don't know where you're launching from, you kind of pep to spend a whole bunch of
+[05:46] fuel getting to the right angles and directions. As you can probably tell from the black and white
+[05:53] photo, they've been trying this for quite some time. You can also tell from the middle one
+[05:59] that amateur rocket people quite like this plastic tables in suburbia in the background who doesn't
+[06:05] tend to happen on normal, or larger rocket launches. The limiting factor here is the carrying capacity
+[06:12] of the balloon, which is limited. Hence why there's a rocket there that someone is managing to hold,
+[06:18] which is kind of cute. What about not dropping bits as we go?
+[06:26] Hey everyone, loves the idea of the sort of sci-fi space shuttle that you get in your way team
+[06:32] and they go down to the planet and come back up again. This thing was a British concept called
+[06:39] Skylon. The idea was that it used air from the atmosphere was it could. The problem is it's a
+[06:48] liquid field rocket and the air is not a liquid. So you have to turn your air into a liquid
+[06:53] as it's traveling through the little engine bits on the side. And this thing was supposed to
+[06:57] get up to Mach 5 and a half, which is not much time to cool and compress your air. So that was
+[07:05] difficult. They did manage to get the cooler working on the ground, but then they ran out of money
+[07:09] before they actually managed to fire and think so. Unfortunately, but fairly common story in
+[07:14] British aerospace history. Okay, something more dangerous and more dangerous than 2,000 tons of
+[07:22] rocket fuel in 2 and a half minutes. Thankfully, we're going back to diagrams.
+[07:29] New killer pulse propulsion. What's more energetic than rocket fuel?
+[07:35] Yeah, instead of throwing fire out of the back of your rocket, you drop a nuke and ride the
+[07:39] shockwave wherever you want to go with some padding and shock absorbers so you don't squish your
+[07:44] crew, hopefully. This thing was from the part of the cold war where they were trying to figure out
+[07:50] more constructive uses for nuclear weapons like mining and drilling for oil. The reference design
+[07:57] was apparently capable of getting to Mars in a month and back. Bear in mind that the curiosity
+[08:06] rover took eight and a half months to get there one way and they were planning to launch this thing
+[08:11] from the earth. So, you know, a whole bunch of nukes in the atmosphere to get themselves out first.
+[08:17] Amazingly, the thing that stopped this thing from being ever more than paper, thankfully,
+[08:23] was not that someone looked at it and went, what the bleep are you thinking? It was the nuclear
+[08:29] test band treaty, banded and use of nukes in outer space. So, they gave up. Later analysis,
+[08:36] it guessed estimated that they would have killed 10 people with the fallout from every launch.
+[08:42] Thankfully, that never happened. And also, yes, that is a nuclear shaped charge on the first fuel
+[08:50] mad. Okay, something that's not a rocket. Space guns all the way back to Newton and
+[08:59] Jules Verne, people have been trying thinking of cannons and space guns. The military really loved
+[09:04] the idea because the FG has some problems though. You still need another rocket on your payload
+[09:12] to turn your orbit into a circle when you get out of the atmosphere. And whatever you want to launch
+[09:19] has to be able to be survived being shot out of one of the fastest cannons that's ever been made.
+[09:24] You're not going to make, sorry, also you can't really do this with a conventional cannon,
+[09:33] like conventional projector propellants are not fast enough, rifle bullets don't cut it here.
+[09:40] Something more exotic, like gas guns, daged detonation systems.
+[09:45] Yeah, things get weird. The payload also has to be able to handle rushing out of the atmosphere,
+[09:52] the same thing that makes meteors flame when they come in. It happens if you just launch
+[09:57] something very quickly back upwards. The Americans managed a six,
+[10:04] Americans managed a 16 inch gas gun that got a shell to 180 kilometers.
+[10:09] No one's made it to orbit with one yet. Some engineers that had recently sent attempts,
+[10:13] some recent attempts have ended in secret agents assassinating engineers. So yeah.
+[10:20] There was also Spin launch, which seems to have pivoted to making communication satellites
+[10:27] as half the space actor has. The idea was you stick your payload and a high-tech slingshot,
+[10:33] which is the big circular thing. Spin it round really, really fast and then let it go so it
+[10:39] goes whizzing out the tube. The circular bits under vacuum so you can spin it very quickly.
+[10:44] But it is spinning round in a circle, which means there's G-force on it all the time that's spinning.
+[10:51] And you have to build your payload so that it can survive 10,000 G, which will
+[10:57] pan-take basically everything. You're not launching any kind of normal satellite on this, or humans, obviously.
+[11:09] Something with SG-force is would be nice. We're going back to diagrams, though, unfortunately,
+[11:13] because things are about to get theoretical. The space elevator, another sci-fi staple.
+[11:22] Elevators go up. What if we made one that kept going up? We run into tensile strength issues
+[11:28] pretty quickly. But if you can make a cable strong enough, you can hang it from all that.
+[11:35] You can get there pretty easily and pretty gently. You can just crawl up the cable as slowly as you need to.
+[11:42] And people aren't going to get squished or crushed. It's kind of fine.
+[11:47] But you have to be able to make a 35,000 km long cable that can support its own weight
+[11:53] and the weight of your payload and the climbing thing and everything else. And then survive
+[11:57] like the wind and stuff in the atmosphere. The elevator has to go up to G-force station
+[12:07] or at least because otherwise the bit on the ground is moving faster than the bit in space.
+[12:13] Then bad things happen. And the cable wraps itself around the earth or something.
+[12:19] I think the people in the equator would rather disagree with that one.
+[12:28] Yeah, we don't know how to make a cable that's strong yet. There's some hopes of some magic carbon
+[12:32] materials but yeah, no one's managed to get anywhere close to what we need to make that work.
+[12:39] You can have two on the moon though. We have Kevlar is enough to make one on the moon.
+[12:46] You have to have it on the side pointing towards the earth or the other way around because of the
+[12:49] way the moon's tidally locked to always face the same way. But we have to get there first and I'll
+[12:56] refer to the rest of this talk rather than be recursive.
+[12:58] Okay, a space elevator without all the tent tiles strength issues though would be really nice.
+[13:06] So this thing is a space fountain. Sorry, I've really chuted grab my water before I came up here.
+[13:15] The idea is you push a stream of particles up a tube and the stream of particles kind of
+[13:20] supports itself as it goes round and it supports the tube as it goes up and then you can climb up
+[13:26] which is great. As you can probably tell from the diagram this one never got particularly far off
+[13:30] the ground with the designs. The problem is if you ever turn it off the entire thing collapses.
+[13:37] So you can't push the particles through it, you're in trouble. Thank you.
+[13:42] And then the entire thing collapses and this is you know a few thousand kilometers of cable. So
+[13:47] that will be bad for anyone living nearby.
+[13:56] Space fishing. If we didn't have a space elevator we didn't have to attach to the ground
+[14:04] all the way up to geostationary orbit.
+[14:07] We're going to need to explain the diagram because this is a very bad other than that.
+[14:10] Kim one. The idea is you have a very heavy weight somewhere in all of it and a long cable hanging
+[14:15] from it that's spinning around it. And as it's spin round it comes down into the atmosphere.
+[14:22] And whilst it's down in the atmosphere you get someone to fly up to it, grab onto it and it goes
+[14:27] we all the way into space and then they go and they are in now and all but.
+[14:33] The fun bit is how fast that cable will be moving just from the fact that it's other
+[14:39] end of it isn't orbit. The one of the proposals required something that can get up to Mac
+[14:48] ten to be able to catch up with the cable which is a ridiculously fast thing and also if you
+[14:53] can get that fast way you're just not going to orbit in the first place.
+[14:58] Yeah, not sure. The sorry one moment.
+[15:10] What if instead of extending our space elevator cable all the way out to geostationary orbit we had
+[15:14] something we could attach it to. Obviously we want to avoid the cable wrapped around the earth problem.
+[15:22] So we take it along cable and somehow get it into space all the way around the world.
+[15:30] And then you spin it and centrifugal force means that the cable gets tight and stretches itself.
+[15:36] At which point you can use that to support the way at the end of your cable. If you run a train
+[15:41] the other way around your cable. Fast enough that it stays in the same space point over the earth
+[15:46] as your cable runs around underneath it. You can then hang your elevator cable from it.
+[15:54] If there's several problems with this plan obviously. First you've got to get your cable into orbit.
+[15:59] I'm not entirely sure how you'd ever manage to do that and get it to a be a circle properly.
+[16:04] You can't just like feed the cable out the back of your spaceship as you orbit because then it's
+[16:08] not in the same orbit as you because it's going slower. You also can't ever stop the train
+[16:16] because the cable then either rips out the bottom or pulls the other cable into the ground.
+[16:22] Yeah this one in theory works but if how the hell do you build it is the tricky bit.
+[16:31] Yeah. And then we have the launch loop. It's kind of a horizontal space
+[16:38] so instead of a stream of particles you have a moving belt that's kind of trying to follow a
+[16:43] ballistic path but you put it in a tube that's magnetically levitate it from the belt itself.
+[16:52] And with some stays and cables and things you can kind of get this belt to float in space
+[16:57] and then you can just drive your payload up into orbit or up to the edge of space if this thing
+[17:01] was designed to be 80 kilometers high so way outside of most of the atmosphere and you run along
+[17:08] your cable which is 2000 kilometers long and get enough speed to achieve all that which is nice.
+[17:15] Again this is another one you can't turn off because the cable falls out the sky.
+[17:22] At least the proposal for this one did suggest putting parachutes on the train track so that if it
+[17:26] does fall out the sky it's not falling out the sky particularly fast. Also they did suggest putting
+[17:35] it over water so that it doesn't land on people which is nice of them for once.
+[17:42] So in conclusion if you want to go to space good luck try and come up with something that's
+[17:47] actually possible to build tolerant of failures and doesn't end the world or just use a rocket.
+[17:54] Thank you.
+[17:56] Mutant

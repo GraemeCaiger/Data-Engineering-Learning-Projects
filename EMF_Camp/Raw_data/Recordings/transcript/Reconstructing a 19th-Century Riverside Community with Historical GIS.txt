@@ -1,0 +1,301 @@
+[00:00] Hello, I'm Heidi. I'm a librarian, UX designer and plot artist, but these days I work
+[00:21] as a professional genealogist. I research family histories through archives, census records,
+[00:27] parish registers, and sometimes DNA. Recently I've used GIS to map individuals and
+[00:33] add them to family trees. Before I started in, sorry. Before genealogy, I worked in UX design
+[00:44] across various industries. I hold masters in library and information science with a focus
+[00:51] on organizing the information and access. Today I want to demonstrate how I integrated
+[00:56] my research into a single project. I relied on a 19-century tithe map, a road along the river
+[01:02] humble, and 80 years' worth of records. By aligning these sources, I identified how families
+[01:08] and relationships persisted across generations. I mentioned I'm sometimes plot artist. My husband
+[01:15] and I run forging craft or studio at one of the art studios. We experiment with technology,
+[01:21] mostly using penplotters. This weekend we're here alongside Hacklemmelden and we brought some
+[01:26] of our plotters and equipment. If you want to see them, say hello, talk about genealogy.
+[01:31] Welcome to stop by. So how did all this begin? Last November, I completed a postgraduate diploma
+[01:38] in genealogical, paleographic and heraldic studies at the University of Strathclyde. The work
+[01:43] I'm sharing today formed the basis of my dissertation. I was curious whether mapping people
+[01:48] geographically rather than only through family trees would reveal insights that the documents
+[01:52] alone couldn't provide. Before I got into the process, I wanted to find a few terms
+[01:58] I'll use throughout the rest of the talk. GIS is a system for capturing, storing, analyzing
+[02:03] and displaying spatial data. I use QGIS for this. It's free, open source, and has support for
+[02:09] beginners like me. HGIS or historical GIS is a subset of GIS that uses historical data to
+[02:16] analyze change over time and place. A geo reference map is one that is aligned with modern
+[02:22] coordinates. There are reliable sources for geo reference maps. If you're interested in historical
+[02:28] ordinance survey maps, for example, the National Library of Scotland is the first place
+[02:33] I'd look. A raster layer is a scan map in which incorporated into GIS software. If the map
+[02:39] isn't geo reference yet, you can add geographic coordinates yourself using this software
+[02:43] by selecting reference points. The shapes and points you draw on your maps are vector data.
+[02:49] These include points lines and polygons. Vector layers are powerful tools when working with
+[02:54] mapping software. I think your imagination is a limit when visualizing your data using these
+[03:01] layers. In this case, when I say plot, I'm actually referring to a numbered feature or section
+[03:08] on my original TIE map that I follow during the study. I will explain TIE maps a little bit more
+[03:14] in detail later, but I have included information about them in the resources link I will
+[03:18] show at the end of the presentation. I often switch between the plot numbers and the modern
+[03:23] names. Most modern names for the properties in my study weren't used throughout the research.
+[03:28] So now most of the properties can be linked to their current names. I find it easier to visualize
+[03:33] the names rather than numbers so I use them interchangeably. So my research has centered
+[03:38] on Burselden, a parish in the river Hamp, on the river Hampolk, between South Hampton
+[03:44] and Portsmouth. Historically, it was a ship building village, renowned for constructing HMS
+[03:49] elephant in 1744, which later served as Nelson's flagship. By 1840, when my study begins,
+[03:56] ship building was already in decline and the local economy had shipped to focus the agriculture
+[04:01] and other maritime trades. Along the river side, Mariner's boatmen and fishermen lived
+[04:05] and worked close together constantly adapting to change. In 1889, a new railway to South
+[04:11] Hampton, not only changed landscape, a Burselden but also altered how people committed and
+[04:16] found work. So initially attempted to map the entire parish, however, for my case studies
+[04:22] I concentrated on five cottages along a single road. This is where I will focus today. This
+[04:28] road is now called lands and road on modern maps, but it was not labeled that way until
+[04:34] long after my research period. The road runs around along the river. It serves as a key
+[04:38] maritime hub. This photo was taken around 1900, kind of near the end of my research period.
+[04:44] It also features two of my case study locations in the background. Some merchant ships
+[04:49] are visible here and likely resemble those that navigated the river. They were typically
+[04:53] wooden sailing ships operated by a master in a mate and often used to deliver goods along
+[04:59] England, Southern coast to the Isle of White or to France. Some of you may recognize this pub.
+[05:05] I don't know. I think the photo itself is actually from the 1980s TV series Howard Swag.
+[05:12] I'm an American. I'm less familiar with that reference. The pub, the Jaleigh Seller, is located
+[05:17] directly on the river. While the TV connection is intriguing, I find the stories of the residents
+[05:23] here and along this road even more fascinating. My initial interest in this place was personal.
+[05:29] While researching my husband's family, I found in the census that his great grandfather was
+[05:33] living on this road close to the pub. As a master, Mariner, he might have found it convenient
+[05:38] to live near the river. I wanted to find out precisely which cottage the family lived in and
+[05:42] how close it was to the pub. This question led to my dissertation topic. I believe that mapping
+[05:47] the family might bring me closer to the answer. I realized the most effective way to
+[05:52] understand the situation was to GIS. I mapped Brazilians' residents using the Tied map from around
+[05:59] 1840 and census data from around 1841 to 1921. In genealogy, we often refer to a fan network,
+[06:07] which includes friends, associates, and neighbors. In this case, I focused on the neighbors.
+[06:12] Family trees often follow a direct lineage, but our real experience encompasses the people in our
+[06:20] communities. I began by seeking a single master, Mariner's house and eventually mapped the entire
+[06:25] riverside community. The maps revealed community movement and connections that the documents
+[06:30] alone didn't show, providing me a much different, deeper understanding of this road.
+[06:37] I just want to briefly discuss how I processed my data. I'm not a GIS expert. I will say I've learned
+[06:42] enough of this software to work with the historical maps and records. In my project, the Tied
+[06:48] map for the parish served as my foundation with the Tied Apportionment's crucial determining
+[06:53] people's locations, at least for the years 1839 and 1840, when these maps were produced.
+[07:00] The method I followed to import my Tied map into the software would be applicable to any other map,
+[07:06] whether it is a digital image or a scan. The software enables geo referencing of
+[07:12] raster images by using alignment points or identified reference points on the map, which can
+[07:18] then be matched to current landmarks. Then the software automatically determines the appropriate
+[07:23] scale and projection. You can also access geo reference apps sources online. Maps sources,
+[07:30] I should say. For example, I mentioned the National Library of Scotland earlier. Their map
+[07:35] collection is a valuable resource for early-ordered survey maps, and they already have
+[07:40] reference to map scans, enabling you to connect them directly into the software. I provided
+[07:47] some details about their geo reference maps on my resources page for the talk. In my project,
+[07:52] the map, I show you on the slides, either added as the raster layer I mentioned or geo reference
+[07:57] layers, and I can search between these layers easily, which makes this really useful.
+[08:02] So using the Tied map, I traced each residential building as a vector shape,
+[08:07] allowing me to manipulate them after overlaying my data layers. I kept my data separate from my
+[08:13] mess mapping software, managing all the transcriptions, data extraction, and analysis in air
+[08:19] table. I exported specific data segments as CSV files, then I imported them back into my
+[08:26] GIS software. So I viewed the mapping software as an extension of my database, where I could integrate
+[08:33] the historical data that I was collecting. Here's a Tied map of Burzledin around lands and road.
+[08:39] It's drawn on like the brown paper with some buildings shaded in light orange and others in the
+[08:43] light gray. After thorough research and data collection from the apportionments, I know that
+[08:49] at the time this map was made the light orange buildings in this village were residential properties.
+[08:54] I recommend using the full color versions of these maps where possible. You can find these maps
+[09:00] on the genealogist, which is a commercial genealogy website, but note that their images are
+[09:05] scanned in gray scale. While this collection remains very useful for checking if your area or
+[09:11] ancestors appear on the maps, working with a gray scale map can be challenging, especially if you
+[09:16] want to interpret the maps shaded areas. I did pay for the color maps, but availability and cost
+[09:22] vary by county really. I've added some information again on the resources page. I will share
+[09:28] covering Tied maps what they are and how you can locate them. So this here is a Tied the Portionment
+[09:34] that I mentioned. These act as detailed ledger books indicating the amount of Tied or tax owed
+[09:40] at its location. I think they contain valuable data for map enthusiasts, such as precise land use,
+[09:47] descriptions, the types of residences on each plot and lot sizes too. So for my study, the most
+[09:54] helpful information where the columns listing the owners and occupiers names at the time of the
+[09:58] survey. This allowed me to identify residents even if they were renting or leasing the land.
+[10:03] Additionally, each individual was identified by plot number on the corresponding map so that
+[10:09] eliminated any ambiguity. So with my map now imported into the software I can draw vectors over the
+[10:15] relevant shapes to depict the residential buildings of my study. I particularly enjoyed this step.
+[10:22] I completed the entire parish, but here's a small section with my shapes overlaid on the map.
+[10:26] I call it these shapes, green to make them more visible. Additionally, I used the software's
+[10:31] labeling feature to add my Tied map, apportionment data to the vector shapes. Since I was mainly
+[10:37] working with heads of households on the maps, I developed various filtering methods in my data set to
+[10:42] address this without these filters every resident and a property would be listed, which could
+[10:47] become chaotic very quickly. So I can now utilize my maps for data visualizations that I need.
+[10:54] These vectors add another layer you can manipulate typically through linking and filtering.
+[11:00] Some basic programming skills can help maximize the software's capabilities.
+[11:05] At this stage, I was confident I can match the households between the Tied records and the 1841 census.
+[11:11] So I successfully matched 55 households across the entire parish, which was roughly 50% of the
+[11:16] households. Variations and names and properties with multiple residences required careful
+[11:22] cross referencing for households with multiple residents. I split the vectors in half to assign
+[11:28] distinct head of household names. I also revisited and refined the data as new information emerged.
+[11:34] So this is what an 1841 census looks like for some of the residents on this road. These records
+[11:40] are notoriously tricky to interpret. They were the first census recorded in England and Wales.
+[11:46] They do not provide exact ages, relationship details or precise birth places. Instead, they indicate
+[11:52] whether someone was born in a county, they offer estimated ages. However, they do include professions
+[11:59] which can be helpful. This is an 1851 census by comparison, so 10 years later. By this time,
+[12:07] census taking had improved some might. You can see more detailed locations, although addresses
+[12:12] were still often omitted in rural areas. The data now includes relationships,
+[12:17] marital status, ages, professions, and more precise birth places. Using my 1851 data,
+[12:24] verification to my Tied map reduced the data set to 12 linked households. This reduction in
+[12:30] matches is understandable. It's households have may have moved or heads may have died over the
+[12:35] past decade resulting in family members with different surnames. However, I did find this number
+[12:40] low enough to warrant a visual review during which I looked for miscerning variations instead.
+[12:46] This approach successfully expanded my data set by adding 26 more households. This is where I want
+[12:52] to stop and note that managing this across an entire parish is extremely challenging.
+[12:58] While it's understandable to want to clear understanding of your population, numerous data factors
+[13:04] make it perfect matching nearly impossible. For my dissertation, I had to balance a broader study
+[13:09] area with a more focused case study, but if I were to approach this again, I'd likely concentrate
+[13:14] more in the smaller area initially and expand from there. To illustrate the scale of the area,
+[13:21] Brazil didn't population in 1841 was 523 with 110 households and in 1851 it was 500 with 113 households.
+[13:30] Even for a small parish mapping each household over 80 years is quite an enormous task.
+[13:36] Here's some initial maps I enjoyed creating overlained ties vectors on an ordinary survey map
+[13:45] during my research. Patterns of property loss are changed. In this example, there's a home
+[13:51] set in the middle about to present you. You'll observe a home set loss. Look at Alexander McKenzie's
+[13:58] home set in Hackett's farm marked on the Tithe map. This home set does not appear in the
+[14:06] Ordnance Survey map survey in 1859, so I've marked it in red. The location where it used to be.
+[14:13] What's interesting about examining the census alongside the maps is that I was able to trace
+[14:17] Alexander to different nearby residents in the village. He relocated there with his servants who had
+[14:23] earlier lived in another cottage at the bottom of the farm. This eternal internal migration
+[14:28] is visible on a map, though it's less apparent between 1851 and 1841 census. I've done a
+[14:35] fine this movement from the census data level and would have been challenging. The difference between
+[14:40] the 1859 and the 1895 or NIN survey maps are more significant. Primarily due to the railway
+[14:48] construction in the village and shifts in the local economy. So at the bottom of lands and road here
+[14:55] we have several smaller cottages that have been removed completely. Additionally you can see
+[15:00] a few new buildings have appeared on this parcel, so this indicates some consolidation.
+[15:06] There's another outbuilding that was removed around the Jolly'saler.
+[15:12] And then in this area where the railway was constructed, there is a note of spool decrease in the number
+[15:18] of cottages compared to earlier maps. When choosing my case studies I selected five properties on
+[15:25] lands and road to explore household dynamics. I intentionally avoided the railway corridor since I
+[15:29] expected these cottages would be gone during my study. As I mentioned earlier I used plot numbers
+[15:34] and modern names interchangeably, though some properties may not have consistently been known by
+[15:39] these names. The cottages are starting from the northern part of the road to the bottom include
+[15:44] plot 22 elephant boat yard, plot 23 called yours, plot 25 the Jolly'saler,
+[15:54] plot 27 is called Murdoch Cottage, and then finally at the very bottom of the road is plot 31.
+[16:00] It's called Chippin or sometimes it's known as lands and house.
+[16:06] As census page may seem like a simple lesson names, but connecting those names to specific
+[16:11] physical coordinates reveals that these properties were more than static structures. Instead they
+[16:16] were adaptable spaces, some offering half a century of stable family life, while others were
+[16:21] continuously repurposed as safety nets for relatives with nowhere else to go.
+[16:27] I don't begin at the top of the road and I start with plot 23, now known as yours. In 1840
+[16:33] tie records indicate it was owned and occupied by James Kohl's and his wife Rachel Carpender.
+[16:40] After James's death in 1842 his will left the estate to Rachel for her lifetime.
+[16:45] And explicitly safeguarded his daughter's shares from any future husband's financial influence.
+[16:51] The household was multiple generational from the beginning. The 1841 census indicates that
+[16:56] their daughter Elizabeth Brain and her young son, Jane, John James Brain, were already living there.
+[17:01] After Rachel's death in 1852, her estate was inherited and inherited by her unmarried daughter
+[17:07] Charlotte Kohl's who had lived independently their entire life. Charlotte Carp for the house for many
+[17:13] years and upon her death in 1880 she'd be squeezed the property to her nephew John James Brain.
+[17:18] John's life illustrated a clear migration pattern. He moved from Brosalden as a young man's
+[17:24] spent 20 years in London working as a sugar broker and commission agent and later returned to
+[17:29] the family home. By 1891 he was living there once more leading the household with his unmarried
+[17:35] sisters Elizabeth and Sarah. Who's a photograph of yours from historic England? It is a list of
+[17:41] building, so I imagine hasn't changed much since the Coles and brains live there. The family's
+[17:46] hold on the property in dirt for 50 years during my study period, primarily through the
+[17:51] female lineage. The hold ended after 1891 when John's health deteriorated, leading to his admission
+[17:58] to the county lunatic asylum where he inevitably died. I believe the house remained unoccupied
+[18:04] for the rest of my study period. It couldn't find any other household in the census record after
+[18:08] John's death. Since this family had lived here for so long though, it provided a baseline on the
+[18:13] map for comparing changes along the rest of the road. Right next to yours is a jolly sailor
+[18:18] which I've mentioned serving as a local social and commercial center of the riverfront. Since
+[18:24] census takers seldom recorded precise street addresses here, the pub also served as reliable landmark
+[18:29] for locating nearby neighbors. The property illustrates how local residents adjusted their livelihoods
+[18:35] over time. Charles Jarvis, the owner began in 1841 as a soyer, or probably a barrow maker. He
+[18:42] quickly moved into brewing and pub ownership after that. Gradually expanding his property over the
+[18:47] years. In 1875, the property was the center of a significant probate dispute. Following his wife
+[18:54] Sarah's death, Charles realizing his own death was near, quickly rewrote his will on his death bed.
+[19:00] He had no children and his wife, with his wife gone the estate, would normally pass to his eldest
+[19:06] nephew, who was also called Charles Jarvis. He would have been considered the legal heir.
+[19:13] However, Charles bypassed him by creed in a new will, the left the pub to his great-grand
+[19:18] nephew Charles Bevis, who had been living in the household as a servant but probably a brewery
+[19:24] apprentice, and divided the rest of the estate among 12 nieces in nephews. The court records show a
+[19:30] messy pervade fight over his mental capacity at the on this day. Revealing that Jarvis told
+[19:37] his gathered relatives, I have left you all something, don't quarrel. Charles and Sarah were
+[19:43] buried together in a church cemetery on the same day as their deaths were only days apart.
+[19:50] This is a jolly sailor again. It is also a list of buildings still a working pub by the same
+[19:54] name today. The court confirmed the well in Charles Bevis operated the pub until 1891,
+[20:00] after which he left the trade to become a laborer and farmer in swanica cross-driver.
+[20:05] Management was then handed over to Hugh Knight, an outsider, reloc who relocated from swanmore to
+[20:11] Dublin before ultimately settling at the jolly sailor, where he spent at least 30 years as an
+[20:16] in-keeper and market gardener. Next to the pub is Murdoch Cottage. While a typical map
+[20:22] might show it as a single residence, historical records reveal it as shared by two working cast
+[20:27] class families. Between 1841 and 1871, one part was occupied by Solomon Bevis, a fisherman and
+[20:35] lighterman. While the other was occupied by the Wallace family, headed by Philist Wallace,
+[20:41] formerly Turner. For decades the census names filless as the head of her household,
+[20:46] but her husband Richard Wallace was away working as a rope maker in port c. Yards.
+[20:51] So she managed the household locally, often through agricultural field work as necessary.
+[20:57] The key connection here though is the landlord. In 1846, the cottage was auctioned and bought by
+[21:03] Charles Jarvis, the owner of the jolly sailor. This makes Jarvis not only the public in, but also the
+[21:08] landlord of his neighbors. This includes Solomon Bevis through marriage. Bevis was also the
+[21:15] grandfather of the young man Jarvis selected to inherit the pub. The family relationships
+[21:21] helped sustain an informal succession. So here's Murdoch College around 2001. This is the last
+[21:27] of the listed properties on our road. I also recently found out you can rent this as an Airbnb.
+[21:33] So after Solomon and Philist aged out, the cottage was occupied solely by Joseph Wilshire.
+[21:39] Philist is nephew and also Solomon's relative through marriage. Joseph worked as a river mariner
+[21:45] and ferrymen for 30 years. By 1921, the tendency had been inherited by a son and law. William James,
+[21:51] who managed the property and supported Joseph's elderly widow, Margaret, under the same roof.
+[21:58] Further along plot 31, also known as the ship in, illustrates a significant shift from a commercial
+[22:03] property to a busy multifamily residence. In the 1840s, Thomas Harcourt was the first,
+[22:10] I'll say, public and succeeded by John Wilshire, who ran it as a licensed
+[22:15] victualer. By 1861, the building appears to have ceased functioning as a formal in,
+[22:21] in transition into shared residence. The 1861 census list for a different ser names. Wilshire,
+[22:28] Turner, Brock, and Talbot. As residents in the census, they are shown either separate households
+[22:35] or as individual lodgers. However, when mapped against their family trees,
+[22:40] a strong network of kinship becomes evident. John Wilshire, whom I considered the patriarch of the
+[22:45] property, lived here with his sister-in-law, Elizabeth Goddard, previously Turner.
+[22:52] Who at one point served as his housekeeper. Also, President was Elizabeth's brother, William Turner,
+[22:59] a water laborer married into the Brock family, and Mary Talbot, an unmarried sister of his wife,
+[23:07] listed as receiving alms from the parish. This house has been known by several names. The ship
+[23:15] in, the ship in launch, locally, I think it's called the Castle House. Today it's known as lands and
+[23:21] house. This stands as a grand residence, with continued easy access to the river. These families
+[23:27] intentionally use old in space to gather resources and shelter their vulnerable relatives.
+[23:34] Also, suspect that although not explicitly mentioned in the records, this house also served as
+[23:38] an important stop for passing mariners. The photo of the house shows not only at size, but also the
+[23:44] easy access to the river. The house sold for 1.6 million in 2003, likely a remarkable amount
+[23:51] for these previous residents. Finally, we have the elephant boat yard. It's at the north end of
+[23:57] the road. Historic site where the warship HMS elephant was constructed in 1744. In the 1840s,
+[24:04] a belong to master marroner, William Holemann, after 1841, Holemann relocated his residence to South
+[24:10] Hampton and Milburg leaving the boat yard vacant for about 30 years. I suspect Holemann probably
+[24:15] primarily uses property for commercial reasons, perhaps as a storage location for a ship or fleet
+[24:22] after moving. By 1881, the property repairs as a residence with some familiar residents returning.
+[24:28] Charles Goddard, a lifelong sailor, moves in with his elderly mother, Elizabeth. The same Elizabeth
+[24:33] Turner from the last case study. Elizabeth was widowed by Levi Goddard and the family had earlier
+[24:39] lived at plot 31. Remember, she was also John Wilstre's sister-in-law at that location. Additionally,
+[24:46] Charles's widowed niece Sarah Clements formally got her. It was her own household. She works as a
+[24:53] needle woman and raises four young children. Sarah's parents are Levi Goddard Jr. and Maryam Bucket,
+[24:59] making Elizabeth her grandmother. The key connection occurs between 1891 and 1901. When John
+[25:06] Wilstre Jr. moves into the boat yard with his wife, Maryam Bucket. Decades earlier in 1851,
+[25:14] Maryam managed her own household at the ship in. While her first husband, Levi Goddard Jr. was at
+[25:19] sea, her marriage to John Wilstre Jr. the son of the former ship in public in a patriarch
+[25:25] and her move to the boat yard further embedded the Goddard and Wilstre families. They formed a large
+[25:31] blended family that used the property to support separate grandchildren, widowed sons and daughters
+[25:36] and other relatives. During periods of economic hardship, they adapted by using the boat yard's
+[25:42] residential space to strengthen their kitchen network and extend it along the road.
+[25:47] Elephant boat yard remains an active ship building site today. It's hard to get a clear view of
+[25:52] the house or its historical appearance because it's blocked by the commercial property on the
+[25:56] Riverside. However, suddenly, image shows its location. It's trading how advantageous the spot
+[26:01] would have been to those involved in the maritime trades. So mapping the residents of these
+[26:08] five properties reveals that the families on the answer were not isolated. Apart from the
+[26:13] pools in our initial case study, the others, Jarvis, Bethesda, Turner Wilstre and Goddard
+[26:19] and their extended families were deeply connected through blood and marriage. This is one of
+[26:23] my favorite charts for my dissertation. It's a descendant chart illustrating the Turner Wilstre
+[26:28] Goddard Kinship Network, which is the largest from my research. While it might resemble a fan chart
+[26:33] to genealogists, it focuses on descendants rather than ancestors. We start with Elizabeth Turner's
+[26:39] parents at the center. They earliest rooted couple from the branch. The chart uses color coding to
+[26:45] indicate which properties were occupied by specific household heads within the network.
+[26:49] Of my five properties, three are prominently visible throughout the study period.
+[26:56] For years, traditional demographic history suggested that modern developments push
+[27:01] role populations into isolated nuclear family units. However, examining this community geographically
+[27:07] reveals the opposite. These families depended on intricate extended kinship networks to adapt
+[27:12] and thrive within a shifting maritime economy. Census structures and rural community communities
+[27:18] often don't accurately represent living arrangements due to missing addresses or unclear
+[27:24] property boundaries. For instance, nearby households at plot 31 might appear as separate
+[27:29] cottages, even if they are part of a single large property with four to five households sharing
+[27:35] a support network. Oh, and I nearly forgot. Was my husband's great grandfather among those
+[27:42] featured in this case studies? The answer is no. However, my research helped me refine my hypothesis
+[27:48] about his possible residents. I believe he was likely in the railway corridor. They didn't relocate
+[27:55] far just across the river to Swan Lake into the same row of cottages where my mother-in-law was born.
+[28:01] And by coincidence, where Charles Bevis, the former owner of the Charlie Sailor Pub,
+[28:06] also lived after he gave up the business. If I were to continue this research now, the next
+[28:12] logical step would be to systematically showcase to that railway corridor and apply this method
+[28:17] again with a new group of cottages. I want to be entirely transparent about my approach. This process
+[28:23] can be quite demanding. The historical GIS isn't just a matter of inputting data into software
+[28:29] and letting a map appear on its own. Mapping this one road over 80 years involves reconstructing
+[28:35] the life stories of each neighbor and extended family member. It requires overcoming data barriers,
+[28:40] managing name variations, locating wills, and consulting registers to verify census info.
+[28:46] Expanding to a whole parish is a huge labor intensive task. Belencing broad geographic scope
+[28:52] with detailed local studies. The effort, though, radically transforms our historical data model,
+[28:57] showing that properties are dynamic and evolve in response to community economic needs.
+[29:03] The key contribution of this work is the demonstration of how spatial analysis and
+[29:07] property-based methods can aid genealogical and historical research. It encourages expanding
+[29:13] the focus beyond the immediate family and extends our research into areas that map
+[29:18] community interests using tools that complement family trees to explore spatial dynamics.
+[29:24] Thank you.

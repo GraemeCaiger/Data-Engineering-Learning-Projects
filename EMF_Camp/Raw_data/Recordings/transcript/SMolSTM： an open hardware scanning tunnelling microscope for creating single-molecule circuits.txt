@@ -1,0 +1,186 @@
+[00:00] I'm a researcher from the physics department at Lancaster University and yeah, today I'm going
+[00:23] to talk to you about how I use homemade equipment to create circuits with just single
+[00:30] molecules. So just to give a bit of a background on the kind of scale we're talking about
+[00:35] here, this is just a cartoon image like a grain of sand you might find at the beach.
+[00:42] It's about on the order of 500 microns across about half a millimeter. This is about the
+[00:47] smallest thing you'll in your day-to-day life, feel to see with your eyes. But there's
+[00:52] of course a lot going on below this Lanc scale that's really important and affects our
+[00:57] day-to-day lives. For example, this is a red blood cell, so these are responsible for carrying
+[01:04] the, sort of oxygen around our bodies. And they're too small to see with your eyes, but you
+[01:09] can see these with a decent optical microscope. But on this particular image, you might be
+[01:14] able to see just a single white pixel in the middle of that blood cell. And this represents
+[01:18] the scale of the smallest things that we as humans routinely mass produce, which is a transistor
+[01:26] as a type that you might find in like a computer processor. So there's right now as we speak,
+[01:32] a few billion of these transistors in this laptop generating this image for you, so they're
+[01:37] kind of making an image of themselves right now. But we make these kind of the same way
+[01:42] we humans have always made everything, which is we take a block of material and we take
+[01:47] stuff away to leave behind the shape that we want. But nature has a different way of making
+[01:53] these things. So as we reach kind of the length scales where we're being limited by these processes,
+[01:59] maybe we can look for a different approach. And you might be able to see even a smaller
+[02:03] dot now on the side of that transistor. And this is a carbon-60 bucky ball. So this is a stable
+[02:12] structure that exists in nature and it's kind of a football shape of 60 carbon atoms.
+[02:18] So it's a very complex shape. But it kind of self-assembles from the bottom up and that's
+[02:24] how nature makes things. They form a low energy configuration that's stable. And this
+[02:29] is just 0.6 nanometers across. So 0.6 of a billions of a meter. And what's interesting
+[02:37] to me about these kinds of small organic molecules is that we're not just limited to
+[02:42] this stuff we can find in nature. In fact, if you work with chemists, they've developed
+[02:47] over the years in incredible ability to make almost any kind of molecule you can imagine.
+[02:52] The degree of customization is actually incredible. There's been estimates that the
+[02:57] zone of the order of 10 to the 60 small organic molecules that could feasibly be made.
+[03:01] So that's so many that even if we used to pull the atoms in the solar system, we couldn't
+[03:05] make one of all of them. So we're never going to run out of possibilities for molecules
+[03:10] we can make. But I was talking about transistors earlier. So why these interesting in context
+[03:16] of electronic devices? Well, the reason is not just because they're small and we can pack
+[03:21] more of them on a chip, but because they actually give us access to new physics. So the
+[03:27] molecules here are so small that while in a normal circuit, we might think of the
+[03:31] electrons as charged particles flying around. We're at a length scale now where we can no longer
+[03:37] ignore quantum physics. And we have to start thinking of these electrons as an actual
+[03:41] matter wave. And then we can start thinking of our molecules, not as like wires or switches,
+[03:48] but as waveguides. And that gives us some really powerful tools to control the flow of charge
+[03:52] in a circuit. So if we take this example here, this is a benzene ring. And there's two paths
+[03:59] that are electron wave could take through the ring to get to the output. And the wave actually
+[04:05] takes both at once. So in this case, where the two paths are the same, the same length,
+[04:10] the paths arrive in the phase and we get this large sine wave, whether two waves is added
+[04:15] together. But if we just move this situation by one atom and instead inject the electron up here,
+[04:23] now the top path is short relative to the bottom one. The two waves no longer add up and they
+[04:28] actually cancel out. So now we have like a single molecule switch that we can actually turn on
+[04:34] so we're already seeing kind of the groundwork of a technology on the scale of a single atom
+[04:40] and reaching kind of an idea of a molecule that could actually compute.
+[04:45] So another cool thing about these molecules is that you don't just have to work with one.
+[04:49] The same way nature will create a stable configuration of atoms to make a molecule,
+[04:54] they're also form stable configurations of the molecules themselves to create large,
+[04:59] flat structures. So you can self assemble from solution, large, play in a film, just one molecule
+[05:05] thick. And the density that you can achieve is incredible. We can have a trillion carbon-60 molecules
+[05:11] on a surface area of the head of a pen. But before we can kind of understand these large thin films,
+[05:18] we do have to understand exactly why the customizations that we make to the single molecule produce
+[05:23] certain effects. So to do that, we need a way of actually putting some probes on our molecules
+[05:28] and testing them so we want to be able to create single molecule circuits.
+[05:33] And clearly this kind of cartoon I've drawn here isn't really practical because we saw earlier
+[05:40] that where you position those electrodes on an atomic scale has a huge impact on your measurement.
+[05:45] So we need to be able to position our electrodes with sub-nanometer precision.
+[05:51] This is where the scanning tunneling microscope comes in. So this was invented in the 80s
+[05:56] and it won't know well prize because it provided us for the first time with the way of seeing
+[06:00] the atomic scale in real space. And I won't go into too much detail about how this works,
+[06:06] but it's sufficient to understand that it uses a very sharp metallic needle
+[06:10] that it scans across the surface and it measures small electrical interactions
+[06:15] of the quantum scale between the tip and the surface. And this is produced some really fantastic
+[06:21] beautiful images over the years, but what I think is actually really exciting about it is not
+[06:26] the imaging, but the fact that you have this local, atomically sharp probe that you can actually
+[06:31] interact on the nanoscale with your samples with and this brings us to the break junction experiment.
+[06:37] So this is a way we can reliably form a single molecule junction. And the way it works is we take a
+[06:43] gold surface and a gold STM tip and we put some molecules down on our surface. And we then deliberately
+[06:50] crash our gold tip into the surface to form a sort of a nano scale metallic junction and we can
+[06:56] measure the electrical conductance of that junction as we pull back and stretch it. And at the
+[07:00] point where that junction breaks you would expect to see the conductance of the junction just
+[07:05] disappear, but if a molecule happens to bind between the two electrodes then we form a single
+[07:10] molecule circuit and we see a plateau corresponding to the electrical conductance of that single
+[07:15] molecule as it gets stretched. So this is a really powerful technique. The problem is that you
+[07:21] need an STM for it and an STM is typically on the order of half a million to five million pounds.
+[07:28] And even if you have one they're not really designed for these kinds of niche measurements.
+[07:32] They're designed for high resolution imaging. So then you have to take your super expensive
+[07:36] nice piece of equipment and start modifying it. So I think for one of the nicest things in experimental
+[07:42] physics is we get to make our own stuff. So I thought wouldn't it be cool if we could just make sort
+[07:49] of a homemade STM that is designed just for these types of measurements and is optimized for these
+[07:54] techniques. An in principle an STM is pretty simple in terms of hardware. You just need some long
+[08:00] range positioning to get the tip in the right place. Some short range atomic resolution positioning
+[08:06] a sharp tip and some electronics. But obviously when you're working at the atomic scale even
+[08:12] simple things become very complicated because any source of noise or interference is going to be a
+[08:16] huge problem. And this is kept me entertained for quite a while. This is I've been playing around
+[08:22] with this both as as my research and a hobby for quite a few years now. You can see some early
+[08:29] kind of crazy looking things I made in my shed during the the COVID pandemic and then when I start
+[08:35] to move them into the labs in Lancaster University they got a bit less mad scientist looking
+[08:39] and a bit more professional. And the one that I'm going to talk about today is this one here.
+[08:44] And this is the instrument that I've chosen to open source because I think it strikes a good balance
+[08:49] between being easy to make as an individual whilst actually being able to perform real sort of
+[08:55] research grade measurements. We still use this today and I'll have to do research. So here's kind of
+[09:01] a view of what this STM looks like you can see a cutaway render of what's going on inside there.
+[09:07] And I'm just going to go through some of the main pieces and show you some of the sort of design
+[09:11] decisions here. So the simplest part is the frame. You need something stable to attach all of your
+[09:18] components to. But when you're working at atomic precision you need any kind of drift and vibration
+[09:24] to be as small as possible or it's going to be bigger than the actual thing you're trying to measure.
+[09:29] So the materials that are good for this like Sapphire or Granite aren't really very accessible
+[09:35] for a home builder. So I opted for a kind of a composite approach, like a two-stage setup
+[09:42] where we have a steel inner frame. And this is just made of some laser cut top and bottom plates
+[09:48] so you can just send off these from through the post for not too much money and then the broad
+[09:54] separating them are just hand cut bar stock. And then the issue with just leaving it here is that
+[10:01] if you ever take a steel structure and hit it with a hammer it rings like a bell. So it's got a lot
+[10:06] of resonances which are actually amplifying vibrations certain frequencies. So to kind of dead
+[10:11] on those resonances out we made a 3D printed mold and we poured this cast epoxy granite composite
+[10:17] which is just epoxy compound with some granite aggregate so essentially really coarse sand.
+[10:23] And then after curing it and post processing we get our STM frame that looks like this.
+[10:29] And in the centre of the frame here you can see the actual part of the STM which is the nano positioner.
+[10:37] So I mentioned there at the beginning that we need some long range and fine range positioning in our STM
+[10:44] and this scanning unit is based on an open source project by another group
+[10:48] which combines both of these things into one unit and it doesn't in a really clever way.
+[10:54] So the short range positioning is done with a P0 electric crystal. So this is a crystal that changes shape
+[11:00] when you apply magnetic field to it the atoms get further apart and closer together. So you can
+[11:05] produce really really small movement with this and it's coupled to this linear slide with a magnet.
+[11:12] So it's low speeds that coupling is rigid and the linear slide reproduces the atomic scale movement of the
+[11:17] crystal. But if you move quickly in one direction and then slowly in the other,
+[11:22] when you're moving quickly the magnet will slip a little bit so you actually get a net displacement
+[11:27] and you can move the stage in these kind of steps to get longer range motion.
+[11:32] So this is how that looks in real life and we just assembled a three axis stage so we have this motion
+[11:37] in three dimensions. It costs about 150 pounds to build one of these stages
+[11:43] which if you compare it to the kind of thing you can buy from a research supplier is about two orders
+[11:47] of magnitude cheaper. Once you have that kind of resolution and capability in positioning,
+[11:55] it's no good if you can't control external vibrations. The vibrations in a typical room will be
+[12:01] orders of magnitude bigger than the things where actually trying to measure. So I don't know if you
+[12:06] can make out the yellow trace on this oscilloscope. This is the signal for a millennial iteration of
+[12:12] this STM and this is me just dropping a small bolt from a few meters away onto the floor. It's
+[12:17] a very zoomed-in video but you can see when the bolt hits the floor a huge spike in the signal
+[12:23] and that is the junction actually rupturing and the experiment breaking down. So if you don't have
+[12:30] some kind of vibration isolation in a normally environment you have no chance of doing one of these
+[12:34] measurements. So what I built into this instrument was a stack of alternating steel discs and
+[12:40] soft bite on O-rings. So each stage this damps some of the vibrations as they move up from the base
+[12:46] towards the more sensitive part of the instrument and this has been really effective in helping to keep
+[12:51] those sort of vibrations away. So once this is all built we need a way of actually testing the way
+[12:58] we're measuring what we think we are and I think really the coolest benchmark is to measure the
+[13:04] electrical conductance of a gold atom. So this is like taking your multimeter setting it to the
+[13:09] resistance mode and putting the probes across just a single atom. It's a really cool experiment
+[13:15] partly because you can actually with some fairly simple maths that fits on the back of an envelope
+[13:21] predict what the electrical conductance of a gold atom should be and it turns out to be this
+[13:27] value G which is equal to 2E squared over H so that's the charge of an electron and plants
+[13:32] constant. So these are two fundamental properties that should be the same everywhere in the universe
+[13:38] that we're probing with our STM here. And if we do our break junction measurement where we're
+[13:42] crashing the probe and pulling away and stretching metallic junctions without any molecules there,
+[13:48] then at the moment that metallic junctions about to break it should start to thin down to a
+[13:53] countable number of atoms. So we should start to see integer steps of this 2E squared over H as we go
+[14:00] from 3 to and finally 1 atoms in our junction. When we do this for real that's exactly what we see.
+[14:07] So this is a real measurement from this STM on some gold atoms and you can see the 3,
+[14:13] 2 and finally 1 atoms steps. So this last plateau is a single gold atom being measured in our junction.
+[14:21] And if you do this thousands of times and plot like a histogram like a probability map,
+[14:26] we can see peaks at these integer multiples which are telling us that we are reliably forming
+[14:31] atomic scale junctions. So you'd think that if you can form an atomic junction,
+[14:38] a molecular junction should be easy, right? Because this obtained Ithial molecule that we've chosen
+[14:43] to study is 8 carbon atoms long with a sulfur atom at each end. So it's 10 times larger than the
+[14:49] gold atom. But there's actually quite a lot of complexity in the binding between the gold
+[14:56] and the molecule. So you get measurements that look like this. Where we're seeing molecular binding
+[15:02] events and single molecule circuits, but every circuit is a little bit different. So how do we handle
+[15:08] this kind of variation and say something actually useful about our molecule? The typical way to handle
+[15:15] this is to take 10,000 or so of these measurements and collapse them onto a 2D heat map here. So
+[15:21] brighter points correspond to where there was more of this data in the data set. And we can read
+[15:26] off the shoulder here and we can get the average electrical conductance and breaking length of
+[15:31] our single molecule and we can see that we are consistently forming single molecule junctions.
+[15:37] But we then went a little bit further and we decided to apply some Xi-in-learning based cluster
+[15:42] into this data set. So we're splitting the data up by the similarity of the traces to each other.
+[15:49] And we get this. So that actually that big messy heat map actually it turns out is made up of a few
+[15:55] distinct event types. And these actually correspond to the different physical types of binding that
+[16:02] the molecule can have with the electrodes. And this is really powerful now because this gives us not only
+[16:09] access to the average properties of the molecule, but we can also look at the different ways
+[16:14] that the molecule can bind and see the relative likelihood of those binding modes. And that means that
+[16:21] if for example for a future device we would want just this type of binding we can now go back and
+[16:27] modify our deposition methods or a molecular design and we can do this experiment again and see
+[16:33] if it's a proportion of this group has increased in our data set. So we now have a pathway towards
+[16:37] iterating towards practical consistent devices. But there's also interesting physics here because
+[16:45] scientifically we understand what is going on in the electrodes really well. And separately we
+[16:51] understand the molecule very well. But this kind of coastline between the molecule and the electrode
+[16:58] is extremely complicated and still not entirely well understood. So this is actually with some homemade
+[17:04] equipment the cost of our £500 to build. We're actually probing a real frontier in understanding
+[17:10] and this is what makes it so useful for the research that we're doing in the lab going forward.
+[17:16] So that was the last result I wanted to show you. Just I'd like to just thank everyone in the
+[17:22] lab's back at Lancaster who support the work and make it possible. UKRI provided a lot of funding
+[17:29] and I'd also like to thank my brother Will who provided a lot of technical advice and help
+[17:34] with the epoxy molding in particular. And there is a get hub with some more information about the
+[17:42] instruments on there and I'm preparing an open access paper and a build guide so there's more labs
+[17:49] than even individuals can start to reproduce this. And yeah thank you all for listening. I'll probably
+[17:55] be in the Q&A template or if anyone has any questions. Thank you.

@@ -1,0 +1,229 @@
+[00:00] Hello everyone, thanks for coming to my talk. This is quite a, I'm actually going to zoom
+[00:20] in a bit on this. This is quite a scrappy talk about quite a scrappy project that's kind
+[00:27] of like in the middle of being underway. So before coming here as a little bit and
+[00:32] post this in Romeo and like, oh my god everyone's going to judge me because it's not finished,
+[00:36] but earlier today I had someone say that this is the festival of unfinished projects.
+[00:40] I feel a lot better about it now. But yeah, basically I'm going to talk to you about kind
+[00:47] of building an online radio and it sort of came in three different phases of different online
+[00:56] radio, as I suppose. And yeah having this talk has kind of given me the proverbial kick
+[01:05] up the bum to kind of start rebuilding it, which has been something I've wanted to do
+[01:09] like the last four or five years. But yeah I'm just going to kind of talk about like where
+[01:16] it started, my reasons for doing it, the things that went wrong, how might you set up something
+[01:23] similar if you're interested in doing that. And then kind of where it is now and what I've
+[01:30] learned along the way. So yeah, this is the beginning it says hello.
+[01:36] Oh yeah, there's a little caveat here, it's not actually really a radio station, it's technically
+[01:45] web casting, but that doesn't really sound that romantic or glamorous. So I've been
+[01:50] calling it a radio to myself because it makes me feel cooler. So yeah, as with many sort
+[01:57] of hair-brained schemes and projects, I started building the first kind of iteration of
+[02:07] this project in 2020 during lockdown. At the point where everyone was kind of really bored,
+[02:16] staying in their houses, couldn't really go out. And yeah, the first version of it was kind of,
+[02:24] I suppose, the scrapiest version of it. And it was just essentially a way for me and my friends
+[02:32] to kind of be able to sort of meet up online, hang out, like a few of my friends, DJ, a few of them,
+[02:38] kind of DJs. And it was a way to sort of like have everyone in one sort of virtual space together
+[02:48] just like playing silly music. So this was kind of, this was kind of it, this is like a
+[02:54] resurrection of it because I didn't take any proper screen recordings at the time which I really
+[02:58] regret. So this is kind of like what I managed to piece together of the kind of like remains of it
+[03:06] the other day and record. But at the bottom here you have this little embedded player of this platform
+[03:14] called Mixler. So like of the kind of infrastructure of it, I didn't, I didn't really build any of it
+[03:21] myself. I just kind of like plunked it in a website. I guess we're a bit of context. I've been kind
+[03:29] of building websites for the last 10 years. So that was sort of my like comfortable space and a bit,
+[03:34] I knew how to do whereas the radio thing, like I don't DJ, I don't play music.
+[03:42] Like partly it was like me trying to kind of encourage myself to learn to DJ.
+[03:49] Which was something I was interested in doing at the time and something that I still haven't
+[03:54] learned now, six years later. But yeah, so anyway it was kind of just like a radio kind of broadcasting
+[04:02] live streaming platform plunked in the middle of this website and the idea was that I'd like
+[04:08] give my login out to various friends who are going to kind of stream through it and then they'd
+[04:14] play that set and it was linked to a Twitter account which at the time hadn't become X and
+[04:23] was an evil where like you could tweet something and it would like come up in this sort of scrolling
+[04:28] to Kateva at the top. That was a room two. I think I've put this on the next video. No, I haven't.
+[04:36] Okay, I'm going to do this a bit non chronologically. That was a room. No, that was smoking area,
+[04:41] which was a chat room. And then there was a room two which was basically just like an embedded
+[04:48] YouTube live stream that people could login to. So it was all like really scrapping kind of made out
+[04:53] of things that already existed as tools and platforms on the internet kind of doing what they were
+[05:00] built to do essentially. So yeah originally it was kind of inspired. I don't know if any of
+[05:08] members club quarantine that was the sort of initial inspiration. I was like that's really cool.
+[05:14] And I suppose the whole kind of crux of it was me being like I wonder if I could do something like
+[05:21] that for my friends because like no one's like like none of us here are going to get on
+[05:29] somewhere where it's like actual serious DJs but maybe if there's like a smaller group of us and
+[05:35] we don't mind each other kind of just like YouTube DJ and playing silly stuff. Then we can have
+[05:42] this kind of space as well. So yeah here I like I managed to kind of salvage a few recordings
+[05:52] of it that are really, really scrappy. Here was this was like my house at the time I had four other house
+[05:58] mates. This was two of my housemates like playing music from YouTube and live streaming themselves
+[06:06] on Minecraft I think. This is yeah one of my friends in his housemates who'd like set up this whole
+[06:16] like quite legit looking station in their house at the time. Here is my other housemate vaping
+[06:28] and playing music from Spotify. I sort of plunked him in front of the computer and I was like you
+[06:34] have to go now you have to do it. So yeah it was I suppose like this version of it wasn't necessarily
+[06:44] a radio per se at all it was like just like kind of messing around and trying to make like a virtual
+[06:52] club with a very sort of I suppose the bar was really low because it's like you can't go out like
+[06:59] this is the best you've got you've got an online club like do you want to do this or do you want
+[07:05] to sit on your sofa not do this. So this kind of went on for a few weeks until you got bored of the
+[07:12] idea of like just looking and online disco ball. So yeah next up I guess was this sort of rebuilding
+[07:25] of it which happens so like I suppose we got quite bored of like this first one just because it
+[07:32] it was quite like high energy even though it was just like us thing at home and it involved a lot of
+[07:38] just like phoning people and being like no no no no like that's not the password you're entering
+[07:42] a character wrong and then like getting someone else to kind of hand over the logins to this thing
+[07:50] mixer and like yeah so ultimately that kind of like died a bit of a death when the novelty
+[07:58] wore off which was fine that was kind of all it was meant for but then it got to like 2021 and I was
+[08:06] kind of a bit like oh like I'm miss having that like online club that was quite fun but also
+[08:13] people are allowed out of their houses now like no one wants to do this anymore and just kind of sit
+[08:19] at home looking at a digital disco ball so that's kind of when I decided like oh I could actually
+[08:28] rebuild it as a sort of radio station so it's less for long it's less like okay we're gonna stay
+[08:35] in our houses for the entire night on Saturday every Saturday and it was more just like if someone
+[08:45] wants to broadcast occasionally they can and to be honest I think the main draw and it for me was just like
+[08:55] seeing how far I could get with it and how much I could kind of automate things and tinker around
+[09:00] with it and like build the infrastructure out like kind of remove the reliance on this kind of pre-built
+[09:08] tool I suppose for for the live streaming but then keep the whole like I was kind of not ready to let
+[09:16] go of it being I don't actually I don't know if I mentioned this it was called I miss my made club which
+[09:22] kind of became less relevant when everyone could see their mates again but it was like I'll keep
+[09:30] everything about it I'll keep how it looks but I'll just make it so it sort of functions as radio but
+[09:35] the idea was that anyone could stream from like their own house it didn't have to have like a specific
+[09:43] location or anything like that all you needed to do was like have a bit of audio routing software
+[09:52] and something like some software to live stream from essentially so this is the this is the
+[10:03] archive of different shows that I had on it and I think it went on for like I don't know a couple of months
+[10:14] so yeah the whole idea was that like you can get in touch I built this form that people could
+[10:20] get in touch through and like say like I want to play a show but to be honest most people ended up
+[10:24] just messaging on Instagram or being like or I ended up pounding them and being like please play a
+[10:29] show in my video please please and then I was like okay that's gonna be a green room it's gonna
+[10:37] explain exactly how you do kind of a broad cast there's still gonna be this like smoking area chat room
+[10:45] that's kind of fun um I got rid of the YouTube room because I realised that actually no one wanted
+[10:54] to be on camera while they were DJing everyone was actually like a lot more private especially now
+[11:00] looked down with over and like people were less socially starved I think people were like no I
+[11:06] really don't want to do that and then the whole the whole way it works is basically you go to this
+[11:14] page this wheels of steel page here that's like a little login you kind of type in a password
+[11:21] then it like pings a server which is something called marks I don't know if anyone's kind of
+[11:27] there are any web developers here who you fidio you might have come into contact with it it's kind of like
+[11:32] a video service but it also does audio as well and yeah so pings marks and it gets like a
+[11:43] streaming key which is what you need to use to live stream from like software and then you pop the
+[11:50] streaming key in and it sends out on a live stream and then the live stream kind of automatically
+[11:56] plays here and it like gives a little message that says what show is playing um yes so that was kind of
+[12:05] the idea of it um and it was really fun and I think like there were a few people who live streamed
+[12:12] and that was like the main thing I was really excited about and quite proud about so it'd
+[12:16] taken the longest to kind of tinker around with and like figure out but more often than not people
+[12:23] mainly wanted to just like record a show send it to me and then because I hadn't really figured
+[12:29] out how to do that I'd have to be like okay well I'm just gonna like wait I hope I'm by my laptop
+[12:35] and play it and then like stream it and then when the show is over I can turn it off and close my laptop
+[12:43] so ended up being kind of really hands on thing but I think I mean like between that and the
+[12:52] handing people to play a show I think that kind of eventually thought of killed it for me
+[12:59] and I was like I'm gonna abandon this thing again um and yeah what time we on okay we've got
+[13:08] quite a bit of time left but I think that's good um which brings me to today um so rebuilding it again
+[13:18] was so this is the kind of like most recent part sort of five years on um which I've been working on
+[13:27] for the last few months I guess so this time round I was like okay I'm gonna finally rebuild it I'm
+[13:34] gonna finally rename it to something that makes sense when people aren't all kind of like living
+[13:39] and lockdown I would see each other um but I'm also gonna like I feel like I'm kind of you know five years
+[13:47] more experienced I'm gonna do everything so much differently now so much better um and I think oh yeah
+[13:56] one of the things I forgot to say as well is that once a show would be streamed it would kind of send it
+[14:03] to a server it would like process it and then send the kind of like recorded show to mix cloud
+[14:11] which would archive it and one of the main things I was like I'm gonna change it about was this like
+[14:18] reliance on existing tools that I needed subscriptions for um because I was like I'm gonna make it like
+[14:26] really sort of like I'm like I want it to be like DIY I want it to run on its own steam and not kind of
+[14:33] be dependent on all of these other tools and services um another thing I wanted to do was make it
+[14:39] actually more accessible for people who aren't DJs don't have streaming software or like
+[14:45] or like you know a lot of streaming software like OBS for instance is open source and it's free
+[14:50] but a lot of people like see it and are a little bit intimidated by it and I think having that as a
+[14:57] like that felt like quite a big barrier for some people um so this time I was like okay I want
+[15:03] actually for people to be able to kind of just like press a button in the browser and like
+[15:09] if they literally want to like tool them to their computer microphone and record something that way
+[15:14] they can and it's like unintimidating and they're like millions steps to take before you can do anything
+[15:21] it also just kind of wanted to make it cheaper to run so the sort of previous edition it had like a
+[15:27] server kind of you know like processing things and pinging the other parts of the site and telling
+[15:33] the front end of the site like okay there's a radio show on like show this bit of text like show this
+[15:39] stream etc. I also had like a mixed cloud subscription previous to that had like a mixler subscription
+[15:50] so there are all these different things make it more hands off that was a big thing because I was like
+[15:57] actually that's kind of that got really really really boring the last time and it maybe would have
+[16:03] been something I could have sustained for a bit longer had I not been just like oh now I have to
+[16:08] like go and like play someone's show and wait for it to finish and like have another evening in
+[16:12] doing nothing because it's but it's my own fault the next one was um I wanted to make it a little bit
+[16:22] more secure because that was one person who was like really lovely and really excited about it which
+[16:30] like is a wonderful thing but they were so excited that I'd be like okay like you've got to show
+[16:36] at this time so like you can you can stream then and then occasionally I'd like go on the site and be like
+[16:41] that's funny I don't think anyone's got to show but someone is streaming and it turns out
+[16:47] it was this person who was just kind of like treating it like his kind of living room and I had to
+[16:53] be like really sorry like you're really sound and it's really nice if you're at site in bit like you
+[17:00] can't do this anymore and then the last one is like actually document it properly this time actually
+[17:06] write a read-ree file because coming back to this like because I was kind of like I'm going to kind
+[17:11] of take what I've already done a part and re-constitute into it into something new and I like just
+[17:17] looked at the code and I was like this is horrible I don't know what any of this is so yeah the answer
+[17:28] to the kind of make it cheaper and also make it less reliant on kind of third party things is
+[17:36] this little raspberry pie here so on this I think also like part of it is me just being
+[17:45] excited about having like my own server and my flat but what this does is it kind of
+[17:54] it kind of accepts all of the like incoming connections so like whenever someone starts streaming
+[18:02] it basically taps this on the shoulder and tells it like right tell all the front ends of the
+[18:07] website to like announce this or like play this stream so yeah the kind of that it's like looming
+[18:19] question over me there's always been like is it DIY enough is it off grid enough and doing it
+[18:27] this way felt like a nice way of doing that but I think with this it's like because I'm only kind of
+[18:36] partly through this project it kind of remains to be seen whether this is going to be reliable enough
+[18:41] because I also know that my flat kind of has like random drops in internet service every sort
+[18:50] often and their world probably come a time when like that drops out a crucial moment but
+[18:57] I think for the time being I'm kind of willing to see if that works and again I'm kind of like
+[19:06] I want to keep the project as scrappy as possible because I think if it kind of grows into something
+[19:12] that's a bit more serious than that it kind of starts being a little bit less fun it becomes more
+[19:20] serious and I think because it's like it's very much a sort of hobby project at the moment
+[19:25] I'm like I don't want it to be serious the next thing is like in with the kind of DIY thing is
+[19:35] licensing which is a kind of worms so I completely forgot why I originally used mix clouds to kind of
+[19:45] archive all the shows and a lot of the time if you kind of if you go on a radio website of like
+[19:54] I suppose like something like NTS or
+[19:57] Balamy or like any of these other online radios often know you use like SoundCloud or mix cloud to
+[20:04] archive their streams and I think the reason that is from like the research I've done and I'm not
+[20:11] NTS but so I'd love to like if anyone else knows anything more about this than I do I'd love to kind of
+[20:18] know more about it but basically you've got to get two kinds of licensing when you're playing music on a radio
+[20:26] there's PPL and there's PRS and that's just kind of in the UK it differs in different countries and jurisdictions
+[20:34] and one is kind of like the recording rights or like the yeah the rights the recorded music itself
+[20:40] and then the other one is the sort of like songwriting rights and these
+[20:45] like these basically pay like anything that's like license to a lot of the sort of like more major labels
+[20:55] but also it means like artists get paid they kind of yeah they sort of like get regular payouts from these
+[21:01] companies for royalties their music again used and licensing kind of like live streaming
+[21:10] is one thing and you can kind of quite easily get a quote from these companies to kind of
+[21:17] cover a make sure you're not like doing kind of illegal anything
+[21:25] and but then that's the kind of like the issue of sort of archiving streams anything that's
+[21:31] on demand anything that's like the people can pause or like choose what to play or kind of rewind and
+[21:37] scrub through that it becomes like much dicey a territory and you kind of have to get like a
+[21:44] custom quote and you have to be able to like estimate how many times people are going to
+[21:49] stream those things and obviously you don't really know what those numbers are going to be
+[21:54] so platforms like mix cloud and soundcloud have kind of blanket sort of deals with these
+[22:02] licensing bodies which means that they kind of handle the licensing and you just pay this kind of
+[22:09] monthly subscription to them and of course I don't know I think depending on the scale of what you're
+[22:16] doing that I think it's usually like much more sort of like a fashion like financially speaking to
+[22:27] just do the subscription because you could end up spending loads on kind of
+[22:33] forking out for a license yourself when it's actually kind of like quite disproportionate to
+[22:39] the size of the thing you're doing but yeah I've kind of struggled with that because on the other
+[22:44] hand I'm like I'd quite like to have it to like have it on my own servers and not have to sort of
+[22:51] continue the subscription and then the other part of me is like why don't I pirate radio like
+[22:58] wouldn't that be cool but then I'm like but wait but like the artists and I know yeah I don't know
+[23:04] I know a lot of it goes to like major labels who have you know ways of kind of taking the majority
+[23:11] of the money and often the artists and those labels don't necessarily get paid fairly but I think
+[23:16] the fact that the artists are getting paid some of that is kind of yeah I don't know it weighs on me
+[23:26] heavily enough to be like oh no I'm gonna do things properly so yeah I'm gonna kind of show you
+[23:37] where the sort of new version of the radio is at at the moment so this is I've called it tiny radio
+[23:43] because like that was kind of cool that was a sort of decision I made like quite early on
+[23:49] so I was like oh I want it to be really small and I don't want to be like reluctant on anything else
+[23:53] and it's gonna be this tiny thing and it's gonna be really scrappy and easy to make and then I kind
+[23:58] of went like I spent like a month of being like talked to me to my poor partner who was sitting there
+[24:06] while I kind of like made it more and more complicated so yeah so like it's kind of ironic but
+[24:13] but then also know it is kind of tiny it's a little tiny radio and then when someone is live on
+[24:20] air the little wizard comes out of the booth and you see the little show of not along the bottom
+[24:26] which you can play and now I have both live stream controls but also a place where you can drag and
+[24:36] drop a show and it will thank you to the little raspberry pie it will kind of like wait until
+[24:42] it's like the time for it to play and then it will kind of like play it at the time so it's not
+[24:49] technically live streaming but it's like synced up with the time it's meant to be playing
+[24:57] and I don't have to touch it so yeah hopefully if that actually works and it doesn't bug out then
+[25:03] that will be amazing I've also I've gone like full surveillance state and made separate
+[25:10] logins for people and I've also made the logins kind of delete themselves after one use
+[25:18] so they're like single use logins so no one can just use the same credentials to log in again
+[25:24] and again in stream willy nilly and I've also made a little schedule so you can see what's coming
+[25:32] up and here are all my like yeah placeholder names of stuff of me like testing I was when I was
+[25:42] kind of building and testing this as well I had like a really bad cold so a lot of the kind of test
+[25:47] recordings that I had to go through underneath were just me sort of like sniffing and snuffling
+[25:52] and they're really horrible to listen back to but yeah okay so I think this is like
+[26:00] this is still ongoing these are kind of still the questions I'm asking myself and I don't really
+[26:06] have like full answers to them yeah I think really what I want to do is kind of like yeah
+[26:17] test it out in the real world because like I think it was yeah it got to the point where I'd just been
+[26:24] kind of like hunched over my laptop for about three days and hadn't really left my flat
+[26:31] and then kind of remembered like oh actually the whole point of this is to like get people
+[26:36] together and like community and like have people play shows and then I sort of remember to like
+[26:44] help people as doing it and got a little bit of interest which was nice and kind of unexpected but
+[26:52] I think yeah ultimately it doesn't like this is definitely not a kind of like crash force and how
+[26:58] to build a radio because I don't really know what I'm doing but I think the main point of it is
+[27:04] the friends we made along the way but also like the other thing is like sometimes it's just really
+[27:13] nice to sit in a dark and room and not speak to anyone and tinker with your pet projects and
+[27:19] like you might get bored of it after you've finished working on it but it was fun anyway
+[27:28] but yeah that's me thank you so much

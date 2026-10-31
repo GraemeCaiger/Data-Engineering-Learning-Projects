@@ -1,0 +1,885 @@
+[00:00] Thank you everyone.
+[00:15] Thanks everyone.
+[00:17] Sorry, I'm going to have to go fairly fast through here.
+[00:21] I've already had to say much out that I wanted to talk to you about.
+[00:24] So, I'm trying to calm in what I can.
+[00:28] Who am I? I'm not a railway professional.
+[00:31] I'm actually an engineer at the UK Parts Collector,
+[00:34] a diamond light source down in Oxfordshire.
+[00:36] I gave a talk at the MF last time.
+[00:38] I was on a sabbatical at the Sun.
+[00:40] I talked about the Sun technology.
+[00:42] So, now I'm back in the UK, back at diamonds.
+[00:44] But I am in my spare time training for structured nerd.
+[00:47] And I've all entered it.
+[00:49] Lots of different railway preservation,
+[00:51] sort of a steam railway,
+[00:52] so I got into preserving some main line signaling stuff.
+[00:56] And then an opportunity arose to join the team at London Transport Museum
+[00:59] depot, restoring the old alley systems,
+[01:02] and learning lots and lots of amazing knowledge
+[01:05] and engineering discoveries that occurred and could be preserved there.
+[01:10] I'm also, I lead for a small open signal box project,
+[01:13] which we are producing an open source simulator
+[01:17] and hardware for museums and private people
+[01:20] to simulate trains on real signal boxes and fake ones
+[01:24] and link them together. So that's a lot of fun too.
+[01:27] So, disclaimer, as I said, I'm not a railway professional.
+[01:31] I know a bit about what I'm talking about.
+[01:33] I've seen a gaggle of people in underground hibis,
+[01:37] yesterday here, so they probably know a lot more than me about certain parts.
+[01:41] But I like to think that I've got good heritage knowledge now,
+[01:44] so maybe there'll be something for everyone to learn.
+[01:47] Also, a lot of the systems that are installed,
+[01:50] very by-line, even if it's the same system,
+[01:53] it may have been funded at a different time for upgrades,
+[01:56] and so it could be a Mark IV versus a Mark IV,
+[01:58] and therefore things can be different.
+[02:00] So, don't take anything I say as true for everything.
+[02:04] So, quick agenda, plugging a book that's just been written all of this,
+[02:08] not by me,
+[02:09] a brief intro to the underground for those who aren't familiar,
+[02:12] but very brief.
+[02:13] Fundamentals of the London Underground Signaling,
+[02:15] what you'll see on the line side and how it's different from the main line,
+[02:18] which I think will be quite interesting for everyone.
+[02:20] So, I mean, credible automation that was done,
+[02:23] electric mechanical, electric and you're magic in the 1960s,
+[02:26] which is really cool.
+[02:27] This is what I really want to show you.
+[02:28] And then a bit of outside self-driving trains.
+[02:31] I've cut all the computer stuff out,
+[02:33] so I hope you're not coming here, I hope you're the computers.
+[02:35] This is all going to be mechanical computers.
+[02:38] The new stuff is great, but it's commercial,
+[02:42] I don't want to talk too much about that.
+[02:44] You can probably Google as much as I know about it,
+[02:46] so go Wikipedia that.
+[02:49] By this book, if you're interested,
+[02:51] Peter's Connor, Dr. Peter's Connor,
+[02:53] he's works in the industry.
+[02:55] He's already done a book on motor power
+[02:57] and rolling stock, this is the D1 on signaling.
+[02:59] It's written in conjunction with TFL staff,
+[03:03] so it's all very accurate and checked.
+[03:05] It's really great.
+[03:06] That's a QR, okay, just numbers and link.
+[03:08] Nothing malicious, just me on that.
+[03:10] Other resources, great websites here.
+[03:13] I'm just going to freeze frames,
+[03:15] so if you want to take a picture, you can.
+[03:16] The bottom two links, there are really great papers
+[03:20] on some of the stuff I'll talk about a bit later,
+[03:23] and some of the really great engineering inventions,
+[03:25] so they're well worth a read, they're not boring, they're very interesting.
+[03:29] So, the underground, it's actually the 45% underground.
+[03:34] So originally, and I'm not talking about the overground here,
+[03:38] some of the underground lines we've got now,
+[03:40] you'll notice they run over via ducts,
+[03:42] so as originally lines were built in on the surface
+[03:45] to get over the existing buildings,
+[03:47] 1937, London and Grenich, where I went,
+[03:49] first email we in to London,
+[03:51] around 50 years later, the subsurface lines.
+[03:53] This is the construction school cutting cover,
+[03:55] you probably heard that phrase before,
+[03:57] take the road up and you lay the track underneath.
+[03:59] This is a really interesting place,
+[04:01] it's like, thanks to gardens,
+[04:03] and they had essentially a cutting they could use,
+[04:07] but there was a set of buildings at my neighbour,
+[04:09] and so in order to keep with the road,
+[04:11] they built a fake frontage.
+[04:13] So if you go and visit that in London,
+[04:15] you can just about see around the sides that it is fake,
+[04:17] and you can see it on Google Maps too, still there.
+[04:19] And then around again, 50 years later,
+[04:21] we have the deep level line.
+[04:23] So these are the tube tunnels,
+[04:24] this is why it's called the tube,
+[04:25] because they're round tunnels.
+[04:27] The subsurface are quite often more archie-shaped,
+[04:29] especially in the station areas,
+[04:31] but the tubes were built with the great head shield,
+[04:33] so this was invented by one of Brunals,
+[04:37] seniors and engineers when they did the original,
+[04:39] under terms passenger tunnel,
+[04:41] and then later train tunnels.
+[04:45] Who round the tube?
+[04:46] Well, originally it was these railway companies that drove into London,
+[04:49] and there was a huge pederoathum,
+[04:51] and so you can see here are a big list of them.
+[04:54] They did a lot of the original building,
+[04:56] with private members,
+[04:57] build through parliament,
+[04:58] to get access, and then private funding and investment,
+[05:01] however.
+[05:02] They found that some of this funding was hard to get later on,
+[05:05] and they wanted to electrify the district line,
+[05:08] so get rid of the steam trains,
+[05:10] and they'd solicit to drill the tube lines,
+[05:13] but they were running out of money,
+[05:14] so this is the Bakerloon Hall,
+[05:15] and I'm a Gidilly, as it was called nowadays.
+[05:17] And so Charles Yerkees,
+[05:19] an American finance,
+[05:20] he'd already done the Chicago Traumway,
+[05:22] he was persuaded to come over and invest it,
+[05:25] and got a lot of overseas investments,
+[05:27] that's not a new thing,
+[05:28] to finish off these,
+[05:30] and because of that,
+[05:31] so he formed the underground electric railways of London,
+[05:34] which then became the London Underground,
+[05:36] as a company,
+[05:38] and he started a bit of standardisation,
+[05:41] because then owned a lot of them,
+[05:43] so Charles Holden and Leslie Greene,
+[05:45] two famous architects that were used for it,
+[05:47] Leslie Greene,
+[05:48] responsible for these lovely terracotta marion-trial stationfronts.
+[05:53] Then to the present day,
+[05:55] they also absorbed everything this company,
+[05:58] they then got the buses,
+[06:00] the trolley buses, the trams,
+[06:02] and they found they got a lot of competition
+[06:04] from lots of small, unregulated bus companies,
+[06:06] and they were very paly with the government by then parliament,
+[06:09] because they were a big company,
+[06:10] and so they persuaded them to introduce regulation,
+[06:13] and they created the London passenger transport board.
+[06:16] This wasn't the nationalisation,
+[06:17] it was a public owned company,
+[06:19] and of course there were a lot of people
+[06:20] who owned the underground company,
+[06:22] who then got shares in the LPDB,
+[06:24] and that pushed out all of those small companies.
+[06:27] Then a bit later,
+[06:28] 1948, the nationalised,
+[06:30] and both of those run to the guys of London Shandsport,
+[06:34] this logo down here,
+[06:35] and then with the Greater London Authority
+[06:37] reorganisation under Ken Livingston,
+[06:39] then turned into transport for London,
+[06:41] the Millennium.
+[06:42] Right, that's the history of the underground,
+[06:44] onto the signaling.
+[06:46] I'm doing a quick run-side signaling entry.
+[06:49] I'm just assuming you have some railway signaling knowledge,
+[06:52] very light.
+[06:53] There are other talks this year in previous years
+[06:55] that go into that more in detail.
+[06:57] As far as I'm concerned,
+[06:59] the signaling does about four things.
+[07:00] One is we have the signals,
+[07:02] which gives drivers permission to proceed,
+[07:04] and ones of the state of other signals ahead.
+[07:06] We have the points,
+[07:08] which change the route of the train.
+[07:10] These have to be interlocked with the signals,
+[07:12] so that you can't give a clear signal
+[07:13] to cross over points that are set wrong,
+[07:15] etc.
+[07:16] Protects trains.
+[07:17] Train detection.
+[07:18] This is where we want to know where the trains are.
+[07:21] This is important moment,
+[07:22] signaling larger areas,
+[07:23] where a signal mumbling levers
+[07:25] can't just see that the train is an outside.
+[07:27] So we use electrical systems to detect those.
+[07:30] That then gets fed into the interlocking
+[07:33] to make sure that the signals also know that information.
+[07:36] It's much more reliable to do it that way.
+[07:38] Then train-deschgribes.
+[07:41] Although we might know a train as somewhere,
+[07:44] we don't know which one it is.
+[07:45] The train-deschgribes system tracks the movement of specific trains,
+[07:48] which is important if your next signal box
+[07:51] needs to know where to send a train.
+[07:53] If it's got the order of the trains wrong,
+[07:55] it might send the wrong train the wrong way,
+[07:57] and the passenger is very happy.
+[07:58] It's the main line that's feed into delivery
+[08:00] systems as well.
+[08:01] It's a very expensive system to keep working.
+[08:03] If you get it wrong,
+[08:04] then it can be quite financially expensive.
+[08:07] Are these signaling on the underground?
+[08:09] So it followed the main line factors as it came into the city.
+[08:12] So we see typical manufacturers for the main line.
+[08:15] Sykes, McKenzie and Holland,
+[08:17] Sykes, the infomer.
+[08:18] We have some steam line fears.
+[08:20] There's a circle line on the inner circle.
+[08:22] Some semifore signals.
+[08:23] And a conventional signal box here.
+[08:26] We have a rickman's weapon on the metline.
+[08:29] These have got these lovely balanced signal arms.
+[08:31] And then there's called the district, a conventional
+[08:34] gantry.
+[08:35] So very similar to what you see on the main line.
+[08:37] But then they want to go into tunnels.
+[08:39] And these don't fit very well in tunnels.
+[08:41] As you can see from here.
+[08:43] So on the left picture, we have King William Street.
+[08:45] This is the first cheap line.
+[08:47] And it's very closed by now.
+[08:49] But we have some very stubby semifore signals
+[08:52] to start the trains off from the two sides of the platform.
+[08:54] But they do have the spectacle plates.
+[08:56] So these are the colored lenses that go in front of the lamp
+[08:58] to make it red or green.
+[09:00] Although back then it was just about green.
+[09:02] But they started off as white and red.
+[09:04] But they turned into green and red.
+[09:06] But they didn't say well, there's no point with the semifurarms.
+[09:09] Now one can see them.
+[09:10] They're just looking at the colored light.
+[09:12] So then they just move the spectacle plate.
+[09:14] And in the middle here, we have Finsbury Park.
+[09:16] And the pick line in 1996.
+[09:18] And this is just lifting the spectacle plate up and down
+[09:20] with the powerfin lamp behind.
+[09:22] But the problem they found is that the draft in these closed
+[09:25] tube tunnels was blowing out the powerfin lamp.
+[09:27] And they just about had enough reliable electric supply
+[09:31] to light an electric lamp, which was only bright enough for you
+[09:35] in a tunnel at that time.
+[09:36] But it did work.
+[09:37] So you had tunnel lamps.
+[09:39] So here on the right, we've got one from Paddington in 1913.
+[09:42] Still there in 2024 working well.
+[09:45] This is really interesting, actually.
+[09:47] It's one of the best thing houses first tunnel signals
+[09:49] like this.
+[09:50] And so much rather than switch between red and green on a relay,
+[09:53] which we normally do now, they use this flux neutralizer circuit,
+[09:57] which sounds very EMF.
+[09:59] And essentially your red light, which is your safety light,
+[10:02] you always want to feel the light out, was always powered.
+[10:04] And when it powered the green light, it had a winding,
+[10:07] which was cancel out the current in the red lamp.
+[10:10] So the red lamp was always powered.
+[10:12] And it was only if the green turned off that the red
+[10:15] would then be allowed to light again.
+[10:16] But if you had a failure, then the red should still stay lit.
+[10:19] Nowadays, our systems are reliable enough and proven
+[10:22] that we don't have to do that circuit.
+[10:24] You're noticing the middle here, this is actually activated by
+[10:28] electronumatics.
+[10:29] And I'll go into that in a bit later,
+[10:31] so definitely a big London underground thing.
+[10:33] So let me have multiple aspects signaling.
+[10:35] This is outside.
+[10:36] So I mentioned that the lamps went bright on a few sounds.
+[10:41] So this is tron the main line as well.
+[10:43] But then we got to the state where
+[10:46] the hotel was in the house and the company is invented
+[10:48] the fronale lens on a signal head.
+[10:50] So this takes all of the light radiated by the bulb
+[10:53] and as much as possible cuts the lens in a lot of different angles.
+[10:57] So we can shoot the light forwards.
+[10:59] I don't think we have any fronales in this lighting rig,
+[11:01] but in theatre lights, this is another trick that you play with fronale theatre lights.
+[11:05] So on the left, you see the original ones,
+[11:08] which had a single hood for each signal.
+[11:10] So each one of these could go red or green.
+[11:13] Then what happened is they decided that they did these nice fronale lenses.
+[11:17] They could shoot the light forwards, focus it,
+[11:19] and use it outside.
+[11:20] They put individual hoods on.
+[11:22] And at that point, they had a worry
+[11:24] that snow might build up on a hood and obscure the lamp above.
+[11:27] And that's where for the first time,
+[11:29] they decided to red light at the bottom.
+[11:31] So you'd never get snow built underneath.
+[11:33] And that's why railway signals,
+[11:35] one of the reasons, railway signals,
+[11:36] have the red light at the bottom,
+[11:38] yellow or amber.
+[11:39] Sorry, yellow and signaling.
+[11:41] And then green at the top for as in traffic signals,
+[11:43] it's the other way around.
+[11:44] Interestingly, the road traffic signals
+[11:47] were taken from railway signals.
+[11:50] Firstly, a semaphore, a crossing in London,
+[11:52] or a freight-bibbley policeman.
+[11:54] Then they switched to a, I think it was a gas or oil powered lamp,
+[11:58] which exploded and killed the policeman.
+[12:00] So they then got rid of it for a while.
+[12:02] And then when they got the electric supply in,
+[12:04] they put it back in again, and there's this history.
+[12:07] So you also notice here,
+[12:09] you have this little side light.
+[12:11] This is called a pig's ear,
+[12:12] because it looks like a pig's ear.
+[12:14] And this is such that, remember I said,
+[12:16] the lens was focused, so that you could see it for a way,
+[12:18] with a low powered lamp.
+[12:20] If you draw up to the signal to stop at the red,
+[12:22] you then can't see the lamp anymore,
+[12:24] because it's all focused away from you.
+[12:25] So the pig's ear, let's see that.
+[12:27] Interestingly with this,
+[12:28] this is a modern franal lens,
+[12:29] which is suitable for main line use as well.
+[12:31] Your notice says this sort of 45 degree angle,
+[12:34] where you can see some of the light.
+[12:36] This is called a hot strip,
+[12:37] and the franal lens is flatter.
+[12:39] And in the main line, you just have that.
+[12:41] And that lets you see the light from drawn up close.
+[12:44] But in the London Underground,
+[12:45] they also have the pig's ear,
+[12:46] because originally they didn't have that special hybrid lens.
+[12:49] So what else we got here?
+[12:51] On the right-hand side, we see a junction indicator,
+[12:54] a root indicator.
+[12:56] On the London Underground,
+[12:57] they have three white lights,
+[12:58] and the main line, it's five.
+[13:00] Or can be a single bone hour
+[13:03] with some of the modern LED signals.
+[13:05] So this lets the driver know that they're taking a diverging route,
+[13:08] and they have to run it at a reduced speed.
+[13:10] The driver has root knowledge,
+[13:11] and they will have the different speeds for these junctions.
+[13:14] There's also a few other bits,
+[13:15] which we will cover in a second, so I won't get through them now.
+[13:18] Other things you see on the tube,
+[13:20] single-ing rail gap indicators.
+[13:22] This is very interesting.
+[13:23] So if the electricity in front is cut for some reason,
+[13:26] either intentionally for maintenance or because there's been an issue,
+[13:29] these will light up with three red lights.
+[13:31] They also have a repeater.
+[13:34] In case you're breaking distances,
+[13:36] isn't long enough for sighting that signal,
+[13:38] and that's in yellow,
+[13:39] and it will be before you see the indicator.
+[13:42] What's fun with these is that they're treated as a red stop signal,
+[13:46] because your train will get gapped,
+[13:48] or you will run out of juice if you go over it.
+[13:51] But depending on the line and the operational rules,
+[13:54] sometimes they get permission to jump for gap,
+[13:57] in which case the instruction is to motor up as hard as you can,
+[14:00] and jump over.
+[14:01] It all depends on the line and the rule vector,
+[14:03] it's interesting.
+[14:04] Repeaters.
+[14:05] So this is something that if you look at the signaling on the underground,
+[14:08] it might confuse you the most,
+[14:10] especially the signal on the right-hand side here.
+[14:12] So on the London underground,
+[14:15] they don't really have distant signals,
+[14:18] per se, and mainline signaling,
+[14:19] if all of your normal signals are clear
+[14:21] for a station or a distant or clear,
+[14:23] and that's the driving that they don't have to slow down.
+[14:26] But they do have repeaters.
+[14:29] And this, you have permanent repeaters,
+[14:31] where the sighting of the next signal
+[14:33] might be too short, either around a corner, or there's an obstruction.
+[14:37] And the London underground, they stack them.
+[14:39] So this is not a four-rass-peck signal,
+[14:41] like on the mainline with two yellows and things like that.
+[14:44] It's actually a red, and green signal at the top,
+[14:47] and then there's a red, a green and yellow signal, sorry,
+[14:50] but below, which tells you the state of the next signal ahead.
+[14:54] And then below that, we also have a fog repeater
+[14:58] for the next signal ahead.
+[14:59] And fog repeaters are used for signals,
+[15:03] which normally wouldn't need their own repeater,
+[15:06] but in foggy conditions, depending on the location,
+[15:08] if it's being open, play, so somewhere that fog's level to come in.
+[15:11] Then they used to be enabled by the signaler,
+[15:14] but nowadays they're all wired to be permanently on.
+[15:17] So they normally nowadays have a black letter F,
+[15:20] etched in the glass,
+[15:21] when the next signal is at red,
+[15:24] or just green when it isn't.
+[15:27] So shunt signals.
+[15:28] So these are electroneumatic signals.
+[15:31] They're getting replaced with electrical litruans,
+[15:34] but you still see a lot of these now.
+[15:36] These are rotating discs,
+[15:38] very similar to the mainline shunt signals,
+[15:40] at least older style.
+[15:41] And they are normally accompanied by a root indicator here.
+[15:46] So this is a theatre type indicator,
+[15:47] with lots of lamps,
+[15:48] and that will tell the driver,
+[15:50] which platform in this case,
+[15:51] they're driving into with their train.
+[15:53] So these are electroneumatic.
+[15:55] I'm going to talk about that in a little while.
+[15:58] Points, just getting through the other infrastructure,
+[16:01] you'll see.
+[16:02] And actually in thematic,
+[16:03] so this is where rather than use,
+[16:06] originally they didn't have enough reliable power
+[16:09] to drive point motors and physical drives.
+[16:12] I know they're driving trains with the traction power,
+[16:15] but that's different.
+[16:16] So they didn't have enough signaling power to drive those reliably,
+[16:19] but they used air.
+[16:20] And the air, which I'll talk about in a second,
+[16:23] came from the American system that they were over.
+[16:26] But they're effectively,
+[16:27] they're aeroperated.
+[16:29] They're initially mounted on the wall.
+[16:31] Then they were put between the rails,
+[16:33] or in the four-foot, as it's called.
+[16:36] And then the more modern versions are chairlock points
+[16:39] where these are now built in even smaller footprint.
+[16:43] And then nowadays they're starting to switch everything out to electric.
+[16:47] So they originally trialed in 1924,
+[16:50] the Western House Electric Machine.
+[16:52] It took three times as long to move the points as the main line.
+[16:55] And in the underground trains move very quickly,
+[16:57] especially in the changes.
+[16:59] So those three times as long as the extra seconds did count.
+[17:02] Also they didn't like the fact that it was a complicated machine.
+[17:05] There were lots of parts from another company,
+[17:07] whereas they could maintain the air-operated ones in-house,
+[17:10] and they were very, very simple.
+[17:12] However, in 1990, sort of corporate pressure to buy off the shelf
+[17:16] came in a bit more, and they had faster machines.
+[17:19] They were slower than the air-work points, but they are much faster now.
+[17:22] And nowadays we even have in-depth solutions.
+[17:25] It's hidden inside a single sleeper on the bottom right there.
+[17:28] And this is really great for track maintenance,
+[17:30] because if they have packing machines or anything that they have to go
+[17:34] between the sleepers, they don't have to make an exception
+[17:36] when they get to the point as much of an exception.
+[17:39] Actually, pneumatics.
+[17:40] So as I mentioned, everything runs on air.
+[17:42] And this is because Charles Yorkis, when he started UERL,
+[17:45] bought over a Westinghouse company from the US,
+[17:48] who just on the Boston-Elevated Railway to sort out the signaling.
+[17:55] Westinghouse-breaking signal company made breaks and signals,
+[17:59] that they started with air breaks,
+[18:01] and a lot of modern trains use,
+[18:03] drivers use a resting house air break,
+[18:05] and then he is the same technology on the signaling.
+[18:08] So each location, each signaling location,
+[18:11] station should I say, the signal box is there.
+[18:14] So we have their own air compressor.
+[18:16] This generates around 60 psi at that location.
+[18:20] It goes, there's a pipe on each side, an eastbound, an OSbound,
+[18:23] or an northbound southbound.
+[18:25] It's the silver pipe on the top of all the cable runs you see
+[18:28] out the window in your commuting.
+[18:30] And whenever there's something that needs it,
+[18:32] a rubber pipe will drop down from that,
+[18:34] and it will go into one of these things,
+[18:35] which is a glass enclosed electronemetic valve.
+[18:38] And this electrical cable will go in,
+[18:40] and it's just a solenoid valve really.
+[18:42] And so you can see an example here.
+[18:44] So the shunt signal is actually have them mounted on the back,
+[18:48] but the points don't.
+[18:49] So on the side here, you'll see there's a little one here,
+[18:52] and a little one here.
+[18:53] And they've got a glass window,
+[18:54] so you can look inside and check they're all happy.
+[18:56] But you know, play this game,
+[18:58] try and spot them whenever you see,
+[19:00] but to remember structure.
+[19:01] So yes, there we go.
+[19:03] Controlling the signals.
+[19:05] As you've talked about the stuff you see on the side,
+[19:07] how do they work, how do they get moved?
+[19:09] So we get me started to be conventional,
+[19:11] or labor frames, same manufacturers as before.
+[19:14] The metropolitan line being quite a long run,
+[19:17] all the way up to Buckinghamshire to Quaint and Road,
+[19:20] originally, the huge distance out.
+[19:22] They retained mainline signals for a lot longer
+[19:26] and big levers, because they sort of were operating
+[19:28] a mainline railway out there really.
+[19:30] A nice example I give is Boston Manestation on the Piccadilly.
+[19:34] The signal box is still there.
+[19:36] It only was open for 20 years.
+[19:38] It's still there.
+[19:41] It's very impressive.
+[19:44] I have covered this already, but just to recap,
+[19:47] Western Council for the Signal Company.
+[19:49] This is the Boston Elevator Railway,
+[19:51] and they've got the technology over.
+[19:53] But to control the electromagnetic system,
+[19:56] you don't need big levers anymore.
+[19:58] You don't need to pull wires and push rods.
+[20:00] You just need to move electrical contacts,
+[20:02] which then send the electrical signal to operate those valves,
+[20:05] which are a little bit more shady.
+[20:06] So they lit the frames, can be much, much smaller,
+[20:08] which means you can fit more levers in, etc.
+[20:11] So they look a bit like this is how they work.
+[20:13] What we have is the lever at the top there,
+[20:15] with a little catch handle to stop it snapping back of its anacord.
+[20:19] This then has its motion transferred down at the front,
+[20:22] where there's a rack of mechanical interlocking,
+[20:24] and I'll talk about this in a minute.
+[20:25] This is how you implement the basic rules to stop collisions.
+[20:28] And then what it also does is it connects to a shaft
+[20:31] that rotates along the back.
+[20:33] Those go to electric locks, and they interact with the track circuits,
+[20:37] which I will tell you about in a minute.
+[20:39] This is making sure that trains aren't, for example,
+[20:41] sat over the points when you want to move them.
+[20:43] So that's another level of locking.
+[20:45] And then at the back we have the contact pieces.
+[20:48] So these are the bits that just measure the position of the lever,
+[20:51] and then actuate the different valves and circuits.
+[20:53] So this is what it looks like with the cover off.
+[20:55] And these are some of the original sort of style style,
+[20:58] style cave frames that they had.
+[21:00] Lovely or night wooden case piece of glass
+[21:02] in front of the interlocking so you can inspect it.
+[21:05] And on the right hand side we've got some train dash drivers,
+[21:08] which I might have time to talk to you about.
+[21:10] And then we see a more advanced system, as a style end.
+[21:15] And on this one you can see behind the levers.
+[21:18] We've got the little red lamps, these tell you if the signals are red.
+[21:21] Danger, if the or on is it's called in Lingo,
+[21:25] if the signal clear is always off, then the lamp extinguishers.
+[21:29] All the signal in these for no is if it's stopping the train or not.
+[21:32] Doesn't matter what other aspect it is,
+[21:34] although in London underground it's normally only green,
+[21:36] mostly two aspects signaling.
+[21:38] An interesting part on the right hand side, if you look underneath one of these frames,
+[21:42] you have these interesting linkages.
+[21:44] These are sort of breakaway linkages.
+[21:46] So rather than an airant signaler,
+[21:49] yanking a lever, I'm breaking some of this finely-changed mechanical interlocking,
+[21:53] which I'll show you in the next slide.
+[21:55] They actually snap the lever, and then that's much easier to fix.
+[21:58] Then it is to do the next bit.
+[22:01] Into locking.
+[22:03] So this is used in the main line as well as under ground.
+[22:06] It's much smaller in need to under miniature frames,
+[22:08] and it's easier to work with.
+[22:10] So this is essentially as a set of metal sliding bars,
+[22:13] which allows you to implement logic rules.
+[22:15] It's a bit like a sliding puzzle game.
+[22:17] So for example, so on the left hand side,
+[22:20] it's the same system, it's in different states.
+[22:23] So we start on the left, and we've got lever number one,
+[22:26] which comes across the top row, is normal.
+[22:30] So it's in the back position, and lever number seven is also in its back position.
+[22:34] And this thing and the vertical part has this little wedge.
+[22:37] It's called the called cat and dogs in London underground apartments.
+[22:41] And if you were to move, leave a one forwards,
+[22:44] as you can see, it's now still across.
+[22:46] And this means that this vertical part can't move up now.
+[22:50] Why would it want to move up?
+[22:51] Well, if you wanted to pull lever seven, it would slide it upwards.
+[22:55] So when both of them are back, you can pull either of them.
+[22:57] If you pull any one of them, it will block the other one from moving.
+[23:01] And this is how you implement the rules.
+[23:03] It doesn't just have to be on the adjacent levers.
+[23:05] As you can see, the here, this is one and seven.
+[23:07] So really, there's going to be six others in the middle.
+[23:10] So five others in the middle, Saturday.
+[23:13] So yes, that's mechanical interlocking.
+[23:17] In the main long railways, we've moved away from this now.
+[23:21] As you'll see, Robert Del, the chief engineer,
+[23:24] who made some amazing automation inventions,
+[23:26] he always stayed with it because he knew that it was very, very reliable.
+[23:30] And would, you know, save his bacon, if he invented something
+[23:33] that had a mistake in it.
+[23:35] So let me talk a bit about track circuits.
+[23:37] So this is how do we detect where the train is?
+[23:40] Basic principle is the same as we have on the main line.
+[23:43] So these were copied from the US,
+[23:45] even before the Yankees and all of that,
+[23:47] they were invented in the United States track circuits.
+[23:50] What we do is we take, I think it's big enough to see a bit up there.
+[23:53] Sorry if it isn't.
+[23:54] We take a battery because back then signal boxes
+[23:57] just had local batteries.
+[23:58] They didn't have mains everywhere, and they get swapped out on top.
+[24:01] And we put it across the rails.
+[24:03] So only has to be, you know, ten volts, maybe a bit less.
+[24:06] That goes down the two rails.
+[24:08] Where they're connected, it's an insulated joint.
+[24:11] So it used to be wooden blocks nowadays, it's plastic and different polymers.
+[24:15] The current or the voltage goes down those rails.
+[24:19] And if there isn't a train there, at the other end,
+[24:21] we have another insulated joint and reconnect it to a relay.
+[24:25] And so normally it will energize that relay.
+[24:28] In a very, very quickly, we pick the relay.
+[24:30] We pull the contact up and that proves that there isn't anything on the track.
+[24:34] So it's proving that this track is clear,
+[24:37] not that there is something there.
+[24:38] It's a fail safe way of doing it.
+[24:40] If our power supply dies for some reason,
+[24:42] the relay will fall away.
+[24:44] And this is the same as if we had a train there,
+[24:47] because a train wheel being cast iron will short out that circuit.
+[24:52] So instead of going through the relay,
+[24:54] it will go through the train wheels.
+[24:56] So the relay also falls away.
+[24:58] Because of that short circuit, we have some series resistors.
+[25:00] That's why they're in the diagram,
+[25:01] to make sure we don't blow our battery out.
+[25:03] And that's the basic premise.
+[25:04] We have to watch out because of ballast resistance.
+[25:07] So the sleepers and the stone or concrete between them
+[25:11] are not going to be a problem.
+[25:12] So the lead gauge current there,
+[25:14] and a lot of setting up track circuits is balancing all of this.
+[25:17] That's a limit to how long they can be as well.
+[25:19] As long as the more of a parallel resistance,
+[25:22] we have reducing that effect.
+[25:25] This brings us onto the number of rails we have on the tube.
+[25:29] So four rails, it's very, very rare to have four rails on one transit systems.
+[25:34] The reason why they went for four rails is because they were worried
+[25:39] about the amount of power that would leak through this balance resistance.
+[25:44] So the main two rails that the train sits on are not mounted on
+[25:50] porcelain insulators, which the other two ones are.
+[25:53] You have to be able to take the weight of a train,
+[25:56] so you can't sit them on porcelain insulators.
+[25:58] The traction rails are mounted on porcelain insulators.
+[26:01] So they've got a very high insulation to go see the ground.
+[26:06] Originally they didn't think they'd have enough power to leak it all
+[26:09] through the ground and waste it.
+[26:10] So that's why they decided to have two dedicated rails.
+[26:13] It also made implementing the original DC track circuits
+[26:16] much simpler because you didn't have any traction DC
+[26:19] on the rails you want to use your track circuit
+[26:22] that might falsely pick up your relay,
+[26:24] which is not what you want because then they'll pretend that there isn't a train there when they really is.
+[26:29] So this made the DC track circuit possible on the London Underground.
+[26:33] So they made it to the 32-year-old DC track circuit system,
+[26:36] which is where they said you know what we don't need to cut both rails.
+[26:39] We can actually have one continuous rail and then we can only
+[26:42] insulate and cut sections up in the other rail.
+[26:45] And that way the DC track shanker aren't goes down the third rail
+[26:49] and the common route, the continuous rail and the track circuit goes
+[26:52] across the other two.
+[26:53] It's still not perfect and that's why they invented AC track circuits.
+[26:57] So what we can do instead is say that the track circuit
+[27:00] is alternating current and then the traction that powers the train uses DC
+[27:04] and that way they can't falsely interfere with each other.
+[27:07] But how can you make a relay that's sensitive to AC
+[27:10] back in the 1900s?
+[27:12] And it was a very clever invention called the Vain relay.
+[27:15] It takes a sheet of metal and puts it between these electric magnet poles,
+[27:19] saw my poles and they use shaded poles, little copper rings
+[27:23] and that's slightly offset the fields and you can edit current
+[27:26] in the plate and then by positioning it correctly,
+[27:29] effectively, you're creating an electric motor.
+[27:32] It's a bit like a stepper motor that's self-inducts.
+[27:34] And then it moves this around and that then closes contact.
+[27:38] Very clever invention sets a mu into the DC of the traction.
+[27:42] Then they found that you could only do this a certain distance
+[27:46] because these relay is the great but they're very power hungry.
+[27:49] So they take about 45 watts sometimes which is a lot for a relay.
+[27:53] So if you had a very long traction, you'd actually lose a lot of it
+[27:57] through this balanced resistance and you wouldn't be able to pick up the relay.
+[28:00] So they invented another type of the dual element which had two coils
+[28:04] that made this as a bifez motor.
+[28:06] They had a local supply which was a lot beefier
+[28:09] because it wasn't going down the track and then you had your track supply
+[28:12] that came in the track feed that came off the track.
+[28:15] And that within enable it to lift.
+[28:17] What was really clever with that is that the two feeds had to be 90 degrees
+[28:21] out of phase and that was set up with the capacitor in series with the track system.
+[28:25] If it wasn't then it wouldn't work.
+[28:27] And that's good because it meant that if you accidentally
+[28:30] shorted your local feed to your track input, it wouldn't work
+[28:34] because it wasn't 90 degrees out of phase.
+[28:36] So it was a very clever system there.
+[28:38] These are big, the known as fish tank relay.
+[28:41] These glass enclosed relay.
+[28:42] This is Harron the Hill relay room.
+[28:44] So it's absolutely full.
+[28:46] But they're lovely.
+[28:47] They're really easy to maintain.
+[28:49] The mechanism is all exploded.
+[28:51] They're huge inside there and they're nice to tweak and calibrate.
+[28:54] Right.
+[28:55] It's awesome, that's exciting.
+[28:56] Now we have track circuits and we have signals.
+[28:59] Why if we have a plane section of line, we don't need a signal there
+[29:02] to just sit there and change the signals all the time.
+[29:05] As long as we know the trains clear, we can set it to green.
+[29:08] So we have an automatic system that has some basic rules to clear them.
+[29:11] And I'm short for time so I'm not going to explain anymore.
+[29:14] We have another thing in the London Underground called King Leavers.
+[29:17] So this is where if you have a station that say has, I don't know, three platforms or has a reversing
+[29:22] siding.
+[29:23] But for a lot of the time you don't use that.
+[29:25] You only use that in peak hours.
+[29:26] And what you can do is set the signals up to just go straight through and not use a reversing
+[29:30] siding.
+[29:31] Pull the magic glue lever.
+[29:32] And this will set the whole system into a mode where it will automatically clear the signals
+[29:37] again.
+[29:38] So it switches it out into automatic mode.
+[29:40] The signals have a light underneath which lights up A.
+[29:43] If it's that's the case.
+[29:45] Because for a controlled signal, you have a telephone.
+[29:48] So if it's red and for a long time you call the signal and say, why am I still stuck here.
+[29:53] That's also to make sure they know that you're there.
+[29:55] And don't send something into the back of you.
+[29:57] Not that that should happen.
+[29:58] But just in case because it hasn't the past with various incidents.
+[30:02] And so if obviously if there's no signal in the box, then you're not going to be able to call them.
+[30:08] So the A tells them that this is acting hours in automatic signal.
+[30:11] And you're actually allowed to pass it after a time limit.
+[30:15] Very slowly expecting to perhaps meet a trainer on the corner.
+[30:18] So that's what the King Leave is for and the A light is for.
+[30:22] Now what have I missed?
+[30:23] This is a question for you in the room.
+[30:25] Cheered knowledge.
+[30:26] It was a fundamental part on the London Underground Signaling Night.
+[30:29] Tripcox.
+[30:30] Thank you very much.
+[30:31] Train stops and tripcox.
+[30:33] Hey.
+[30:34] What?
+[30:35] Yeah.
+[30:36] Well done that man.
+[30:37] So the whole premise of Underground Signaling and the way the wiring is designed is actually all around.
+[30:42] Train stops and tripcox.
+[30:44] Metro trains, Underground trains go fairly slow compared to main line.
+[30:48] You're normally looking around 25 miles an hour.
+[30:51] And so what this means is that if you slam the brakes on, if you hit the emergency break application, the train stops very quickly.
+[30:57] And this means you can you can take some liberties that they can't take in the main line.
+[31:01] And one of the things is by having this train stop system, which is linked to the red aspect of the signal.
+[31:07] To say that you know, you do not have any authority to proceed.
+[31:11] You can stop the train with a high degree of certainty.
+[31:14] And all the signaling circuits are really designed so that that's the first class citizen the train stop.
+[31:19] Main line, it's very different.
+[31:21] The red aspect of the light signal light is the first class citizen.
+[31:25] It's proven to be lit before anything else can happen.
+[31:27] And all the other warning systems sits on top of that.
+[31:30] Whereas on the Underground it's the train stop that's key.
+[31:33] It operates a tripcox on the train.
+[31:35] So it literally opens a hole in the break pipe, which allows it to vent.
+[31:39] And then it puts all the brakes on.
+[31:41] You see, probably seen and heard them if you're at their platform end of a station.
+[31:45] It will go hiss and you'll see this little thing go down or up.
+[31:48] They're normally up, which will operate the tripcox.
+[31:51] You can see the tripcox painted in white here.
+[31:53] It's fail safe. It will raise up if the S-plied eyes.
+[31:57] And this is what it looks like when it trips.
+[31:59] So you'll see it hits the arm and then it knocks the tripcox back and that vents the brakes.
+[32:04] And they have to test them because when they first put them in, they found that these vertical arms.
+[32:08] Sometimes were bent. And then it just misses the thing it's supposed to hit.
+[32:11] And that unfortunately did cause problems.
+[32:13] So they have tripcox testers.
+[32:15] On the right hand side you'll see there's these two little gate posts.
+[32:18] It has to go through the middle and if it goes through the middle it then hits a ramp.
+[32:22] That then depresses and the extinguishers are light.
+[32:24] And the driver sees that.
+[32:26] These are on the exits to depose and at very other places.
+[32:29] And if it doesn't extinguish then they have to inspect it and try to take the train out of service.
+[32:35] Right. Oh, well, I've got four minutes. Very quick.
+[32:38] Speeding up the service. We have really setting frames.
+[32:41] This meant that rather than pulling points and signals we just pull or push.
+[32:44] And it says sends it into platform one or platform two.
+[32:47] We then took into remote frames. So now we say,
+[32:51] OK, rather than having to have signalers everywhere.
+[32:57] Let's have it so that we can operate them remotely and build them into an extended
+[33:02] frame. And they did this with little air cylinders that would actually move the levers.
+[33:06] So again, we're preserving the mechanical interlocking.
+[33:09] But so we have all of the rules baked and to be saved.
+[33:12] But we're operating it remotely.
+[33:15] What they did find is because it's so finely changed.
+[33:18] It will actually lock up.
+[33:20] And so this engineer Kent Mr Kent decided on the circuit.
+[33:25] We'll actually do a first air puff to move the lever halfway and then a second puff called the Kent circuit.
+[33:30] So you get these two puffs. It's very fun to watch.
+[33:33] Anyway, here's an example from Harry on the hill over a remote frame.
+[33:37] And the controlling levers on the left. This is the hero on the hill section.
+[33:41] And then north and south, Harry on this end of the frame.
+[33:43] And you can see the signalers moving the levers at this end.
+[33:47] And these levers, moving automatically. They don't have cap candles.
+[33:51] And it's restricting the ring. So there we go.
+[33:54] Now you don't need to operate it then with levers because it's all electrical.
+[33:58] You can use push buttons. So they then have push button dead death.
+[34:01] There were a lot of these around. You pushed a set of new pull to cancel it.
+[34:05] Darl then invented with resting house the V style frame.
+[34:10] Because we have to try and fit these inside tube tunnels.
+[34:13] They wanted to put these in all of the ends of station doors.
+[34:16] They were called in-talking machine rooms. Squeeze them in.
+[34:19] So you tip that signal lever frame and he unfolded it to make it vertical.
+[34:23] And you've got these stubby little levers here.
+[34:25] Contact bands on the top and mechanical locking at the bottom.
+[34:27] Then what he did is he said, well actually we don't need people anymore because they found out that
+[34:31] their time tables were pretty reliable.
+[34:33] And what they did was they took a piano roll from a piano.
+[34:37] And they actually put the entire time table on it. It's incredible.
+[34:41] And so this was an amazing invention.
+[34:45] It would rewind automatically at 3 a.m. if they had a different service because of a football special or something.
+[34:51] Some person would go around in a van and have to swap them all over.
+[34:55] But just to show you what they look like.
+[34:57] So we have the time that the train should leave encoded in holes here.
+[35:00] And we have the route that should be set by the signaling system.
+[35:03] We have the train number, the identity and its descriptions.
+[35:07] We just found the platform.
+[35:09] And if the train number was wrong, there was the very first time division multiplex.
+[35:13] Thank you system.
+[35:14] We're actually encode all of these inputs and outputs and send it to a control room.
+[35:19] For example, for the Northern and Victoria line, this was co-bog street new system.
+[35:23] So it would be a great round control room.
+[35:25] And the amazing invention of technology will come back and do another talk on the Victoria line stuff because it's incredible.
+[35:31] So then one slide on it.
+[35:35] It's the world's first passenger carrying automatic driving train, or a train operation.
+[35:41] The one before it was the mail rail, which you can go and ride on.
+[35:45] But that wasn't passenger carrying.
+[35:47] So this had a lot more safety because it was carrying people.
+[35:49] They used coded track circuits.
+[35:51] They chopped them up a few Hertz and then a few more Hertz.
+[35:55] It's all under 10 Hertz.
+[35:56] It's all in counts for minutes.
+[35:57] So 100nm from minute to 70.
+[35:59] They didn't trust electronic circuitry as well then.
+[36:03] And Chris Loser later.
+[36:04] So they're actually swinging pendulum, which is very cool.
+[36:07] Which then triggered the switches.
+[36:09] And then the trains will pick that up on coils and then control a braking and accelerating on it.
+[36:14] And then to have smooth braking in the platform, they have these little spot generators, which ran at different five six seven kilo Hertz.
+[36:20] And they'd have that on the rail.
+[36:21] And it would only propagate a few feet.
+[36:23] And that would be detected by a different antenna.
+[36:25] And so for example, you see here we'd have 420 codes.
+[36:28] And then as we approach a train in the station, the different codes that are sent from the knowledge of the track circuits would change to slow the train down.
+[36:35] We also have a spot break commands to slow down for the station.
+[36:38] And inside the station there'd be many different break commands that would have a smooth halt.
+[36:43] Special signaling on these systems.
+[36:45] There would be a wide aspect as well.
+[36:47] And this means that only a train under automatic driving can pass.
+[36:50] It means there's a train ahead before the next physical signal that the driver wouldn't be able to see.
+[36:55] But the auto system knows because it has more track circuits than there are signals.
+[36:59] It's safe for the auto rig speed, but not for a driver because they wouldn't be able to see it.
+[37:03] This is the same on the central line.
+[37:05] This was also an early developed system.
+[37:07] It's used a slightly different system.
+[37:09] It's a frequency shifted, keen for the track circuits.
+[37:12] But they have a white lights as well.
+[37:14] And you can see those a lot.
+[37:15] What is a white signal? It means an automatic train can proceed.
+[37:18] It was so easy to drive.
+[37:19] You just had to push two buttons to close the doors.
+[37:21] And the train would drive itself to even green Elizabeth's drive.
+[37:24] And she opened it.
+[37:25] And she looked very happy doing it.
+[37:27] There's an amazing simulator.
+[37:29] On line, by my friend Paul Sweetlands, he's got a museum.
+[37:32] And the Kong Valley Railway in Castle Heddingman, Essex.
+[37:35] He has written in-pull an entire simulation of all the bookwiring and all the relays.
+[37:40] It's got program machines that animated leave awards.
+[37:43] Please go and have a look at his website.
+[37:44] You can crash it and break it.
+[37:46] It responds every now and then.
+[37:48] Have fun with it.
+[37:49] But it explains how it all works.
+[37:51] That's really amazing.
+[37:52] Thank you very much for listening.
+[37:54] APPLAUSE

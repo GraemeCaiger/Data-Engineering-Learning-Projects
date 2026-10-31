@@ -1,0 +1,694 @@
+[00:00] We have a lightning talk.
+[00:21] We have been in stage B.
+[00:25] It's very exciting.
+[00:27] Those lights are really bright.
+[00:29] We have another slammer schedule, so we are going to get straight on with it.
+[00:33] Here is James.
+[00:37] Hello.
+[00:38] Do my slides come up on the screen.
+[00:41] No, yeah.
+[00:43] There we go.
+[00:44] Right.
+[00:45] I don't have longer I'm going to go here with the hammer.
+[00:47] I'm James.
+[00:48] I'm going to talk about a weird space mystery.
+[00:51] I like.
+[00:52] I'm going to talk about a project called Vasco.
+[00:55] This is the vanishing and appearing stars across the century of observation to project.
+[01:00] It was a citizen science project led by someone called Dr. Beatrice Villarreal.
+[01:06] And essentially the idea is to look at old sky surveys and look at new sky surveys and see what's not there.
+[01:14] Have any stars exploded or disappeared or whatever.
+[01:17] What's changed over a century?
+[01:20] So it compares lots of sky surveys and on the slides there are all the papers, links to the papers for this stuff.
+[01:27] So they did that.
+[01:28] They did a citizen science project.
+[01:30] And over the course of doing that, if I'm not,
+[01:35] things that were interesting between different surveys.
+[01:39] But then they noticed that there were things that were in one set of images in one survey and not in image taken an hour later.
+[01:49] Particularly posse one. This is the Palma Robeser of Tree's Sky Survey taken.
+[01:53] It takes two blades.
+[01:55] It takes a red exposure and a blue exposure.
+[01:58] About an hour apart, roughly.
+[02:01] I don't know actually times on there.
+[02:03] Yeah, about an hour apart.
+[02:05] And they found something interesting.
+[02:07] They found that there were some star like objects in one that weren't in the other.
+[02:12] And you can see them. There's three blobs there and they're not in the second picture.
+[02:17] So one of these things.
+[02:19] They ran a whole load of images analysis across that whole data set.
+[02:22] They found almost 300,000 of these transients.
+[02:26] They're not, they ruled out things like plate defects,
+[02:30] cosmic rays hitting the plate, things like that because those look different.
+[02:35] The elongated one there is an asteroid.
+[02:38] And interestingly, they found a deficit of transients inside the earth shadow.
+[02:46] So, and the statistical significance that was 17 to 22 sigma.
+[02:52] If I think five sigma is the confidence they wanted to get to for the Higgs boson.
+[02:58] So this is very, very improbable.
+[03:01] The easing point there in the shadow.
+[03:05] So that's odd.
+[03:07] But you look at the sky and there's star links and there's all sorts of weird stuff up there.
+[03:13] Right? So that's not unusual. We filter all this crap out.
+[03:18] But they looked at these things and said, well, what do they look like?
+[03:23] They look like stars and they say, okay, these are consistent with what they say.
+[03:28] Fast reflections of high albedo objects in geosynchronous orbits around earth,
+[03:32] which is a lot like iridium flares, or they're not geosynchronous, but you get the idea.
+[03:38] Or the ISS pass, which is happening at 10 o'clock.
+[03:41] Tonight you can see it and all the bloody star links.
+[03:45] And then model all these shapes to try and get the sort of predicted idea of what they might look like.
+[03:54] So that's fine.
+[03:56] There's only one problem.
+[03:59] Poss one was taken in 1952, and we didn't launch Sputnik until 57.
+[04:06] We didn't have anything. We didn't have any artificial satellites in 1952.
+[04:13] So what are these things?
+[04:15] There are... Oh, I'll come at that.
+[04:20] So obviously that's one paper.
+[04:24] Somebody has now replicated this, looking at a different set of plates from different observatory in Hamburg.
+[04:30] And the fun thing about this one is that the telescope has known optical distortion.
+[04:35] So it's got... it needs glasses.
+[04:38] And they looked at the transgence they found for that one.
+[04:42] Okay. And it had the same distortion.
+[04:45] Therefore it's real light not played up fast. Something is there.
+[04:49] Then they did some fun things. They found significant correlations with nuclear testing and UFO sightings.
+[04:55] Which is obviously where it all gets crazy.
+[04:57] And that deficit in the shadow is weird.
+[05:01] So it's a mystery. This is science and it's best. They went looking for one thing and they found something else.
+[05:07] And we tend to only look for things we want to find.
+[05:10] So what happens when we turn off the filters? What do we see?
+[05:14] All right. Thank you James. Next up we have got Ava.
+[05:24] Hello.
+[05:25] Yes. Hi. I'm Ava from Glasgow Hackerspace.
+[05:28] I'm going to talk... oh thank you. Thank you.
+[05:30] I'm going to talk about how to start a hackerspace.
+[05:32] I didn't think that I would ever do that.
+[05:34] And I ended up doing it.
+[05:36] And I'm still surprised.
+[05:38] There's my actual first slide.
+[05:40] Okay. Yes. I'm maybe from Glasgow Hackerspace.
+[05:42] I'm going to largely go off of my notes rather than the slides.
+[05:46] And then I'll kind of go through them at the end.
+[05:49] How did I start?
+[05:51] So I basically put out a call for participation.
+[05:54] That mostly looked like creating a discord server.
+[05:57] Sadly, discord is the most accessible thing.
+[06:00] And you really just want to try and get as many people as possible.
+[06:03] We also did some outreach on local subreddit.
+[06:07] And we just sort of pulled people in for a public meeting.
+[06:10] Try to gauge some interest.
+[06:12] Talk to about what we'd all like to see in a hackerspace.
+[06:16] And it kind of went from there.
+[06:18] The next sort of like key thing for me was to build a small team of committed people
+[06:23] who really want to see it happen.
+[06:25] And we'll put in the work.
+[06:27] It is a lot of work.
+[06:29] There's just like so much thinking and paperwork,
+[06:32] especially in the UK of like getting everything together.
+[06:35] And a lot of just like, well,
+[06:38] you're always still at the time probably if you try to do this.
+[06:41] So yes.
+[06:42] Also, a key with respect to burnout.
+[06:45] Like you will probably burn out.
+[06:47] But if you have multiple people,
+[06:49] you can kind of like cue the burnout.
+[06:51] So you're not all burnt out at the same time.
+[06:53] And then one person can continue carrying this hot,
+[06:56] trust others of burnt out.
+[06:58] I'm going to say some UK specific stuff.
+[07:01] We should have made a company sooner rather than later.
+[07:05] We incorporated as a CIC,
+[07:07] which is sort of just before a charity.
+[07:10] That was a mistake.
+[07:12] You'll again, like totally make mistakes.
+[07:14] That is fine.
+[07:15] But don't incorporate that hack spaces as a CIC.
+[07:20] After that,
+[07:22] we put out a call for fundraising.
+[07:25] So just within the Discord server, again on Reddit,
+[07:29] tried to get cash pulled together.
+[07:31] We ended up with about three grand in the bank,
+[07:33] which is awesome.
+[07:34] And that was enough to get going.
+[07:36] We reached out to art spaces.
+[07:40] So we ended up finding our space,
+[07:43] which I will slide.
+[07:45] This is the first edition of the CIC.
+[07:48] We are located inside artists studios,
+[07:53] which means we get really cheap rent.
+[07:56] And we basically started not being profitable,
+[08:00] but net positive every month within,
+[08:03] like immediately, basically.
+[08:06] And yes, other than that, more advice is like gross slowly.
+[08:11] I'm purposefully amitting a lot of stuff,
+[08:14] because I only have five minutes.
+[08:16] But if you are curious,
+[08:18] stop by the Glasgow Hack Space Village.
+[08:20] I would be more than happy to talk about it.
+[08:22] Otherwise, check out our website.
+[08:25] And you can contact us through there.
+[08:27] You'll find out, no wait to talk to me.
+[08:29] I am 100% sure of that.
+[08:31] I'm going to quickly run through the rest of the slides.
+[08:34] Yes, this is our door.
+[08:36] It would have been very nice to be on street level.
+[08:39] But sadly, that was not really an option for us.
+[08:43] Then we started.
+[08:45] It's really filling out the space.
+[08:46] This is more what it looks like at the moment.
+[08:49] The shark went up first.
+[08:52] Also very important.
+[08:54] Yeah, I think that is the last of my slides.
+[08:57] Thank you.
+[09:03] Thank you so much, Eva.
+[09:05] Next up, we have got Edward.
+[09:07] Hello, I'm Edward.
+[09:10] This is my house.
+[09:11] One of these is my house.
+[09:13] On the top, there's a solar water heater panel.
+[09:16] I can't actually see mine very well.
+[09:20] Here's one of my neighbors.
+[09:22] You can see from my roof terrace that I took during sunset.
+[09:26] There's a cylinder.
+[09:28] There's my hot water cylinder.
+[09:30] Water from the get heated by the solar water panel.
+[09:34] Another view of the cylinder.
+[09:37] There's a pump.
+[09:38] There's a controller.
+[09:40] There's a pump.
+[09:41] This is an extra controller.
+[09:43] There's an electrical system as well.
+[09:45] In the winter, don't get enough sunlight.
+[09:47] So you want to be able to heat the water in the winter.
+[09:51] It's just around a corner.
+[09:53] You can see a little bit of blue.
+[09:54] It's difficult to get to as kind of annoying.
+[09:57] There's my cylinder.
+[09:59] So it broke one day.
+[10:00] There's the controller.
+[10:01] Red light.
+[10:02] And it said there's a full.
+[10:03] The sensor on the roof isn't working.
+[10:06] So I have to do this is electric.
+[10:08] So I stuck a finger bar on the boost button on my.
+[10:11] On my controller.
+[10:13] Here's another view of the finger bar.
+[10:14] So this I can control remotely from home assistant.
+[10:17] Like home automation.
+[10:19] I heat the water overnight.
+[10:21] But then anytime I want hot water.
+[10:23] Here's my home assistant.
+[10:25] I've got a boost system that I compress it.
+[10:30] And it goes through the stages.
+[10:32] So I can say 30 minutes, 60 minutes, 120.
+[10:35] But that's terrible.
+[10:37] So I've got to go in to look at it.
+[10:39] And he said I can't go on the roof.
+[10:41] And then he said, no, I can't go on the roof.
+[10:42] It's fine.
+[10:43] So we went on the roof.
+[10:44] There's my cylinder.
+[10:46] And he said I can't fix it.
+[10:47] The parts obsolete.
+[10:49] You can't.
+[10:50] Nothing I can do.
+[10:51] So I bought my own ladder.
+[10:52] As my ladder.
+[10:53] And I went on the roof.
+[10:55] I've got an amazing view from the roof.
+[10:57] There's some solar panels.
+[10:59] There's my panel.
+[11:01] There's some stuff.
+[11:03] I pulled the sensor out.
+[11:05] It was wired up like this.
+[11:07] Not very waterproof.
+[11:10] So then I wired it directly into the thing.
+[11:14] And found out that the reason it wasn't working is it's a break in a cable on the top of the roof.
+[11:21] So I cut the cable.
+[11:23] I changed the connectors.
+[11:25] And now I've got solar water heating again.
+[11:28] It's green.
+[11:29] It says 46 degrees.
+[11:30] Yeah, I've got a hot water.
+[11:33] The only problem is it's not waterproof.
+[11:35] So then in my waterproof now it's waterproof.
+[11:38] So that's how I fixed my solar water heater.
+[11:43] There we go.
+[11:44] People are running under.
+[11:48] I love it.
+[11:51] It makes this all a little more leisurely.
+[11:55] Next up.
+[11:57] Julian.
+[12:01] Julian, you're going to be wearing the mask.
+[12:04] Okay, because handheld mic.
+[12:06] Not sure how that's going to work.
+[12:09] I can hold it.
+[12:11] I'll be fine.
+[12:15] Yeah, yeah.
+[12:18] No, I'll be fine.
+[12:19] Is it started yet?
+[12:21] Okay.
+[12:22] Haven't seen anything yet.
+[12:23] How was you going backwards, am I?
+[12:26] Yeah, okay.
+[12:27] Right, here we go.
+[12:28] Yay.
+[12:29] Okay.
+[12:30] So this is part two of a talk I gave at a hacker camp last year about how I, from knowing
+[12:39] nothing became a furry from playing fought to which VR chat one night after being a normal VR developer
+[12:45] for years and years and years and being quite old.
+[12:48] But I left out an important part of the story.
+[12:50] And the thing about breaking hearts is the kind of like design to be broken and you kind of
+[12:57] pick them up, put them back together and they're often more beautiful and more interesting than they were before they were broken.
+[13:03] So the little clue I left in the previous talk about my furry adventure online was this little line in here where I,
+[13:12] positive a moment, it didn't VR that I had at this point the happiest hour of my life.
+[13:18] And I wasn't exaggerating and I'm not kind of like I'm old enough to know what I'm talking about.
+[13:23] And the problem is when I tell this story to most friends is they, is they put themselves into the story and say how they don't like VR and it kind of makes them sick and so what?
+[13:31] And they completely missed what I've just said, you see?
+[13:34] So what happened to make this occur was about four months before they have set of new nights just for like beginners who are probably a bit shy and don't know anyone.
+[13:47] And then they kind of ignore you for two hours and eventually after a while a couple of us found each other, having not talked to anyone.
+[13:54] And we sat around in a little circle right in the right hand side.
+[13:58] I met a couple of new people that way and that was pretty much it.
+[14:03] Except the following week, a complete lost out over one of them.
+[14:08] And to describe what this felt like, it was like someone in the middle of night, a drilled wire right into the middle of my brain.
+[14:14] And every time I thought about it, I'm a storm in line, 50 volts would just go straight in there and I erupt in pleasure or I'd be walking on air or my heart would be kicked by a mule or something like that.
+[14:24] One thing or another.
+[14:26] And it was quite astounding because I knew exactly how much information I knew about them.
+[14:31] Nothing. It was a few triangles and pixels one night.
+[14:34] No microaggress, micro expressions or smell or anything.
+[14:39] So this is weird. Now the thing about people is we're all unique and individual but our sort of mental conditions are not.
+[14:47] And after a while I did find out what was going on was a guy who's written some articles and he has a website describing this condition.
+[14:56] And this one's not so fun to read because it's like reading an alcoholic's anonymous.
+[15:02] People try and recover from this affliction.
+[15:04] If you really want to know about it, you should go back to this original research which is a lovely book.
+[15:09] And the great thing about it is that if you've had a limerance then every story and it makes perfect sense.
+[15:14] If you haven't, you just can't understand why people can't pull their pull themselves together.
+[15:18] You know what's going on here?
+[15:20] So, and the thing about with with with with you brain breaking like this is you get to see all the parts and take the machine apart a little bit.
+[15:30] And pretty much what's going on is your heart or your sort of feelings or like the health bar mechanic in a game.
+[15:37] Quite complex, little levels that go up and down and cool off periods and stuff.
+[15:41] And sometimes there's a sort of a tactic that you need to do in these games where you're on top of a platform you see some health.
+[15:49] Giving life on the other side and you're going to have to take a fall and get hurt.
+[15:53] Maybe cross some place you don't know about in order to get there.
+[15:56] And if you try and live life without getting hurt at all you're never going to get off the platform you're going to play it safe and nothing good's going to happen.
+[16:04] So after about eight months of this thing dying down over a period, I've actually got to know the guy.
+[16:12] And as I got to know more the limerance declined until it was down to zero until we're having a pretty good time with each other.
+[16:19] And but I still had the secret from him. So I had to tell the secret.
+[16:24] So I decided to do it rather spectacularly and decided I don't do karaoke by fan of karaoke song called Week of Game.
+[16:32] And then the words were like the world was unfire.
+[16:35] No one could save me but you.
+[16:37] What a week of game you played making me feel this way.
+[16:40] No I don't want to fall in love with you.
+[16:42] I did a right old performance.
+[16:43] And afterwards he completely freaked out.
+[16:45] I've done a really bad thing. I was feeling terrible afterwards.
+[16:49] So I only self to blame on that one.
+[16:52] You know after a while he he made up and he sang it back to me to prove he'd got over it.
+[16:58] But I couldn't believe I was that crazy anyway.
+[17:01] Here we go.
+[17:02] Thank you, Elliot.
+[17:07] I want to utterly destroyed Wicked Game in karaoke.
+[17:12] And front of the guy really fancier.
+[17:14] He just on the worst nights of my life.
+[17:16] Next up. Elliot.
+[17:19] Hello, hello.
+[17:22] Thank you.
+[17:23] No slides.
+[17:25] Pirate.
+[17:27] These are my observations on the psychologists of standard note taking utilities.
+[17:34] They're my monologue ramblings from the mind of an over analytical professional engineer.
+[17:40] For your amusement insight and conversation.
+[17:44] I'm not a comedian. I'm not a psychologist.
+[17:47] I have no formal studies in this field yet.
+[17:51] I've spent too many years capturing thoughts and notes and trying to best arrange them into the sensible format.
+[17:58] For myself, for someone else.
+[18:01] For the added variables that maybe they don't want to read them.
+[18:04] And who are they anyway?
+[18:06] So I'm a cataloger and a poet.
+[18:09] I'm a tech consultant. I do outdoor teaching and an STEM ambassador.
+[18:14] So note taking observations.
+[18:18] This was captured on a plain text,
+[18:21] smartphone note pad utility, which sinks to my custom hosted server so that it's accessible anywhere in the world.
+[18:29] If the Wi-Fi works.
+[18:31] I don't want to be hassled by formatting and structure.
+[18:37] Or for the record any kind of automated paperclip assistant.
+[18:41] I enjoy using PowerPoint as the default first tool, which annoys a lot of people.
+[18:47] For me, it is the freedom and flexibility of having a clean sheet.
+[18:52] PowerPoint is just a whiteboard.
+[18:54] It's got ready-made objects for me to use, like primary school crafts.
+[19:01] There are hints at my own rebellious mentality and my creativity, but maybe a hint of laziness in there.
+[19:08] I have to admit I love a spreadsheet.
+[19:10] I like the structure, the blurring of being a blank canvas, but with programming.
+[19:15] It's perfect for any indexing, sequencing and restructuring of my thoughts,
+[19:20] which represents my desire to arrange.
+[19:23] I'm a big fan of the inbuilt headings-sort function.
+[19:28] The spreadsheet discussion recently with a colleague then led into talking about physical note pads.
+[19:35] And I've realized I love an A5, 0.5mm grey dotted pad.
+[19:41] It's structured, but it's abstract.
+[19:44] I'm someone who likes a construct, but I don't like rigid boundaries.
+[19:49] I'm a creative, but within definition, plain paper is only good to me when I don't have a clear plan.
+[19:56] I tend to fold it in half, but I'm not sure why.
+[20:00] Either A2 or A5.
+[20:04] Lined paper causes unnecessary stress.
+[20:07] The mismatch of inappropriate width, separation, colour, the definition.
+[20:12] I'm finicky.
+[20:14] I'm maybe over analytical.
+[20:16] And I'm probably just a non-conformist.
+[20:18] So by extension, there is further insight based on the specific choices of word processing software.
+[20:25] But we'll save that for another day.
+[20:28] I've had too many debates with colleagues working on projects.
+[20:31] Colleagues and friends about Markdown and Formatters.
+[20:35] Latex, anybody?
+[20:37] Pronunciation.
+[20:39] Which wiki engine?
+[20:42] Maybe we just leave it all as Markdown.
+[20:45] Or just plain text.
+[20:47] So I enjoy having a toolbox.
+[20:50] I enjoy the flexibility.
+[20:52] I have my favourites that clearly point out nuances in my character.
+[20:56] And you all all have your own favourites.
+[20:58] Maybe what we need is a new standard written in plain text RFC.
+[21:04] A bit to fund conversation.
+[21:06] The choice of tools, physical or software, show more about you than you might think.
+[21:12] So, on to writing my thesis and the RFC.
+[21:16] Thank you.
+[21:18] Thank you, Elliot.
+[21:23] Right.
+[21:25] Kate, you're up.
+[21:26] Yeah.
+[21:27] Yeah.
+[21:28] I'm just a guilty of the break.
+[21:35] No, no, we're on to time.
+[21:37] You can breathe.
+[21:39] We can be lashly.
+[21:42] Are you okay?
+[21:43] Ficky too.
+[21:44] Up, connects.
+[21:46] Kate.
+[21:47] Big button.
+[21:48] Great.
+[21:49] Big button, Elliot.
+[21:51] Right.
+[21:53] So wait.
+[21:55] I set up my alarm for three minutes and 30 seconds.
+[21:58] So I went to talk really fast.
+[22:00] Hi.
+[22:01] In 2024, I had a brief moment at EMF.
+[22:03] But the most of us spent at the time dealing with breast cancer.
+[22:07] Can you hear?
+[22:08] I am weird.
+[22:09] I am non-binary.
+[22:11] Cancer is weird.
+[22:13] You have to tune them.
+[22:14] It's even fricking weirder.
+[22:17] But you know what?
+[22:18] The fastest way to gender conferbing surgery on the NHS.
+[22:22] It's cancer.
+[22:23] Oh, no, you're going to take away my breasts.
+[22:26] Oh, God, how could you?
+[22:29] Yes.
+[22:30] Now, you are allowed to feel the way that you feel.
+[22:35] You are allowed to go.
+[22:37] Yeah, whatever.
+[22:38] Take them away.
+[22:39] Do what you like.
+[22:40] And then, if anybody reacts badly to how you feel,
+[22:43] you call them out.
+[22:45] I had a nurse who just got a pissier and pissier by the fact that I wasn't responding appropriately.
+[22:51] So I finally just said, hey, and why not responding appropriately?
+[22:55] Do you expect me to be crying or something?
+[22:57] And she just looked even more upset but appalled as well.
+[23:00] It was great.
+[23:02] You could totally shave your head.
+[23:04] It's fricking awesome.
+[23:05] You will sweat a lot.
+[23:07] You will not realize how much you sweat.
+[23:09] But my God, it feels so good.
+[23:11] And if anybody goes, oh, you're so brave.
+[23:14] Hell with them.
+[23:15] But do not forget your wig voucher.
+[23:17] Oh, my God.
+[23:18] They give you around 75 quid.
+[23:20] And you don't have to get the super fancy fake heel hair.
+[23:24] Whatever looks just like you, looks really boring.
+[23:26] You can go to any beauty supply place.
+[23:29] Spend 10 pounds of wig that gives you seven damn wigs.
+[23:32] Go nuts.
+[23:33] Get all the wigs.
+[23:35] You will discover a dis-taste for body horror.
+[23:39] This is unfortunate.
+[23:41] You will like, I love craved corner work movies.
+[23:43] And then you watch another one.
+[23:44] You're like, oh, no, no, I can't do this anymore.
+[23:47] Did you know that if you pull out a drain by accident,
+[23:49] it screams at you?
+[23:51] God, oh.
+[23:54] And things that sound extremely scary.
+[23:56] Usually aren't.
+[23:57] It thinks it's something nothing.
+[23:59] Are really scary.
+[24:00] There's a difference between fat and a crisis,
+[24:03] which is fine.
+[24:04] And trauma crisis, which is terrible.
+[24:07] But you know what?
+[24:10] Cancer is.
+[24:13] Drag.
+[24:14] Cancer is a drag.
+[24:15] So take advantage of it.
+[24:17] They say, oh, yeah, you can have the sit down and all the,
+[24:20] at a show, go sit down at a show.
+[24:23] Your neighbors are talking right outside your house.
+[24:25] Really loudly and being really annoying.
+[24:27] You can go high.
+[24:28] I'm sorry, the key is really bad right now.
+[24:30] Can you guys just be quiet?
+[24:32] And they will all look so up, and then they'll stop talking.
+[24:34] And then all of a sudden, the bratty children aren't doing anything.
+[24:36] It's amazing.
+[24:38] Take advantage of the fact that you are ill
+[24:41] and make sure that everybody does everything for you.
+[24:45] You can get through this.
+[24:47] I am getting through this.
+[24:49] You can all get through this.
+[24:50] It's okay.
+[24:51] The NHS is really good at this.
+[24:55] So that's me.
+[24:56] You can find me on Blue Sky.
+[25:00] And if you're at home at the end of the month,
+[25:02] go find me it.
+[25:03] Because also I'm a drag king.
+[25:05] So hey, come at me.
+[25:08] Holy smokes.
+[25:11] I actually have nine seconds left.
+[25:13] I've never heard of that.
+[25:15] You do.
+[25:16] You're also fast.
+[25:17] You're putting the lightning in lightning.
+[25:20] Next up is Robert talking about time travel.
+[25:22] So Robert, if you want to just like send us back in time and give the first four speakers.
+[25:32] Like 10% more time.
+[25:35] That will be good.
+[25:36] Thank you.
+[25:38] You can put the laptop on the ground.
+[25:41] Hello.
+[25:44] So I'd like to talk to you about time travel, freedom, adventure,
+[25:49] and the joy of owning and maintaining a classic car.
+[25:52] This is my first time at EMF.
+[25:54] I've met so many creators, free thinkers,
+[25:57] and most importantly people that think outside the box.
+[26:01] You're all fixes.
+[26:02] You will create.
+[26:03] You will repair.
+[26:04] You like to dismantle and rebuild.
+[26:06] So it made me ask, why is the car park not full of classic cars?
+[26:11] Classic cars to me are a passion.
+[26:13] They're lovely things.
+[26:15] But more than that, they're a gateway to time travel adventure and community.
+[26:19] Let's talk about time travel.
+[26:21] When you're operating a classic car and I use the word operate deliberately.
+[26:26] It's a machine.
+[26:27] You're using controls.
+[26:29] You're feeling the weight of things.
+[26:31] You're making decisions and enjoying the view from 50 or 60 years ago.
+[26:35] Exactly as it would have been.
+[26:37] You're experiencing an object drawn on paper built by hands,
+[26:42] not assembled by robots.
+[26:45] Every trip becomes an adventure.
+[26:47] Even most pedestrian vehicles from the 50s, 60s and 70s have beautiful details.
+[26:52] Something gone from cars today.
+[26:54] The streets and the streets.
+[26:56] The school run.
+[26:58] Or just going to the shops becomes rich.
+[27:01] Not a chore.
+[27:02] Not time to give up and get through.
+[27:04] But time to cherish.
+[27:06] And you'll notice how people treat you out on the road and in the world.
+[27:10] They'll let you out of junctions.
+[27:12] Stop if you break down and ask about it.
+[27:15] And tell you the mum had long when they grew up.
+[27:19] It's a gateway to stories and the best of people.
+[27:22] It gives them something as well as you.
+[27:25] You're putting color, nostalgia and beauty into the world.
+[27:29] Oh.
+[27:31] I'll just talk through some of the pictures on there.
+[27:36] There's an old land Rover.
+[27:38] I pulled that out of a barn where it's been set for five years.
+[27:43] Got it back on the road and we've been on loads of adventures with it.
+[27:46] Green Lane in.
+[27:47] So you can escape into the countryside and those loads of green Lane's local to you.
+[27:51] It's just a beautiful escape.
+[27:54] There's a car with a smash front in the middle and above it is the top.
+[27:58] So that is a car I bought seven years ago.
+[28:00] We had no information, no paperwork.
+[28:02] I knew nothing about the history of it.
+[28:04] And all of a sudden I got a message on Instagram from the previous owners.
+[28:08] He had had it from the 70s.
+[28:10] And all of a sudden I got all these stories, all these pictures, all the history of it.
+[28:15] Which was wonderful.
+[28:17] The little white car there.
+[28:19] There's a car I'd paid for.
+[28:20] 600 pounds for a union rebuilt with my dad so he's full of memories.
+[28:24] And the top picture with all the cars parked up.
+[28:27] That's what we call the unit 10 car club.
+[28:29] My friends got together and just put on some events for a reason.
+[28:32] Just that you know, had a good time.
+[28:36] Of course there's maintenance.
+[28:38] But there is joy in repairing and knowing your vehicle.
+[28:41] It becomes part of you and extension.
+[28:43] It's so easy to work on too.
+[28:45] So much more simple than you'd think.
+[28:47] Just nuts and bolts.
+[28:48] And the workshop manuals themselves are joy to read and look at.
+[28:51] As you use it, you learn the signs of it go wrong.
+[28:54] That we come and living object to you.
+[28:56] A companion.
+[28:57] You'll know what it needs before it needs it and you'll fix it before it fails.
+[29:00] If it fails, it's a story.
+[29:03] It's part of the adventure.
+[29:05] Eventually though, it won't break down anymore.
+[29:07] You'd have changed or rebuilt it.
+[29:09] And it'll thank you by never letting you down again.
+[29:12] You'll get bolder and go further.
+[29:14] This is also the definition of right to repair.
+[29:17] The green too.
+[29:18] Carbon long offset and keeping another new car off the road.
+[29:21] Insurance is cheap, tax is free and you don't even have to empty them.
+[29:25] If you stay on top of them.
+[29:27] Plus when you look after them and improve them,
+[29:29] their value goes up or at least offsets what you've put in.
+[29:33] I encourage you to look at eBay or car in classic to see what's out there and picture interest.
+[29:40] I'd recommend starting to look at triumphs as an example.
+[29:46] As a kickoff point, the world is full of people that will help you,
+[29:50] friends you'll make and stories that you'll create.
+[29:53] This isn't just about nostalgia.
+[29:55] It's about living with purpose and intention.
+[29:57] Looking every drop out of every journey.
+[29:59] Choosing maintenance over disposability and keeping a piece of history alive.
+[30:04] Go forth and time travel.
+[30:07] Thank you.
+[30:09] She has one more.
+[30:18] Mark, bring it down.
+[30:21] Next one.
+[30:33] Next one.
+[30:42] There we go.
+[30:48] I didn't know I was called sleepy and speed.
+[30:51] That's fun.
+[30:52] This is Pimp my reservoir.
+[30:54] A quick guide for the would be water company executive.
+[30:58] A bit of one of my more vague autistic interest over the past several years.
+[31:08] Why would you want to build a reservoir?
+[31:13] There's several reasons.
+[31:18] You might have too much spare money.
+[31:23] You might have a valley lying around.
+[31:28] You might be really thirsty.
+[31:33] If a holder upside down, it would be better.
+[31:41] What do you need to build your delightful reservoir that you want to make?
+[31:47] Damn.
+[31:49] It prevent all your hardened water from escaping.
+[31:52] If you want to reservoir, you need to hold the water in.
+[31:57] You can walk across them sometimes.
+[32:01] They need to let the water out in a controlled manner.
+[32:11] There's a big concrete look.
+[32:16] There's lots of grass and gravel look.
+[32:22] There's quite lovely look that you get at other places.
+[32:29] You want to drink the water.
+[32:32] What's the use in the reservoir?
+[32:35] You need to draw off tower.
+[32:39] They get the water out.
+[32:43] They should be easily serviceable.
+[32:48] They're really kind of veering to the archieble kind of valley.
+[32:55] Oh, damn.
+[32:56] The reservoir is flooding.
+[32:58] You need a spillway.
+[33:00] If it rains too much, your water can actually get out.
+[33:05] They're really good for attracting dumb tourists.
+[33:08] I guess they look like a bit of a fun or scary water slide.
+[33:13] There's a big shoot like that one.
+[33:18] There's a really quite horrible.
+[33:21] I've read papers talking about scary architecture.
+[33:26] This is a bell mouth.
+[33:29] Sorry.
+[33:31] That's in the US.
+[33:33] It's even more horrible.
+[33:37] There's a stupid paddle border on the news that decides to get a bit too close and spark a local
+[33:46] outcry.
+[33:47] Bonus features.
+[33:49] You've got your base things.
+[33:51] What should I add, extra?
+[33:53] Recreation activities.
+[33:54] Make it more of that money.
+[33:56] Cute walks and bird watching.
+[33:59] Hydroelectric power.
+[34:01] It's quite fun.
+[34:03] It's a lot of fun.
+[34:08] There's a lot of risk.
+[34:11] A lot of risk was a built-in valley.
+[34:14] Generally, valleys have people living in them.
+[34:17] You might need to use power and influence to get rid of them.
+[34:21] You've got money, remember?
+[34:23] It's okay.
+[34:24] Even better.
+[34:26] A VIXXD Welsh farmers.
+[34:28] Sometimes the drown village just isn't enough.
+[34:31] Just so you're far away city.
+[34:34] A young water.
+[34:35] Shout out to Liverpool who did this twice in about 90 years.
+[34:39] Bonus points.
+[34:40] If you're construction site is blown up by an angry militant Welsh man.
+[34:44] Again, many stories.
+[34:45] That's how I took myself.
+[34:47] A few holiday photos of my kind of reservoir adventures.
+[34:51] I don't actually remember that.
+[34:53] This was actually late-vernway.
+[34:55] This was in Lincelin in Wales.
+[34:59] This was another one of those drowned villages.
+[35:02] There's a lovely chapel next door where all of the old grave stones were located too.
+[35:07] I'm actually just downstream from this.
+[35:09] There is some of those fun recreation activities.
+[35:12] You can go white water ranting and have a fun time.
+[35:15] So, that's about it.
+[35:17] I hope you like my holiday snaps.
+[35:19] Enjoy the wealth of reservoirs.
+[35:22] Thanks.
+[35:23] Thank you so much, Mark.
+[35:30] That is the end of our EMF program of Lining Talks for this year.
+[35:35] Stage B, give a big hand for our speakers.
+[35:38] You had James.
+[35:39] You had Ava.
+[35:40] You had Edward.
+[35:41] You had Julia.
+[35:42] You had Elliot.
+[35:43] You had Kate.
+[35:44] You had Robert.
+[35:45] And you had Mark.
+[35:47] If you see how much fun this is, right?
+[35:52] If you've never done a Lining Talk before, I'd sincerely recommend that you give it a shot.
+[35:57] It's such a fabulous way to just come up and share your passion.
+[36:01] Get used to public speaking and that kind of thing.
+[36:04] So, do consider submitting something for next year.
+[36:07] Sorry, well, 28.
+[36:09] 28.
+[36:10] 28.
+[36:11] God.
+[36:12] Time goes by, right?
+[36:14] But yeah, for the last time.
+[36:16] Thank you, EMF.
+[36:18] I've been thought.
+[36:19] Thank you.

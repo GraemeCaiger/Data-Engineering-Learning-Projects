@@ -1,0 +1,423 @@
+[00:00] of the students.
+[00:13] Cool, hello.
+[00:18] Welcome to an S-RI's Guide to Camping in Extreme Conditions.
+[00:22] When I prepared this, I very much had winter in mind and minus 21 degrees, so I didn't
+[00:27] quite expect to be presenting to a camp in 30 degree heat,
+[00:31] where people are probably hoping for advice
+[00:32] and to survive the heat.
+[00:34] This isn't really that, but bear with me.
+[00:38] So who am I?
+[00:39] My name is Donna.
+[00:40] I'm a staff site reliability engineer.
+[00:42] And what that basically means is,
+[00:43] is my job to make sure that the platforms
+[00:46] stay alive and people don't break it.
+[00:48] So part of what my job involves
+[00:51] is educating other people at the company
+[00:54] on how to break things safely.
+[00:56] So one way I've done this is by throwing in a calendar
+[01:00] invite for the entire company on a Friday afternoon
+[01:04] called your going to break production.
+[01:06] Yes, you.
+[01:07] Mostly just to get their attention.
+[01:10] And then using that to share availability best practices,
+[01:13] talk about incidents that we've learned from,
+[01:16] basically where we went from there.
+[01:19] And I do this managing a lot of incidents,
+[01:21] but also I love camping.
+[01:23] I spend roughly 60, 90 years in our camper van
+[01:27] from Hacker Camps in the field in England
+[01:29] to the Austrian elves and a Rind Ireland,
+[01:32] and mostly in the Highlands of Scotland.
+[01:35] And I'm a dog person, so there will be dog photos
+[01:37] through this presentation.
+[01:39] So what am I going to talk about?
+[01:42] First, a little bit of a fine life
+[01:43] under the logistics of taking a camper van
+[01:46] from Scotland to the Austrian elves in January with two dogs.
+[01:51] Then I'm going to cover a little bit of Rind S3 concepts.
+[01:55] What does SLA, SLO?
+[01:57] What do I mean when I say incident management?
+[02:00] Escalations and all of the high level pieces.
+[02:03] I don't have long enough to go into all the S3 concepts.
+[02:06] And then I'm calling it the incident.
+[02:08] There are many incidents that we have had when camping.
+[02:11] So you can find me in the bar or the QA10 afterwards
+[02:14] everyone in here more stories.
+[02:16] So first of all, winter and men land Europe.
+[02:20] All of those ideals, I wouldn't be really nice
+[02:22] to take a camper van to Europe and winter.
+[02:25] And we can have our dogs with us
+[02:27] and we really cozy and nice in the van.
+[02:30] And we prepared.
+[02:31] We were ready for this.
+[02:33] And one of those narrators, I know they were not ready.
+[02:37] Things happened.
+[02:38] So what do we do to prepare?
+[02:39] We insulated all of the things.
+[02:42] So we took apart parts of the door, filled with insulation,
+[02:46] all of the water tanks, covered in insulation.
+[02:48] And we had heating pads.
+[02:49] We were ready.
+[02:51] Or so we thought we even have an insulated windscreen cover
+[02:54] which is actually coming in handy for the heat as well.
+[02:57] So it does work both ways.
+[03:00] Spare resources.
+[03:01] We have a gas heater in our van.
+[03:03] And if you're familiar with camper van's,
+[03:05] gas heaters are a bit temperamental.
+[03:07] You learn all the runbacks and things
+[03:08] that go wrong with them very quickly.
+[03:10] So we had redundancy.
+[03:12] So we had a backup heater.
+[03:14] We also have multiple power cables.
+[03:16] Just in case one cable stops working.
+[03:18] And also you can dizzy tune.
+[03:19] Like some people probably done a camp today.
+[03:22] Also, it's low-chains.
+[03:24] It's a legal requirement in Switzerland,
+[03:26] and Austria, and some roads.
+[03:28] But also, you don't want to get stuck in the snow or ice.
+[03:32] Lots and lots of layers, which is the opposite of what I think
+[03:35] people need today.
+[03:36] But you really are just preparing so that you can stay warm.
+[03:40] Is the priority of everything.
+[03:42] And then also dog passports.
+[03:44] Because the common question is,
+[03:45] but how did you take the dogs with you?
+[03:47] And I'm from Northern Ireland.
+[03:49] And my dogs actually have had Irish passports
+[03:51] for the longest time.
+[03:53] Recently, legislation has changed.
+[03:54] And I guess been 20 minutes talking about that alone.
+[03:57] So if you want to know more about taking dogs specifically,
+[04:01] come ask questions later.
+[04:03] I just wanted to quickly touch on some of the fun stuff.
+[04:06] Because some of my friends here today,
+[04:08] often I was like, why do you keep going to do these things
+[04:11] when there's so many things that go wrong?
+[04:14] Like, it's very chaotic.
+[04:15] And I'm like, look at all the cute pictures
+[04:17] we get with our dogs and I was blizzard and Switzerland.
+[04:21] And you make all these really lovely memories.
+[04:23] So before I talk about some of the chaos,
+[04:25] I just wanted to share some really cute pictures
+[04:27] on why we put ourselves through some of these things.
+[04:32] And then SRE concepts.
+[04:34] So cyclical liability concepts.
+[04:35] And if you know an SRE, R and SRE,
+[04:38] you'll be familiar with the, this is fine, fire dog, background
+[04:42] thing where you're like, yeah, yeah, everything's fine
+[04:44] as everything burns down around you.
+[04:47] So very much that vibe is what I bring to SRE.
+[04:51] So I want to talk up like some of the terms
+[04:53] that people generally use when talking about SREs.
+[04:57] So that's SLS and SLOs.
+[04:59] So service level indicators, what is the data are you measuring?
+[05:04] Like, how do you know something's working?
+[05:06] What do you care about?
+[05:07] Is it latency?
+[05:08] Is it error rates?
+[05:09] What do you hear users of your system care about?
+[05:13] And then the objective is, what is the target for those systems?
+[05:16] Like you'll often hear people's talk about five,
+[05:18] nine's availability, what sort of availability are you
+[05:21] aiming for?
+[05:23] So how do you know your users are happy?
+[05:25] It was the error budget to go with that.
+[05:28] These often come with a third term that I'll not go into here
+[05:31] because it's not particularly relevant for my example,
+[05:33] but it's service level agreements.
+[05:36] We're basically people companies sign documents to say,
+[05:39] if we don't meet our objectives, we will pay you money
+[05:42] because we didn't meet your needs.
+[05:45] But I didn't have to pay anyone for our van breaking down.
+[05:49] So it's not relevant for this talk.
+[05:52] So I want to then touch on instant timelines
+[05:55] because incidents are the one interesting thing to talk about
+[05:59] and also a big part of an SREs trying to fix things.
+[06:03] So what does the timeline of an instant look like?
+[06:07] So first piece, identification, how do you know
+[06:10] that something is wrong?
+[06:12] In an ideal world, an alert will fire
+[06:14] and tell you that something is going to break
+[06:16] or you've got some symptoms that something is a bit unhappy.
+[06:21] An alternative things?
+[06:23] People message you like, hey, something will fire.
+[06:25] This isn't working and your customers are yelling at you.
+[06:29] Also a signal, not a great signal, but still a signal.
+[06:33] The next piece is once you have that signal
+[06:35] is assessing the severity.
+[06:37] How bad is the situation?
+[06:40] Is this a, we need to drop everything
+[06:42] that we need all hands on deck?
+[06:44] Or is this, it's a little bug with this one part of the system
+[06:47] and we'll get to it later.
+[06:48] Like about determines the next path forward.
+[06:52] And then you have to try, what is actually happening?
+[06:55] Like, what do I need to do?
+[06:56] Who do we need to get involved?
+[06:58] What is actually broken under the hood
+[07:00] and causing this problem?
+[07:02] Fourth is escalating.
+[07:04] So if I identify what the problem is
+[07:06] and what you need to fix.
+[07:08] A lot of the times that may not be you
+[07:10] and I widely distribute a system.
+[07:13] So you need to call an experts like, oh,
+[07:15] I need to talk to the person that knows more about the databases.
+[07:17] I need to talk to someone who knows more about
+[07:19] a very specific part of the system.
+[07:21] So you escalate, depending on the severity that's,
+[07:25] am I going to wake someone up or am I going to wait
+[07:29] until tomorrow?
+[07:30] The severity feeds into all of that.
+[07:33] And then fix it.
+[07:35] How do you get back to a stable state?
+[07:38] On an emphasized stable state, because I mean,
+[07:41] how do your customers start using your system again
+[07:43] in a way that they're happy?
+[07:45] That doesn't necessarily mean the problem
+[07:47] is fully resolved under the hood,
+[07:49] but it's back to a state where customers
+[07:50] can keep going and keep working.
+[07:54] And then you have the follow-ups.
+[07:55] So this is the tidying up, making sure
+[07:57] you've got everything back into the perfectly stable state
+[08:00] that you need to be, fully resolved.
+[08:03] And then you consider, how do we do better next time?
+[08:06] You have those written perspectives.
+[08:07] And these are often the overlooked parts
+[08:09] of an instant timeline, because it's admin.
+[08:11] It's boring.
+[08:13] It's, oh, I really don't want to bother doing that.
+[08:15] It's fixed now.
+[08:16] Not my problem.
+[08:17] But actually, these are the important parts
+[08:19] because it allows you to do better next time.
+[08:22] And this whole feed center where I'm going next.
+[08:25] So the incident.
+[08:28] Again, there were many.
+[08:29] I focused on one because of time limitations,
+[08:32] but I'll go through all of these concepts for this incident.
+[08:36] So what was the SLI and SLO that we cared about?
+[08:39] SLI temperature.
+[08:41] It was cold, and we wanted to stay not cold.
+[08:45] We wanted to be warm.
+[08:46] So the SLI, the indicator we cared about was the temperature.
+[08:51] The SLO.
+[08:52] We wanted it to be over 15 degrees.
+[08:55] Like, in the ideal world, 20 degrees.
+[08:57] We want to be nice and cozy in the van.
+[08:59] But we're in a metal box in winter.
+[09:02] I like set 15 degrees in the van, and the goal
+[09:05] is not to freeze to death.
+[09:08] So just to set the scene of what was happening,
+[09:11] it was 11 o'clock at night.
+[09:13] Our water pipes at frozen days ago,
+[09:15] because as much as we'd insulated all the things,
+[09:18] we did not insulate the water pipes.
+[09:21] So we had water tanks full of water,
+[09:22] but we did not have pipes that was sufficiently transport
+[09:25] said water.
+[09:27] Thankfully, when they unfrozen, nothing broke,
+[09:29] which was just pure luck.
+[09:31] So that's a near-miss incident on itself.
+[09:35] On this day, we'd also spend our day skiing.
+[09:38] I had not skied in years, and I could not walk at this time.
+[09:43] I was sore, everything heard.
+[09:46] I cried because I kept falling.
+[09:48] My partner very kindly looked after me.
+[09:50] I was like, they're there.
+[09:51] You'll get there.
+[09:54] Your legs weren't working.
+[09:55] And the temperature, I'm very glad it took a screenshot of this,
+[09:58] it was real feel minus 21 degrees.
+[10:00] You walked outside on the insides of your nose,
+[10:02] we're freezing, the dogs are unhappy, you're like, okay.
+[10:06] Yep, this is fine, but at least the van is cozy
+[10:08] because the heat is working.
+[10:11] And then we have identification.
+[10:12] So this is the start of our instant.
+[10:15] I'm just casually brushing my teeth.
+[10:17] We have a little toilet bathroom cubicle in the van.
+[10:20] Brush your my teeth, and then the lights go off.
+[10:23] And I kind of mumbled through the door to LA sitting,
+[10:27] hey, did you turn the power off?
+[10:30] And he's like, no, oh shit.
+[10:33] So that was our signal.
+[10:35] That was our identification, something's gone wrong.
+[10:37] So this at this time, the temperature was still fine
+[10:40] because the heat rate only died.
+[10:41] But at that point, the heat rate is no longer working.
+[10:44] That's a signal.
+[10:46] So then we needed to assess the severity of the situation.
+[10:50] So whenever we talk about instant severity,
+[10:54] we, in my company, we talk about severity four right up through one.
+[10:59] So ready four is kind of like, it's inconvenient,
+[11:01] but it's fine.
+[11:02] You can have a coffee or a hot chocolate
+[11:04] and you will get to eventually solving the problem.
+[11:08] But it's not urgent.
+[11:09] You don't need all hands on deck to fix it.
+[11:12] It's very free.
+[11:13] It's like, oh yeah, it's kind of a cold,
+[11:15] but we're probably fine till the morning
+[11:17] or we can like, we had a couple of hours as late.
+[11:20] We'll wrap up warm extra blankets.
+[11:22] It'll be fine.
+[11:24] It's very cold when you're like, oh, there's actual customer impact.
+[11:28] So for us, we're at risk of pneumonia.
+[11:31] If the heater is actually dead, it's 11 o'clock night.
+[11:35] It's going to be minus 21,
+[11:37] trying to minus 24 all through the night.
+[11:40] Without a heater, we're probably in danger.
+[11:43] So for this purposes, we say this is a severity two incident
+[11:46] we're dealing with.
+[11:47] And I included a severity one there as well,
+[11:49] with my little skeleton
+[11:52] that would be, we are in real danger.
+[11:54] Like this is threat to life danger.
+[11:58] Thankfully, we did not get there,
+[11:59] but it was very much one of those
+[12:02] depending on how the incident played out,
+[12:05] this could become an S1.
+[12:08] So what do we do to try out the issue?
+[12:11] And any good computer person would do?
+[12:13] We turned everything off and on again.
+[12:15] And we unplugged and replaced all the cables again,
+[12:18] and again, and again.
+[12:20] And we're like, it could not possibly be our van.
+[12:23] This is not our problem.
+[12:24] Like it's definitely the campsite's problem.
+[12:26] Maybe we need a different power source.
+[12:28] Maybe we need to plug in somewhere else.
+[12:30] Oh, and we have a fuse box in the van.
+[12:32] Let's go it's your tivety.
+[12:33] One by one through all of the fuses
+[12:35] and see what's going wrong.
+[12:38] Which narrowed it down to, there is a problem
+[12:40] between the fuse box and the shore power going into the van.
+[12:44] So somewhere in that cable, something's gone wrong.
+[12:48] We cannot get power into the van.
+[12:50] And something with that spoken, and our leisure battery
+[12:53] is probably not going to survive the night in the cold either.
+[12:56] So that's not great.
+[12:58] So we escalated.
+[13:01] So while my partner is very good with electronics and things,
+[13:06] we're like, oh, we maybe need to call in some experts.
+[13:09] So to start with, I went and woke up the campsite manager
+[13:12] at 11 o'clock at night saying, hello,
+[13:14] this must be a problem with your site.
+[13:16] Please help us, which, on fact, blaming someone else,
+[13:20] means they're not really wanting to help you.
+[13:22] So approaching it with a, hello, please help us.
+[13:25] We think there's a problem.
+[13:26] We'll get you much further.
+[13:27] But I was in a little bit of a panic
+[13:29] and common sense goes out the window.
+[13:31] So here's rather unhappy with us, Kim Dine and Chex.
+[13:33] He's like, no, it is your van.
+[13:35] It is the problem and just walked away.
+[13:37] OK, that wasn't successful.
+[13:40] We need to escalate to someone else.
+[13:41] So we call our dads because you can always rely on dads.
+[13:45] So we are on the phone and he's like,
+[13:49] OK, we walk through all the same troubleshooting again
+[13:51] because that's what you do.
+[13:52] You're like, oh, just confirming we've done this and this
+[13:54] and this, OK, you've done that.
+[13:57] It must be the fuse box.
+[13:59] So now we narrowed a dime.
+[14:01] We know what we're doing.
+[14:03] How do we fix it?
+[14:04] So our fix in this incident is that we basically
+[14:09] hardware that's very cable that we have, but I told you
+[14:11] about it.
+[14:12] We hardware that direct, I say we elated,
+[14:15] and I was the instant manager of managing the situation,
+[14:17] which is why I'm talking about it and not him.
+[14:21] But he hardwired the cable directly into the fuse box.
+[14:26] And we basically use the other end of that cable
+[14:28] as the in-met, the shore power into the van coming in through the window.
+[14:32] And the solution at that time was it was a hack.
+[14:36] It worked.
+[14:37] We got, and we have little lights in the van that only
+[14:40] worked when you're plugged into the mains.
+[14:42] So when they turned by gone, we had a little dance party
+[14:44] because I was like, yes, OK, we have electricity.
+[14:48] But the heater wouldn't turn on.
+[14:50] And I, oh, it still has a red warning light.
+[14:55] So then I returned to the runbooks.
+[14:57] Went back and I was like, OK, we need to reset the heater.
+[15:00] Where's the heater?
+[15:01] And you're going through all the process
+[15:02] as to find, oh, I need to find a very specific red button.
+[15:05] Hidden under the seeds, which one of these photos
+[15:08] is me very happy when realized that resetting the button
+[15:12] actually worked.
+[15:14] And we survived.
+[15:17] So then the follow-up.
+[15:18] So I said the retrospective, like, what can we do better next time?
+[15:22] Immediately the next day was tidying up our hack solution
+[15:26] so that we can continue our trip.
+[15:28] We still had another two weeks in winter in Myanmar, Europe.
+[15:31] And we really didn't want to come home.
+[15:34] So it was very much, OK, we need to work
+[15:36] at how to do this.
+[15:37] So it was rewired in a way that meant we can continue working
+[15:40] as just a little bit awkward.
+[15:42] And then by better tools.
+[15:44] So I didn't mention before, is that we use a small page
+[15:48] or JD, Stanley knife or Swiss Army knife kind of thing
+[15:55] to fix things, which is irony because it's
+[15:57] page or JD and I got it from a conference one time.
+[16:00] But I came in handy.
+[16:02] And then at the time it was like future off-problem.
+[16:04] We need to fix the powers for a socket eventually,
+[16:07] but it can wait till we get home.
+[16:09] So that was our future off-problem.
+[16:12] Because I promised you dog pictures,
+[16:14] there are always lurkers and observers and incidents.
+[16:17] People are joined the incidents, but don't really
+[16:19] contribute.
+[16:19] They're just there to see what's happening.
+[16:22] So the dogs enjoyed hanging out on the bed
+[16:25] while we continue to debug and fix the problem.
+[16:27] And they're not usually lied on the bed,
+[16:29] so they were delighted.
+[16:30] They were having a great time.
+[16:33] So I probably should have guided and I realized
+[16:36] on the way down.
+[16:37] Oh, nothing in quite this is a guide.
+[16:38] I'm just telling a story.
+[16:40] So I wanted to throw a three final things
+[16:42] before I finish up.
+[16:43] One is a bite-life M.T.S. art or work in this case
+[16:48] where at the time, I feel like I'm in an incident
+[16:51] and I'm doing troubleshooting, as if I'm doing my day job.
+[16:55] This would be a cool talk sometime.
+[16:56] I should tell, I should do this.
+[16:59] So it's really that whole real life
+[17:00] can be seen in the M.T. art or work.
+[17:02] And you can always see those parallels.
+[17:05] And hope is not a strategy.
+[17:07] I've been in instances before.
+[17:08] Oh, we'll just wait and see if it fixes itself.
+[17:11] That will be fine.
+[17:13] You need to actually do something about the problem
+[17:15] before I get worse.
+[17:18] And finally, iterate, iterate, iterate.
+[17:21] Go exploring, get it wrong.
+[17:23] Fix something, learn, do better next time.
+[17:26] And then you can iterate and you can be slightly more prepared.
+[17:30] For example, we'll probably do additional justification
+[17:32] adjustments to our van because of the heat,
+[17:35] because it's very warm.
+[17:37] So with that, that's me.
+[17:40] Thank you very much for your time.
+[17:42] If you have any questions, you can find me around camp.
+[17:44] I'm on MasterDawn.
+[17:47] All the links here.
+[17:49] Thank you.
+[17:50] APPLAUSE

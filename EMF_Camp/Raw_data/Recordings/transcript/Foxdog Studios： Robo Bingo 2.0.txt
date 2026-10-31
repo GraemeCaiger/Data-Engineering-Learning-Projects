@@ -1,0 +1,1067 @@
+[01:00] You might know this one.
+[01:15] Have a little fish.
+[01:25] I don't know that it's shit.
+[01:29] I don't know that it's shit.
+[01:33] Have a little fish.
+[01:37] When the boat comes in.
+[01:43] Dance for your daddy.
+[01:50] Sing for your money.
+[01:55] When the ship comes in.
+[01:59] We are Fox Dog Studios.
+[02:25] The UK is probably on the planet.
+[02:35] I'm going to put mine for it.
+[02:40] The UK's number one IT consultancy.
+[02:44] We're going to be demonstrating to you a number of inventions we have created.
+[02:54] Thanks, Pete.
+[02:59] We are the inventors of the world's second finished guitar.
+[03:09] Please hold your applause.
+[03:12] Because tonight in this field we are proud to announce we're also the inventors of the world's first finished guitar.
+[03:24] They in say could be done.
+[03:26] There's more.
+[03:28] Look at this.
+[03:31] Two authors swimming on a river.
+[03:38] What's that strange noise?
+[03:41] Seems to be emanating from the cardboard structure on stage.
+[03:47] Something's emerging.
+[03:50] Oh, I know who it is.
+[03:53] It's Mr. Bing.
+[03:54] Oh, Bingo mascot.
+[03:56] And he's got his mascot.
+[03:58] Two point oh.
+[03:59] Isn't that right?
+[04:01] Oh look at him wink.
+[04:05] Mr. Bing.
+[04:07] Just two points are like being held like that.
+[04:12] I'll take that as a yes.
+[04:15] Only long time no see.
+[04:16] What have you been up to since we last locked eyes?
+[04:20] We are a firm desire.
+[04:26] They all rush in.
+[04:29] That's fascinating.
+[04:31] And what techniques are you using?
+[04:33] How's it coming along?
+[04:35] We are a firm desire with the power of death.
+[04:43] Take your body boom.
+[04:55] You're going to have to show me that again.
+[04:58] It's by direction.
+[05:01] You're going to do it.
+[05:04] Well, with dance moves like that, the functionality of this Bingo machine must be second and on.
+[05:12] Please can we have a demonstration?
+[05:15] Go.
+[05:17] You are Dr. Eddie.
+[05:21] 6 year old shake up to prepare.
+[05:25] Look at your phones.
+[05:27] Mr. Bing is giving you 60 seconds for her.
+[05:30] If you're just joining us, a Bingoing is a small creature that you get to dress.
+[05:34] If you created your Bingoing before the show would like to customize it, press the edit button.
+[05:39] This would be an excellent time to maybe move the eyes closer together or rotate the body to make them look particularly stupid.
+[05:47] 30 seconds remain.
+[05:52] She just be milling her in selection at this stage.
+[06:02] 15 stress should be peaking around this point.
+[06:15] 7, 6, 5, 4, 3, 2, 1, 0, tensiles down.
+[06:29] Now, who's ready?
+[06:33] Two.
+[06:35] Bingo.
+[06:37] No.
+[06:39] No.
+[06:40] Lloyd stop.
+[06:41] Stop.
+[06:43] Go back down.
+[06:44] Literally despite the warning.
+[06:46] But maximum 40% ready to bingo.
+[06:50] Let's try it again.
+[07:13] Yeah.
+[07:18] Alright, and a second you're going to get a card that looks just like this on your phone.
+[07:24] Allocating those cards using this button on my keyboard.
+[07:30] If you're impressed by that you're going to love the rest of the show.
+[07:37] We're going to call out numbers perusia card for that number.
+[07:40] And if you have it, tap it and it will go yellow like the number one did on the screen.
+[07:46] If you make a mistake, you can tap it again to undo.
+[07:50] Traditionally in Bingo, there are short rhymes before each number is called.
+[07:54] For instance, usually it's click at eClick 66.
+[07:57] Well, we've made our own.
+[07:59] So it's supply chain issue 62.
+[08:05] Lloyd, big logistics crowd in tonight.
+[08:08] Your next number is...
+[08:12] Swole in knee 33.
+[08:16] Some people there say they've got it.
+[08:18] Just need to mark it down.
+[08:22] For number...
+[08:24] Anti-Histamine 16.
+[08:28] So we're all having fun marking numbers down.
+[08:36] I mean, at least I think we are.
+[08:38] You having fun marking numbers down?
+[08:40] Please answer on your phones.
+[08:42] Yes or no?
+[08:46] It's about 15% not liking it.
+[08:49] Yeah, there's a sign in my narrative.
+[08:51] But I think I know the issue.
+[08:54] These people are wondering, what's the point in this?
+[08:58] This is the point.
+[08:59] It's to get a complete row.
+[09:02] Column or exclusively this evening we've implemented it.
+[09:07] Diagnol.
+[09:11] And once you have that, you press your Bingo button that will allocate shortly.
+[09:15] That lets us know you have a Bingo and need to receive a high value prize.
+[09:20] So P and I have written all the code that's running on that laptop there.
+[09:25] In fact, on stage that you're connected to.
+[09:27] And we've been playing around with how the Bingo button code works today.
+[09:31] So to make sure it's still working, when you get given the Bingo button,
+[09:36] even though you would never normally press it, when you didn't have a full Bingo,
+[09:39] we need to press it once to test it still works.
+[09:43] You get one trial press allocating now.
+[09:48] B-B-B-B-B-B-B-B.
+[09:50] We'll be talking about it.
+[09:52] We can't understand if we can get the B-B-B1 presses.
+[09:54] If you can't check the numbers, you can't see the number.
+[09:57] We're talking about a slice.
+[09:59] Look at this!
+[10:02] Oh, self-restrains!
+[10:04] Look at that self-restraint!
+[10:06] Although at the bottom there's someone who's just called Kay.
+[10:08] They only press any button once.
+[10:11] That's the default.
+[10:13] Kay would never dare press the Bingo button more than once.
+[10:17] Bingo!
+[10:18] Chloe!
+[10:18] No, I was going.
+[10:19] Get a list.
+[10:20] Off the list.
+[10:22] Alright, Ravens moved up a place.
+[10:26] There's lots of connection issues everywhere.
+[10:30] Oh, is it because I've stood on the cables?
+[10:34] Rotate your phones towards me so we can see.
+[10:37] Oh, no!
+[10:40] So, it's not that many.
+[10:43] You said lots.
+[10:47] You've been stepping on all those cables, Pete.
+[10:50] Well, it's difficult not to.
+[10:51] As we are, yes.
+[10:52] Oh, that's just the cable tie on the floor.
+[10:54] So, I mean, they're all flashing.
+[10:57] They're all flashing.
+[10:58] Why would say?
+[10:59] They're good at they're all flashing.
+[11:01] Well, the people who think it's 50-50.
+[11:05] They're inconclusive.
+[11:06] We'll never know.
+[11:08] I'd say, oh, wait a minute.
+[11:12] It was all the people in the middle when I was stood in front of the AP.
+[11:16] I'm going to stay here.
+[11:18] You never know what might happen.
+[11:20] If we don't come back on, have a nap.
+[11:23] All right.
+[11:25] They should've come back on a minute.
+[11:27] All these good people, but whoever still has a button,
+[11:29] see, as you enjoy impressing it so much.
+[11:31] Carrying for a bit.
+[11:33] Because when you do get a genuine big gun,
+[11:36] you'll be able to receive a price.
+[11:39] And our price is coming from our prize room.
+[11:43] Yes, located between my bedroom and Pete,
+[11:46] is a room with all our belongings.
+[11:47] And we're taking an eye on Mount Elf for you this evening.
+[11:50] It is a set of packed-esparse stickers.
+[11:52] Pete's saying keep that going.
+[11:59] Okay, yeah.
+[12:01] But our test-esparse stickers, and we will sign and date these.
+[12:07] Oh, oh, you went to go find the part.
+[12:11] I thought you were doing something with the network.
+[12:14] No, I've given a comment.
+[12:17] Beep, beep, beep, beep, beep, beep.
+[12:20] Stop pressing it. Stop.
+[12:23] Oh, whoa!
+[12:24] You can have the button back when you've learned to behave.
+[12:27] Using up the network or another people are trying to play.
+[12:31] All right.
+[12:33] Here comes your next number.
+[12:36] This table's made of pine 29.
+[12:41] You got it, Mark it down.
+[12:43] If you haven't, you can't.
+[12:49] Next number, chlorine number 14.
+[12:55] Chlorine of course, element number 14.
+[13:02] No one took the bait well done.
+[13:08] Next number is, I think they, I think they'll look at the lesson.
+[13:13] No, no!
+[13:14] Straight in there with the bingo.
+[13:16] There are consequences.
+[13:18] From this use in the bingo manner.
+[13:19] Do you want to see those consequences?
+[13:21] Bingo.
+[13:22] Everyone who knows was just happened bingo.
+[13:25] Yes, they want to see the consequences.
+[13:27] Sean the consequences, Lloyd.
+[13:28] Well, the latest bingo presser with only 38 presses was Steve.
+[13:33] Rough rage, Steve.
+[13:36] Bingo jail.
+[13:37] Bingo jail.
+[13:39] Bingo jail.
+[13:41] Bbb
+[13:44] Of course.
+[13:46] Mokey racist violence.
+[13:52] Cook sweat man jail day, spot him in jail.
+[14:00] Static monster's a cheer-offer's office in Cella, Alison.
+[14:03] Teachin' the kilos are their body, maggskers, perfect公, right?
+[14:08] We're talking to you.
+[14:10] We've been going.
+[14:12] Quack two.
+[14:13] We've been going.
+[14:16] Alex and Ray, we've been going.
+[14:18] We've been going.
+[14:19] We've been going.
+[14:21] We've been going.
+[14:24] Right.
+[14:25] If there's anyone left, as you can see.
+[14:28] We've been going.
+[14:31] You can still play.
+[14:33] Like in real life, you can still play bingo from within jail.
+[14:37] But your button doesn't make any noise.
+[14:40] If it's all you're doing now by pressing your button is wasting your own battery life.
+[14:45] There's no reward for all of those.
+[14:47] I should start leveling up.
+[14:48] There's no reward for what you're doing.
+[14:50] Bingo!
+[14:52] Don't see that.
+[14:53] Okay, your next thing is.
+[14:55] Skone or Skone, 20 won.
+[15:05] Followed by.
+[15:06] Palette of bricks 36.
+[15:13] And your next number is.
+[15:19] Different.
+[15:20] A surprise round of spot the difference.
+[15:22] You will see two images on your phone.
+[15:24] Tap the differences.
+[15:26] Do not tap the same.
+[15:27] Or you will be penalized.
+[15:29] Lloyd, what's going on here?
+[15:30] How many differences are we looking for?
+[15:32] That's where it all is out on the boat.
+[15:34] You missed a big miss.
+[15:35] The other side there.
+[15:36] We're going out.
+[15:37] Traveling.
+[15:38] Can you find three differences?
+[15:39] If you already found them well done, it's all about speed in this round.
+[15:42] We'll see who's going to fast this in the moment.
+[15:44] We'll be able to get a little more time to find those differences.
+[15:48] Time is running out.
+[15:49] I think south end don't see.
+[15:51] Let's see what those differences are.
+[15:53] The green triangle has gone.
+[15:55] Lloyd's hat has disappeared and someone bulldozed the house in the background.
+[15:59] But who did it fast this?
+[16:02] Top of the leaderboard LJ 5000.
+[16:04] 100% with 9.19 seconds.
+[16:06] That's a tight with Rory.
+[16:07] Who did it?
+[16:08] 9.19 seconds as well.
+[16:09] Followed by Panda.
+[16:11] Back to Bingo.
+[16:15] Our next number in this round of Bingo is...
+[16:18] Table for three.
+[16:19] 43.
+[16:20] Followed by...
+[16:25] Flathead screw.
+[16:30] Fiend in the way.
+[16:31] Kevin Johnson.
+[16:33] Full name on their third Bingo address.
+[16:36] It's not a genuine Bingo.
+[16:37] Kevin Johnson, where are you in the ten?
+[16:39] Right there.
+[16:40] Pete, you see him?
+[16:50] Kevin Johnson and Big Brown have a pause.
+[16:52] We're seeing that prize here.
+[16:59] We're seeing that prize.
+[17:02] Go round there.
+[17:04] Can we capture the little bit of face?
+[17:12] Pete, Pete's out of range of the button.
+[17:14] You need to come closer because you're out.
+[17:16] He's lost connectivity to his...
+[17:18] Logitech keyboard.
+[17:20] Hold on.
+[17:21] He's going to take the snapshot.
+[17:23] Three.
+[17:24] Two.
+[17:25] One.
+[17:27] No round of applause.
+[17:29] Kevin Johnson, everyone.
+[17:42] All the emotion in this ten right now calls for a bonus round.
+[17:48] The first round.
+[17:55] It's time to play a very difficult game called snap.
+[17:59] Snap involves recognizing when two images are identical.
+[18:11] So the key.
+[18:13] Just pulls you for a second.
+[18:15] The key there.
+[18:16] How many things did you say, Lloyd?
+[18:18] We need two things.
+[18:19] Two things.
+[18:20] And how many things is there?
+[18:22] Yeah, that's one, I believe.
+[18:24] That's half as many as you need.
+[18:27] I think that's one of the least snap states we could have been there.
+[18:30] So let me just warn you.
+[18:32] Everyone who's already snapped, you are out of this round.
+[18:38] And we're doing like 40 rounds.
+[18:40] Your next number is...
+[18:45] Ten and five.
+[18:48] What's the difference there, Pete?
+[18:51] There.
+[18:53] Ten and five again.
+[18:56] No one.
+[18:57] Oh.
+[18:58] It took chunky.
+[19:00] Two point three seconds.
+[19:01] They forgot.
+[19:02] Oh, Ty is going on that.
+[19:03] They've tried to splashed.
+[19:04] Yeah, they're trying to snap on the color there.
+[19:07] Six.
+[19:08] Oh, nearly a snap.
+[19:13] Four off.
+[19:15] That's a snap.
+[19:19] Magic snapped it.
+[19:20] Fanta in 0.7-3 seconds.
+[19:23] It's now time to play with a slightly more difficult set of cards.
+[19:28] Specifically, the Bingling's you created earlier.
+[19:33] That's impossible.
+[19:42] No one fooled by that.
+[19:46] Good use of the duck mouth.
+[19:51] Ah, we've got no- Oh, wait a minute.
+[20:01] It's not in the rule book, but should that be allowed?
+[20:10] Okay.
+[20:15] I don't remember which button it makes them win.
+[20:19] Let me...
+[20:21] You're not opening up the...
+[20:23] I'm just going to go over here and check my emails.
+[20:27] Was that slightly off screen?
+[20:30] In these...
+[20:32] What?
+[20:34] The using as an opportunity to talk about the network quality.
+[20:39] Oh, Dad.
+[20:41] You've got under checkings.
+[20:42] Just pick another one.
+[20:44] They've all stopped.
+[20:49] That's your fault, Steve.
+[20:53] Alright, let's...
+[20:56] Let's just do some network admin.
+[20:59] Alright, so I'll bring...
+[21:02] I'll bring you all in on the journey.
+[21:05] So we'll swap to the full admin panel.
+[21:08] That's where I was trying to find the winner button.
+[21:13] So...
+[21:17] So we could see that DNS mask, right?
+[21:21] So this is the DHCP and DNS server.
+[21:24] It's unusually calm.
+[21:26] I would expect to see more activity there.
+[21:29] It hasn't...
+[21:30] Well, it's stopped.
+[21:31] So I restart the DNS server.
+[21:34] So...
+[21:36] So you can see the Wi-Fi's, but you're not going to give it an IP address.
+[21:41] This is going...
+[21:42] That material goes much better here than a download festival.
+[21:51] I love seeing that terminal guy.
+[21:53] Yeah, go!
+[21:54] Terminal's going crazy!
+[22:00] Is that actually coming back on?
+[22:02] It's joy in the room.
+[22:05] Alright.
+[22:06] We're not going to get that big up loser yet.
+[22:09] If there is anyone, if there is a developer of DNS mask in the audience,
+[22:13] just take a quick, pru, to the config.
+[22:16] I'm just drop as an email with what's wrong.
+[22:20] Alright.
+[22:21] Because I have noticed though, it stopped again.
+[22:25] And that...
+[22:26] I'll always back off.
+[22:29] Alright.
+[22:30] Just stop resolving domain names.
+[22:36] Alright.
+[22:37] You've had enough domain name resolution for one day.
+[22:45] Okay.
+[22:46] Are we back on?
+[22:48] Alright.
+[22:49] Now we just have to work out which burn assigns Steve, the winning prize.
+[22:54] If anyone can see it down here, force win is on F.
+[23:00] Wow.
+[23:04] That was very satisfying.
+[23:06] Yeah.
+[23:07] Okay.
+[23:08] How are you going to get them back?
+[23:10] What?
+[23:11] You're going to have to play an amazing round of snap.
+[23:14] You didn't change it to full spree.
+[23:15] I put it to the same set again.
+[23:17] Actually, I did a different setting when I can't even see my own screen.
+[23:22] So I just...
+[23:24] Doing it for memory.
+[23:30] Wow.
+[23:31] That was a pretty good one.
+[23:33] What are you doing?
+[23:35] Now it's difficult if you...
+[23:37] If you could see what I can see on here, you'd be pissing yourself.
+[23:41] Now I have to run a program called I3-WorkspaceLives.
+[23:47] Oh, it's made it very small on your screen.
+[23:50] Yeah.
+[23:51] It's put it in the portal.
+[23:52] Oh, go ahead.
+[23:54] Alright.
+[23:56] Yeah.
+[23:59] It's time.
+[24:00] I've got to talk, I forgot I had to talk into this then.
+[24:03] I think it's time to step it up to notches.
+[24:06] To notches.
+[24:07] Loat?
+[24:08] Yeah.
+[24:09] Activate tense mode.
+[24:15] We're skipping straight past.
+[24:17] Chores are cards.
+[24:18] Too easy for this crowd.
+[24:20] And we'll go in straight to bed time boys.
+[24:25] We're looking for the same boy in the same pose.
+[24:30] Okay.
+[24:41] Get out your system.
+[24:45] Ah, ah, ah, ah, ah, ah.
+[24:46] The play team slap is left.
+[24:48] The hundred seventy four.
+[24:49] Some of these people have never pressed the snap button.
+[24:51] They just want to try it out.
+[24:52] Okay.
+[24:54] Stop.
+[24:55] Stop.
+[24:56] Here comes your next bed.
+[24:57] Stop.
+[24:58] Stop.
+[24:59] Stop.
+[25:00] No.
+[25:01] That's a different boy in a different pose.
+[25:04] It couldn't be more wrong.
+[25:10] People panicking.
+[25:11] Same pose, different boy.
+[25:13] I'll give you a snap top tip.
+[25:16] Look at the pictures.
+[25:24] That side facing bedtime boy.
+[25:28] It's all that tricks a lot of people.
+[25:31] They just don't have the knack for it.
+[25:34] They can't identify bedtime boys.
+[25:39] That was the same boy on top of it.
+[25:42] But snap is a horizontal game, baby.
+[25:49] It was worth the try, wasn't it?
+[25:52] No.
+[25:54] No.
+[25:55] No.
+[26:02] Stop.
+[26:03] Stop.
+[26:04] This is my one.
+[26:05] Michael there.
+[26:06] Zero point seven nine seconds.
+[26:09] That's there.
+[26:10] That's.
+[26:11] So Michael, as you have won,
+[26:13] the most difficult round that we can be bothered to program.
+[26:16] You and only you will receive a prize.
+[26:20] I'm going to put you back into bingling edit mode.
+[26:23] There will be one category with one item.
+[26:25] That is your prize.
+[26:28] I'll give you a door yourself with the prize.
+[26:32] There you go.
+[26:35] I will give you five seconds to position into your liking.
+[26:38] Starting now.
+[26:45] There's a good choice.
+[26:47] That's Ben.
+[26:50] You now know snap.
+[26:51] And I think you're ready for bodies of water bingo.
+[27:06] Now, at a moment on your phones, you're going to get a new bingo card.
+[27:11] It should have instead of numbers, images.
+[27:14] These are all images of bodies of water.
+[27:18] There are a pick for the 75 top bodies of water.
+[27:23] But what are we playing for, Lloyd, for we go into it?
+[27:27] Hitting to the prize.
+[27:29] Sheds.
+[27:30] Yes, it's the bridge shared when we're now King Wolong US prices.
+[27:34] We're entering it.
+[27:35] What can we take it up?
+[27:36] It looks like it could be a bit of a WD40.
+[27:39] Uh, paint?
+[27:40] No.
+[27:41] It is a carpet.
+[27:42] Sunko.
+[27:44] Oh, no, no, no.
+[27:47] Don't we say if you have a small enough room, then it's just a carpet.
+[27:54] So, yeah.
+[27:55] So if you see an image and it's on your card, mark it off.
+[27:59] First body of water.
+[28:00] Body of water is.
+[28:04] Ooh, anyone know what this body of water is?
+[28:09] Hot spring, hot spring.
+[28:11] All hot springs have monkeys in them.
+[28:15] It's just a fact.
+[28:17] Your next body of water is.
+[28:24] Does anyone recognize this?
+[28:27] Is there anyone from Stoke on Trent in the audience?
+[28:32] Is there no one from Stoke on Trent here?
+[28:34] Well, I've been there and I haven't, I'm not from Stoke.
+[28:36] True.
+[28:37] Is there anyone been to festival park in Stoke on Trent?
+[28:40] This is, I'll just ask you.
+[28:42] Oh, yeah.
+[28:43] Asked out, I did.
+[28:45] Well, 12 people recognize this as water world on festival parks, though,
+[28:51] Contrary to.
+[28:53] Ah, next body of water.
+[28:56] Wow.
+[28:57] It is, of course, the anti-solution.
+[29:01] The notion.
+[29:02] The anti-solution.
+[29:03] So the notion.
+[29:06] The answer, the notion there.
+[29:08] Don't learn that.
+[29:13] So, just ruining.
+[29:14] Ah, this is the classic.
+[29:16] We'll remember this.
+[29:17] This is, of course, the rock ball.
+[29:25] Followed by, this is a frozen body of water.
+[29:28] The Amsterdam ice bar.
+[29:30] Water in a different state.
+[29:33] Still water though.
+[29:38] Coming up next is.
+[29:42] Is that fountain feet?
+[29:44] Looking at this on this more HD monitor, I feel that I may have been tricked by generative AI.
+[29:52] Some of the edges are not as well defined as a light into being.
+[29:57] It meant to be a Parisian 2T outdoor water fountain.
+[30:02] But I think it's the figment of a data center's imagination.
+[30:06] Which probably did use a lot of water to create.
+[30:13] Wow.
+[30:18] Next we've got this.
+[30:19] Bingo!
+[30:21] What that was, it doesn't matter anymore.
+[30:30] Who's one?
+[30:32] They're the front there.
+[30:34] They are called big man, either front on the left peak.
+[30:43] Where are the copies?
+[31:00] How are you feeling about that big man? Do you want the prize?
+[31:05] That's not big man.
+[31:07] Huh?
+[31:08] Is that big man?
+[31:13] Where's big man?
+[31:15] Big man's there.
+[31:17] Who's this?
+[31:19] The real big man is able to answer the quiz right now.
+[31:23] Give me that bunk room.
+[31:26] Real big man.
+[31:28] Get rid of this.
+[31:29] This.
+[31:41] Is this fair? Yes or no?
+[32:00] Just this in the Bingo 10.
+[32:12] Different.
+[32:13] Surprise round of spot the difference.
+[32:17] It's the most difficult one on file.
+[32:22] It's a three different.
+[32:29] It's a three different.
+[32:33] But it's a time.
+[32:37] But see what those differences were.
+[32:40] It was the Bingo in Ling with a hat.
+[32:42] And another one with a moustache,
+[32:44] which changed into a hat.
+[32:46] And there was another one with a clown nose.
+[32:48] Question mark on the fastest.
+[32:50] 6.6 seconds.
+[32:51] 6 seconds.
+[32:52] Resload around town.
+[32:53] Mystery.
+[32:54] Most audiences give up and just spammer random and beat your score.
+[33:00] The accuracy of 19%.
+[33:02] That's what they did.
+[33:03] We got a message from Mr. Bing.
+[33:07] Mr. Bing.
+[33:08] What is it?
+[33:09] Oh, you've finished refurbishing the Bingo machine.
+[33:14] The bar you're playing.
+[33:17] Oh, is it?
+[33:18] Yeah.
+[33:19] Mr. Bing is saying that he needs to finish the
+[33:23] decorations of the Bingo machine by placing the disco cheese grater.
+[33:28] And then we have to put the top on the top.
+[33:30] Now, it's actually quite hard to do.
+[33:32] So he's going to need your help to do it.
+[33:34] We're going to call in some of the Bingoings to help control Mr. Bing.
+[33:38] Who have we got first?
+[33:40] We got Mags.
+[33:42] Now, Mags on your phone, you've got a forward and reverse button.
+[33:46] If you tap those right now, you can see yourself jiggling about on them.
+[33:49] Yep. That's going forward and backwards.
+[33:51] And then when the controls are locked, you can see at the top there.
+[33:54] Once we unlock it, we need you to drive Mr. Bing forwards.
+[33:57] To go and collect the cheese grater, reverse back towards his chamber here,
+[34:04] and then have it lifted up so it can be spun as a disco cheese grater.
+[34:09] We're going to unlock the controls now.
+[34:11] Mags please drive forwards.
+[34:13] That's it. You can hold it down. That's good.
+[34:15] But we've got it. We've got it. We've got it.
+[34:20] Get the camera at the front working.
+[34:23] There we go.
+[34:28] The camera is online.
+[34:31] Yeah, make sure to drive about whilst Louis is trying to put the camera in.
+[34:35] That should assist.
+[34:39] It's not a great camera angle.
+[34:42] What's it all?
+[34:43] It's a great camera.
+[34:44] I don't really understand what we're looking at there to be honest.
+[34:47] That's your camera.
+[34:48] No, it's not.
+[34:49] I don't know.
+[34:50] Got the rear camera selected.
+[34:53] That's very interesting.
+[34:57] I can undo that.
+[35:00] But I can undo that.
+[35:03] I can undo that by flipping the camera around.
+[35:08] Maybe we just continue with this perfectly functional camera.
+[35:11] We've already got a good idea.
+[35:13] Yeah.
+[35:14] Okay. I can see a problem. We're not aligned properly.
+[35:17] We're going to call the camera.
+[35:19] We're going to call in.
+[35:23] Phil H.
+[35:26] Phil H. You have left them right buttons.
+[35:28] Yeah. Please turn Mr. Bing towards towards it.
+[35:31] That's it.
+[35:32] That's not there.
+[35:33] Stop there.
+[35:34] We need to call him one more person to come help us.
+[35:37] Stop turning. Stop.
+[35:41] Shannon, please close Mr. Bing's hands.
+[35:45] Yeah. That's it. Get the grab going.
+[35:50] All right.
+[35:51] And now we need to reverse ourselves back into the chain behavior.
+[35:56] So I'm going to be a reverse please max and then fill left.
+[36:00] That's the wrong way, Phil.
+[36:03] That's it. We're doing a great job.
+[36:07] It's a team of truckers.
+[36:09] And a bit to the right, Phil.
+[36:11] Line it up centrally. Keep going.
+[36:14] That's good.
+[36:18] Give the team a round of applause.
+[36:20] Their fantastic work.
+[36:26] Oh, yeah. You're right, Mr. Bing.
+[36:28] We need to hold it there because, yeah.
+[36:31] This part is the difficult bit.
+[36:34] So Mr. Bing is getting out the way.
+[36:37] But what we're going to need to do now is bring in the lift for the
+[36:42] magnet up here.
+[36:44] Yeah.
+[36:45] Yeah. We're going to be careful.
+[36:47] This is the electrode magnet that needs to come down.
+[36:50] Allison, please use the down button to lower the magnet for us.
+[36:55] Oh, I need to unlock the controls. You're right.
+[36:59] That's it. Bring it down.
+[37:02] Lower the magnet down and he's the line up perfectly with the top of the,
+[37:06] There we go.
+[37:08] Perfectly with the top. That's down enough.
+[37:10] Perfectly with the top because for a magnet to work in each to be completely
+[37:15] flush with the surface and we have to take the bit of metal to the top of
+[37:19] the cheese grate to the only bit that isn't metal.
+[37:22] Now, we need to turn on the magnet.
+[37:26] Allison, you're just in charge of up and down.
+[37:28] So the magnet needs to be turned on.
+[37:30] A blue light will appear.
+[37:31] The magnet will be turned on by everyone else in the room.
+[37:34] In a moment, you're going to be given a red and green button.
+[37:38] You want to hit the green button which turns the magnet on.
+[37:41] As you tap the green button, the blue meter on the top which has magnet off.
+[37:46] It will go over the middle bar threshold, which famously turns on the magnet.
+[37:50] And this will turn on the magnet.
+[37:51] Allison will lift up the magnet and Mr. Bing will be able to go on the need to
+[37:55] disco magnet and be happy.
+[37:57] We want to UX the ward for that.
+[37:59] Control.
+[38:00] Here we go. Activating the control now.
+[38:04] There we go. The greens up. Allison, raise it up.
+[38:08] It's not turned on. The magnet's not turned on.
+[38:10] Is it got power?
+[38:11] Has it got power?
+[38:16] Also the lift is not going up.
+[38:18] The lift is not going up. Oh, stop. Stop. Stop.
+[38:21] I have the power to stop.
+[38:23] That was flashing.
+[38:25] That was flashing.
+[38:27] And now that stop, if that needs to be solid green, doesn't it?
+[38:30] I have no idea.
+[38:32] Yeah.
+[38:33] I'm going to unplug the lift.
+[38:36] I'm plugging it back in.
+[38:38] All right. This is Steve again.
+[38:40] This is Steve on the way.
+[38:43] Oh, no. I was trying to call back to the,
+[38:45] but it's not worked even for the, even for the other people in the show.
+[38:49] I saw bad that joke is.
+[38:51] Allison, you back in control of lifting.
+[38:56] Don't want us to know what's happened.
+[38:58] Delived it.
+[39:00] Delived it.
+[39:01] We're going to be on the ground crash.
+[39:03] The five and network disconnect.
+[39:05] We all know this.
+[39:07] So we're just going to switch it. There you go.
+[39:09] That's crashed.
+[39:17] Okay. Now if I reconnect this.
+[39:19] Okay.
+[39:20] And then I think we have to get you to go back.
+[39:23] The magnet just to go to an off state.
+[39:25] Because everyone's rich red to go off.
+[39:27] Go off.
+[39:28] Go off because they need to go off.
+[39:29] Then on again.
+[39:31] We can't.
+[39:32] Because because I pressed the button.
+[39:35] Now you can't.
+[39:37] Now back on.
+[39:42] As you back on.
+[39:43] No.
+[39:44] And the lifts not going up.
+[39:45] All right.
+[39:46] So actually it is.
+[39:48] And they're taking it all the way up.
+[39:50] They're taking it all the way up.
+[39:52] Yes.
+[39:53] Oh, no. They've dropped it down.
+[39:55] And they bond Mr. Big on the hand.
+[40:00] And they're feeling guilty.
+[40:01] Mr. Big has been bond in the head.
+[40:03] So someone please call the.
+[40:05] Bing your lens.
+[40:17] I kind of thought I'd be visible there.
+[40:20] Where am I?
+[40:22] Where am I?
+[40:30] Where are you, Louis?
+[40:32] Where am I?
+[40:34] Um.
+[40:42] Is this me?
+[40:44] Uh.
+[40:45] Of course.
+[40:46] There.
+[40:47] There I am. Is that me?
+[40:49] That's me.
+[40:53] And that's me there.
+[40:54] Right.
+[40:55] How are you doing?
+[40:56] Yeah. Good.
+[40:57] I just inside this. How do we get out?
+[40:59] Um.
+[41:00] Standard.
+[41:01] Bingilan.
+[41:02] I'm trying to press the X.
+[41:03] Yeah. It's standard Bingilan's design.
+[41:05] Could only be open from the outside.
+[41:07] Uh.
+[41:08] Panda Bingo.
+[41:09] Could you just open the door for us?
+[41:11] Get.
+[41:12] Hold. Hold. Hold. Hold.
+[41:13] Hold. Hold.
+[41:14] I can't.
+[41:15] I got out.
+[41:16] Let me out.
+[41:17] Let the doctor out.
+[41:18] He's the doctor.
+[41:19] Thank you.
+[41:22] Uh.
+[41:23] Looks like our.
+[41:24] Our patient here.
+[41:26] The patient is being voiced by ninja.
+[41:28] How are you doing ninja?
+[41:30] Hang out.
+[41:31] Hang me in.
+[41:32] All right. It sounds bad Lloyd.
+[41:34] They've got great three big voices.
+[41:36] They've got a big voice.
+[41:38] Hold in.
+[41:39] Alright. Let's load him in.
+[41:40] Wait.
+[41:41] Please.
+[41:42] Panda.
+[41:43] Panda.
+[41:44] Panda.
+[41:45] And the door.
+[41:46] And the door.
+[41:47] And the door.
+[41:48] Can you see how?
+[41:49] Critical.
+[41:50] I'm in.
+[41:51] I'm in.
+[41:52] Hang out.
+[41:53] Fuck.
+[41:54] Oh, it's hot in here.
+[41:56] He's hanging back.
+[41:58] Tom.
+[41:59] Washed.
+[42:00] Get some fresh air in here.
+[42:02] All the way down and all the way up.
+[42:04] Like a dragon's wing.
+[42:06] There we go.
+[42:07] They need me.
+[42:08] They need me.
+[42:09] It's a girl need to learn to patient him through the red door.
+[42:12] I've assigned an expert to the red door.
+[42:15] I've assigned.
+[42:16] And.
+[42:17] And.
+[42:18] Yeah.
+[42:19] So this is somewhere in the middle.
+[42:21] It's out to you.
+[42:22] It's a red door.
+[42:23] They got a shield.
+[42:24] It's the big.
+[42:25] They can really safely.
+[42:26] Are you ready?
+[42:27] Are you ready?
+[42:28] Are you ready?
+[42:29] Yeah.
+[42:30] Just do it gently.
+[42:31] Remember.
+[42:32] All right.
+[42:33] Let's go.
+[42:35] Let's go.
+[42:37] It's a great medical check.
+[42:39] Dr. Can you get up?
+[42:42] I don't know.
+[42:43] Get inside.
+[42:44] Huck them up.
+[42:45] I've come up.
+[42:46] I got not from this.
+[42:48] I've got his way.
+[42:49] Forst for.
+[42:51] Bring them up to my eye line.
+[42:52] I'm the stretching.
+[42:54] Yeah.
+[42:55] That's good.
+[42:56] What is it, Dr.
+[43:00] I don't know.
+[43:01] We need you just get into the ambulance.
+[43:02] That get.
+[43:03] Get driving.
+[43:04] Okay.
+[43:05] Come to the front.
+[43:07] I'm going to part my favorite radio station.
+[43:10] It tends to be to get fun.
+[43:12] I need to see what's outside.
+[43:15] Move.
+[43:16] Please. Why?
+[43:17] I'm going to.
+[43:18] I need to see outside.
+[43:19] Move down with the window.
+[43:20] Down with the window.
+[43:21] Come on.
+[43:22] See outside.
+[43:23] Don't feel cut.
+[43:24] I can't eat.
+[43:25] I can't eat.
+[43:27] What?
+[43:28] It's not really outside.
+[43:30] And the wheel.
+[43:31] You need to hold on the wheel.
+[43:33] Yeah.
+[43:34] Mass time.
+[43:35] Your great.
+[43:36] You blocked your phone.
+[43:37] You're the final.
+[43:38] You have something.
+[43:39] Start driving us.
+[43:41] Right for the score.
+[43:42] Go.
+[43:43] To the top.
+[43:44] Stop.
+[43:45] Stop.
+[43:46] Hold it.
+[43:47] Hold it.
+[43:48] No.
+[43:49] We need to get it.
+[43:51] Let me.
+[43:52] Let me.
+[43:53] Let me.
+[43:54] Come back in.
+[43:55] Let me.
+[43:56] Come back in.
+[43:57] Come back in.
+[43:58] Come back in.
+[43:59] Come back in.
+[44:00] Let's like there's something up ahead.
+[44:02] You know I am coming.
+[44:03] Stop.
+[44:04] Stop.
+[44:05] Stop.
+[44:06] We can't go through.
+[44:07] We can't go through.
+[44:08] Go right.
+[44:09] The light.
+[44:10] Without that tyrant.
+[44:11] Stop.
+[44:12] Break.
+[44:13] Break.
+[44:14] Our pass.
+[44:15] Your in charge of the knee part.
+[44:16] Me nah.
+[44:18] Dinkle your in charge of the knock-up.
+[44:20] Synchronize.
+[44:21] Me nah.
+[44:22] That's pretty good.
+[44:24] That's pretty good.
+[44:25] That's pretty good.
+[44:26] Go.
+[44:27] Go.
+[44:28] Go.
+[44:29] Go.
+[44:30] Stop.
+[44:31] Go.
+[44:32] Stop.
+[44:33] Go.
+[44:34] Go.
+[44:35] That's a key.
+[44:36] Go.
+[44:37] Go.
+[44:38] Go.
+[44:39] Go.
+[44:40] Go.
+[44:41] Go.
+[44:42] Go.
+[44:43] Go.
+[44:44] Go.
+[44:45] Go.
+[44:46] Go.
+[44:49] Go.
+[44:50] Go.
+[44:51] Go.
+[44:53] Go.
+[44:54] Go.
+[44:57] It's alright.
+[44:58] We got him on board.
+[44:59] Thank god.
+[45:04] Looks like we're out of destination.
+[45:05] Dr.
+[45:10] There's that strange noise again.
+[45:13] Whatever could it be.
+[45:16] Seems to be coming from that strange building again.
+[45:19] Oh!
+[45:21] It's 2.0.
+[45:23] Hello 2.0.
+[45:25] How you doing?
+[45:34] No back.
+[45:35] How you doing?
+[45:36] Robot noise.
+[45:37] Oh my god.
+[45:38] What do you want to show me a dance?
+[45:42] Go on then.
+[45:45] That's beautiful.
+[45:52] I love the way you know's moves.
+[45:56] Who taught you that?
+[45:57] I mean, I can guess.
+[46:00] That would have been Mr. Bing.
+[46:10] Oh no.
+[46:16] Not to explode, aren't you?
+[46:24] Really?
+[46:27] I'm a bit busy.
+[46:29] Of course I will, 2.0.
+[46:33] Throughout my whole life, Mr. Bing has been there to teach me how to dance.
+[46:39] And so it seems only fitting that I now bring him back to dance by providing him with the physio therapy he requires.
+[46:50] I'll do that now using the help of all of my binglings.
+[46:58] Welcome to the finale, Bingo Physio.
+[47:02] Now, on your phones, you're going to see a new screen with a white background and on it there will be two buttons left and right arrow.
+[47:17] And by tapping those buttons, you can move your bingling, which will have an arrow on the leaf that's saying you across the screen.
+[47:25] Take a moment now to familiarize yourself with your surroundings.
+[47:30] You're going to start with a quick ice break exercise.
+[47:33] Now, it's difficult for me to tell you to come to one side of the screen because that depends on which of these two screens you're looking at.
+[47:40] So, no, it doesn't.
+[47:45] No, it doesn't.
+[47:50] So is it?
+[47:53] Well, you can't say come to you.
+[47:56] I can't say that's what you want to say come to you normally you go to one side.
+[48:01] I could say go to you.
+[48:03] No, you can't.
+[48:07] Everyone, warm up exercise, go over there.
+[48:13] Everyone go over there.
+[48:15] Everyone, including big square pink thing.
+[48:18] There you go.
+[48:20] All right, everyone spread out.
+[48:23] Mr. Bing, how are you feeling?
+[48:25] You're not.
+[48:26] You're lying on us.
+[48:29] Okay.
+[48:31] We're going to begin.
+[48:32] Now, in Bingo, physio, you need to collect some things.
+[48:35] They're highlighting green book.
+[48:37] We'll also say what they are to collect and then you need to avoid some things.
+[48:41] They're to highlight them red.
+[48:43] If you hit the things you need to avoid three times in your physio session, you will die.
+[48:48] We're going to begin the physio.
+[48:50] What?
+[48:51] I've got more advice for them.
+[48:53] If you want to win, you must play by looking at your phone because this screen is four to five weeks
+[49:00] behind what's on your phone.
+[49:03] And you're going to get a load into a certain sense of security because the first two things
+[49:07] are collect and then suddenly out of nowhere it switches to avoid.
+[49:11] And if you're colorblind, you're stuffed.
+[49:14] Okay, 192 Bingoings read.
+[49:17] We begin their physio.
+[49:18] Here we go.
+[49:20] One is applying for physio therapy.
+[49:23] You're going to collect the physio forms.
+[49:28] Not taking it.
+[49:36] Bingo, physio.
+[49:38] Bingo, I got up.
+[49:46] You know, well, so far, Mr. Bingo.
+[49:49] We're going to be busged with doors.
+[49:50] Okay, the vocation is here.
+[49:53] All right, we're heading to now level two where we need to collect referrals.
+[49:58] We're going to chase the especially scared.
+[50:00] We're going to grab the number of referrals.
+[50:03] 190.
+[50:05] Now we need to avoid foreign consultations.
+[50:09] We want to through the real thing.
+[50:12] Okay, level two, you're traveling to the appointment.
+[50:18] Watch out for the buses.
+[50:20] You're going down the road.
+[50:22] There you go.
+[50:27] Okay, you need to sign in and grab the painstools.
+[50:30] There you go.
+[50:32] We're feeling a surgery.
+[50:41] Okay, time to fill in the surgery.
+[50:43] Here we go.
+[50:44] Three, two, one.
+[50:45] You got to grab the kind of full service.
+[50:56] We're beginning our session now.
+[50:58] We took the way to pay.
+[51:01] Watch out.
+[51:12] Mr. Bingo, you're doing big surgery.
+[51:15] Okay, we're going to make the suffering and we're going to go further into the physio.
+[51:18] Here we go.
+[51:19] Avoid the backframe through me.
+[51:21] We're going to use the words.
+[51:26] I'm trying my number now.
+[51:34] All right, so you shall eyes them. Enjoy it.
+[51:37] Go down the road.
+[51:40] You're going to be tense.
+[51:42] Try to see your done so well at your physio.
+[51:45] I think it's outside.
+[51:48] This is the big one, you're wrecking.
+[51:51] Boy, feel good.
+[51:52] He feels good.
+[51:53] It's time to graduate from our physio.
+[51:55] It's the final bed.
+[51:56] We're heading down through the graduation bar.
+[52:29] We're going to make the next day of 2019.
+[52:32] We're going to go to classes.
+[52:37] Thirty people left.
+[52:39] And three, three, five.
+[52:42] Looks like we're going to enjoy it.
+[52:45] It's time for a cold brew.
+[52:52] They're the total fish.
+[52:54] They see your left on the screen.
+[52:57] Keep going.
+[52:58] A little bit more.
+[52:59] 1, 2, 1.
+[53:02] Where's Ninja Ratan?
+[53:04] We got an injury in the room.
+[53:08] That's all our real physio experts looks like.
+[53:11] We've got Fox 6GDOs.
+[53:13] Thank you for playing.
+[53:14] Enjoy the rest of your first.
+[53:15] Good night.

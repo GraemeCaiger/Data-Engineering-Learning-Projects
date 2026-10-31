@@ -1,0 +1,332 @@
+[00:00] How did it work out?
+[00:15] Okay, yeah, I've got a terrible confession, which is I'm going to probably do D&D crimes.
+[00:22] I really like the alignment framework from D&D.
+[00:27] This talk is using it to talk about tactile paving crimes.
+[00:30] I've never played D&D.
+[00:33] I will claim tactile paving domain knowledge, but not the indeed domain knowledge.
+[00:40] So if you're here for...
+[00:44] If you're mainly here for the D&D content, then I'm sorry for this appointing you.
+[00:50] If you're here for tactile paving, which I'm amazed...
+[00:55] Yeah, hopefully you won't be disappointed.
+[00:59] Okay, so, yeah, the first thing is how I became obsessed with tactile paving.
+[01:09] So I've been following disabled people around the course with their permission.
+[01:18] I'm doing various research projects to do with the design of streets and accessibility.
+[01:25] I got into it because my first job at the University of Wist Designing Street Furniture.
+[01:31] I never really thought about that someone designed street furniture.
+[01:35] Or the rest of the street really, like most people.
+[01:38] But then someone emailed our department and I got this job and I was at a design street furniture.
+[01:42] And I loved designing street furniture.
+[01:46] This is Ada. He's there sitting on something I designed like 20 years ago.
+[01:51] I think 21 years ago.
+[01:53] And I realized that, yeah, the design of our streets matters a lot.
+[02:00] And everyone has to use them.
+[02:02] And when they're good, it makes a place feel really great.
+[02:05] And when they're bad, it makes a place feel bad.
+[02:08] And as I started to learn about the way disabled people impacted by street design,
+[02:13] then obviously it has a huge impact on people's lives and people's independence.
+[02:18] The street design is good.
+[02:21] And then I've designed double things in my life.
+[02:24] Some of which I was good at street furniture, but a lot of things I've worked on.
+[02:27] I'm like, no, it's not as good as the street.
+[02:29] And so I've always liked ended up coming back to work on street design projects.
+[02:36] About just under 20 years ago, there was a big argument in the street design disability community.
+[02:42] Or the between the street design and disability communities about exhibition bro.
+[02:47] And it was that argument that led to me getting hired to do a research project about how people with sight loss are affected by street design.
+[02:57] And that's how I started following the civil people around.
+[03:01] And then since then, I keep getting asked to do projects by local authorities or by TFL or different people to do research on
+[03:11] how street design projects are affected by street design projects.
+[03:15] This is the kind of thing. I was a lot younger than.
+[03:19] But it's a good methodology I think for figuring out how people are affected by something.
+[03:27] It's a lot better than having a focus group about it, I guess.
+[03:32] And doing this work and gradually expanding out to like looking at the full spectrum of needs from the environment.
+[03:47] You start to understand the complex between the different groups of disabled people that often need different things from streets.
+[03:58] And so you can do something to help one group and it might make things worse for another group.
+[04:04] And also even within people with sight loss, there's also a spectrum of different needs.
+[04:15] And I've, yeah, I'm just showing these because these are different.
+[04:18] This is a project of the city of London Corporation where we talk to like 46 people with disabled people about every aspect of the street and got them to score it.
+[04:27] And figure out what was helpful and what was unhelpful for different groups.
+[04:32] So whenever I've done this work, tactile behaviour keeps coming up.
+[04:37] It comes up as something that's very impactful for certain groups of blinded partially sighted people.
+[04:45] But it's also something that has quite a negative impact on quite a lot of other disabled people.
+[04:50] And so there's an argument for trying to what we're putting down trying to make it work as well as it can.
+[04:57] So what is it? So I guess the short thing I'd say to my children is it's the bubbly pavement you get around crossings.
+[05:05] Originally it came from Japan and in Japan they had quite a complicated system originally with lots of different types.
+[05:14] And then they did a Russian-Lization relatively early on and rationalised down to two types.
+[05:19] And this is more or less what they do across East Asia, Australia.
+[05:25] The ones with the long bars say follow me and the ones with the dots say stop and reorientate.
+[05:36] And that's quite a simple system and you see this kind of paving deployed with quite a lot of consistency across East Asia.
+[05:47] There is a crime in this photo that I'll come to you later.
+[05:53] In this country we don't do it like that at all.
+[05:56] We've got in the tactile paving guide at six different types.
+[06:00] Actually five of them are in the ones with the pictures they look the same.
+[06:05] They're in the tactile paving guide at four streets and then the one that looks different which has got bubbles that are not that are in like a check-a-board pattern.
+[06:15] I guess that's the one for platform edges in stations.
+[06:20] But you've got the list of which is the most common one that's the one we use both to mark the edge of a crossing point.
+[06:29] But also to mark to lead you from the building line to the crossing point and we call that the stem or the tail.
+[06:36] Then there's one with long bubbles that's only used on tram platforms.
+[06:42] And then there are three different ones that have got long lines of different dimensions which in practice are quite difficult to tell a part for a lot of people.
+[06:54] But we have a corduary one that's a hazard warning that we're supposed to use at the top of steps or when you're entering an area that's shared with bikes or there's some other hazard like the end of a tram platform.
+[07:07] We've got this what they call ladder and tram line which is bars that are flattocks and slightly feather apart.
+[07:17] And they're supposed to go with this central delineative strip thing in order to differentiate where you've got a path that's got a cycle route on one side and a walking route on the other side and there at the same height.
+[07:29] But you're supposed to lay this ladder and tram line in the direction of travel on the bike for each side and across the direction of travel on the walking side.
+[07:41] And then you're supposed to lay this strip that's kind of beveled on both sides and 50 mil high on the in between them.
+[07:50] And then we've got the sorry, yeah, it's 20 mil high.
+[07:55] Then we've got the guidance path which is the one that they use in Asia to mean follow me and so these are long long strips but they're kind of rounded at the end and they're not continuous.
+[08:09] Again, very difficult in practice to tell these apart if you're standing on them or even if you're feeling them with the long cane, probably easier with the long cane.
+[08:18] So here's a video of some blinded partially sighted people using tattoo maybe in talking about that.
+[08:25] Oh, no it doesn't.
+[08:26] So use the tactile markers also to tell me where it is.
+[08:31] Tell me my location.
+[08:34] Okay, I'm going to tactile a bit now and I've got a half of facts on my left.
+[08:41] Now these are some of my markers so that's why I know I'm at high effects and then to the curve put girl.
+[08:48] We're from.
+[08:51] And then now we could be at Northwest.
+[08:55] Should be at Northwest now.
+[08:59] So that was Shaney. She's a guy doggy.
+[09:02] This is Tony. He's a long cane.
+[09:04] Yeah, I could stay that line on the right.
+[09:07] Hello. Okay.
+[09:10] The last crimes.
+[09:12] I think.
+[09:13] William.
+[09:14] William.
+[09:15] And.
+[09:17] No, no, no.
+[09:19] So Tony doesn't know.
+[09:21] He's just walked over the stem for that crossing.
+[09:24] But he doesn't know if it's the stem for that crossing or the tactile marking the edge of the crossing that's 90 degrees around the corner.
+[09:33] But because he's got some light perception he's looking for the light between the buildings in order to figure out where he is.
+[09:39] What I call my normal route into Bromley.
+[09:42] I can hear the traffic going down.
+[09:44] Can't just wait here.
+[09:46] I'm going to head off at an oblique angle until I get the crossing which I hope to find earlier.
+[09:55] This is deck. He's a retired copper. So he's incredibly thorough.
+[09:58] I can really great person to follow around.
+[10:03] Like he's giving a witness statement every time.
+[10:14] So here for deck, you know, the the guardrail is a much more reliable indicator.
+[10:20] Therefore, because I know that there's an instruction.
+[10:23] Uh, against the side of the protective fence in here.
+[10:27] If I didn't know that was there, I would look straight into it.
+[10:31] And it actually is the crossing that I'm looking for.
+[10:34] A guy in that is now clear to cross.
+[10:39] So earlier he tried to find the crossing kind of walked over that side of maybe without picking up and then missed it.
+[10:46] That's so pretty quite. It was really very useful. So clear to the deviation between where the pedestrian has rights and where the motor sub rights.
+[10:54] And so this gentleman, so I guess we've got what I'm going to talk about now.
+[10:58] Three three different street users. I guess it's like when I think about.
+[11:03] It's like when I think about how to how to blind the places like people use the street.
+[11:08] I always think about three different types of blinded places.
+[11:12] I'd use it obviously they're a like two million and they're all different.
+[11:15] But I find that these three segments look quite helpful.
+[11:19] So people that are using long canes like Dick and Tony, where they're picking up quite a lot of information,
+[11:26] tactile information from the environment through the can tip.
+[11:30] But they've got very little situation where there's beyond the can tip.
+[11:37] People like Shane either are using guide dogs, where the guide dog is taking them around quite a lot of obstacles.
+[11:44] It's doing some things for them, but they still need to be aware of where they are particularly.
+[11:50] They need to be aware of this the guide dog is made of a stake.
+[11:53] And so for them the tactile payings are very important to confirm that.
+[11:59] If they've told the guide dog to stop at the edge of the road, that they have stops at the edge of the road.
+[12:04] And that they need to know where the edge of the road is, basically, which obviously if there wasn't this out of the road they wouldn't.
+[12:09] But they're picking up through their feet. And so they're potentially less able to detect it,
+[12:14] or they're it's harder for them to detect small areas.
+[12:17] So like that thing I showed you from Japan, that probably works quite well for long canesers.
+[12:23] But it probably wouldn't work very well for guide dog users.
+[12:26] But there are a lot more guide dog users here than there are in Japan.
+[12:30] And so it sort of makes sense that they're doing it like that.
+[12:33] And then you've got what I call residual site users.
+[12:38] So people who are registered blind or partially sighted, but where they have enough vision,
+[12:43] that that's more useful to them than any mobility aid that they might be using.
+[12:46] And so the last gentleman in that video he's talking about their contrast in the environment.
+[12:50] And for him that's much more important than any of the tactile cues.
+[12:55] So what is the law when it comes to tactile payings?
+[13:01] So it's defined by this document called guidance on the tactile payings services,
+[13:08] which it was originally published in 1998.
+[13:13] And then it was updated in 2021, although not changed very much.
+[13:19] Certainly not changed in, well, very significant ways.
+[13:26] It's guidance. It's not legally binding.
+[13:30] But there's been some, like judicial reviews brought against local authorities that have completely ignored it.
+[13:39] And the judge didn't convert the guidance into compulsory.
+[13:43] But they did say, if you're going to ignore it, you have to prove that you followed a process
+[13:48] and that there's some evidence for why you're ignoring it, or why you're doing something different.
+[13:52] So you don't have to follow it, but you have to have a good reason why you're not following it.
+[13:59] There's also this document called Design Manual for Rhodes and Bridges, which up until about 20 years ago
+[14:08] was the only manual for building roads and streets, which was why we ended up with all of these high streets
+[14:17] that felt like dual carriageways, or they had guardrail everywhere, and you had to go miles to cross the road.
+[14:24] And they weren't very friendly for pedestrians. And so there's been a movement over the last 20 years
+[14:30] where the document called manual for streets came out.
+[14:33] And before that, and then definitely a lot since then, there's been a movement to try and make streets work better for pedestrians.
+[14:41] And a lot of that has involved getting rid of things like guardrail and moving crossing points.
+[14:47] So moving crossing points, where they were indented a long way down the side of roads,
+[14:53] moving the back onto the design lines of where people pedestrians actually want to go.
+[14:58] But that means that, well, I'll explain that means that certain things, assumptions that were made when they were writing
+[15:06] the original tactile behaving guidance don't hold anymore for the installations actually doing.
+[15:13] So here are two pictures from Street View of Exfishing Road. They did this shared space.
+[15:19] This was like very, very extreme version of what they've said to do in manual for streets.
+[15:24] But before that, it was all guardrail, it was all control crossings.
+[15:29] I don't think either of these are very dear, actually. I think there's probably something in between
+[15:33] that would have been the right thing. But yeah, that's where we are.
+[15:37] So in the guidance, there are two, there's a lot of that I think could be a lot better.
+[15:44] But I think there are these two diagrams here that I think are the most common cause of crimes.
+[15:52] So particularly this one on the right, so it shows a raised traffic table.
+[15:59] And it's got a crossroads of two minor roads.
+[16:06] And it's got eight bits of tactile behaving on it marking the crossing points across each of those roads.
+[16:15] But then in between, there isn't any tactile behaving.
+[16:18] And it has a little leader that comes out and it says, for the radius in between the bits of tactile behaving.
+[16:24] So here and here, not there, it says, curb upstand or barrier requires.
+[16:32] No one does that. They just build it like this as you'll see.
+[16:39] And the guidance doesn't tell you what to do apart from.
+[16:44] It doesn't even show you what to do in the picture. It just writes it there.
+[16:48] And then the other thing is there's an assumption built into the guidance that people will use the back edge of the tactile behaving area in order to figure out which direction to cross the road in.
+[17:03] So this picture, it's got a crossing point where the direction of crossing isn't perpendicular to the curb edge.
+[17:13] And so in that situation, the guidance calls for basically this big triangle of tactile behaving along the curb edge so that the back edge is perpendicular to the direction of trouble.
+[17:28] And while you'll see there are some crimes that are caused by this.
+[17:34] So yeah, this is when I fought the law at so I've got history.
+[17:44] About 12 years ago, I tried to get some Mason smooth adjustments to the guidance to try and particularly to solve the problem of these underlineated level surfaces,
+[17:56] cropping up like in this picture of with the area between the tactile areas.
+[18:03] And I went about it in a very light.
+[18:09] So obviously it was as a result of having done a ledger shadowing projects with different disabled people and saying,
+[18:13] that's not the way I can very well for the people with sight loss and it was buzzing issues for lots of the other people I was following around.
+[18:21] And I like convened a workshop with people from guide dogs, people from the Department of Transport, people from TFL.
+[18:30] Actual blinded by society people that I followed around.
+[18:35] I made tactile models of different options for layout of tactile behaving.
+[18:40] I thought I'd done it in a very like design methods, idea of agile way.
+[18:47] And originally it was going to be like just a pamphlet of like, hey, we could do this.
+[18:51] But then the head of accessibility of the department transport got involved.
+[18:55] And again, this was like peak agile government, ruined silver GDS moment.
+[19:01] And so they were like, yeah, let's just put it out to consultation and see what happens.
+[19:05] So we went as far as the consultation and then it just got completely went down in flames.
+[19:13] And I realized that probably what we were proposing was sensible, but we hadn't explained why we wanted to do it.
+[19:24] And why it was needed very well.
+[19:27] And that's why it hadn't worked.
+[19:29] And so I walked away and I was like, never going near this again.
+[19:34] I did all this work for free.
+[19:36] You know, this is the best shot we're ever going to have.
+[19:40] But I'm back.
+[19:44] Oh, I'm going to run away.
+[19:46] So why now?
+[19:48] So I've continued to sort of disabled people about street design.
+[19:52] We turned the city of London Street accessibility tool into a bigger thing last year
+[19:56] into like, with transport for all.
+[19:59] And we interviewed another like 60 disabled people around the country.
+[20:04] But what we also did was, and it's now this massive spreadsheet where you can model
+[20:09] different things that you're designing in the street.
+[20:12] Different street features, and it will show you the likely impact on like 30 different segments of disabled street users.
+[20:19] But as part of it, we went out and did like a survey of different street designs around the country.
+[20:24] I did it with some other designers.
+[20:26] And in order to show them as videos to the people we were interviewing,
+[20:33] but also I made tax on models of a lot of them, so that people were sightless, I was interviewing.
+[20:39] And we saw some really mad stuff.
+[20:42] This is the maddest thing.
+[20:51] And we were just stood there.
+[20:54] And it, for about 20 minutes, trying to figure out like, what was the filter process like?
+[21:01] We realized that they were actually trying, I think.
+[21:07] But this on Lee Thork in Edinburgh.
+[21:10] You should go and see it.
+[21:12] It's worth it.
+[21:19] Yeah, we didn't really have a vocabulary for like, we'd seen all of these things that were like,
+[21:23] bad tax on phasing, and then I realized like, what these are is crimes.
+[21:29] And so then I thought, well, okay, I realized that there are these are definitely crimes.
+[21:34] And then I thought actually there are different types of crimes.
+[21:38] And that's where the D&D framework came in.
+[21:42] I remember that.
+[21:44] I was like, we can classify the crimes.
+[21:47] And actually, I think it helps us to understand what's working, what isn't working about the guidance.
+[21:52] So, this is my only slide of ID&D.
+[21:55] This is the D&D framework.
+[21:57] Obviously, it's more complicated than this because there's a neutral stage.
+[22:01] But basically, there are two axes, good and evil, and lawful and chaotic.
+[22:07] And characters exist somewhere on the spectrum, and it predicts what they're going to do.
+[22:13] Is that right, the ND fans?
+[22:16] Okay.
+[22:18] Thanks.
+[22:22] And they can be neutral in all of these, but I simplified.
+[22:28] So, in terms of tactile paving crimes, well, obviously lawful good, that's not a crime.
+[22:37] So, lawful good is following the guidance and it works for the people that are actually using it.
+[22:44] So, this is like your classic crossing installation, there's the tactile stone coming back to the building line.
+[22:54] So, along the end, let's follow the building line and pick up the stem and find the crossing point.
+[22:58] You've got a nice drop curve with the edge of the road marked properly.
+[23:03] There's still, I think, a bit of a crime here.
+[23:06] I would actually call this lawful neutral because if we switch it to black and white,
+[23:11] a lot of people don't have colour perception.
+[23:13] The tactile paving becomes basically invisible.
+[23:16] So, the guidance has to be read.
+[23:18] Because it doesn't mandate a level of tone of contrast with the surrounding caving.
+[23:22] So, you can end up with something that is the right colour, but it's not necessarily doing the job it's face to do.
+[23:28] This is what you're supposed to do at a uncontrolled crossing point.
+[23:34] So, a controlled crossing is a signal one or a zebra.
+[23:41] They're both controlled. We call the signal one a signal controlled and a zebra.
+[23:45] Just a zebra, but it's both controlled, I guess.
+[23:49] They have the same tactile paving layout, which is the stem.
+[23:56] You should, at the end of the stem, you should find one of the crossing pists, which is just about there in the edge of the picture.
+[24:02] I did not crop this picture well.
+[24:04] The uncontrolled one, no stem, and it should be this yellowy buff colour.
+[24:14] There's also, what I was saying before the laddron tram line, so this is how it's supposed to be on a cycle track.
+[24:20] And yeah, that's basically yeah. Those are the law for good ones.
+[24:26] That's roughly what it's supposed to do.
+[24:28] So, chaotic evil. Again, these should be uncontrolled.
+[24:32] These are the ones where they haven't followed the guidance and it doesn't like. They've just freelanced.
+[24:37] So, this one is really heartbreaking for me. Absolutely heartbreaking.
+[24:44] This is in, this is around the corner from back junction in the city of London.
+[24:48] So, I built them, this street accessibility tool, say, of London.
+[24:52] And it said, don't do this.
+[24:54] And I knew it worked because I tried loads of times. I've told, like, the authorities not to do this.
+[25:00] And I've gone back and lived on it.
+[25:02] And they did the whole of bank junction, and they used the tool. The head of the streets made them use it on everything.
+[25:09] And they didn't do it. I'll show you later. They did the crime, but it was a chaotic, good crime, I think.
+[25:17] But then, like a new member came in, they did, went around the corner, they just did it.
+[25:27] So, the problem here is, there's a crossing point that's delineated there with tax update.
+[25:32] But then you've got this whole area here where it's level. So, there's no way of telling when you're moving from the footway into the carriageway.
+[25:38] And there's nothing there to tell you. That is evil.
+[25:43] So, this is a similar one, but a bit more bonkers. They were like, delineated a strict thing now.
+[25:53] It's just plain, a line. And also, this is like a floating bus stop, but even if you don't use the bus, you still have to cross to the bus stop and then cross the cycle track back.
+[26:02] It's bad.
+[26:07] I don't even know really.
+[26:11] Yeah, I can't even explain what they were doing, but it's definitely not what they were supposed to do in the guidance.
+[26:17] And yeah, this one, again, other angles, it's even madder. Go and look at it, wild.
+[26:23] So, more interestingly, the other two, they're lawfully valid and the chaotic good.
+[26:28] Because for me, these are the points where indicating where we need to change something about the guidance.
+[26:32] So, yeah, this is the one I was telling you about, where they basically built that diagram, that I showed you, without the barrier in the middle.
+[26:42] And you've got these areas in between the bits of taps are behaving where you can just wander off into the right disaster.
+[26:48] And the one on the right, it's in Camden in London.
+[26:51] They've tried really hard, like they've painted the white curves, they've painted the blue lines.
+[26:55] These are obviously people that care about disabled people and they're trying to make an accessible street.
+[27:00] But it's not like they don't care. They just have done the wrong thing because they built the diagram in the guidance, like it didn't read, just think, I don't know what happens.
+[27:08] Again, same kind of problem here. So again, it feels like here they've tried really hard, they built the stem, almost all the way to the building line.
+[27:18] But again, you've got this level area underlineated.
+[27:22] Here, the guidance says, if there isn't total contrast between the taps, I'm behaving and surrounding behaving because you put red taps, I'm behaving on redpaving.
+[27:33] Then put this barrier thing around it. But it also doesn't say, obviously, because I told you about manual districts pulling the crossing points close to the corners.
+[27:41] That means that then the tails often join up. And the guidance doesn't really tell you what to do in that situation.
+[27:49] So you end up with this. Another problem here is because it's block paving. There's a lot less tactile contrast with the long pain between the tactile paving and the spaving around it.
+[28:00] So I think that's crying. And then this is the consequence of having the perpendicular back edge thing where you've got a curve or not perpendicular with the curve thing.
+[28:16] And so then you end up with this massive area of tactile paving. And you start to lose which direction you're supposed to be crossing any way.
+[28:22] Is this one here? Is it that way? You can't really tell if that's all paving. That's really important because one way is like working out into a main road and one way is crossing a little side road.
+[28:36] And then yeah, we've got the block paving again here. Okay, so yeah, now we're into lawful E, yeah, I still believe. Fine. Okay, I'll take good.
+[28:46] So the tactile paving is the wrong color. It's black. This is the answer. You haven't followed the guidance. But it's got way more total contrast when you take the color out than the red does.
+[28:58] This is where you do the back edge to follow the front edge.
+[29:04] You've got much less tactile paving. You've got a much better indicator of where the curve is. But obviously you haven't got the information from the back edge.
+[29:15] Using Cordroy to dilinate the area where the road is, but it's not a crossing point. So that's what they did.
+[29:24] City of London did on bank connection that I thought was a lot better than not doing anything.
+[29:29] And it's probably better than using glycester there. But that's a very controversial opinion.
+[29:37] And then this is like Singapore and Melbourne where they've done guidance paving. We don't do guidance paving anywhere.
+[29:44] Hardly anywhere in this country. And it could be really useful for people in lots of places.
+[29:49] Like getting to the bus stop from the curve edge. Amazing use case for guidance paving almost never happens here.
+[29:57] And actually isn't really in the guidance. So that's probably why.
+[30:02] So what does tactile paving justice mean?
+[30:05] I'm not going to tell you why I think we should change about the guidance because that would be a disaster.
+[30:10] But I'm just trying to say maybe we can agree on what would be just.
+[30:15] So I drew Don Norman. I thought like Don Norman's interactivity advice might be helpful.
+[30:22] Like visibility feedback and strength mapping consistency.
+[30:27] I think that maps across to this. But more importantly.
+[30:32] We're operating within all these trade-offs, right? If we're going to make it.
+[30:36] Consistent which we want. But that trade's off against working well in specific context that we're using it in.
+[30:42] There's obviously a trade-off between it being readily detectable by.
+[30:46] By the bite of our people and not being a barrier to a little disabled people.
+[30:49] And then there's also a trade-off between.
+[30:51] We could make radical changes like doing the tails in guidance paving, which would probably if we started from scratch that would probably be the right thing to do.
+[30:59] Because it would reduce that that people confusing the tail for the bit marking the edge somewhere else.
+[31:05] But in between, while we switched over that would be a nightmare because some of them would be listed in some of them would be guidance.
+[31:14] So the last thing on the justice is I think it would be helpful to have a hierarchy of what we're trying to do.
+[31:20] And make sure that we like, number one, making people aware that they're entering the carriageway.
+[31:25] That should always be more important than anything else.
+[31:27] And I think if we situate around that, then we're probably more likely to get to something that works well.
+[31:34] Thank you very much.
+[31:36] Ah.

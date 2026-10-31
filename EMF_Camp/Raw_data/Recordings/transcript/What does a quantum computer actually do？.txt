@@ -1,0 +1,223 @@
+[00:00] Thank you so much. Thanks for inviting me to talk. It's an honour to join. I must start
+[00:22] by noting to maybe to the organizers or whoever did this. My talk is actually talking number
+[00:29] 42 and it's about a futuristic computer so I hope that that's a deliberate reference.
+[00:35] I thought that was excellent. So what does a quantum reader actually do? A very short
+[00:41] disclaimer at the start. The views in opinions expressed in this talk are my own undue
+[00:45] not necessarily reflect those views or positions of my employee. So what am I doing this
+[00:51] talk? So I spent the best part of 15 years working in hellish running gangering, mostly
+[00:57] programming, jeps and writing signal processing stuff and I decided 18 months ago to make a
+[01:03] change and I joined a quantum computing startup and I joined to help build a control system
+[01:10] which is a bit I kind of vaguely understand but the physics side absolute backboxed me had no idea
+[01:15] whatsoever. So I thought what better way to learn and to force myself to commit to doing a talk
+[01:21] at EMF about the subject and see what happens. So you can be the judge of how to test for
+[01:26] that's been and he physicists in the audience please forgive me for what I'm about to do.
+[01:31] I think it's crossed. So what is a trapped ion quantum computer? So I'm highlighting the trapped
+[01:39] ion bit because they're a few different types. The most famous types that I'm in Google
+[01:45] building are actually superconducting cubic quantum computers which are a little bit different.
+[01:50] They've got a chip and they're the ones with those big spirally coils that you've seen all the
+[01:55] photos but there are a few competing technologies. A trapped ion is another type I'm going to talk
+[02:01] about and some of the main advances of that is there's more ideas on how they'll scale up so when we
+[02:07] have our massive computer that's actually going to do a useful job for us. Let's give potential
+[02:12] in trapped ion ones. So I'll start by showing you what they look like. So these are pictures from
+[02:20] a few different companies. So on the outside we have the vacuum chambers. They almost all of them
+[02:26] have, well in fact they all have a big vacuum chamber that is vacuum and it gets sounds of very
+[02:34] cool temperatures. The other common theme is the pictures that are on the middle which are the
+[02:40] chips. So they're mark chips ultimately that they're made with standard processes generally speaking
+[02:47] and that's where you trap your ions. So that's the key bit and all that paraphernal around it all of
+[02:52] that stuff is just to move these ions around and get them in the right place. You'll also see in
+[02:58] the bottom right, how much blazers or like lenses and things, lasers that are common theme as well.
+[03:05] They're used all over the place. There's lots of different frequencies you just and so that is what
+[03:10] they look like. But what is going on? What are we doing? The other this stuff. This is what I'm trying to
+[03:15] cover today. So step back just for a little second, a quick reminder what a computer is supposed to
+[03:22] do some maths. On a standard computer you can store information with just an or one. So you only have
+[03:29] two options on and then on the right hand side there's a bit of a difference in a quantum computer.
+[03:35] You have a few more degrees of freedom in your bit. You're still storing a not one or one.
+[03:40] You can also hold your cube it in a whole bunch of states in between and you've visualised by
+[03:47] drawing a point on a sphere and the state can exist anywhere on the surface of that sphere.
+[03:53] It's just a picture. It's not actually doing that. There's no actual rotating physically going on
+[03:59] on the thing itself. But that's how you visualize the information that's stored.
+[04:04] And you can say that there's a superposition which is not not easy to understand as a word but
+[04:10] that just means you're between somewhere between your zero and your one state.
+[04:17] So that's the theory side. So for a trapped ion quantum computer what actually is the physical
+[04:23] medium where are we still in our information? And it has the name suggests in ions. So that's
+[04:29] an atom which has been charged. And this picture is actually a superposition of lots of
+[04:39] captured locations of electrons. So this is an electron field. So it's quite hard to show a picture
+[04:46] of an atom really. You can't shine lots of light on it to see what it looks like. It would do something
+[04:53] in different each time you shine a light. So this is like a probability field. This is if you took
+[04:58] thousands of pictures of where an electron was in the field and put them on top of each other
+[05:02] and that's what the atom would look like. So what properties are the atom? Are we using to store
+[05:11] our information? Atoms have quite a lot of different properties. They have momentum. They have spin.
+[05:17] They have all sorts of things. For trapped ion quantum computers generally the thing that we are
+[05:24] using to store our information is the relative spin of the electron and the nucleus of the atom.
+[05:31] What is spin? Well I'll let you ask a physicist that it is an innate property of
+[05:38] protons and electrons for example. Nothing's physically spinning. It is just a property that they have
+[05:46] and spin is a useful reference because it describes how they behave but they are absolutely
+[05:52] not spinning. I try to get this summarised even better than that honestly I couldn't I think
+[05:59] there's reading text books watching YouTube. I'm probably with spin but all we need to know
+[06:04] because I'm an engineer is what can you do with it and how do you measure it? So that's what I'll be focusing
+[06:10] on. So we have these spins relative spins when they're opposite each other we're in state zero
+[06:18] and when they're aligned with each other we're in state one but we can be anywhere in between
+[06:23] those two states on the surface of this sphere. How do you actually change the state? You show
+[06:29] in lasers or microwaves at your atom and everything that we're doing in the middle of the
+[06:35] lighting it will be pretty much those two things. So we've decided we want an atom but which
+[06:44] which element shall we use? There are three main elements that use the turbine calcium and
+[06:50] barium. It's a turbine's bottom right down there and they are metals. They're chosen because
+[06:57] they happen to have useful properties for trapping and changing state and we can use lasers that we can
+[07:04] actually build to change the state because the wavelength of the laser matches nicely to the
+[07:10] properties of the atom. So I'm going to be focusing on a turbine and that's a picture of
+[07:18] what the metal looks like in the bottom right there. So we've got this idea of storing an atom
+[07:26] and we want to do things with it. The first thing we have to do is get rid of all the other atoms
+[07:30] because they'll just plow into it and knock it out of the way. Change it state. We want to have
+[07:35] a little other stuff going on. So you need a vacuum. You need a really good vacuum. You need
+[07:40] about the same pressure that you have on the surface of the moon. And actually to get there
+[07:46] isn't as a real pain. So you build a chamber. They've got to have really thick walls. You've got
+[07:51] to bake it in an oven for several days while you're pulling the air out because the metals in this
+[07:58] chamber of absorb loads of air and hydrogen. And they'll just gas that off during your
+[08:03] experiment and it can keep you ruining it if you don't bake it for a long time. So a right pain.
+[08:07] So whenever we make a mistake we have to like dig acid, do everything again and then
+[08:12] got a few more days before the next time we can get inside the chamber. So very irritating.
+[08:17] The other property we need is to for it to be really cold because then the atoms of our
+[08:22] breaking less and that means you've got better precision less air in your measurement.
+[08:29] So we've got this idea. We've got a chamber. We want to get atoms into it and we want to do
+[08:35] something with them. So there's a component which is there's a picture of in the top there called an oven.
+[08:42] It literally has a small bit of the metal in there and then a quarter of wire around it to heat up
+[08:48] the metal and it shoots individual atoms a few at a time out the front of the oven.
+[08:56] And so they're on charge at this point. So we need to knock an electron off to make it positive
+[09:03] to charged. So we do that with a specific laser on the top there.
+[09:10] And we also need to cool it down. It's going way too fast at this point. So we have a different
+[09:16] laser, a different frequency that we far at it, slow it down to a point where we can catch it.
+[09:24] So hopefully this element will roll it. So I talked about the fact that we have this chip which
+[09:31] lives inside the vacuum chamber. So on the surface of this chip there's a whole bunch of
+[09:38] electrodes that we can pass currents through to manipulate the atom. The key key concept is these
+[09:46] rails that run along the middle. So the gold colour and the yellow coloured rails have high frequency
+[09:52] high power current running through and it's like a electric field. So it runs along like a cylindrical
+[09:58] way and it expands and contracts like this. So fast that the atom doesn't have time to escape
+[10:04] or go back down. So it kind of gets all held in a well of moving electric field.
+[10:10] So it will only move back as far as in an alienation. So with this radiating field,
+[10:15] it will move back back and forth like this. The coloured electrodes in your picture are to hold
+[10:21] it in place in that straight line. So where you can see a blue colour, we've got a low voltage,
+[10:27] negative voltage, and that holds it and where you can see a red colour we've got a positive
+[10:31] voltage. And on the bottom there is a picture of all the different voltages we need to send in.
+[10:36] So you can imagine how many cables we need to get into this vacuum chamber to
+[10:42] manipulate a large number of ions. This is one of the big problems that you got to deal with
+[10:46] when we scale up upon two computers. How do we get thousands and thousands of individual electrodes
+[10:51] moving? At the moment we've only built small ones so we're in the pressures of tackling that.
+[10:59] So that's one ion, but we can't do much with just one. So you can change them together and quite
+[11:05] a useful property. It's be charged in now so they repel each other. So you can actually queue up
+[11:10] along chain of them or move them around and is quite easy to separate them by manipulating these electric fields.
+[11:18] And we'll be using this property later and that's actually the key of how we entangled keep
+[11:23] these bits talking to each other is this shared motion that they have when they're trapped together.
+[11:32] So we talked about the fact that we have a zero state and a one state and many states in between.
+[11:40] When we start our experiment we want to know what the state is of our ion. So we want to get
+[11:45] it down to the zero state. We can do this by again it's a laser, fire laser at it but in this
+[11:52] point we're trying to get it actually into state one because aggressive is possible and then
+[11:58] it will when you stop showing the light on it it will drop down to state zero if you show it
+[12:02] if you point to one long enough and then it will eventually drop down to one down to zero
+[12:08] and then all of them will end up in this state because state zero can't see this laser.
+[12:14] So at this point we've got all of our atoms in a good state.
+[12:20] Let's talk about gates now so if you remember that picture that blocks fear of all of the different
+[12:25] states that we can have our ion in we can manipulate the position of the vector on that ion in
+[12:34] different dimensions so it's a 3D sphere so we can move in the x direction which is actually
+[12:40] up and down between the one and the zero state we can move in the y direction which is 90 degrees
+[12:46] from that and then there's I've got to run. There's that axis is between the zero and one sorry.
+[12:52] So those are our three individual ion state changes and that's all done with laser pulses so we
+[12:58] got a whole bunch of lenses and lasers the big racks of lasers that will fiberoxically
+[13:04] fed into chains of mirrors and physically getting it in there is through a little glass through a
+[13:11] window so that's how we manipulate the individual ion states. The final gate is called an entanglement
+[13:20] gate. It's a mull most of rants and gate and this is the interesting one because we can't do much if
+[13:28] you only have individually manipulate the bits then you basically have a normal commuter that's not
+[13:34] particularly advantageous in fact we've made a very expensive extremely difficult to look after
+[13:38] commuter that's much worse than your phone so this entanglement is the key part. Again it is
+[13:46] done with lasers we get our ions in the same trap and we shine laser frequencies either side
+[13:52] of the normal frequency that we do for a gate change. If you do it for the right amount of time
+[13:59] this entanglement is our bits together and then we get the sense of this quantum scaling so
+[14:05] when you put two cubits together you go from having two possible states to four possible states
+[14:11] then we're three cubits that's where I double again and that keeps doubling so when people tell you
+[14:16] you can start stringing together all of these ions and do one big calculation that this is what you
+[14:21] need to do you need to be entangling your gates and then any operation you do will apply to all of
+[14:28] your cubits. You can't measure what's going on though once you've set it in your zero state
+[14:36] you need to do all of your operations and never look at the state of them again as soon as you do
+[14:41] that clap still one or zero again so you need to do a whole chain of operations without inspecting
+[14:48] which does present some challenges. How do we do the actual measurement at the end that I just
+[14:55] talked about? You it's a laser surprise surprise you you're showing it on the the ion
+[15:03] is this specific frequency to illuminate it if F61 or you won't see any perfection back if
+[15:10] or you won't see any emissions if F0 so this is called a photo multiplied tube it's a few other
+[15:17] approaches you need those quite dim it's only an atom in size so you do need a good
+[15:23] ability to capture those photons that come out. So we have all the ingredients that's actually all
+[15:31] you need those gates I talked about let you do any quantum computing operation which is pretty cool
+[15:37] so I'll go through them again quickly we have a vacuum keep our atoms out it's very cold so our
+[15:42] atoms don't vibrate too much we've got our itter beam atoms from our oven they repel each other
+[15:49] we can trap them and we can move them around with electric fields we've set all our ions to the zero
+[15:56] state so we're ready to go we've got our ability to change the state and we've got our ability to
+[16:01] ant and tangle our ions so that's do something. As I said you you can do any operation in the
+[16:11] combination of these gates so we need to pick something too calculate now so the really interesting
+[16:18] exciting applications for quantum computing that are coming they're not quite they yet our things
+[16:23] like drug discovery and material science it's the simulating systems that are already quantum in nature
+[16:30] I think of what will be the most interesting applications at the moment the computers we have
+[16:36] are not quite powerful enough to do that and actually one of the most famous algorithms is more about
+[16:42] RSA code breaking and there's an algorithm called shores algorithm we can't do really big RSA
+[16:50] encryption keys yet we can only do very small ones but we can look at the maths and see what happens
+[16:56] I'm not going to go too much in the shores because I know there's a talk tomorrow on the subject
+[17:01] as I please do go and see that if you have time in your dyes so the two minute version
+[17:08] what we're doing with is RSA key a decryption so RSA and create a public and a private key the public
+[17:15] shared the private isn't the public key is made of a very large prime number it's very hard to find
+[17:21] factors for so that non-reversibility is what makes it useful until quantum computers exist or good enough ones
+[17:29] so the private key is made from these prime factors we have the public key and we want to find the
+[17:35] prime factors that form our private key and the public key we're going to look at today is 15 so it's
+[17:42] quite a small one admittedly that is four bits in size RSA that is used in the internet now is
+[17:49] more like 248 bits so we're 244 to go but if I tried to show you operation my operation that
+[17:58] process I don't think we would be here we would be here quite a long time and so lucky for me
+[18:05] there are already quantum compilers have been written this one is called kiskit and it breaks down
+[18:14] I'm asking about the problem in two of the sequence of laser pulses and the four gates that we talked about
+[18:20] the RX are why I said and the entangling gate are so we get to enjoy watching this calculation go on
+[18:30] so there are eight ions in this calculation so that's actually the number of atoms that you'd need
+[18:37] in reality the error level on existing computers might be too high so you might have to have some extra ones
+[18:42] as error checking and that error correction is another big topic of study at the moment
+[18:47] it's coming along but we are nearly there I think so this is just factorised in 15 I mean this
+[18:56] something that you could all do in your hands I think and we finally got to our measurement
+[19:00] gates so we're measuring one two three four bits at the end and all we will get from that is zero or one
+[19:07] so this is actually the end of a Fourier transform so that each bit represents one two four and eight
+[19:17] so you can get your number out of that so yes and I actually have a different visualization which we'll see
+[19:26] if I can bring up yes so this is a bit closer to what you'd actually see on inside the trap
+[19:36] so we've got our eight ions there and you'd be firing new different lasers on them
+[19:42] so hopefully it gives you a different different idea of what it might look like
+[19:47] I think we'll be here a while so let's just speed that up a little bit
+[19:53] you can see that one of the things is in there's the entanglement gate and you can see all of the ions
+[19:57] vibrate together what's cool about it is you can you only need to fire lasers on the ones that you want to
+[20:02] entangle but all of them talk to each other and they're like sharing information through a
+[20:06] let's do their motion it's just quite cool property
+[20:11] oh move on from there
+[20:17] yeah my mouse back to the right place brilliant
+[20:21] so we talked about the fact that you only get a one and zero back so if you have a really complex problem
+[20:26] where the answer is more than just zero or one you need to do it several times
+[20:32] and also it is probabilistic this is a quantum computer you could just get around the zero
+[20:37] that would be absolutely within the realms of possibility because all your storing on your
+[20:41] blocks various probability so ultimately we're going to have to run each each test thousand times
+[20:47] in this case for shores algorithm you'll have to trust me that the right answer is ours for
+[20:52] again hopefully tomorrow that will become clear but you would do two thousand times and you might
+[20:58] get 500 of these results zero one zero zero one one zero zero we can pick out the rion so from that
+[21:09] so we've got our small calculation here even though it looked like a lot of operations just compare
+[21:14] it to your your computer to run to door picture of a cat I can guarantee it would be thousands
+[21:18] thousands of times more operations you actually have to do so to put this a fast trap time
+[21:23] ones a slower but they're still reasonably fast we can find these ions around
+[21:26] so you've still got a reasonable chance of doing a complex thing don't be scared off by
+[21:31] how long it took to do how do we get to the useful ones there exists today
+[21:38] a few trapped time quantum computer companies that have gone up to about a hundred
+[21:43] do bits that's the the most the most the people have managed we need something like
+[21:48] hundred thousand to do reasonably useful stuff and we'll like ten million for really really useful
+[21:53] and so scouting this up is what all of these companies are focusing on at the moment
+[22:00] but they're really interesting problems that that chain of our ins that I talked about
+[22:07] you can't keep adding to that chain the areas become too big so you need to do different things
+[22:11] need to start moving our ins around and there's a few few ideas for that the challenges the
+[22:17] number of lasers that you'd need if you if you want to have thousands of cubits on the surface of your
+[22:23] chip are you going to be able to pipe all these lasers around efficiently and reliably
+[22:27] quite a challenge so other ideas are to use waveguides inside the chip to get them exactly where you want
+[22:35] are the scaling thoughts are there's only so big that you can make a micro chip
+[22:40] and so you'd be limited how many ions you can physically fit on that surface so you can start
+[22:44] tiling them up and then the hard bit is the transition between the tiles all of these things being
+[22:51] worked on so I hope that was helpful let's just quick recap quantum is pretty weird I did not
+[22:59] tackle some of the harder stuff like explaining what spin is but we can use their properties without
+[23:04] understanding them that I'd leave for me you can break it down into reasonable set of steps
+[23:11] I mean that's what I've been trying to do the last few months and I think it's been a really
+[23:14] helpful exercise for me hopefully few as well and I'm looking forward to all the engineering challenges
+[23:19] and we'll have it work in the future thank you so much for listening

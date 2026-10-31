@@ -1,0 +1,326 @@
+[00:00] So this is my gel language. I have to translate a video game and why. So who am I? I'm Kai Jones.
+[00:22] I was the lead sound designer on a video game called Busbound which came out in April.
+[00:26] I also ended up being the Welsh language lead on Busbound as well because I ran a translation
+[00:30] passion project with a small team in my spare time to try and get the game into Welsh.
+[00:34] And we had a full month's time limit because that's when we ceased development when I came up with this idea.
+[00:39] And I've never actually done this before. This is not part of my job.
+[00:42] So let's talk a bit about Busbound. Busbound is a video game set in a fictional American city.
+[00:47] And it is just swamped with traffic. Like you can't get around at all.
+[00:51] And they've asked you to form a bus network in the city.
+[00:55] So it's your job to build bus stops around the city, serve them and the more you serve those and more the upgrade,
+[01:03] the more bus stops you get in the city.
+[01:05] And then when those bus stops upgrade, the entire districts of the city upgrade with the corresponding bus stops.
+[01:11] So you have to serve the city and make sure the passengers are happy.
+[01:15] And you have to do this with multiple different types of buses, each with their own different quirks and challenges.
+[01:20] So we'd even start with translating a video game.
+[01:23] Well first off you have to find out where all of the text in the game exists.
+[01:27] And thankfully for this we had software that did that.
+[01:30] So we've got what you can see here is the list of the languages with their local codes and the amount percentage finished.
+[01:37] And in there that's how much you've actually translated and then you have the amount of words that are remaining to translate inside of there.
+[01:45] And then when you click on one of those languages,
+[01:48] you have on the left the primary language that the video game is in and for this game it was in English and that stuff is unethical.
+[01:55] And then you have the name the corresponding file inside of the game which then hooks up when it sinks together.
+[02:00] And then on the right you have a blank space where you have to fill in your equivalent line with that language.
+[02:07] And you do that 3,400 times and you have bus bound.
+[02:11] So part one, the characters.
+[02:13] So the game has a non-speaking main character but we do have a couple of side characters in the game.
+[02:18] First off is Chuck. He's the person who runs the bus depot and he guides you through the tutorial drive at the start of the game and teaches you how to use the bus.
+[02:26] Have to save bus stops and avoid obstacles.
+[02:29] Then you have Tay who is in charge of running the bus network for you and making bus lines for you to serve the city.
+[02:34] Then you have Clio who is in charge of the bus modifiers which makes the game harder but you get more points.
+[02:40] And in game achievements then you have Jeff who changes the color of your buses.
+[02:45] And then you have the radio host who gives you weather updates during the game which also affects your driving ability.
+[02:51] And then also gives indirect feedback of the good work that you're doing in the city.
+[02:55] And also the cast that are inside of the bus depot give you little quirky messages when you open their menus.
+[03:01] So to break it down you've got four main characters that do tutorial dialogue, one that does weather updates and all of them do positive messaging.
+[03:09] The first thing we're going to cover is consistent terminology. What I mean by that is making sure that we use the same terms for the same things throughout the game and we don't use any variations so that we don't confuse the player.
+[03:20] And these things are all said by like the characters in the game it stuff that pops up inside the UI and also in the game settings.
+[03:27] Some good examples of that is different areas in locations inside the game of which there are many types.
+[03:33] So you need to make sure that you're using the right words.
+[03:36] See there's unlockable areas, bus stop location, school zones, upgradable districts of gradeable locations, important places in buildings etc etc.
+[03:44] And then you have to look into language that you're translating to and find the equivalent words for that and pick the right ones.
+[03:51] For instance district in Welsh, one of them is Ardell.
+[03:54] That is the best word to use because it covers district locality region which makes sense and that word comes up a lot in the game.
+[04:01] One is a play-or-lead which means location placement position which works really well because you are graded on how well you park the bus at bus stops.
+[04:10] So that says play-or-lead. Perfife which means perfect placement slash position.
+[04:15] Other things to be aware of as well is official terminology for stuff that appears in documents.
+[04:20] For instance the bus has a speed limitter which means that when you go into a certain area if you have it on your bus will not exceed that speed limit.
+[04:28] And in Welsh that is Covongeth Covlander that actually appears in documentation and it literally means speed constraint.
+[04:35] And you can see on the left of the screen there you've got it in the UI and also highlighted it that sucks as it's during the tutorial.
+[04:41] So that's two different locations with that term comes up.
+[04:44] I almost didn't use this term because when I got actors in to say these words they were like I have never heard this term in my life.
+[04:50] And I was just like, oh no that means I can't use it.
+[04:53] But then I remembered because it's official terminology and you're going to be exposed to a lot that means that's okay because you will get familiar with it.
+[05:01] Another place where I didn't use official terminology is with speed bumps.
+[05:07] In the UK say like hump 80 yards or in Welsh Tumpath which means mound.
+[05:12] But that didn't really fit the game's context and I didn't feel like it was clear enough for the driver that that's what that would mean.
+[05:17] And I also wanted a future proof in case I needed to use the word Tumpath somewhere down the road because the location in the game is quite hilly.
+[05:24] And I decided to use bump Covlander.
+[05:27] Bump is a lone word from English so it's bump and a Covlander means speed.
+[05:32] Another reason that I did this is because the in-game assets have words written on them that do not get translated.
+[05:39] The reason being is because then the art team would have to make a lot of assets and when you switch language it would have to switch assets.
+[05:46] That's a lot of work. So it matches the lone word on the actual road itself so that is much clearer for the player.
+[05:54] So next is colloquialisms and expressions.
+[05:57] So the first thing that you hear in the game from a character is Chuck saying how do they stranger.
+[06:03] How do they does not directly translate into Welsh and we also don't refer to each other as stranger.
+[06:08] So this doesn't really work. So you need to find something that matches the same energy as what they're saying but in that language.
+[06:14] And the word in Welsh is Shamae which is a high-how-are-you-rolled into one. So it's a good warm friendly greeting to use.
+[06:21] You also noticed that Chuck's name doesn't change here. There was a part of me that wanted to go back and forth on changing his name.
+[06:27] To maybe something more Welsh but the thing is is the game is set in Nashville, well fictional Nashville.
+[06:32] So the word with the name Chuck works perfectly. So that's fine.
+[06:36] It's really important to at least understand the basics of the language that you're translating into.
+[06:41] And there are a lot of people that want to translate games or other projects because they want to serve different communities.
+[06:48] And that's fantastic. Nothing wrong with that.
+[06:50] Just please don't use Google Translate because this might say alcohol free in English but that's not the kind of terminology we do in Welsh.
+[06:57] We'd probably think it's about like, here of alcohol which would be without alcohol.
+[07:01] So this direct translation, alcohol and BIM means alcohol for free.
+[07:05] So if you go into this specific asda you can get away with free alcohol on a technicality.
+[07:11] We are now 10% done but don't worry, I guess easier.
+[07:14] Right, part 2, the bus passengers and pedestrians.
+[07:17] So what is their role in the game?
+[07:20] Their role is to give you immediate feedback on how well you're doing inside of the bus while you're driving.
+[07:26] That's stopping at stop signs, going over speed bumps into good speed, not crashing into other cars, not parking terribly.
+[07:32] That kind of stuff. And the more passengers on the bus, the more points you'll get at bus stops if you're doing a good job.
+[07:38] And you get multipliers so you get more points. So that's their job.
+[07:42] And there's two different ways the passengers interact with you.
+[07:45] One of them is a speed bumple that comes up above the bus where passengers are set, which is a good way of immersing people because it shows that these people actually on the bus.
+[07:53] And if you repeatedly do something good, all repeatedly do something bad more than three times.
+[07:58] In the bottom middle of the screen you'll see a speed bumple that comes up.
+[08:01] And that's an actual vocalized line from a bus passenger to kind of a suit that you're doing something really good.
+[08:07] Or really bad. So to break it down it shows the weight of good and bad decisions.
+[08:11] In a form of view of the mistakes or not mistakes you're making good stuff.
+[08:16] And also just creates a good atmosphere for you.
+[08:20] So I had to shorten lines for gameplay reasons.
+[08:24] So most of the time those are little pop ups are clients that.
+[08:27] So they need to be read quickly. The problem with Welsh and also German because the game is translated into German is that there's a word tend to be a lot longer.
+[08:35] And you only have a limited amount of space on screen and you have to glance at it, understand what's being said.
+[08:40] And then go back to driving because otherwise it'll feel like texting and driving and you might crash into something after doing something really good for people.
+[08:47] So it doesn't stick around for very long.
+[08:49] And these are like different ways of pluralizing in Welsh.
+[08:52] The WD is actually one lettering Welsh. We had a different approach last and last and last about the WD is a ther sound.
+[08:57] But still these are longer and there's different variations of them.
+[09:01] So I had to change this up. So here are some of the things they say in English.
+[09:05] Something like facing traffic face to face means that you're facing traffic.
+[09:08] I just literally shortened it to facing traffic with an excavation mark to show they're not very happy.
+[09:12] And there's another one where there which is zero gravity experience included, which is what happens when you drive over a speed bump incredibly fast and your bus practically flies in the air.
+[09:21] I decided to change that up a bit because zero gravity experience included is quite long and Welsh.
+[09:25] I changed it to run it in Mindy Govod, which means we are going to space.
+[09:29] But I forgot to put an excavation mark so every time I see it it just reminds me of this Ralph Wigger meme.
+[09:36] And I can't answer it and it's just too funny so I left it alone.
+[09:41] Another place as well we're like rephrasing and shortening comes into play is cutscenes because the cutscenes are cut to the English text.
+[09:48] So that means you often have to rephrase.
+[09:50] So some ways of doing this is just rephrasing and shortening lines.
+[09:54] But sometimes I kind of just had to ask the actors to speak a bit faster, which did work because sometimes it's only like a two second difference.
+[10:02] So you know it kind of discleased it in a bit. So that's okay.
+[10:06] And other things in the game as well is stuff like puns and play on words.
+[10:10] It's kind of like a facetious way of telling you that you're doing a bad job.
+[10:14] Like busted ride, not thrilled.
+[10:16] What you should really do in this situation is translate the puns and fine puns or jokes in the language.
+[10:22] But like I said, I had four months.
+[10:24] So I kind of just shortened this to exactly what went wrong.
+[10:28] So follows Anghawir means wrong way.
+[10:32] And also like pop culture references come up.
+[10:35] Now I know who Speedy González is and I know what the author is.
+[10:39] But it's just safe to assume that players don't.
+[10:42] And I think it's cool to match different references to different languages.
+[10:45] So for instance, Speedy González changes to Gitu Nisbrán, who is like a local legend in South Wales in like the
+[10:50] 1890s I think it was. He could like run up and down the local mountain and back before the cattle boil.
+[10:56] And he was like known for it locally. So I thought it'd be a fun thing to throw in.
+[10:59] And then I changed the order bar into the M4 because that's the motorway that leads Wales.
+[11:03] And then I kind of added well phrases to some of the more shopped expressions when you crash into stuff.
+[11:09] Like I could just translate oh my goodness, but I chose stuff that I actually heard growing up when something went wrong.
+[11:15] Which is navy blue, which literally means navy blue with the color.
+[11:18] I don't know why we say it. And the other one is all man back, which means oh little mother.
+[11:22] I also don't know why we say that. But I heard it a lot growing up.
+[11:25] So it felt relevant and it felt like an actual expression that people could like relate to hearing in a situation like that.
+[11:31] Another thing that's really important with characters is having alternative lines.
+[11:35] So I've shown you lines already, but we need to get around 80 to 10 recordings of those lines to add variation.
+[11:42] Otherwise it just sounds like you're doing the same bus route over and over again with the same bus passengers.
+[11:47] So adding variation is really really good. And then one says the same thing twice in the same way.
+[11:52] So it's nice to have variations so I'm going to show you a video of that now.
+[11:57] When it loads.
+[12:00] It's getting there.
+[12:04] I try doing it manually.
+[12:06] Oh yeah, a rabu.
+[12:08] Oh, a rabu.
+[12:10] navy blue.
+[12:12] navy blue.
+[12:14] navy blue.
+[12:16] navy blue.
+[12:18] navy blue.
+[12:20] navy blue.
+[12:22] navy blue.
+[12:23] navy blue.
+[12:25] navy blue.
+[12:27] It was really fun recording that because it was the time when working on the game.
+[12:30] You had to drive really well to kind of get through the game.
+[12:33] So I just spent like an evening just crashing into everything.
+[12:36] And it was brilliant.
+[12:37] We are now 30% done.
+[12:39] There's third section is voice acting and recording.
+[12:42] So for the most part this was recorded in Hout Studios in Cardiff.
+[12:46] The reason being is because they're a very good studio. They're award winning.
+[12:50] And they're also a fully well speaking studio so they could get well cast.
+[12:53] And they could also spot spelling errors and other ways of phrasing things in the actual lines we gave the characters.
+[13:00] And this is good because I took all of the text to a professional proofreader.
+[13:05] But the thing is is the proofreader is actually someone that does academic stuff and government documents.
+[13:10] So everything came back incredibly precisely said.
+[13:13] And no one actually talks like that.
+[13:15] So they were actually able to rephrase things for me.
+[13:18] And change some stuff up and spot small spelling errors.
+[13:21] That really worked.
+[13:22] For the most part we did record in just two studios.
+[13:25] And one of the reasons for that is because having consistency among the voices of characters with the same microphones and the same rooms.
+[13:32] It really makes it sound like when characters are talking to each other.
+[13:34] It sounds like they're in the same space.
+[13:36] So that's really important.
+[13:38] Swing that came up quite a bit with using some of the voice actors.
+[13:41] We ended up reusing a bunch of people to do like North Wales voices, mid-wailing voices, different south Wales wants to add some variation.
+[13:49] And so we ended up from some of the mid-wales people.
+[13:52] It was the fact that they actually say things differently and they have different phrases.
+[13:55] For instance, Chamay, which I mentioned earlier, changes to Formay.
+[13:58] And they say other stuff like that.
+[14:00] So it's really cool little idea.
+[14:02] Maybe to translate something and you have characters from different regions.
+[14:05] See how different regions speak because it's the same in every country.
+[14:08] There's different places that speak a little bit different.
+[14:11] For the most part, I did cast professional actors and fluent speakers.
+[14:16] The reason being is because they could pick up the emotions and the lines a lot quicker than learners.
+[14:22] Because otherwise the learners are spending a lot of time looking at the text trying to understand what's being said.
+[14:28] Instead of actually just saying the lines with expression and fluency.
+[14:32] Because Welsh was a bunch of different rules and different sounds.
+[14:36] For instance, we have a sound which you can hear in like Jermon and Korean or a South sound in Icelandic and Mongolian.
+[14:41] And also we have some equal mutations which in letters changed depending on what words are before it.
+[14:46] So like with the work in the Wales sign, Kroyslori Gummi, the sea changes to a G because of the eye trigger in there.
+[14:53] So that happens.
+[14:54] It's really important to understand that like Welsh is nowhere near English and only borrowers like 2% of the words.
+[14:59] And 88% is profonic which is the original Celtic language.
+[15:03] It's mutated from over time.
+[15:05] So for instance like Heraford down the road in Welsh is here in Fawroth which means old road.
+[15:10] So yeah it's an old language.
+[15:12] And we also have additional vowels that people like to make fun of and assume that they're not vowels.
+[15:17] So for instance the letter Y in Welsh is a vowel.
+[15:20] The first Y of a word is an art sound and the last Y is an E sound.
+[15:24] And then also the letter W is a vowel in Welsh as well.
+[15:27] It makes an O sound.
+[15:28] For instance we borrowed the word bus in Welsh and it means bus.
+[15:33] So this next example of a W being used.
+[15:36] I had to keep on two members of the cast as professional translators because they actually are.
+[15:41] And they could actually humanize things a lot better.
+[15:43] So these two people ended up staying on and they did a fantastic job.
+[15:47] A little bit about the editing of the voice lines you need to make sure the role level with the ones that are in other languages.
+[15:54] So people don't get a shock when they change languages and like the gameplay audio is different.
+[15:58] And it's really important to edit out stuff like clicks, pops, people accidentally knocking the microphone, that kind of stuff.
+[16:05] Part four or five the settings and UI.
+[16:08] So what is the role of the settings in the game is to help you change gameplay, the video, the audio.
+[16:14] And then inside this menu it gives you little explanations of what every little thing your changing does.
+[16:19] Also to go through different guides in the game on how to drive, check achievements, make lines, and then also the UI that appears on the bus while you're driving.
+[16:28] So quite a big role in the game.
+[16:30] All the previous rules apply.
+[16:32] Refraising, consistency of knowledge and understanding of language sentence structure.
+[16:36] And also play test the game is really important when you're doing this.
+[16:39] It's a very, very sluggish job when you're translating settings because it's not always very clear what's going on.
+[16:47] For instance, I made this mistake, probably when I was tired, is I mixed up close and close.
+[16:52] So in the text, there in Welsh, Agos means to get closer and the menu does not get closer, it in fact closes.
+[17:01] So I used the wrong one and the actual word is Kai.
+[17:04] And it's important to look at the file names to try and find clues as to what it might be and then you can test in the game.
+[17:10] And sometimes it's just really confusing.
+[17:13] For instance, it'll feature like loads of numeric values or code in sign of which which doesn't translate.
+[17:18] I need you to start trying to find the context for this stuff because, like I said before,
+[17:22] pluralizing in Welsh can be different for different words.
+[17:25] You need to find out what these actually mean inside the game.
+[17:28] It's often icons like a thumbs up or upgrading a bus stop, little ring that helps you upgrade and stuff.
+[17:35] And sometimes the file names are just generally confusing.
+[17:38] So this isn't what the code actually says.
+[17:40] I just put that in there because that's what it looks like to me when I read it.
+[17:43] And also that line does not translate to sad Pablo Escobar.
+[17:46] That's just how I feel when I realized there are 1,500 of these that I had to do.
+[17:51] And now we are 100% translated.
+[17:53] So final section. Why? And also out true.
+[17:56] So some of the benefits of translating a game is stuff like cultural preservation.
+[18:00] For instance, just having the game in text is great, but when you have it with the actual voices,
+[18:06] it really enhances the experience and that's people know how the words actually said.
+[18:10] So it's a good way of preserving it, especially in like modern stuff like games.
+[18:14] And it also gets actors on to games they wouldn't normally get on.
+[18:17] So I got like a load of people credits who've never worked in games before.
+[18:21] So I got a lot more people credits in games which helps so I just amize them.
+[18:24] And also might be the first time you hear or see someone like you in a game,
+[18:28] especially speaking your language, especially with smaller languages because that means a lot more because they're not often considered in like bigger Western games.
+[18:35] Like for instance, here's like, you know, this is the cast.
+[18:38] This is a lot of people to now get credits on a video game and I'm really really happy we could include them.
+[18:43] So part of what inspired me to do this was I came across a website called Wales in games and they list every game that is translated into Welsh.
+[18:50] And that is literally the list. It's tiny and only a few of those have audio.
+[18:55] I also saw Welsh YouTubers playing games in Welsh as well like C.D.
+[18:59] I think C.D. is quite popular with his Welsh videos.
+[19:03] And also because I grew up in a fully English speaking home and I learned Welsh at school.
+[19:11] And it meant that I never really had anywhere that I could actually use the language outside of an academic setting, especially when I got back home.
+[19:17] So if I had games that would have been great.
+[19:20] And also because there's been Welsh language discrimination throughout history like the Laws in Wales Act, which was ages ago,
+[19:27] stopped Welsh people from using Welsh in law and in offices.
+[19:32] There's even a line in there that refers to English as the natural mother tongue used within this realm.
+[19:38] And annoyingly a bunch of those laws were actually overturned in the 1970s so we had to wait a while.
+[19:44] And then there was the treachery of the blue books in 1847 where middle to upper class lawyers from Westminster came into Wales to look at the state of education.
+[19:52] And instead of speaking to Welsh speakers, they spoke to English speakers and English people.
+[19:56] And they all had an incredibly biased opinion and then they printed three books on that bias opinion.
+[20:02] And it actually shamed and humiliated Welsh people out of their own culture.
+[20:06] And you can see historically the dip of Welsh speakers straight after these books published.
+[20:10] It's a line in there that says it is not easy to overestimate its evil effects.
+[20:14] And then there's also stuff like the drowning of a town called Cappelcalean, which was the last 100% fully Welsh speaking town in Wales.
+[20:21] And it was drowned to make a reservoir for Liverpool which they never used.
+[20:25] And the Welsh people were outvoted because they were more English representatives in Westminster than they were Welsh at the time because Wales didn't have their own Parliament.
+[20:32] So they didn't really get a say in it.
+[20:35] And also the other reason they didn't do this sooner is because this is the kind of stuff that I heard on the way into the games industry.
+[20:41] As a Welsh person going to places like London, Gilford and Brighton.
+[20:46] And it was often then led with then ostracisation among communities because they view me as lesser.
+[20:52] And this was massively effective towards me gantry in the games industry for a while because I come from poverty.
+[20:58] So I was getting as much money as I could together so I could get into the games industry and I was insanely hard.
+[21:04] So I was spending all my money going to London, Gilford and Brighton, only to then be shamed about my own culture and not given work.
+[21:11] And it took a while for me to get in.
+[21:14] But a friend of mine told me that a good thing to do in this situation is to look at little ways that you can make resistance to boost your own confidence because that's what she does for women in the games industry because she has to deal with men all the time.
+[21:27] So she told me to do little things of resistance because it will build your confidence.
+[21:32] And one of those things of resistance was translating this game.
+[21:35] And now bus bound is the biggest game to a membership with Welsh text and voiceover because of that.
+[21:40] So now instead of compiling shaders in English, you can compile shaders in Welsh.
+[22:01] So thank you.
+[22:04] So that was one example of resistance in the face of really being people.
+[22:13] But there's loads of other ways you can do it as well whether it's for your own culture or for the cultures of people you care about or just cultures you come across at all.
+[22:20] Something I have done to kind of retrain myself as a person over time with dealing with negative people is I went from a defeatist mindset of this nothing I can do.
+[22:29] To immediately repeating to myself, there's definitely something I can do I just haven't found it yet. So what is it?
+[22:35] And that's the mindset that I've started to gain and I just start applying that where I can any time I see something go wrong.
+[22:43] And I did a bunch of those on the game. So I want to kind of inspire you to show you little things that I did as well inside of the game for different cultures.
+[22:51] One of them is the to Welsh A language.
+[22:54] And I'm going to ask that with this language inside of the game. So I mentioned the trajectory the blue book's earlier in response to that 250 Welsh people asked Argentina for some land in Patagonia and Argentina said yes.
+[23:04] But it wasn't their land to give because it belonged to the to Welsh people.
+[23:09] And over time that area of Patagonia was heavily colonized by a lot of people and is now primary speaking Spanish.
+[23:16] And with a small 5K community speaking Welsh. And if you see on the you write there you'll see how via Domingo. He codified and collected everything about the to file language with Dora Manchado,
+[23:31] who is the last native speaker of Dofail Che who died in 2019. And there is still a small community speaking it with the language now exists as dormant.
+[23:40] And thankfully there's more people in the Welsh speaking community that are actually wondering whether or not we should still celebrate our resistance in Argentina when this language now lies dormant.
+[23:52] And I wish there was more done about that. So I kind of wanted to prompt it a bit by adding to Haltre into an asset in the game.
+[23:58] And this little website at the bottom there for the actual community that speaks to Haltre these days.
+[24:02] Another one I added as well to the game was an asset that included the balloon language of southern Belgium because I was in a conversation with someone was talking about how
+[24:09] we're loon was kind of stomped out of Belgium in favour of French and was also suffered with the same levels of punishment, shame,
+[24:19] congliation as well, but much more successful. And then the French speaker in the room decided to cheer as if the French had just won match in the football.
+[24:28] If you ever find yourself cheering like a football who lagoon at the destruction of someone's culture please go to therapy.
+[24:35] Another thing I did as well because I really like to do a lot of research when I work on a video game.
+[24:39] I like to dive into the kind of cultures and kind of sounds that an environment might have so that I can do a good representative job of the game that I'm working on.
+[24:49] So because it was set in fictional Nashville, I decided to search Nashville history.
+[24:53] And everything that came up was just country music and super whitewash.
+[24:56] And I'm just like if Nashville is a music city, there's gotta be some blues and jazz in there.
+[25:00] And I was right. Jefferson Street was the music district, the black music district of Nashville.
+[25:06] And it was places where people got their starts like Jimmy Hendrix, Rachel's, Duke Allington and others had their starting this community.
+[25:14] And because of a very nasty technique called red lining which is a racist way of getting rid of properties in the US,
+[25:20] they built the I-50 highway straight over Jefferson Street.
+[25:24] And Lorenza Washington there pictured he wouldn't have it.
+[25:27] So he ended up collecting as many relics as he could from that street and turned his own house on Jefferson Street into a museum to make sure that stuff was protected and it protected the legacy.
+[25:37] He also did it so that his house would then become on the civil rights trail in Nashville, which guaranteed the community having a bus stop because they didn't have one.
+[25:47] So I reached out to narrative and I was like, hey can we have a Jefferson Street in the music district in the game.
+[25:54] And then from there I spoke to design and I was like can we get Lorenzo a little building in the game like a nod to him and everything that he's done to preserve music culture.
+[26:04] So we worked together and we added Lorenzo's soundtrack which is a building that's referencing Soulshack Records which is what Lorenzo Washington started in the 70s.
+[26:13] So it talks about him being a local legend in the description and was a legendary place of local music culture and how he saved the music district.
+[26:22] So I did lots of little things there and I hope you'll take away from that is that there are little methods of resistance that we can do on behalf of people or for ourselves.
+[26:30] The important thing if it's someone else's culture is to do research from their culture's perspective and not give into any bias opinions and make sure you consult with people that care and represent for those cultures so that you can do a good job.
+[26:45] And like this wasn't in my job description none of this that I've listed in this talk is in my job description.
+[26:50] But I did it anyway and I want people to start thinking about the fact that we can actually do a lot more with it in a hobby or in our jobs that are outside of our job descriptions to make places more culturally inclusive and include voices that would maybe not be considered.
+[27:04] And also if you're a white person don't do white savior crap please don't do it for your own ego do it because it's actually the right thing to do and it's a method of resistance.
+[27:14] In the words of die from the movie pride when you're in a battle against an enemy so much bigger than you and much stronger than you and you find you've got a friend that you didn't know existed that's the best feeling in the world.
+[27:25] So be that friend find ways to help and of course mind your language. Thank you.

@@ -1,0 +1,220 @@
+[00:00] Hello.
+[00:14] Is it going?
+[00:15] We're in.
+[00:16] Oh yes, that's it.
+[00:17] We're in.
+[00:18] Thanks very much for coming to my talk.
+[00:20] Thanks to EMF for having me here.
+[00:22] My name is John Silas.
+[00:24] So kindly introduce me.
+[00:26] I'm an academic at middle sex university.
+[00:29] I spend the vast majority of my time doing a lot of teaching.
+[00:33] But when I'm not doing teaching, I get to do a little bit of research.
+[00:37] And the research I do largely comes out of the Jones side of some more lab.
+[00:41] If you're interested in the stuff I'm talking about, the things that we're doing.
+[00:44] Check them out on our website.
+[00:45] I'll stick up a QR code at the end as well.
+[00:48] So you can follow us along.
+[00:50] I am a cognitive neuro scientist.
+[00:54] I'm not sure if that means anything to most people.
+[00:58] But effectively it means I spend most of my time interested in trying to understand the relationship between mental phenomena and brain states.
+[01:07] And like most cognitive scientists, but not all cognitive scientists, I've busy myself with being interested in the sort of everyday things that our brain does.
+[01:16] The sort of things that typical brains do, not brains in disease or atypicality,
+[01:22] that often we don't really think about or kind of even notice the way that we kind of move through the world,
+[01:29] the way that we are able to attend to information in our environment, the way we are able to store that information,
+[01:34] remember that information, recall it, all those kind of everyday things that we largely take for granted are the subject of my interests.
+[01:44] But as well as those kind of cognitive interests, I also have a particularly interest in the methods that are used to understand the brain
+[01:51] and to understand that relationship between cognition and brain states.
+[01:56] So I'm going to talk to you today about one of those particular methods or a group of methods really.
+[02:02] Those methods are known as non-invasive brain stimulation techniques for changing brain states non-invasively,
+[02:09] without having to cut open a scalp without having to do any damage to the brain.
+[02:14] You can non-invasively change brain states, the function of the typical brain and observe the effect of the brain.
+[02:20] I'm going to talk to you about that, but like any healthy academic talk, I'm going to start with a little bit of history.
+[02:27] For a very, maybe this is familiar to many of you, but for a very long time, the way that we've tried to understand that relationship between cognition and brain states is by studying brains when they've been damaged.
+[02:38] By waiting around for naturally occurring phenomena to take place where the brain is damaged,
+[02:45] and then observing the effect on mental phenomena, observing the effect on cognition.
+[02:50] The illustration that you've got on the screen is an extremely notorious case in neuroscience and neuropsychology.
+[02:56] Finius Cage, a railroad worker in 1800s in California, was the last scene rock out of mountains.
+[03:04] And the way that they did that is they would drill a hole into the mountain side and drop some dynamite in, light it and blow up a chunk of the mountain.
+[03:13] Finius was working, doing this work. He put his dynamite stick in and he was using this long iron rod to poke the dynamite in very unfortunately for him.
+[03:24] The dynamite went off and the pole went clean through his eye out through his skull the other side and damaged a large chunk of his right prefrontal cortex.
+[03:35] Amazingly, he quite literally stood up after the accident and made pretty much a full recovering.
+[03:44] The story goes is that he was damaged in such a way that his personality changed quite massively.
+[03:51] Before he was said to be this kind of hard work in family, man, very conservative in his views, had suddenly changed to become a lot more accepting of risk.
+[04:02] He started drinking quite heavily, left his wife and children went around the world, causing all sorts of chaos.
+[04:08] And the idea is that we can now link a particular brain area in this case, in Finius's case, the right prefrontal cortex to a particular cognitive ability, allowing us to draw a causal connection between the two of them.
+[04:24] We can now say the prefrontal cortex was involved in personality.
+[04:28] Actually he's a terrible example because there's so much wrong with that, but there's so much wrong with that method more generally, right?
+[04:36] Not least, you have to hang around, accident and emergency departments waiting for someone to turn up with a stroke, a tumour or trauma to the region of the brain that you're particularly interested in, to have an effect in the cognition that you're particularly interested in.
+[04:50] We're not a very efficient technique, and on top of that we rarely have accounts of the person before they had that and those accounts are often sketchy, so not the best technique.
+[05:02] Thankfully, early on in the 1900s and the 20th century, non-invasive imaging techniques came about.
+[05:10] We're able to image the function of the brain without having to do anything to it, and that revolution has been huge for you all know about MRI, of LEG, and all the other kind of approaches that allow us to take these pictures of the brain.
+[05:25] I just have one of my favorite examples. Actually, a relatively old example now from 2006, we're able to measure the function of able to measure activity in the occipital cortex of the brain and extract that information to infer what that person is.
+[05:39] You saw what the person was being shown, the presented clip on the left hand side and what we inferred based only on their brain data.
+[05:51] In many respects, people have called that mind reading, using brain data to actually see what's inside the mind of individuals.
+[06:00] The useful techniques have revolutionised our understanding of the way that the brain works, but have one key problem to them. They are by their very nature, correlational.
+[06:11] We're sticking people inside these imaging scanners asking them to form a cognitive task and correlating that brain activity to the cognition that we're asking them to engage with.
+[06:22] We're still very useful, but correlational meaning we can't infer cause. We don't know for sure that the area that lights up when they're doing this cognitive task is causally related to that cognitive task.
+[06:35] It might be epiphonomenal activity there, it might just be given off like steam from a steam engine, it might be passing through that region to another area or a whole array of other accounts.
+[06:47] In the late 80s, early 90s, a technique was developed to be able to change brain states, to be able to interfere with brain states, and then in that interference, I'm now asked to infer cause, the necessity of that particular brain region to be involved in a cognitive task.
+[07:07] The first such of these techniques is known as trans, cranial magnetic stimulation, I'm going to call it TMS here on in, and it was the first one really to be evidenced in the late 80s, early 90s, and this uptake of use in the northies really.
+[07:24] TMS is, in short, I'm not a physicist and I'm sure half of your half is this, but TMS, in short, is a set of capacitors that can store a large amount of energy and crucially discharge that energy in under a millisecond.
+[07:41] Right, that results if you discharge that energy through an insulated coil of wires, that results in a temporary moving magnetic field.
+[07:51] You have this extremely powerful approximately one Tesla magnetic field that is there for an instant, and you can recharge those capacitors very, very quickly and repeat that stimulation in a train of pulses.
+[08:06] That magnetic field, as we all know, will pass through anything that is non-conductive and will be unimpeded.
+[08:14] But when it hits a material that will carry a charge, it will induce a charge in that material.
+[08:21] Very useful, our brains are such a material.
+[08:24] Right, we can place this TMS machine over the skull, the magnetic field passes through the scalp, unimpeded, hits the sultine neurons, the brain tissue underneath, that are anyway.
+[08:35] Operating through electricity, primarily, operating through electricity generates a current transline, absolutely across the synapse in the brain and stops what's usually going on in that region of the brain.
+[08:48] Right, and generates this activity.
+[08:52] Perhaps the most well known or well-established use of TMS in trying to understand this relationship between cognition and brain states is what's known as the virtual lesion approach.
+[09:03] You can repeat this stimulation over a particular region of the brain and cause a virtual lesion.
+[09:09] Right, previously we're hanging around A&E, wards, wait for people to have strokes, trauma, tumors, whatever you like.
+[09:15] In this case, we can cause a lesion that is temporary.
+[09:19] Once the magnetic field is removed off the brain, no more lesion goes back to operating as it would.
+[09:26] Usually there's lots of questions about that, but we'll leave it there.
+[09:29] A really, really good example of this is a region of the brain extremely well-established now for a very, very long time involved in the production of speech.
+[09:39] Now, as blockers area, blockers area is the region, and you're proof in your frontal cortex, your inferior frontal gyrus, that does speech production.
+[09:49] We know this from case studies, but we can also induce it with TMS.
+[09:54] On the screen is a MSE student of mine, Laura Rezen, who's now gone on to do a PhD doing fast, smart work, and I'm doing.
+[10:02] I have managed to locate Laura's blockers region, so video is going to play in a second.
+[10:08] I've asked Laura to say some words that she can say comfortably without having to think about too much.
+[10:14] Laura, I might myself, is a massive fan of Grey Game of Thrones, and she decides to list all the characters, game of Thrones.
+[10:22] I don't know them, it sounds weird, but that's what she does.
+[10:26] The accent is just because she's German, nothing to do with the TMS machine, and you'll see what happens when I stimulate blockers area.
+[10:32] The only happening event is that we have to put it in the middle of it.
+[10:38] That was a little bit.
+[10:40] So, now, right, just now.
+[10:42] Start up in a minute.
+[10:44] Laura, producing speech, I found blockers area, stimulate you hear the click-click of the machine, and it causes a phenomena known as speech arrest.
+[10:52] She's no longer able to produce speech, right?
+[10:54] Really good evidence that this machine is having direct effect on the brain is virtual lesion.
+[11:00] That's not the only way that we can stimulate brains without touching them.
+[11:04] The other way is to use electricity.
+[11:07] Actually, this technique is way, way, way older, but for a long time, we sort of dismissed it as something that didn't work until the middle eight northeast.
+[11:17] In the 2000s, the series experiments demonstrated, you can simply put large electrodes on the scalp, and pass a really weak current in the range of around one to two million amps across the brain.
+[11:32] And it will have this effect on the underlying brain material with some details, but it doesn't really matter.
+[11:41] In effect, you can pass this direct current and have opposite effect.
+[11:45] Your anode will height an activity, cause a likely herd of activity to increase.
+[11:51] Your cathode will do the opposite, decrease activity, and make areas of the brain less likely to be active.
+[11:57] A very useful technique, but to me, I'm going to talk to you more in terms of my own research, what's more interesting, is that rather than a direct current, we can alternate the current.
+[12:08] Right, we can, what is anode and pop it, anode cathode will reverse, right, so an alternating current is, and you can change the frequency which the alternating current occurs.
+[12:20] And the reason that's particularly useful is because the oldest non-invasive imaging technique we have is electroencephalography, EEG.
+[12:29] And what EEG does is measures the naturally occurring frequencies inside the brains of normal people of anyone, right?
+[12:38] And those frequencies have been studied for an extremely long time, and have been shown to have functional properties.
+[12:45] We have related those changes and frequency to cognitive processes.
+[12:50] Perhaps most famously or most obviously recognizable in an ongoing EEG is alpha changes, right?
+[12:59] The frequency bandwidth between about 8 and 12 Hz in the brain has been shown to modulate in response to visual processing, right?
+[13:08] If you close your eyes, you have extremely high alpha power coming from the back of your brain, when you open your eyes that decynchronizes the power decreases in the alpha brain with showing very clearly, or a likely relationship between visual processing and alpha.
+[13:27] But alpha has lots of other functions as well, that I'm going to talk to you about.
+[13:33] At this point, invariably people are asking me about applications, what's the point of doing this?
+[13:39] My friend Ben said yesterday on his talk, the point of social sciences must ask the question why and what for?
+[13:48] Thankfully I'm not a social scientist.
+[13:52] Who cares? No.
+[13:55] Yes, invariably I'm asking applications.
+[13:58] And I'll put a graph on the screen that if you're familiar with meta-analysis, will mean something to you.
+[14:03] If you're not familiar with the meta-analysis, don't worry. I'll just explain what's going on here.
+[14:08] This is considered the strongest evidence of an application of TMS, the magnetic form of non-invasive brain stimulation.
+[14:17] It's approved by the FDA and the state, and now it's slightly more recently by nice in the UK as a treatment for drug resistant depression.
+[14:27] If talking therapy, if drugs don't have any impact on your depressive symptoms, you may be recommended TMS.
+[14:40] And over the recommended treatment is approximately five weeks, and for five days of those weeks, you're expected to attend the clinic and have your brain stimulated for usually somewhere between half an hour to an hour.
+[14:54] So, pretty intense stimulation over an extended period of time, and only then has it been found to have an effect.
+[15:03] And if you know anything about forest plots, that effect is pretty damn small.
+[15:09] This is to the absolute dismay of clinicians who wanted a new tool to be able to kind of change brains and fix them, but it's to my delight.
+[15:19] As a scientist, as an experimentalist, it means I can bring people into the lab with the confidence I can stimulate the brain, let them out, and know that their brain has returned to normal, they'll be safe.
+[15:32] Hopefully.
+[15:34] Right, but despite the fact that this is the only evidence application, this is the only approval of application, that has not stopped a ton of what I think is fair to say, a charlatans, clinics popping up all over the United Kingdom, all over Europe, all over the US, offering treatment for anything you can think of using these non-invasive brain techniques.
+[15:59] What is on the screen now?
+[16:03] There we go.
+[16:04] What is on the screen now is just a series of screenshots I grabbed from some of these clinics, claiming to treat your ASD, your ADHD, your anxiety disorder, your eating disorders, absolutely anything with these TMS techniques.
+[16:18] They're also populated with horrible AI slot all over them.
+[16:24] There has been a adoption because of a lack of regulation and because of the seeming kind of magical nature of these machines, by people who don't fully understand them, don't have, but often don't have a little training in them and claim to treat things that they almost certainly cannot train.
+[16:48] But that's not entirely the fault of these, it's going to click the thing.
+[16:52] There's not entirely the fault of these rogue individuals buying these machines and claiming it.
+[16:59] There are also some unbelievable claims in the scientific literature.
+[17:06] This is just an example of a paper that I pulled, a relatively old one now.
+[17:11] That claim to be able to use a TMS machine to induce savonetism in drawing techniques.
+[17:18] They would get people to make a drawing, stimulate them and then draw again, and claim that they induce some kind of magical ability to start drawing.
+[17:29] I mean, just that face value, the pictures to me don't look like artistic savonetism, but that's another thing.
+[17:37] There are broad problems with this approach, but it's not one that has only plagued this discipline.
+[17:45] In fact, it's one that has plagued psychological neuroscientific and even biomedical sciences as well.
+[17:52] That problem may be familiar to you.
+[17:54] It's broadly thought of as a replication crisis.
+[17:58] And it's being the fault of poor, I'll give up with this, poor scientific practices.
+[18:06] And since the kind of identification of these poor practices, a group of people have proposed, a group of scientists who have proposed a way in which we can rectify this, these poorly replicable things.
+[18:18] And that broadly comes under the banner of open science.
+[18:22] And as we can say, I'm not just going to make a statement about the process of making a decision.
+[18:32] But I think that the first point we share everything we do, we make our data, our materials, our code, available to anyone, so that anybody can dig through it and test the strength of our claims.
+[18:40] But another aspect of open science that I'll just briefly touch on you might be less familiar with is open as pre-registration.
+[18:47] And before we even settle on our methods, we make clear what our hypotheses are.
+[18:53] And that's so we don't walk back after the fact.
+[18:57] We don't collect our data and make a claim that we were predicting it once we've already looked at the data.
+[19:04] Pre-registration, I think in fact, more than open data and materials, is an incredibly powerful tool in science right now.
+[19:12] And it is, I often talk about it as a revolution in the scientific method.
+[19:17] We're changing what we thought was the ideal way to understand the world around us, modernising it and making it more resistant to not even explicitly dodgy or fraud.
+[19:28] But just kind of scientists tripping over their own biases.
+[19:33] There was a great talk on cognitive biases and scientists have them in abundance.
+[19:40] Okay, so all that I'm going to tell you a little bit about some work that my lab did.
+[19:45] Two bits of work really, the first is this paper that we published and the follow up afterwards.
+[19:51] The first paper is a kind of exploratory one. We're interested in, oh well, of ten minutes, okay, I'm good.
+[19:58] We're interested in intentional processes.
+[20:02] And just largely because we have the gear and the background in it, we're also interested in particular types of attentional processes, particularly when it comes to touch tactile processing.
+[20:14] In the literature, there's two types of way in which you can orientate your attention.
+[20:20] You can voluntary choose to attend to something.
+[20:23] In the case of tactile attention, you might wonder if it's raining, stick your hand out a window, and attend to the stimuli hitting your skin.
+[20:31] You're choosing to do that. And that's in doginess attention.
+[20:35] On the other hand, exogenous attention, someone might tap you on the back of the shoulder.
+[20:39] You orientate to the person behind you and that's exogenous attention, involuntary orientation.
+[20:45] We looked at these two types of attention using an extremely well-established paradigm where we put people in, they're not tapped on the shoulder.
+[20:53] They don't stick their hand out a window for you.
+[20:55] But we use these very precise measurements where we tap them in very specific ways.
+[21:00] The details of which you don't really need to know.
+[21:02] But we found very clear differences in frequencies in their EEG.
+[21:07] We measured EEG and what you see on the graph is a three-dimensional graph of the EEG spectra.
+[21:17] And we see approximately between eight and 12 Hz, a noticeable difference in power between endogenous and exogenous attention.
+[21:28] Cool, very nice study, exploratory, we published it, everybody was happy.
+[21:33] But we can ask the question now, with noninvasive brain stimulation, is that changing alpha power causally related to cognition, right?
+[21:43] Is it just that we're measuring the steam of a steam engine or do oscillations do something on a do information processing?
+[21:51] So we went about designing a study that allowed us to ask those questions using noninvasive brain stimulation specifically trans-cranial alternating current stimulation.
+[22:02] We can mimic the frequencies that we observed and put them back into the brain.
+[22:07] This in a very open and honest, open science way, our data and our materials were all made open.
+[22:14] And we pre-registered our study, we before we collected any data we submitted our work to a journal.
+[22:21] It was peer reviewed before we collected any data.
+[22:25] The reviewers made recommendations and changes and we adopted them at such a nice way of doing peer review, right?
+[22:32] Rather than a reviewer slagging you off because you did the experiment wrong, the reviewers going,
+[22:36] hey, maybe you could try this instead and you got awesome, it's a really good idea.
+[22:40] So we adapted based on these reviews, we had very careful controls and we had a particularly full light neuroscience.
+[22:50] We had a serious sample with 77 participants.
+[22:53] We models to make sure that we were hitting the right brain area and then we did this insanely intense study.
+[23:04] It was done over three days because we stimulated the brain in three different ways.
+[23:08] One in the way that we thought the test condition, the way that we thought would make a difference to a potential processing, stimulated it out of it.
+[23:15] The other control, still stimulating, but at a different frequency at beta where we thought it would have no effect.
+[23:22] And then on a third day where we give this kind of placebo stimulation, it still feels a lot like the stimulation, but it actually doesn't penetrate the brain, have any effect.
+[23:32] All this was randomized, the order was randomized, there were a minimum of 12 hours in between each session so we didn't see any after effects.
+[23:40] And we had an insane amount of 77 participants, 7 to 10 participants who did three days.
+[23:45] We had an insane amount of attrition rate because everyone likes having electrical current put through their brain.
+[23:51] And so they'd come on one day and be like, yeah, thanks, I'm good, thanks, and didn't come back for the other days.
+[23:57] But we did get some 10 participants that came back over those three days.
+[24:01] And, um, found not much.
+[24:08] We replicated previous findings, we were confident that what we were doing made sense.
+[24:14] We showed expected reaction to our responses in the indulgenous task and in the exogenous task.
+[24:21] But our alpha or our beta stimulation had no effect on people's ability to orientate their intention, either voluntarily or orientate towards an exogenous stimuli.
+[24:34] And that led us to conclude, well, a couple of things, no findings are tricky.
+[24:40] But we could stick with our claim, we can make the claim that perhaps what that means that what we're measuring with EEG is oscillatory activity
+[24:50] isn't doing the work of intentional information processing.
+[24:54] Maybe it really is the steam coming off the steam engine.
+[24:58] It's that output, but it isn't causally involved in causing cognitive processing.
+[25:04] And that in itself, I think, is a very interesting thing.
+[25:07] And has contributed towards a debate that's happening in cognitive science about the moment,
+[25:12] about whether or not oscillations do anything meaningful.
+[25:18] We can also say, well, maybe this stimulation more broadly isn't having the effect on the brain that we think it is.
+[25:27] Perhaps these weak currents that are oscillated at a particular frequencies aren't really doing the work of what it is that we're measuring when the brain is naturally doing those processes.
+[25:39] So not entirely sure, but a healthy way to test these things out.
+[25:47] All that is to say is, noninvasive brain stimulation is this incredible technique that allows us to tap into the causal mechanisms, the causal relationship between brain activity between brain processes and cognitive processes as well.
+[26:04] A really useful technique that is still coming out of its infancy and will be adopted in more complex and interesting ways.
+[26:11] In fact, my PhD student is now reanalyzing all of our data and looking not just that, putting power in, putting if electrical activity in, but looking at the phase of that electrical activity, and whether the phase of that rhythm is meaningful for how we process information.
+[26:29] But nevertheless, a cool technique and open science approaches really hold scientists' feet to the fire and make sure they're doing honest work.
+[26:40] Even when they're not being dishonest.
+[26:44] Cool, that's me, that's my lab, Alex and Emma, those are the people that I run the lab with and did a lot of this work with.
+[26:51] Wayne is the poor PhD student that spent three days with 77 participants plus the guys that quit and tested them all and Kelen is the guy who did all the computational modeling for us because he's a lot smarter than anyone else on the screen.
+[27:06] That's me, thanks very much for listening.

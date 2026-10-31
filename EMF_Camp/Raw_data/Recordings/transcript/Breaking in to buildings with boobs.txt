@@ -1,0 +1,395 @@
+[00:00] I am going to tell you how to do this.
+[00:10] Thank you all so much for coming.
+[00:20] I was expecting this many people.
+[00:22] I would have bought an iron to the tent with me.
+[00:26] I will just run through this and I will just get started.
+[00:30] We are starting off with a claim that James Bond would have been a better spy if he was female.
+[00:35] By the end of this talk, I am hoping that you will have sort of believed me on that one.
+[00:40] Has that changed?
+[00:42] Technical difficulty.
+[00:45] Here we go.
+[00:47] I break into buildings.
+[00:49] That is what I do.
+[00:50] I am a member of my name is Katie.
+[00:53] My day job is breaking into buildings.
+[00:56] The company will pay for me to come in and test that it is security senses.
+[01:01] Always legally.
+[01:02] Not just doing this for fun at the weekends.
+[01:06] Sorry, I don't know what my dongle is not working.
+[01:09] We will just click.
+[01:11] I work for an offensive cybersecurity company.
+[01:14] They are called Repturer Info Security.
+[01:16] They specialize in simulating real-world attacks on companies and organisations.
+[01:20] This could be anything from a scattered spy dissemination to run for my simulation or everyday hacking.
+[01:26] I have done dozens of physical security assessments while I work in here.
+[01:30] They have ranged from banks, museums, offices and labs and even some key infrastructure sites like PowerStations.
+[01:37] A real range of companies that normally hire us.
+[01:40] I have done everything from hiding under a desk to avoid somebody to re-arranging offices to get to a insecure poor and enjoying.
+[01:49] An endless free cup of biscuits and buildings I should never have been allowed in.
+[01:55] It is one of the perks of the jobs.
+[01:58] I don't break into buildings.
+[02:00] I exploit people's trust.
+[02:02] I manipulate their perception of me.
+[02:04] I gain access to private networks and areas without people ever noticed in the house.
+[02:09] You guys are a group of clever people.
+[02:12] You are all at EMF after all.
+[02:16] If 99% of people are not noticed, you think you are in the 1% of people that would.
+[02:21] You would be hard to social engineer.
+[02:24] Anybody think that they would outsmart somebody or not get caught.
+[02:28] There is a conscious hand over there.
+[02:30] I feel okay.
+[02:32] Some people are not sure.
+[02:34] I think you are very right if you have kept your hands down.
+[02:37] I think that is pretty accurate.
+[02:39] You felt security tests every single day with normal behavior.
+[02:44] The chances are that you are a nice person.
+[02:46] You probably hold doors open for people.
+[02:48] Help people that might look lost and trust uniforms.
+[02:52] And more things aren't inherently mistakes.
+[02:54] They are just social behaviors.
+[02:57] And social engineering never exploits stupidity.
+[03:01] It only exploits human expectations.
+[03:03] Normal behavior can be weaponized.
+[03:06] And predictability becomes a spires greatest tool.
+[03:11] Everything I am about to show you is backed by decades of psychological research.
+[03:15] Social engineers like me didn't invent these techniques.
+[03:18] We just utilized these behaviors to make it work for us.
+[03:21] So whilst we have just covered social engineering exploits human expectations,
+[03:25] we want to understand why that works.
+[03:28] We need to understand how your brain actually makes decisions.
+[03:32] Most of us like to think that we are rational, logical people.
+[03:36] And we imagine that when we are faced with a decision, we carefully weigh up the evidence, consider the risks,
+[03:41] and come to a sensible conclusion.
+[03:43] But the reality is, your brain is a bit rubbish, and it would never cope if it worked like that.
+[03:48] Every single second of every day your brain is filtering an incredible amount of information.
+[03:53] Faces, voices, colours, movements, conversations, notifications,
+[03:58] smells everything.
+[03:59] And if you consciously analyse all of that, you have been mentally exhausted and your brain would be a puddle.
+[04:05] So instead your brain cheats, it uses shortcuts.
+[04:09] It fills in gaps, and it predicts what's going to happen next, instead of analysing everything from scratch.
+[04:14] Now most of the time that's brilliant, it's a really handy thing.
+[04:17] It's what allows you to drive a car, walk through a crowded room,
+[04:21] a recognised a friend instantly, but the problem is the shortcuts are predictable.
+[04:26] And anything that's predictable can be exploited.
+[04:29] We're going to split this into two ways of thinking.
+[04:32] It's divided into system one and system two thinking.
+[04:35] So system one thinking is your brain's autopilot.
+[04:39] Superfast recognises patterns, makes assumptions, and helps you make thousands of decisions every day without even realise it.
+[04:46] Like you guys didn't come into this ten, and consciously work out of the chair that your sat on is safe to sit on.
+[04:51] It just recognises a pattern, and you sat down, which is brilliant.
+[04:55] So system two thinking is completely different.
+[05:00] It's slower, more analytical, and there's a lot more energy intensive.
+[05:04] This is what you would use if you were solving a maths problem, if you wanted to do the bugs and code.
+[05:09] Or choose what EMF talk you wanted to come to.
+[05:12] And clearly if you're here, that brain made a good decision.
+[05:15] The important part here is that your brain doesn't want to use system two thinking.
+[05:20] It's too much effort, and your brain is a bit lazy.
+[05:22] So it uses system one thinking whenever it possibly can.
+[05:26] So let's bring this into the real world.
+[05:29] Imagine you're walking into work.
+[05:31] Somebody behind you is just going to see it, looking all smart, and carry in two coffees.
+[05:35] They catch up to you as you open the front door, and say, cheers mate.
+[05:39] Did you consciously weigh up the security implications of holding open that door?
+[05:43] Probably not.
+[05:45] You probably held the door open, because your brain recognised a familiar situation.
+[05:50] Somebody carry in two coffees and a walk into an office is normal behavior.
+[05:55] So system one thinking made the decision before system two ever got involved.
+[06:01] Now it's time for, I'm sure what you guys are looking forward to, a bit of a story time.
+[06:06] So for this mission, I was tasked with targeting a large insurance company's headquarters.
+[06:11] This was an office building that they owned, so they were responsible for providing their own office staff,
+[06:16] Reception staff, sorry, and all of the access management.
+[06:20] Now there are a few goals that we wanted to achieve here, but the main one was to access the office and to access the server room.
+[06:26] So this should have been locked, so I'm sure you all know.
+[06:29] And as always, my own personal goal was to take a branded mug.
+[06:33] I have a lovely shelf in my office, so I say all of the branded mugs, and think of this as my own sort of professional trophy shelf, and it's always quite good when we have a follow-up call that I have the branded mug to drink from.
+[06:46] So the first part of any social engineering engagement is doing your research.
+[06:58] So everything is pretty much publicly available through company websites, LinkedIn, and so much goes on there that you would never think of.
+[07:04] So thank you to all of the marketing teams out there for making my life easy.
+[07:08] So after a quick scan of this company's website, I was able to establish which teams worked at which office locations,
+[07:14] as well as which teams had recently been hiring.
+[07:17] So using this, I could then enter the head office under the false persona when you were employee from another office.
+[07:23] They would have never known, and it made sense for the story.
+[07:26] So I chose to imitate a member of the HR team.
+[07:29] Pretty good bet, because it's a field that's 77% female, and again, I'm doing my best to stay aligned with the patterns that you're brain knows.
+[07:37] Now one thing that can be hard to sus out is outfits.
+[07:41] Some companies expect that you expect to be super formal or actually really casual.
+[07:45] I can't tell you the number of developers that turn up in joggers and vests every day.
+[07:50] So it's a very hard thing to make sure that you're dressed appropriately.
+[07:53] It's not always online.
+[07:55] So for this mission, I went fairly middle ground.
+[07:58] I went for a smart casual choice, smart jeans, boots, much like this, and a blouse.
+[08:02] More nice jewelry, good makeup and took a nice handbag.
+[08:05] Enough to make sure that I'm limiting any suspicion, regardless of what the office dress code is.
+[08:10] If I went in in a full suit, I would have stand out, same way if I went in joggers, I would have stood out for the wrong reason.
+[08:16] Now this would be a very different look if I was going in as a Wi-Fi engineer, for example, or a delivery person.
+[08:22] So for those sorts of jobs I go in with, like, burn nails, limited makeup, minimal jewelry, and a clean but basic wardrobe.
+[08:28] Because every single detail has to be considered to avoid sticking out like a sore thumb.
+[08:33] Every time your brain is analyzing something, I've already made a mistake.
+[08:37] I want to take it further.
+[08:40] So I had the look down, the persona down, and I was ready to get into the building.
+[08:45] Now the easiest way to avoid any suspicion is to be happy and confident, which is great for a talk like this, is good practice.
+[08:54] And you often find that somebody sticks out more if they try to hide, because it breaks the pattern in your brain.
+[09:00] You start to analyze them more. Why are they hiding? Why are they being quite? What are they doing? They look shifting.
+[09:05] But when people think of a criminal, they also don't think of a smiling happy young woman.
+[09:09] They think of a man with a hoodie and a proper hacker, you know, I'm in, and there is quite different.
+[09:15] So again, it's keeping you in that system one thinking.
+[09:18] So after watching where the employees were entering, I walked through the first front door.
+[09:24] I asked a chassis lady that was at her desk, the way to get upstairs.
+[09:28] Now this is a deliberate decision. I don't just choose anybody that was in the office. I chose her specifically.
+[09:34] Because this is a nice segue to familiarity biases.
+[09:37] So homophily is the theory that people like you, if you are like them.
+[09:43] It's the ideas of birds of a feather flock together.
+[09:46] And I chose her because I knew that she would subconsciously think that we were similar.
+[09:51] And not only this, but the similarity bias means that people are more inclined to help someone that is similar to themselves.
+[09:58] So I am safe, I'm familiar because I'm like her, but also she then also wants to help me.
+[10:03] So it's win-win. It's basically the opposite of stranger danger.
+[10:08] So the kind lady tells me the way to get upstairs and I go, making sure of course I say thank you.
+[10:14] As us perpetrators still do need manners after all.
+[10:17] And as I get up the stairs, there's a small kitchen.
+[10:21] Now getting a cup of tea is probably the best tool that I could ever have in my toolset.
+[10:26] It's a sure far way of blending in.
+[10:28] Karen round a cup of tea is always a safe bit.
+[10:32] It adds to the idea that you belong there.
+[10:34] And nobody thinks that a malicious party is going to come into their kitchen, turn on the coffee machine, decide that they're going to have.
+[10:39] Wait for it to brew, whilst really they're trying to attack the whole company.
+[10:43] So again, it's a familiar image for your brain.
+[10:46] So walks into the main office, cup in hand, a branded one which I of course took home after.
+[10:52] And I soon found an empty desk and asked the person a few desk down if this was free.
+[10:57] I think a lot of people often think that if you were breaking into a building or doing a spy job, that you don't ever want to talk to people,
+[11:04] but that always sticks out significantly more.
+[11:06] You wouldn't have somebody come into an office and say nothing to you.
+[11:10] They say, good morning, how was your weekend?
+[11:12] Did you watch Love Island? Oh, if we've got any good biscuits or anything like that, see you too.
+[11:17] Have to behave like that.
+[11:20] So I managed to sit in this chair and I'm in the clear, nobody really suspects anything.
+[11:25] I've had a bit of a chair, I've got a coffee with me.
+[11:28] And from here I'm able to plug in one of my devices into the ethernet port that's on the desk.
+[11:32] Fortunately, it was not a secured port, so I was able to gain immediate access to the internal network.
+[11:38] So that's two out of three goals completed in about three minutes.
+[11:43] So I now know that I need to have a walk around.
+[11:46] If I have any chance of finding the server room, which is a main target, I need to explore the rest of the office.
+[11:52] But people don't make a drink, sit down at the desk and then get straight back up.
+[11:56] That would be abnormal behavior.
+[11:58] So I get to enjoy a bit of the lovely office small talk.
+[12:02] So for the next 45 minutes, I spent the time working and engaging in the normal office conversations, which actually mostly focused on which biscuit was best, which I actually quite enjoyed.
+[12:13] I think I also spent about half an hour just copy and paste in job descriptions from their website into a word doc.
+[12:18] In case anybody walks behind them, what I was doing.
+[12:22] So when it was about five minutes to the hour, which again, if you're thinking when a meeting would be, it would be ten o'clock for example.
+[12:29] You would go and get ready for your meeting at five to ten, not at nine, seventeen, for example.
+[12:33] So I asked a member of staff that I'd been seeking with if there was a private room that I could use for a meeting.
+[12:38] And they, of course, very kindly pointed me in that direction.
+[12:41] I was able then to walk around that part of the office without any suspicion at all.
+[12:47] Now the next part was rather lucky.
+[12:50] Whilst I did find the server room, it was locked, so well done to that company.
+[12:55] However, I also found the extremely cluttered desks of the IT team.
+[13:00] It was laden with devices, keyboards, hearing motherboards there, but most importantly, it had the keys to the server room, lovely and labored, sat right on the desk.
+[13:10] So obviously here I go, I can pick up the keys, I walked straight into the server room, plugged my device in,
+[13:19] hit it under a cardboard box, because it's quite messy in there.
+[13:23] And I was able to re-lock the room, return in the keys to the desk without any issues at all.
+[13:28] I did however have to do this in my socks to avoid my heels from placking too much as I was walking along.
+[13:35] So by now the mission was complete, right?
+[13:38] I documented everything, filmed, taken photos, and it was time to leave.
+[13:42] However, if I'd have left there and again it probably would have set a few alarm bells ringing.
+[13:47] Nobody just comes in for an hour from a new employee.
+[13:49] So I waited a couple of hours until it was lunchtime.
+[13:52] Again, copy and paste and job descriptions for the whole time to avoid any suspicion.
+[13:57] And actually on the way out I was able to jam one of the electronic door locks, which did give me access to the whole company building as well.
+[14:05] Out of hours if I wanted, we went back to check it was still open.
+[14:09] But did of course tell the IT manager so they weren't any risks.
+[14:13] So it's sprinkling of luck always helps with the resources of jobs.
+[14:18] So whilst the last mission focused on meeting those common stereotypes,
+[14:23] this next one meant that I really had to lean even further into the perception of females.
+[14:28] This is where the boobs come in.
+[14:31] So for this story, I'm going to tell you about the very first social engineering job I did.
+[14:36] I think I first did this job when I was about 24 and I had zero experience of a physical security test.
+[14:43] I'd done a little bit of vision, which is voice-fishing for those that don't know.
+[14:46] Being on the phones trying to get people to give me their passwords.
+[14:49] But I hadn't done anything else in this realm.
+[14:52] At the time, I was one of only two women in the company, and it had been decided that the assessment would have been more successful if one of us would do it.
+[15:00] I was intrigued and volunteered, and with nothing but some year-rate drama skills and a base understanding of psychology.
+[15:07] But once I did the first one, I have to say I was truly hooked.
+[15:11] The adrenaline rush is crazy, and to be honest, I couldn't really understand why people get into crime.
+[15:17] So the target company for this engagement was a very large international law firm.
+[15:28] The target is always the end of the building, that's always number one.
+[15:33] But I was also tasked with finding and leaving with an unlocked laptop, which to me for the first one, I thought, bloody hell, I've never chance.
+[15:43] However, we did give it a go.
+[15:46] And this was all we've tried to remain a pay-look complexion as I tend to blush quite a lot.
+[15:52] I've never worn thicker foundation to hide over the blush on the day.
+[15:56] So to kick this assessment off, we did a little bit of work before.
+[16:00] So we bought a similar domain, just with a small spelling mistake, and we produced a job into your email invite that was sent to myself.
+[16:07] The fake email included a fake phone number of the staff member that we said that I was meeting with.
+[16:13] However, if they had called this, it would have gone up to one of my colleagues and said, of course, send a ring, send a straight through.
+[16:20] So we had that bit covered as well.
+[16:23] But we did know that this office was actually going to be a really tricky one.
+[16:26] It was a big central London office, so you think, posh lives, lots of big reception, huge foyer, all of that.
+[16:33] And this company only had a few of the floors within this office building.
+[16:38] So again, to access those, we knew it was going to be a difficult thing to do.
+[16:43] So the plan was for me to enter the office and state that I had an interview, where I would then hopefully get a visit to pass and could go upstairs,
+[16:52] where from here, I could just act to the normal employee. That was the plan.
+[16:56] I entered into the building at about 10 o'clock just after, and I acted very stressed whilst I was looking at my watch repeatedly.
+[17:03] I really wanted to create a sense of urgency. I wanted them to think that I was really running late for a very important interview,
+[17:09] and that they should really pity little old me. Oh, I'm lost, I can't find it.
+[17:13] And that works. So I chose to approach the mail staff receptionist,
+[17:19] a played into the damsel industry, trope, and I said I was here for an interview, showed them my email and explained that I'd got lost.
+[17:26] Silly old me, and that I couldn't find the office.
+[17:29] They were quite, quite friendly to be honest, they were quite compassionate, and it does always feel a bit harsh,
+[17:35] that I choose to prey on people's kindness, but it's for the good of the companies, even if I can't sleep at night.
+[17:42] So they actually went to pick up the phone to call the actual member of staff.
+[17:50] However, I did interrupt them and started saying, oh, it's my first interview.
+[17:55] I've ruined it already, they're not going to give me the job. They put the phone down.
+[17:59] I'm like, they're there, and that was fine.
+[18:02] They naturally comforted me, they put the phone down, happy days.
+[18:05] They printed me out of his, to pass, obviously, with a fake name, and they sent me on my way without verifying anything with anybody.
+[18:11] Which is what, not good for me.
+[18:15] So once I entered into the lift, that persona had to change.
+[18:19] I'd gone from visitor and being quite needy, I suppose, bit helpless,
+[18:24] and I needed to change that perspective again.
+[18:27] So whilst the visitor passed got me in, it also would have limited my access to the office.
+[18:31] Somebody walking around a visitor with a visitor pass, sorry.
+[18:34] Can't go everywhere. People are looking at them, checking them out,
+[18:37] and she's looking at what they're here for, and people are just a bit nosy.
+[18:41] And I needed to behave like I absolutely belonged there, as far as they knew I did.
+[18:47] So I placed the pass in my pocket whilst in the lift, and I exited whilst pretending to be on the phone,
+[18:52] chat, chat, chat, chat, and I walked past the company receptionist who actually didn't even look up at me.
+[18:58] And I walked straight through into the staff kitchen.
+[19:03] Here, I have, of course, made myself a drink. You can never go wrong with a branded mug and a free coffee.
+[19:09] Actually, though, this time it was a cheeky hot chocolate.
+[19:12] So I identified now what room I needed to go into, helped by one of the fire maps.
+[19:18] So you can see every floor where everything is, and it's labelled quite nice.
+[19:21] So I knew where I needed to go.
+[19:23] So I sat, as a little table, close to that door, which was a keypad protected door,
+[19:28] and I bided my time.
+[19:30] I sat, my waded, I watched, slipped my hot chocolate, and waded for a staff member to leave that room.
+[19:37] Now, usually when you hit tailgate and you think it's somebody that's going to be following behind you,
+[19:41] but you guys know that.
+[19:43] It's again something that's a familiar pattern in your brain, so you know to look out for it.
+[19:47] However, if you're leaving the room, you're not watching them who follows in behind you.
+[19:52] You can't see them firstly.
+[19:54] So as somebody left, I was able to just walk straight through acting like I was able to get in.
+[20:01] Another point on this is that I did pretend to die in some numbers, so that anybody that was in the main room,
+[20:06] or in that office room saw that I'd be boop boop boop, and I tried to get in.
+[20:12] I walked through the open door, straight to the back of the office, and sat in the empty desk, and began working.
+[20:18] So far, I had a manage to avoid any suspicion, and it was time to have some fun.
+[20:24] Now, a good test of a company security posture is to check if staff members look their cabinets.
+[20:30] Now, the little rubbish draws that never shut properly that go underneath your desk.
+[20:34] And you're nearly always find that someone never locks their cabinet.
+[20:39] And most of the time, they're either extremely senior, or have extremely sensitive documents in there.
+[20:45] And to be honest, most of the time, it's a combination of both.
+[20:50] Now, I have to say, I truly did luck out when I opened the drawers that were sent next to me.
+[20:54] In fact, not a single draw was locked.
+[20:58] Draw number one, I find company bank cards.
+[21:03] Draw number two, pins for the company bank cards.
+[21:09] As well as authenticated devices for them as well.
+[21:15] And it even better, a book of blank checks.
+[21:26] Now, of course, it's time to take it to the next level.
+[21:29] So, outside, I get the check book, right myself, a check for 50 pounds.
+[21:33] And all I had to do was scan it with my banking app, and decide how I would spend my newfound fortune.
+[21:39] The check actually did clear a couple of days later.
+[21:44] And I did enjoy nice waggama mums on it, I think.
+[21:47] Now, whilst this was just one desk, the rest of the company was no better.
+[21:51] And it does give me a good indication of what the general posture is.
+[21:54] If one person has left it unlocked, chances are, so have other people.
+[21:59] I, in fact, ended up gaining access to private documents, very high-profile case details and full client lists.
+[22:06] It was actually a big mess.
+[22:09] Now, wrestling under the desk can raise suspicion level.
+[22:12] I always want to keep it fairly low for obvious reasons.
+[22:15] And I needed now to get this back to a safe level again.
+[22:18] It was time to call upon my most useful tool, which of course was a cup of tea.
+[22:24] So, this time, I began leaving the room carrying an empty mug.
+[22:28] As I left, I asked everybody, would you like a cup of anybody for a coffee?
+[22:32] I'm going to go make a round of drinks. Does anybody want one?
+[22:36] And again, this is just the basic female helper persona, right?
+[22:42] So, the technique only worked because I was a woman.
+[22:47] If a man had gone in, it would have been a bit more concerning,
+[22:50] because in everyday terms, I was basically doing the common trope of women making a sandwich.
+[22:59] So, Hotschard, he actually states that women are expected in the office building
+[23:03] to manage emotions, provide comfort and support in the workplace.
+[23:08] And that also includes things like helping new starters and making the teas and coffees.
+[23:13] I'm sure if you actually think back at your own office environment, if you're not working from home,
+[23:18] you will find that the females do take on a lot of those responsibilities.
+[23:23] So, on the flip side of this, men are you're going to love this, guys.
+[23:29] It seems to be technically competent, authoritative and independent,
+[23:34] although it is seen to all be within undertone of selfishness.
+[23:37] So, stereotypically, a man would never go into an office room and offer them a cups of tea and coffees.
+[23:43] That's just not something that would happen stereotypically, right?
+[23:47] However, a woman, again, that's just making us seem safe and just setting all of those suspicion levels back down.
+[23:54] To put it simply, women are seen as helpers and men are seen as leaders, which is a bit rubbish to be honest.
+[24:02] So, a man would stand out if he was offering that for all the wrong reasons, but it did actually clear me of suspicion.
+[24:09] Actually, one side completed the engagement and we had the debrief meeting, the CTO, who did know that the engagement was taking place,
+[24:15] because he'd booked it, claimed that he had some small suspicions about me,
+[24:19] but that he was totally thrown off by the offer of coffee.
+[24:24] He did also claim that he didn't want to question me because you can't ask a woman anything these days.
+[24:35] I actually also did get the offer after to go and do crime with him.
+[24:42] It was a good start.
+[24:43] I have to say, though, I really do think that taxpayers money were wasted in the world of James Bond.
+[24:48] He didn't need the fancy cars, fabulous tools or deadly weapons. He just needed a trusty cup of tea.
+[24:54] Now, at this point, I had completed two out of the three mission targets.
+[24:59] I've successfully gained access to the main office, tailgated my way through to the IT office, and now I had the hardest part left, which was stealing an unlocked laptop.
+[25:08] I walked through to a larger office area, which was down some stairs, and the secure door had been propped open to avoid any germs spread in via the keypad.
+[25:17] That's it for a second. The next door was locked. It was a required RFID badge, but all I did was simply follow another lady through and say,
+[25:29] I love your cardee, but you get it from tensile M&S, and she'd let me go straight through.
+[25:35] Again, I'm just trying to model all of those familiar and reliable behaviour patterns.
+[25:41] I just said, yeah, that's all done.
+[25:43] One of the things I find hardest is acting like I really belong in a room or an office.
+[25:48] I've got no idea where I'm going, I've got no idea what's where, and it's a bit hard.
+[25:53] You have to avoid looking around, because looking lost just isn't an option.
+[25:57] So I pick a spot, any spot, and I make a B-line for wherever that is.
+[26:02] So for this office, I quickly went to a printer area. Here they had shelves of stationary.
+[26:08] They had envelopes, papers, stamps, and everything.
+[26:11] So here, as well as unattended client mail, actually, which was also not good.
+[26:16] I picked up an envelope, and stuffed it with some blank paper, stamped it, stuck a company sticker on it,
+[26:23] and I was then able to walk around the office.
+[26:25] Looking like I was looking for somebody, because I have course-hats to deliver this envelope,
+[26:29] because I'm just a helpful young lady.
+[26:32] I continue to walk around the office, looking on the runny desks, and I do come across one unlocked laptop.
+[26:39] However, this laptop had very recently been left, and the person had gone to a printer,
+[26:44] they were pretty nearby, and they could have come back very, very quickly.
+[26:48] So the risk really wasn't worth the reward here.
+[26:51] I continue to walk around, and I soon found another unattended laptop,
+[26:55] unlocked and still cast an up to the screen.
+[26:59] I walked into their cubicle, quickly unplugged it, and I went straight to a private cool room,
+[27:03] whilst holding the screen, making sure it wasn't going to lock.
+[27:06] From here, I did change the lock screen timeout to the max, which was about four hours,
+[27:11] and I dumped the envelope, and walked straight out of the office.
+[27:15] It's calmly as I could, and straight into the lifts.
+[27:18] I placed a visitor badge back on in the lift, of course, and left through the reception,
+[27:23] dropping the badge back to them.
+[27:25] I thanked the receptionist so much for all of their help, and said that the interview had gone well.
+[27:29] Because after all, it had.
+[27:33] I walked across to a nearby cafe, unlocked with the unlocked laptop in hand,
+[27:37] and I messaged the CTO to come and meet me there to retrieve the laptop.
+[27:41] Now as I was sat in this cafe, I got no see, so I start scrolling,
+[27:45] and I had access to everything on this laptop.
+[27:48] I'm talking company VPNs, corporate networks without any further verification,
+[27:53] emails, calendar, client docs, everything.
+[27:56] At this point, I had the emails up that I read the job title of the person's laptop that I had stolen.
+[28:01] They were one of the most senior members of staff.
+[28:06] They were unbelievably pissed at the IT team, for letting it happen.
+[28:12] So let's bring this back to the start of the talk.
+[28:15] I said that James Bond would be a better spy if he were a woman.
+[28:18] So when people picture somebody breaking into a secure building,
+[28:21] they're imagining, as I said, a bloke and a hoodie, bulk cutters,
+[28:25] something aggressive or somebody acting shifting, but that is never, ever how it happens.
+[28:30] And they never imagined a woman carrying a cup of tea.
+[28:33] Women are often stereotyped as being a couple of things,
+[28:37] but mostly helpful, incompetent and weak.
+[28:40] And that weakness means that we are seem to be non-freshening.
+[28:44] It's, again, very, very helpful for this line of work,
+[28:48] and it's something that we then abuse.
+[28:49] But regardless of any biases that you have,
+[28:52] social engineers will always find a way to get through to you.
+[28:56] Now, whilst none of this actually tells you that I'm an authorised visitor,
+[28:59] it just doesn't tell you, sorry, it tells you that your brain,
+[29:04] it tells your brain that I'm safe, even if I'm not meant to be there.
+[29:09] So yes, the boobs do help, not because they're magic,
+[29:13] but because they trigger a lifetime of unconscious assumptions about who is
+[29:17] an author at.
+[29:18] The lesson isn't, sorry, don't trust women.
+[29:22] The lesson is that our attackers will exploit whatever assumptions and biases you already have.
+[29:27] She question everything, question everyone,
+[29:30] and never, ever assume that women are too nice, too weak,
+[29:34] or too dumb to be a threat.
+[29:36] I think we've run out of time actually for the activity, but I'll be in the Q&A.
+[29:40] And please do remember, if you ever see me at your office, you didn't see me.
+[29:59] Thanks so much.
+[30:10] Thank you.

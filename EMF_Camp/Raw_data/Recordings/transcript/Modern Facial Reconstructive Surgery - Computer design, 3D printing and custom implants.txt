@@ -1,0 +1,333 @@
+[00:00] I'm just making sure you can see what I can see.
+[00:20] My name is Adam, I'm originally from the South Coast and I am a doctor,
+[00:28] I'm a doctor, I did a lot of training in the South and London and then I met my wife,
+[00:34] who's from the North East, so we moved to the North East, those little dots on the map
+[00:38] where I've done all of my training in the North East.
+[00:40] When I'm not collecting this, a paper, I'm a keen runner and a keen gardener.
+[00:46] And the rest of the time I'm stuck in work.
+[00:50] How long did it take as I had a slightly weird, I did three years at undergrad, three years
+[00:56] of medicine and then everyone has to do a couple years of foundation training to do
+[01:00] why I do I then had to go do a dental degree, which took three years and then my special
+[01:04] training took six years, which is just about to finish next week.
+[01:10] So what am I doing next? I'm not getting any more degrees.
+[01:14] I've done enough of that and hopefully there's a consultant job somewhere.
+[01:18] Yeah, it feels to finish, finally.
+[01:24] It took a lot of work.
+[01:28] I just claim as I am a UK or a maxed official, surgery specialty training.
+[01:32] I'm fully registered with the general medical and dental councils.
+[01:36] I'm not a 3D printing technician or engineer, so I can't tell anything technical about how things are printed
+[01:42] or what the computers are doing.
+[01:44] It's in the titles, the clue, but there will be some images that you might not like.
+[01:48] And I have previously received some funding from one of the companies I mentioned in my talk.
+[01:52] There are lots of other companies that do the same thing that just have nice material,
+[01:56] which is why I've used them. They're not paying me to talk about them today.
+[02:00] Sadly.
+[02:02] And then all of the images are taken, none of the maplations that I've worked with, so no one should recognise
+[02:06] themselves up here.
+[02:08] I'd rather if there wasn't any photography or recordings from the audience,
+[02:12] and I will be doing a Q&A that outside, or if I can find it in the Q&A set afterwards.
+[02:18] So what is an oral and maxed official surgeon? Has anyone actually met one before?
+[02:22] Unless you know me already.
+[02:26] So we are the specialty that is the bridge between dentistry medicine.
+[02:30] You have to be a doctor and a dentist to a specialist training, but there are lots of dentists working with us.
+[02:35] So if you've had your wisdom teeth removed in a hospital setting, or you've had a broken bone in your face,
+[02:41] then you probably met one of us.
+[02:43] There are oral surgeons out there who do, do a purely with teeth and are dentists.
+[02:47] And we've a bit of overlap with ENT or ENOs and Terate Surgeons and Plastic Surgeons,
+[02:51] but we kind of limit ourselves to the declavocal up, unless we're doing reconstruction.
+[02:57] Just quick and ask me recap for those of you that didn't spend the million years in university.
+[03:02] I'm going to be talking mainly about the mandible, which is your lower jaw, this green bone,
+[03:06] and a bit about the mixture, which is your top jaw, or this red bone.
+[03:10] So how do we get the images that we need to make our 3D models of patients?
+[03:16] So CT scans, so we have an X-ray device that moves around the patient.
+[03:20] We know what energy the X-rays, we leave the X-ray source, and then we measure the energy when it gets to the other side.
+[03:26] And that builds up a clever 3D picture in slices of the patient.
+[03:30] So this image on the right is a slice through someone's top jaw with the reach of the teeth visible and the spine visible.
+[03:38] At the back, it is not very helpful in isolation, so it's much easier for me to look at and definitely for you to look at when we ask the community to do clever things and say,
+[03:46] can you reconstruct these five and the slice as you've made into a 3D image?
+[03:50] And this is a completely normal face, just for reference.
+[03:54] So what can we do with it? So trauma cases, so broken bones, in a mentioned fracture,
+[03:58] I'm talking about broken bone, of a mentioned broken bone, and talking about a fracture.
+[04:02] So this is an example of a trauma case, which has been CT scans, so this is thin,
+[04:06] atrophic mandible, because when you lose all your teeth, your body says,
+[04:10] no, I don't need all that bone anymore, we'll get rid of it, which makes a bone thin and weak.
+[04:14] This means it needs a big chunky heavy plates, which takes ages to bend up and is really stiff.
+[04:20] You've got a crumbly old patient with no teeth, you don't want to be spending more time doing the operation
+[04:24] than you have to, because longer anesthetics increase the risks of the actual procedure and the risk of complications.
+[04:30] So what they've done on the computer is they've segmented the fracture, which is why it's colour coded.
+[04:34] They've then put the fracture back together, they're digitally imprinted it,
+[04:38] and this bottom image, what you can see is they've printed the model off and they've spent time before they went surgery,
+[04:42] bending up the plate, sent it off to be sterilized, so when they come back to the operation,
+[04:48] they put some little stabilizing plates, honks and waving over the place is difficult,
+[04:52] which lets them put the big chunky plate, they've bent on and over the plate fits,
+[04:56] your bones in their right place, and then you take the stabilizing plates off, and this is all done from
+[05:00] the neck, so we're looking up underneath the patient, ordinary we do a lot of mandible fractures.
+[05:05] Inside the mouth, if you break your jaw, don't worry about getting a big scar on your neck, unless it's a horrific fracture.
+[05:10] This is another example of a complex mandible fracture, this patient has teeth,
+[05:16] so the observant ones there might notice that the fracture is in lots of different colours,
+[05:20] which means it's broken into lots of different parts, and obviously it can control all of these,
+[05:24] we've got to do it from outside again, and these metal bars on the teeth,
+[05:28] that you can see the occult arch bars, so when you're to fix the teeth in the right position
+[05:32] to do the surgery, so this is the wiring your jaw shut, which we might do during your operation,
+[05:37] but not when we wake you up, which means if your teeth are right, when we fix your jaw,
+[05:42] it doesn't matter if we get the bones slightly wrong, because you're the one who cares about how your teeth meet together,
+[05:46] not whether the bone is millimeter accurate, you might feel those bits in.
+[05:50] But getting a big long heavy plate when there's several bits moving around is difficult,
+[05:56] so the things we can do on a printed model beforehand, and on the computer, so we can make these little bits that
+[06:02] fits on them wrap around bits of anatomy, like holes where nerves come out, and specifically shape bits,
+[06:07] the bone, we can then make holes in those, which then make guides for where we need to drill our first holes,
+[06:13] which then allow us to fit the plate, because I imagine trying to get a long pre-bent plate,
+[06:17] like the last case on the bone, that's in several pieces and covered in blood, nightmare.
+[06:22] We're good fun, if you me.
+[06:24] And this is the finished result, so we like scanning people afterwards, so this person would be on a soft sloppy diet for six weeks,
+[06:30] and I'd add a bite or chew anything, while this is healing,
+[06:34] and then we'd probably see them three or four times during that period, and after six weeks we're happy.
+[06:39] We leave the plates forever, unless they start poking through the gum or causing your problems,
+[06:43] because why would you have another operation if you don't need one?
+[06:46] And here's an example of what we can do if we involve, because all the previous ones we can do in-house,
+[06:52] so we've got the right laboratory technicians and the right printers and things that we don't have that,
+[06:57] then we can ask a nice company to do it for us,
+[07:00] and can, as Martin, do a very nice job, but so does something's striking her in whatever other company you want to use.
+[07:06] So we scan our CT scan, we give the engineer a couple days to work on it,
+[07:12] and they come back in this out, we've color coded the bits, we think a broken,
+[07:16] and we're going to put them back together for you, and we want you to check for position as right,
+[07:22] so they kind of do it quicker than 40 hours if you ask them nicely.
+[07:26] There you go, perfect, you've only surgery with that easy,
+[07:34] and then they can make the plates for us, they can even print them or fabricate them in other ways,
+[07:40] so they'll fit on one way.
+[07:42] This makes it look really simple, because they just like bam, there's a plate,
+[07:46] they're ignoring all of the soft tissue and actual surgery bits to gain the plate,
+[07:51] and what this is showing is that etched the line of the fracture on the plate,
+[07:55] and they put these little locator tabs underneath, so it definitely fits,
+[07:59] and then they'll show us where the screws are in relation to the big sense arena,
+[08:03] that runs in the jaw bones, it's a bit embarrassing if you've kept up that,
+[08:06] and the patient can't feel their lip and chin.
+[08:10] This is a really difficult case, so we don't do this every week,
+[08:15] we have a little stock plates that we can just shove in for most people.
+[08:18] That's another thing we do a lot of, so this is what every team thing that happens in a lot of hospital
+[08:22] countries, facial deformity surgery or optic surgery, so this is for patients that see the
+[08:27] orthodontist and the orthodontist, as I cannot fix this with braces alone,
+[08:30] we need you to move the jaws into the right position so we can fix the bite,
+[08:34] so this is a typical patient, none of these patients need this operation,
+[08:39] so then ever come in and we go, thank goodness you're here,
+[08:41] we need to give you an operation right away, there are lots of people who walk around looking like this,
+[08:45] they function fine, they're very happy with their lives, it's very driven by what bothers the patient
+[08:49] and what concerns them, this is just an x-ray show in the back teeth,
+[08:53] the top teeth are so far behind the bottom teeth that the orthodontist couldn't fix that with braces,
+[08:58] and this is what patient looks like after they've had that sort of treatment,
+[09:02] that's the same person, and then just for example, how do we get there,
+[09:07] so we can go entirely from inside the mouth to do these operations,
+[09:10] so for the top jaw and the bottom jaw, which means we don't have to give you a scar,
+[09:15] other than sometimes a tiny little neck between the eyes, so we can measure things on the screw,
+[09:19] we stick in there, and the British are also on the outside,
+[09:22] a lot of great information about this on their website,
+[09:25] and it's very difficult for me to explain, how do we cut them and move them around,
+[09:29] so they've made it to animations, this is the same movements,
+[09:32] so the top jaw needs to come forwards,
+[09:35] and the bottom jaw needs to go back, but they've chosen a very mild case for their animation,
+[09:40] for some reason, so you can argue you don't need to do anything,
+[09:45] but it illustrates the principle quite well,
+[09:48] so usually to have at least two years of orthodontic treatment,
+[09:51] align everything and put everything in the right position,
+[09:54] often make things look worse, because we're putting them into a position,
+[09:57] or asking the orthodontist position, which is ideal for after we've put the jaws in the right position,
+[10:03] it's patient that would be prepared to deal with that, and see the orthodont instead of every six weeks,
+[10:06] and then we make cutting the top jaw, cutting the bottom jaw, move it,
+[10:10] and snaps in little plates on, and then leave it to heal for six weeks,
+[10:15] so rather than someone doing the trauma to you, we do it for you.
+[10:22] And again, this makes it look really simple,
+[10:25] but how do you do this, because we could do this before we add 3D printers and technology,
+[10:30] so we need to examine patients and take lots of measurements,
+[10:33] and we tend to stut things into vertical thirds, and horizontal fifths,
+[10:37] and we look for asymmetries, and one bit being larger than the other,
+[10:41] and then we can take this x-ray mark up all these landmarks,
+[10:44] and draw lots of clever lines and angles off it,
+[10:47] and then we need to somehow take what your bite is,
+[10:49] so this device is called a Facebook, it sticks in your ear, you have to bite on a bit of wax,
+[10:53] and that lets us mount on a model where your jaw is in relation to your skull base,
+[10:58] we can then move the jaws around independently on the model,
+[11:01] and we do the movement separately, so the top jaw will go first,
+[11:04] and then the bottom jaw will make us a little plastic wafer,
+[11:07] and if we wire your teeth together with that plastic wafer in,
+[11:10] after we separate the top jaw from the rest of your face,
+[11:13] that will be in the right position, and then we'll fix that,
+[11:16] we split your bottom jaw from the bit that has a jaw joint,
+[11:18] so on it, and for a different wafer in and that puts it in the final position,
+[11:21] which is quite time-consuming for the lamp, but it works very well,
+[11:25] and with some places, the stories in these gooey impressions, which are presumably everyone hates,
+[11:29] and a lot of people have had, you've had a mouthguard made, you've had braces,
+[11:32] so again, technology to the refs goo, three-d cameras,
+[11:36] can do this for us, and again, there are lots of companies that do this,
+[11:40] and it's even you money from trius, they've just got the best video of this drink, the principle,
+[11:44] and how quickly they can do the equivalent of an impression,
+[11:47] and you can do all sorts of things on this, it's not just for people having surgery,
+[11:52] but the three-d camera, you just move it around the mouth, you fill in all the white space,
+[11:55] and they're gaps, and they're going right, there's your bottom jaw,
+[11:58] ten seconds, rather than two minutes of all that gooeying your mouth,
+[12:03] and I'm going to force you to watch the end, because this shows quite a neat little thing,
+[12:07] they can do our fluids, just very helpful to us, because we want to know what your actual bite is
+[12:11] before we move your jaws around it, it has to be correct,
+[12:14] so we're going to scan the top jaw, which again is nice and quick,
+[12:19] this is definitely the quickest machine I've shown, but it's marketing material, so it's going to be perfect.
+[12:25] And it probably doesn't need to scan the pink palacy bit in the middle, but he will just to prove a point,
+[12:34] but might want to do that if you're making a denture,
+[12:38] and the last thing you do is you get the patient to bite together,
+[12:44] because it now has those 3D models, but it doesn't know how they fit together,
+[12:48] and scan how the teeth are fit together, the computer everyone will put those together,
+[12:53] so when you send them off to be looked at, they go click, so you don't want to slide,
+[12:59] and then that will get's turned into an STL file and printed,
+[13:04] and we can combine this with a CT scan, so, how that's when it's slide.
+[13:11] A bit of work, for example, as we take photographs, measurements, videos, scans,
+[13:15] we fuse the scan of your mouth with your CT scan,
+[13:18] we then sit down and have a meeting with an engineer, and we say,
+[13:22] basically, we put the simulated cuts on the jaws, where do you want the teeth,
+[13:25] we say, put them here, and then they can make us some splints,
+[13:28] just like the ones that are labelled, but it all comes in the post,
+[13:31] and has been printed rather than spending a lot of time in the lab,
+[13:34] but you're just shifting the cost and the time elsewhere.
+[13:37] And we can spot things, we don't really spot on conventional surgery,
+[13:41] and we can move the jaw very precisely in whatever direction we want,
+[13:45] using 3D planning, on the left, these are all three different patients,
+[13:54] so the far side is, that's before we've done anything to them,
+[13:58] the middle picture is, that's, we put the top jaw where it needs to go,
+[14:02] and the bottom jaw is, that's where we want the bottom jaw to go off,
+[14:06] we fix the top jaw, and then the other thing,
+[14:09] that the 3D planning gives us is quite nice, is it tells us how the teeth might meet
+[14:13] together, where the roots of the teeth are expected to be,
+[14:16] so we don't chop those off when we chop in the top jaw from the rest of your head,
+[14:20] and it tells us where things like nerves and where overlaps,
+[14:22] and how things are going to move, which is quite helpful for doing the operation.
+[14:26] So, we'll just see some before and after pictures of people have this sort of treatment,
+[14:32] so left is before, right is after, these are the same patients,
+[14:37] so the top left someone had had their bottom jaw more forwards,
+[14:40] because their bottom teeth would have been really far behind their top teeth,
+[14:43] couldn't fix that with the orthodontic, so you bring the whole jaw forwards,
+[14:46] that might also be a good treatment for sleep out nearing certain patients,
+[14:50] that this person wasn't a fan of their gummy smiles, so the top jaw is all gone upwards,
+[14:57] so that's the sort of deformity, and then we get into cancer reconstruction,
+[15:02] and I'm still doing good for time, I'm not going too quickly, everyone's still with me,
+[15:07] good, so this is where things get bit challenging,
+[15:10] because unlike that operation where we can say we're going to do the same cuts,
+[15:13] every time we're going to do the same movement,
+[15:15] we're no control over where people get cancer, or when they get cancer,
+[15:19] or when they decide to come and see us, so some people come very early in it,
+[15:22] it's very small and you just remove it and you know,
+[15:24] I'm that's great and some people come and it's massive and you think,
+[15:26] can we even get it out, and take cancer out leads a big hole,
+[15:30] you often can't leave a big hole without significantly affecting someone's appearance,
+[15:34] which has effects on their self-perception and the way they function,
+[15:38] and also their speech, swallowing ability to enjoy food,
+[15:42] which is a massive part of your quality of life, so as I point me again,
+[15:45] good news, I've removed the cancer but ruined your life,
+[15:48] because you probably won't thank me,
+[15:51] and we also need to get these big holes to heal quickly as possible,
+[15:54] because if they're going on to have chemotherapy,
+[15:56] radiotherapy or anything else, you don't want any delays.
+[15:58] And how do we get the tissues to fill the holes?
+[16:02] So we do something called free tissue transfer, taking a free flap,
+[16:06] so the idea is we take tissue with its own blood supply from elsewhere in your body,
+[16:10] and transfer plants into your head, and then we have to use a microscope,
+[16:13] a really tiny stitches of this device called a coupler to join the veins
+[16:17] and arteries together in your neck.
+[16:20] You learn on a chicken thigh, so this is a chicken thigh that's been played,
+[16:23] and you know there's stringy bits on chicken,
+[16:25] those people pick off before they cook them, there's lot blood vessels in there,
+[16:28] so that's a chicken thigh on a CD-ROM,
+[16:32] because it stops it sliding around with a 1mm scale,
+[16:35] and this is how everyone learns, so that's some tiny stitching with a 1mm.
+[16:41] And then if you don't do well with 1mm scales, that's a 5PP-eustrate,
+[16:45] and the size of the stitches we're doing, and then once you've learned,
+[16:47] I'll check and thigh, you get to work on a live rat,
+[16:51] and then you get let loose on people.
+[16:55] So we don't just get to have a go, you'd be pleased to hear.
+[16:58] So this sort of flat, where is it?
+[17:04] It's fairly forgiving, because we can measure it before,
+[17:08] and sort of do the two operations at the same time,
+[17:10] and if it's a bit big or a bit small, you can trim it, you can stretch it,
+[17:14] it's forgiving.
+[17:16] When you've got a cancer that's affecting the jaw bone,
+[17:18] like in a middle of this picture, and you have to put basically the whole jaw in the bin,
+[17:22] it's difficult to sort of just budge together in your jaw from a bit of this bone you've chopped off the leg,
+[17:27] but that's what we used to do.
+[17:30] So your fibula, which is the outer leg bone, and your lower leg,
+[17:35] can be harvested with some perforated blood vessels, and a bit of skin, in fact,
+[17:40] the bone itself, and then a length of blood vessel for plumbing in,
+[17:44] which looks very pretty on the diagram, what we get in reality is something that looks a bit like this,
+[17:51] and without any 3D printing or guides, we'll be able to bend things and advance,
+[17:55] wind up with that big long chunky plate that you're doing a lot of trial and error,
+[17:58] bending, oh no, that doesn't fit, we're going to trim a bit here.
+[18:01] It makes the operation takes sort of 14, 16 hours on a bad day,
+[18:05] which is not very nice amount of time to be operating for,
+[18:08] and then the longer you delay plumbing this in, which you have to do after you've fitted it,
+[18:13] the less likely it is to work as well, and we want it to work as we're on patients to heal.
+[18:18] But this is an example of a free hand one, you can still do free hand ones,
+[18:21] people still do, they get good results, so it's not obsolete, but there's just different ways of doing things.
+[18:27] So we went back to the 3D engineers, or some people cleverly made it,
+[18:31] and said, well, what if we want to take this, can you turn that into something we could use by combining the scams together?
+[18:37] So it looks a bit comical, because then literally it's the same as me holding up a leg bone and going,
+[18:42] I think that fits there, but we get them to do it on the computer,
+[18:45] we can get them to plan where the dental implants go, and that looks good,
+[18:48] but it's not really telling me where to just hold me, it could fit like that.
+[18:53] So I think my friends at KLS Martin, again putting a nice video of how this went,
+[18:57] and again the signals all of the dissection and surgery, they just kind of go,
+[19:00] yeah, you can snap a plate on it, it's done.
+[19:02] So the whole jaw bone is going to be going, because there's cancer that you can't see on there,
+[19:11] so they make us a cutting guide, that clips exactly onto precise bit of the jaw,
+[19:14] you can drill the holes for the plate and the screws in advance,
+[19:18] and then the orange bit is the bit that is going off to be looked out under the microscope,
+[19:21] and hopefully after that all the cancers gone, then take that fibula and they segment it up,
+[19:26] so the white bits that are going in the bin means when we get rid of those,
+[19:29] it will fit exactly together, and again we pre-drilled the holes, so that they will fit,
+[19:35] and then it means you can get really precise fit, and that is literally,
+[19:38] you can put the plates on the leg and do all the cuts on the bone on the leg,
+[19:41] disconnect it, bring it up, put more screws in, nine times that, ten,
+[19:45] and that just fits, and you've saved about an hour and a half,
+[19:48] two hours from the operation and you can go straight onto the fiddly bit under the microscope.
+[19:53] Usually this can get turned around within two weeks, so if you get your diagnosis,
+[20:01] you get where your scans, where there are a couple of meetings with the engineers,
+[20:04] and go, yep, we're happy, please make that, and we will be able to do it within a couple weeks,
+[20:09] so it's not a long turn around on these things, they've got quite quick at it,
+[20:13] and then people are taking it step further now, so they said, well,
+[20:17] when people get out the other side of their cancer treatment, and they've lost all their teeth,
+[20:20] because they might be having radio therapy, or there's just oral hygiene,
+[20:25] it's not very good, and not a cancer patient. What are they going to eat later?
+[20:29] We want to put teeth back in, so now people say, well, we can plan the teeth in advance,
+[20:34] and we can put the implants in, and we can get the restorations on in three months,
+[20:38] so you wouldn't see this bottom bit in the patient, they're just lifting the lift down,
+[20:42] so you can see, and then they put that restoration on which isn't really the colour match,
+[20:47] but lots of patients choose the bright white shiny colour, because they like it,
+[20:51] and that's sort of what we can do, and then there's some other fun applications,
+[20:56] I'm almost finished talking, so what if we can't really print anything,
+[21:01] because it's not going to help us, but we wanted to remove a tumour from sort of between the eyes,
+[21:05] you don't want to just go blindly poking around in that area, there's important things we might want to keep,
+[21:10] so there's a few companies out there that make things that link up this CT scan,
+[21:15] that we have in advance, we've got a 3D camera, there's a bit that's screwed onto the patient,
+[21:19] and registered to some landmarks, and then we've got a point to this some landmarks,
+[21:23] and the 3D camera picks up those points that's a bit like motion capture,
+[21:27] for like video games, or animated characters, and then wherever we put the tip of that point,
+[21:31] we'll show up on the screen, so we can see exactly where we're doing our surgery,
+[21:35] and how close we are to things we want to get rid of, or keep,
+[21:39] and then a former colleague of mine has been doing some research,
+[21:43] so Google Glass is an augmented reality, people are saying,
+[21:47] well that's great, we've made a plan, but we don't really know where all the blood vessels and other bits are,
+[21:51] but we know where that is on the scan, if we use these clever things, could we overlay that onto surgery,
+[21:55] and make it better, and this isn't really the clinical application stage, but it might be the future.
+[22:03] So, they completely make whatever we want, so they can make various custom implants for
+[22:11] orthognafix surgery, if you've got really trauma cases, you can say,
+[22:15] you know, I don't want to spend ages bending up, lots of little,
+[22:19] little, fiddly plates, I just want something that's going to fit, they can make that,
+[22:21] if you're missing a big chunk of your bone off from your head,
+[22:25] or your skull off during injury, we can say, can you make a big bit of something but we'll get absorbed into the rest of the body and the long run,
+[22:31] and then the reconstruction plates we talked about.
+[22:35] It does save time, whether it's necessarily better, it probably is for the cancer surgery,
+[22:43] but then there's always problems like what if the cancer grows between planning the scan and doing the operation
+[22:49] and you need to free hand things that the skills are still important,
+[22:53] and for some of the orphagnatic cases, we've been doing it conventionally for years, people are very happy with the results,
+[22:59] we might be able to plan it so like half a millimeter of accuracy with the 3D planning,
+[23:05] but it's the patient going to notice or care, we don't know.
+[23:11] So the other things that are coming in, that quite clever, is finite element analysis,
+[23:17] so now used to be like, we will only make you this implant, because this is the only implant we've tested, now we can say,
+[23:23] or what have you made this and then they'll run a little simulation based on the forces, I think the jaws going to be exposed to a no-go,
+[23:27] yeah that's working, we'll make it, although say that will never work, we won't make it for you, you need to redesign it.
+[23:33] And that's my talk, I will take questions in the Q&A 10, which I just need to find my way to,
+[23:41] because I've not been there yet, but anyone wants to speak to me, they can find me there.

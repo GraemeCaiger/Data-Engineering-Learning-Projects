@@ -1,0 +1,210 @@
+[00:00] Thank you all for being here so late on the last day of the festival.
+[00:18] So yeah, if you were hoping to hear how to make a random number generator, you are out of
+[00:23] luck because this is a talk of how not to make one.
+[00:26] So I will share with you some stories from history of what happens when randomness fails
+[00:33] or when random number generator doesn't work.
+[00:37] So maybe in the end you can just do the opposite of everything you hear in this talk.
+[00:42] So the first story takes place at the Sumerobath tournament.
+[00:48] It's an incident that inspired me to give this talk.
+[00:54] So if in case you don't know, at the Sumerobath tournament everyone shows up with a small
+[01:02] robot.
+[01:03] There's a weight limit of, I think, one and a half kilos.
+[01:07] Robots have to fight each other.
+[01:09] They have to push other robots out of the field and of course they have to ensure that
+[01:15] they don't get pushed out of themselves.
+[01:18] Robots themselves are very simple.
+[01:20] So they have some motors, some wheels to move around.
+[01:25] They have some sensors to detect that they are still on the field to detect other robots,
+[01:31] to know, to charge at them.
+[01:34] And there is a little Arduino board that controls the whole thing.
+[01:38] So basically the creative part is you write your C code that is executed during the fight.
+[01:46] The design of these robots is not necessarily very interesting.
+[01:51] So Robots basically need to be short and stable.
+[01:56] They need to be very close to the weight limit as close as possible because there's no
+[02:02] clever strategy that can save you from the opponent that's somewhat heavier.
+[02:08] So you have to have some protection for their wheels.
+[02:11] They need to be shielded so that it's not easy for other robots to slide underneath
+[02:18] and flip them.
+[02:20] So a friend of mine was taking place, was participating in one of these tournaments with
+[02:25] this robot that you see in these pictures.
+[02:28] The robot is called Phoenix II.
+[02:31] I did not ask what happened to Phoenix I.
+[02:34] Presumably it burned into ashes.
+[02:39] The Phoenix II had a very clever design of the front blade.
+[02:45] So in this bottom picture maybe you can see that it has a metal plate in front.
+[02:54] And you need something metal in the front if you're going to go face to face with other
+[03:01] robots.
+[03:02] You need something that will not bend or deform or break.
+[03:07] The clever thing that my friend did is he put thin piece of plastic on this board,
+[03:13] on this blade.
+[03:14] So on top of the metal blade there is a just a regular folder, plastic from a folder.
+[03:23] And it's very thin.
+[03:26] So it bends, it hugs the surface and it can easily slide under another robot and flip it.
+[03:35] So this tiny change in addition to everything else done correctly is what got him into the final of this tournament.
+[03:47] And the reason I say got him into the final is because he actually did not win in the final.
+[03:54] So here's what happened.
+[03:56] Here is my diagram.
+[03:58] So the other finalist was observing the previous rounds and he noticed a pattern.
+[04:08] And the pattern was that at the beginning of each round Phoenix II first charges forward to the middle of the field.
+[04:17] And if it doesn't find another robot it always makes the left turn.
+[04:23] So it was always to the left.
+[04:26] So what the other final is did is the rule of the sumo robot's tournament is that you start from the opposite sides of the circle.
+[04:39] But you can angle your robot anyway you like.
+[04:43] So what the other final is did is he angled his robot to his right.
+[04:49] And he held on to his robot for an extra second after the whistle.
+[04:58] So he waited for the Phoenix II to move to the center of the field and then made the left turn.
+[05:05] And that's how he was able to attack him from the side because on the side was the weak point.
+[05:12] So maybe it would be considered cheating that he waited for an extra second.
+[05:18] But yeah, either way it would not be possible to exploit this pattern.
+[05:25] If the pattern was not there for example Phoenix was moving random relief to the right.
+[05:33] So here is the root cause of the whole thing.
+[05:37] So sometimes robots need to make decisions.
+[05:41] Decision, yeah, in case that they don't find another robot and they're still on the field they need to decide.
+[05:48] Which direction to move.
+[05:50] And that decision needs to be based on some sort of randomness ideally.
+[05:58] So my friend was aware of this and he made a pseudo random number generated generator that he encoded in C.
+[06:06] So it's something like this.
+[06:09] It starts with a hard coded constant.
+[06:12] It applies some mathematical operations to transform this constant into something else.
+[06:18] And then transforms it again.
+[06:19] And if you look at all the numbers that are generated, they will look very random.
+[06:24] They will pass all statistical tests.
+[06:27] And then he will use this to, he will use this number to in other functions to make decisions.
+[06:36] So yeah, it's all very clever.
+[06:39] But of course, when you start your round, even you start your fight,
+[06:46] the code starts executing from the beginning.
+[06:49] So it will always start from the hard coded constant.
+[06:52] And the first decision it makes will always be the same.
+[06:56] So because it's just a computation, it will, it will, the starting point will always be the same.
+[07:03] All decisions will always be the same.
+[07:07] So yeah, that's how my friend, my foolish friend,
+[07:10] lost in the final of the Sumurobath's tournament.
+[07:15] And there is probably a lesson to learn from this incident,
+[07:22] apart from the obvious lesson of don't be friends, Sumurobath enthusiasts.
+[07:27] They will feel your life with endless frustration.
+[07:32] But maybe a lesson related to randomness would be,
+[07:37] you cannot compute your way into a random number.
+[07:41] Whatever clever mathematics you use, if the starting point is the same,
+[07:47] everything you do afterwards will be determined by that starting point,
+[07:51] everything will be deterministic.
+[07:54] But enough about my foolish friend, other people have made similar mistakes.
+[08:01] And some of these people were designing a game shows in the 80s.
+[08:06] So in the US, in the early 80s, there was a popular TV show called Press Your Luck.
+[08:15] And the contestants would compete in the studio.
+[08:19] They would play with a board that looked something like this.
+[08:23] So these fields would have various cash prizes.
+[08:27] And there would be this glowing frame jumping around the jumping from field to field.
+[08:34] And all contestants' contestant would need to do is press a big red button
+[08:41] to stop the fields from moving to get their price.
+[08:46] And the content of these fields also changes.
+[08:50] So they could win some cash prizes.
+[08:53] Some of these fields have a plus sign next to them,
+[08:56] which means you get the money and you get to play again to get even more money.
+[09:02] So in 1984, a gentleman named Michael Larson participated in this quiz.
+[09:11] And he kept winning more and more money.
+[09:16] I think it was 24 rounds of winning the cash and the extra spin
+[09:21] for the total amount of something over $120,000,
+[09:26] which was a lot of money in the early 80s.
+[09:29] I think you could buy a house in London at that time.
+[09:32] So boomers in the audience will remember.
+[09:36] So when they investigated what happened,
+[09:42] they found out that Michael Larson was actually studying the patterns
+[09:48] on this quiz show.
+[09:52] And he concludes two important conclusions.
+[09:56] Perhaps I forgot to say an important thing.
+[10:01] So this game is not entirely risk free.
+[10:04] So there are these death fields.
+[10:06] So if you land on one of these deadly fields,
+[10:11] you lose all the money you've accumulated so far.
+[10:15] So yeah, what Michael Larson noticed is that there are two fields of this board,
+[10:22] which will never give you a death field,
+[10:24] which will always give you a cash prize and the extra spin.
+[10:28] And another thing he noticed is that the pattern in which this frame is moving
+[10:34] is not entirely random.
+[10:36] So there are only two possible parts that this frame can take.
+[10:41] And yeah, he was able to follow it and to memorize the pattern
+[10:47] and to anticipate when it will land on one of these two safe fields.
+[10:54] So yeah, that's how he won a lot of money.
+[10:56] And yeah, perhaps there is a lesson to learn from this story.
+[11:02] If you are a game show creator, perhaps don't confuse
+[11:07] pseudo randomness for randomness.
+[11:10] If it just looks, it's not enough that it looks random.
+[11:13] It's possibly necessary that it is truly random,
+[11:19] or at least in a way that people cannot compute.
+[11:24] Even though I have to say I like the idea of patterns being predictable,
+[11:28] then it becomes a game of skills rather than a game of luck.
+[11:35] Moving forward to the late 90s, back in the day you could play poker online
+[11:41] and you could even cheat or some people have found a way to cheat in online poker.
+[11:46] And the poker game actually used a very good random number generator.
+[11:55] So the random number generator was seated from a network traffic.
+[11:59] Now that network traffic is something that we call a non-physical
+[12:04] through random number generator.
+[12:06] So it's something that no one can compute.
+[12:12] It depends on so many different actors.
+[12:18] And in general, even though it doesn't come from some physical process,
+[12:23] such as alpha particle emitter, it is still impossible for people to compute.
+[12:32] However, the mistake that they made is that they mixed entropy into a 32-bit number.
+[12:39] And then use this 32-bit state to shuffle the cards.
+[12:46] You may already know that there are many ways to shuffle a deck of cards.
+[12:52] 52 factorial to be precise, approximately 2 to the 225 huge number.
+[13:00] But of course using a 32-bit state, you can only get 2 to the 32 possible poker games or possible
+[13:08] shuffle. So how does that help you?
+[13:12] Well, in the first hand, you will get 5 cards.
+[13:18] So let's do some math. Let's start with these 2 to the 32, which is approximately 4 billion combinations.
+[13:27] There are 52 possibilities for your first card so that reduces the number of possible
+[13:34] shuffle to something over 80 millions. You also have a second card, third, fourth, fifth.
+[13:42] You end up with around 14 possible shuffles.
+[13:48] And in poker, you can actually replace some of your cards.
+[13:54] So once you ask to replace one card, you will know exactly the arrangement of cards in a deck that
+[14:03] you started with. So you will know exactly which cards your opponent has and you will know exactly
+[14:10] when to fold. So here the problem was not that random number generator was bad.
+[14:20] It's really that they are officially created this bottleneck of 32 bits.
+[14:25] So yeah, that's maybe a lesson here. Avoid the bottlenecks.
+[14:31] And in order to tell you about the next incident, I have to give crash course in cryptography.
+[14:42] So it will only take one minute. So there is something we call public key cryptography.
+[14:51] It is used in all types of digital signatures, of authentication protocols, things like
+[14:59] what your browser uses to know it's talking to a correct website. And all public key schemes
+[15:06] are based on mathematical problems that are easy to solve in one direction, but very difficult to solve
+[15:12] in the other direction. For example, I give you two large prime numbers and tell you to multiply them.
+[15:19] Should be very easy. A smart 10 year old will probably do it in a couple of minutes using just
+[15:25] pen and paper. But if I gave you a product of two large primes and told you to find the
+[15:34] to factorize it using just pen and paper, it will take you, yeah, better part of the day, I think,
+[15:43] to do that. And you scale it up sufficiently and you end up with something like RSA, which works
+[15:54] with very large prime numbers. They would be at least 300 digits, that's a little digits written down.
+[16:02] And in that case, computers can multiply these numbers very easily, but they cannot factor
+[16:08] these large products even if you have all the computing power in the world and you run it for
+[16:15] hundreds of years. However, there is a shortcut. If I gave you two of these numbers and tell you
+[16:23] told you that they share a factor, then you could use something called Euclid's algorithm.
+[16:28] And it's a very simple algorithm. Some of you may have learned about it in school. So it's
+[16:36] basically an algorithm for finding a greatest common divisor. So you start with these,
+[16:43] with these, this is like a visualization of how it works. So you start with a rectangle,
+[16:50] whose sides are these two numbers. And then you remove the squares from the shorter sides until
+[16:56] you end up with the smallest possible square. And the side of the square is the common
+[17:05] divisor. So it's very important when you generate your RSA keys. They are public keys. So
+[17:15] public keys, these products are available to anyone. So it's very important that different
+[17:22] keys, they don't share the same prime factor. Otherwise, they can be trivially broken.
+[17:29] And if you generate your RSA keys in a random manner, you will not have this problem.
+[17:39] So probability is on your side here. But is this something that actually happens? So there were
+[17:47] two large-scale studies that examined various web certificates. They found all sorts of terrifying
+[17:53] things. Among other, they found this class of devices that was always, that had generated many
+[18:01] certificates and they all shared the same prime number. One of the factors was always the same.
+[18:08] And when the root caused it, they found a first that they used OpenSSL, which is
+[18:17] secure library. But of course, it has to be, it has to take some, it's randomness from somewhere.
+[18:27] In this case, it took it from Linux, pseudorandom number generator, which was seeded by time.
+[18:34] And unfortunately, they did at the very beginning of the each procedure. They did this step,
+[18:42] which simply reset the system time to zero. Interesting thing, like, why did this produce
+[18:50] so many factors where first number is always the same, but the second is different.
+[19:00] We can only speculate that it used some procedure like this, but it first resets the time, seeds
+[19:07] the RNG with that time. Generates the first prime, which is a very long procedure,
+[19:14] seeds the random number generator with the new time, and then generates the second prime.
+[19:21] And there is probably some clocked refter between these two procedures, because they are
+[19:30] cheap devices. So yeah, this is my cue to check the time. I think I don't have time to tell you about other incidents,
+[19:43] but there are many of them. Let me just leave you with one lesson. We want our hardware and software
+[19:51] to be reliable, and in most cases, reliable means that it's predictable. In fact, in all applications,
+[20:00] other than generating randomness, that's what you want. You multiply two numbers.
+[20:06] It will be weird if you got a different results, but for random number generators, you want them to be
+[20:12] reliably unpredictable. So that's why you have many enemies. The worst of which is your intuition.
+[20:20] You may be thinking, oh, I use this alpha particle emitter, and it is enough for me to
+[20:30] generate randomness, but perhaps you've accidentally created the bottleneck, perhaps you've accidentally
+[20:37] removed the entropy. So yeah, in case you ever need to make a random number generator,
+[20:43] please do everything opposite of what you heard today, and you'll be fine. Thank you.

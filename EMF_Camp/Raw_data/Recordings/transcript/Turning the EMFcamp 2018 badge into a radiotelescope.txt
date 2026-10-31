@@ -1,0 +1,285 @@
+[00:00] Thank you. Just before I start, is there anyone here who's responsible for the 2018
+[00:19] badge hardware? No, okay, shame on what it ought to you.
+[00:27] Yeah, this is a project when I was working on this. I put 2018. I realized I've been doing this for a bit longer.
+[00:33] So, some expectations first. It's very much a one-dimensional radio telescope.
+[00:41] So, more like the mid-lim-image, less like the right hand image, we're not going to get a picture out of this.
+[00:48] We're going to get a way of you line. If we're lucky, we'll get the wild signal.
+[00:55] But graphs, not pictures.
+[00:59] I realized my interesting Jupiter started in about 1990 when upgraded telescopes.
+[01:06] Blinded myself looking at the moon and the next thing I found was Jupiter.
+[01:11] I was like vanishing out of the field of view very quickly.
+[01:18] And I, you've sort of always been interested in Jupiter since then.
+[01:22] And then, sometime around about 1992, I came across this book, the second.
+[01:27] I actually read the Odyssey series out of all the other. I came across 2010, first before I read 2001.
+[01:34] And there's a section in there talking about just the noise of the space and all around Jupiter.
+[01:40] An old-a-good-really-hear was the sound of lightning bolts and atmospheric noise.
+[01:47] Later in the book it talks about there's possibly some of the sound coming from life on Jupiter.
+[01:52] Bit far fetched by who knows. And again for some reason, this stuck with me.
+[01:57] And then about two years later, a giant comet hit Jupiter.
+[02:04] And there was suggestions that you may be able to hear the radio noise from the comet hitting Jupiter.
+[02:11] On a short way, receive a certain need. People had detected it.
+[02:15] I just got my first short way to receive a couple of months before.
+[02:19] That is it. It's in need of a bit of repair these days.
+[02:23] It was probably 30 years old before I got it.
+[02:27] So it's getting on a bit.
+[02:29] So I set up the radio, a simple dip hour antenna for about 15 megahertz.
+[02:34] I borrowed a chart recorder from my school, plugged it into the headphone socket and waited.
+[02:40] I was digging in the archives and found the actual plot I took from this.
+[02:46] This is about two hours. The arrow marks 730 AM, UTC, C, when fragment G, which was the big one hit Jupiter.
+[02:55] You can see I didn't see anything. Just baseline noise.
+[02:59] Why didn't know at the time was Jupiter was below the horizon?
+[03:03] It wouldn't even rise to the after one PM.
+[03:05] So I had no chance of seeing any signal from this.
+[03:09] My enthusiasm outstrip my ability.
+[03:12] That's not foreshadowing, is it?
+[03:16] All I'm actually seeing here looking at this behind sight is just drift on the plotter.
+[03:21] I don't think I even had a signal going into the plotter.
+[03:25] Some years later I bought a better telescope and took my best picture to date of Jupiter.
+[03:31] But we can't have nice things.
+[03:34] The astronomy from the planet is pretty close to our bust these days.
+[03:38] And we know who to blame for that.
+[03:43] Sometime 2017 or early 2018 I must have been talking to somebody about what I tried to do in 1994.
+[03:53] And I had a bit of a hunt around the Internet.
+[03:55] Found the radio, jade, website.
+[03:59] And it's a bit of interest in the game.
+[04:05] The website is still around. That seems to be updated so much.
+[04:08] And there moved away from simple receivers that they were doing in the early part of the century.
+[04:15] Now everything's been done with STR.
+[04:21] So in 2018, April 2018, I was on some other social network, which we'd like to talk about anymore.
+[04:28] I'm actually building a radio to receive Jupiter.
+[04:32] I bought small video up on YouTube, which is the screenshot over on the far side from me.
+[04:39] It's a lash-up at best.
+[04:42] The green board in the middle on the left-hand image was some commercial radio receiver I was trying to modify.
+[04:49] I've got a signal generator going into it for a local oscillator.
+[04:54] I've got STM30 to display.
+[04:58] It was a bit of a mess.
+[05:00] For some reason I didn't take you any further.
+[05:03] I think I know the reason I didn't take that any further.
+[05:06] It was I came to my first EMF and was handed one of these.
+[05:10] You come here on someone hands-up program, but I've got very enthusiastic about learning the program.
+[05:16] It never did manage to make a phone call on it.
+[05:19] I think I did send a text from it, that one point.
+[05:23] And I decided this was, it's much needer than that.
+[05:30] It's got buttons, it's got a screen, it's got audio in.
+[05:35] I should be able to turn this into a Jupiter receiver.
+[05:41] When I got back, it sat in the box for a while.
+[05:44] Then I started programming it, a mandal-block fractal.
+[05:48] Realized you had a program in Python, which is not exactly a great fan of Python, but we'll get there.
+[05:55] Then it's set in the box until the call for participation for EMF 2026.
+[06:03] I thought, well, I'll fire off a proposal.
+[06:06] Don't expect to hear back.
+[06:09] Yeah, let's see what we can do.
+[06:11] Some in Jupiter are strong radio sources.
+[06:14] I've got a badge, which I don't know how to program.
+[06:17] I did a fractal on it nearly 10 years ago.
+[06:19] How hard can it be?
+[06:22] I didn't expect to hear back.
+[06:24] I didn't realize the theme this year was space, but maybe that helped to talk it.
+[06:29] Selected, what's the worst thing that happened?
+[06:31] Well, the worst thing that happened was it got chosen.
+[06:34] I had leave to burn from work, so I took a week off work.
+[06:38] I didn't realize the theme of this.
+[06:41] Get it done.
+[06:43] It's fully grazing my workshop, no, nothing.
+[06:46] Early in June, this is a little bit more foreshadowing.
+[06:49] I took a photo of Jupiter and Venus in the early sky.
+[06:53] Sorry, in the late evening sky.
+[06:56] Jupiter's the high-up point, Venus is the lower-up point.
+[07:02] I'm planning to earth the one we're on, the lower-up point.
+[07:09] So, with that in mind, Jupiter's up in the sky.
+[07:15] It's dark.
+[07:17] So, I started building a bit more recently, I liked to have met.
+[07:21] Build a filter first, because if I can't filter out the rest of the junk that's in the radio spectrum,
+[07:26] I'm not going to get very far.
+[07:31] So, pretty good filter.
+[07:34] It's never not funny to use SMA connectors on Protobord.
+[07:38] I mean, it's going in perfect 50-o-max straight into a knock-off Tokyo coil,
+[07:45] which wasn't as well, matches.
+[07:47] It could be that picked it up, actually got a pretty good plot of the filter.
+[07:51] I like filters, so I did a second filter on the back end, just to clean up the upstream end of the filter.
+[08:00] Nice and narrow centered on 20 megahertz.
+[08:03] Bandpass is about a mega, which is pretty good. Cleanst things up.
+[08:10] Well, if I've got a filter, I probably need a radio to go into.
+[08:14] My previous experience when I was building the system back into 2018,
+[08:18] I was using a commercial order, I was modifying.
+[08:23] It was a double conversion super-hat.
+[08:28] No one else is ever going to get another one of these.
+[08:30] But, it just happened to be one of my found randomly stuff.
+[08:33] I thought something I can document if someone else wanted to at least try to build it.
+[08:37] So, I screwed it out.
+[08:39] Back of the A4 envelope.
+[08:42] Simple any 602 direct conversion receiver.
+[08:46] And then started soldering.
+[08:48] It was an utter pick to get the local oscillator to work on this.
+[08:52] You can see the black square and there's a crystal next to it.
+[08:55] That's been moved around the board about three times.
+[08:58] Each time on soldering and lifting pads off the back.
+[09:01] It's an adventure.
+[09:03] Got it in a place where guarantee it would start.
+[09:06] Interpad capacitance was really screened me up.
+[09:09] Since the activity was actually surprisingly good.
+[09:12] I tested it on the bench about minus 110 dB.
+[09:16] Which is pretty good going.
+[09:19] We've got 45 dB again, roughly from the NE602.
+[09:24] It had some audio gain on that.
+[09:26] But this is actually starting to look doable.
+[09:30] So, then I thought, well, I've got too much bandwidth.
+[09:35] I'm trying to look what I'm trying to do is look for a very small slice of the spectrum.
+[09:42] And just look at that.
+[09:44] Because there's a load of other stations.
+[09:46] There's a load of other noise and hash around about 20MHz.
+[09:49] I just want to look at bits that's normally quiet.
+[09:51] And just look for peaks in the noise.
+[09:53] And hopefully associate those with astrophysical things.
+[09:58] So, I've simulated all these filters.
+[10:01] I actually built them.
+[10:02] Got them going quite well.
+[10:03] So, we've got a filter on the left.
+[10:05] That's about one kilohertz band pass.
+[10:07] I started doing that with an op amp.
+[10:09] It all it would do was oscillate.
+[10:11] Gave up.
+[10:12] Just did it with inductors and capacitors.
+[10:15] Rock solid.
+[10:16] Just works.
+[10:18] And then I've got a bit of audio gain on the other side.
+[10:21] And then just level shifting up.
+[10:23] So, I can feed it into an ADC.
+[10:26] If you think the front other boards looks messy, you haven't seen the backs yet.
+[10:32] There'll be on display in the Q&A set if you want to laugh.
+[10:37] Then I hit a problem about two weeks ago.
+[10:41] For the life of me, I couldn't get audio working on the badge.
+[10:45] No idea.
+[10:46] Just go fired off a couple of messages.
+[10:49] The likely people didn't hear back.
+[10:52] Dug around through the source code for the badge.
+[10:55] I mean, the badge is wonderfully documented.
+[10:57] You can find the code for everything on there.
+[10:59] I've spent a lot of time hunting on that.
+[11:02] So, if I can't do that, if I can't get an audio signal into the badge,
+[11:06] I'll just glue on an ADC.
+[11:09] Luckily, on the front other badge, there's a series of pin headers.
+[11:14] Which is a nice square seat bus.
+[11:17] Great.
+[11:18] All the code everything you need to know how to test the badge.
+[11:21] His lines you can figure out how to drive the pole.
+[11:24] Apart from one glaring emission, this is why I was hoping to be someone from the badge team who would know this.
+[11:31] I couldn't find a GPIO pin on the front that was interrupt capable.
+[11:39] So, what I want to do is have the ADC, once it's finished a sample,
+[11:43] generate an interrupts, but the badge can then take grab the data, do the processing.
+[11:49] Otherwise, the badge has got to keep going.
+[11:51] Are you ready yet?
+[11:52] Are you ready yet?
+[11:53] Just burn cycles.
+[11:55] Hunted around on the schematic.
+[11:58] I found one interrupt capable pin, I could access.
+[12:02] The centre pin will destroy a stick.
+[12:04] I could tack a pin onto that.
+[12:08] Does mean you have to unplug this when you first pal the badge up,
+[12:12] because the ADC helps the pin low or higher, I can't remember.
+[12:15] It stops the badge booting, or it puts it into recovery mode.
+[12:20] So, we're back on back in progress.
+[12:25] It's all we've got to do is write some Python again.
+[12:29] Python's easy, right?
+[12:31] It works.
+[12:34] Yeah.
+[12:36] Tilda tools, the software that supports this, is great, but not great.
+[12:41] I'm sorry I'm complaining about nearly 10 year old software.
+[12:44] I can get it to run code on the badge, but I can't upload code to the badge.
+[12:50] It keeps complaining about missing docks, string arrows.
+[12:54] I've taken code that I know is on the badge, downloaded it, re-apploaded that and it worked.
+[13:00] I then took the code downloaded from the badge,
+[13:03] hexed it, the header, into my file.
+[13:06] So, I know it should be the same with the docks strings.
+[13:09] Re-apploaded it, still get docks string arrows.
+[13:12] So, I end up using the foamy as an ID, just to upload to the badge.
+[13:18] That seems to work.
+[13:20] It doesn't appear in any other menus, because the docks strings are different.
+[13:26] It seems to go.
+[13:27] You can't run the code new thony because it crashes, so you have to run the code from tilde tools and upload via thony.
+[13:35] I got to the point I could write some code.
+[13:38] So, the first thing I want to know is Jupiter over the horizon.
+[13:41] I don't want to have the same issue.
+[13:43] I had in 1994, and be listening, and Jupiter's way down there, you know, on running late.
+[13:49] Running early.
+[13:52] I will revise my opinions on Python.
+[13:55] Plottings actually quite nice.
+[13:57] If you just want to write some fairly basic code to work out, step by step, where Jupiter is, where the sun is.
+[14:06] It worked quite nicely.
+[14:08] Third edition of practice over astronomy, we are calculated.
+[14:11] There are libraries that can do this, but I want to do this.
+[14:15] I don't know how much space is left on the badge.
+[14:18] I have to do something.
+[14:20] I can't figure out how to delete from the badge.
+[14:24] I had some help received as well.
+[14:28] To do spectrum analysis, I plan to use there was a free FFT library written in our assembly language.
+[14:38] We turned out the old micrepython on the badge doesn't support in line assembly.
+[14:44] I put a shout out on the message that anybody got a quick and dirty FFT library.
+[14:50] You can lend me, give me two wonderful people.
+[14:54] Zool and the doctor came back with examples.
+[14:59] I end up using the one from Zool.
+[15:01] It works very nicely.
+[15:03] I got the code Lash together.
+[15:07] Red DADC calculated FFT.
+[15:11] It's a bit noisy to say the least.
+[15:17] My neighbor switched on something and completely obliterated the fraction of the RF spectrum.
+[15:24] I was looking at it.
+[15:27] They are not outside.
+[15:30] I had a chat with a neighbor.
+[15:34] They switched it off.
+[15:37] I want to read Jupiter in these days.
+[15:41] Right next to the sun.
+[15:43] The brightest sorts of RF noise and optical noise and radioactive noise in the solar system.
+[15:51] In the time it takes me to get going on this project.
+[15:55] Jupiter is no longer an evening object.
+[15:58] It's up there briefly.
+[16:00] It's pretty close to the sun the whole time.
+[16:03] It's the same time.
+[16:06] What I actually have is about four hours of noise from the sun.
+[16:13] The code is on the badge.
+[16:15] This is actually some of the ways I've checked this several different ways.
+[16:22] The other problem with the badge, which I'm still working on,
+[16:27] is quite small.
+[16:28] I can get about an hour's worth of plot on a 320 by 240.
+[16:33] I think display.
+[16:36] I really want to recall several hours.
+[16:39] What I did was told the badge, plot it.
+[16:43] It gives it to me over the US people.
+[16:46] I've replotted it.
+[16:48] The same data.
+[16:49] The same FFT data is plotted.
+[16:52] I can see the sun.
+[16:59] I can see a general baseline noise.
+[17:01] The two horizontal lines are interference from a narrow band station.
+[17:07] The general yellow trend on there is noise from an astrophysical source.
+[17:16] I did a correlation with an SDR receiver in the shed at the other end of the garden.
+[17:24] That was not seeing why the noise was coming from commercial stations.
+[17:33] Doing a bit of subtraction.
+[17:35] This is astrophysical noise.
+[17:38] I hit a bit of a problem at the moment.
+[17:42] Inaction to listen to the jubes.
+[17:44] Once he has them, he has the better of me or my inability to follow a time schedule.
+[17:52] Now I've had to postpone my planning until December.
+[18:00] Then, jubes are finally moves far enough away from the sun.
+[18:04] I should get about 4 to 6 hours of observation.
+[18:07] I've been planning on how high jubes are in the sky.
+[18:13] Maybe I'll be back to how it works in two years.
+[18:20] I've still got some to do.
+[18:22] There's things I need to work on for this.
+[18:26] I think I'm going to move the ADC code and the FFT code to a separate micro.
+[18:32] I'll leave the badge just to display and come silently.
+[18:36] I can connect to the R squared C port.
+[18:39] I have the badge just request data from a separate micro.
+[18:44] I'll add a GPS module to the badge for timing a position because the code that's calculating
+[18:50] where jubes are in the sun is.
+[18:53] These, if reasonably accurate time and data.
+[18:57] I'll be adding an antenna switch to periodically switching a dummy load.
+[19:02] It's a system noise.
+[19:06] Last thing I need to is actually, like this,
+[19:09] it will come up on webshared.au in the very near future.
+[19:13] I haven't had a chance to put a cover page up yet for this project.
+[19:19] This is taken longer than I thought it would.
+[19:26] I didn't realise I'd still be working on projects I started in 1994 in 2026.
+[19:33] Yeah, time blindness can be a thing.
+[19:38] I think I'm done, which means I'm very early.
+[19:42] Thank you.

@@ -1,0 +1,581 @@
+[00:00] I've been sent to Doready.
+[00:18] Hello everyone.
+[00:19] Thank you so much for coming to our talk.
+[00:21] We are DreamCamp.
+[00:22] We are a puzzle making collective.
+[00:24] We have been making puzzles since 2018 when we went to this little camp in the middle
+[00:30] of the middle.
+[00:31] We thought maybe we will take some puzzles and maybe one or two people play them and
+[00:35] maybe they might even like them and that would be nice.
+[00:38] It seems good.
+[00:39] We have been hooked on making puzzles ever since because it is very fun and fulfilling.
+[00:44] We can convince you of that today.
+[00:47] So that is 2018 and when we got a shipping container in the first ever Nullsite which
+[00:51] was extremely exciting.
+[00:54] And then we have made puzzle hunts for EMS 2022 and 2024, often at a Clippy.
+[01:00] We have made some things for company events.
+[01:03] So I cast on the spoke things.
+[01:05] We have done a puzzle hunt for a puzzle cast and this year we have made overbrewed
+[01:12] which is a game you can play in the Nullsite sector this time.
+[01:15] Has anyone played this so far?
+[01:17] There is a leaderboard.
+[01:19] Tony wants money.
+[01:22] Anyway, the thing about EMS is that it is very rightfully every two years because it is
+[01:28] a huge amount of volunteer effort to make and that makes a lot of sense.
+[01:33] But it does leave you with this strange thing in the middle in between the EMS where
+[01:38] you don't really know what to do with yourself to keep yourself out of trouble.
+[01:42] So last year we decided we are going to have to build a game room to keep ourselves off
+[01:47] the streets.
+[01:48] Some of us work at a software company called Software based in Kansas, Maryland and the
+[01:53] company had a unit in the office that was going to be it was vacant and at least had
+[01:59] another nine months on it.
+[02:00] So it is just sitting there with nothing and us on the other hand we had a mitosaur and
+[02:07] a dream.
+[02:08] And today we are going to be talking about the big project we did last year which was to
+[02:12] take over this space in Kansas town for nine months to build and run and escape room
+[02:15] of our dreams.
+[02:17] So we will, huge fans of escape rooms, we travel abroad to play the best ones that
+[02:22] are available in the world and this was our chance to see what we could do if we had our
+[02:27] location of ourselves.
+[02:30] So the lease we started in January of 2025 and we knew that the lease was going to end
+[02:36] in September and that was the secret ingredient we needed which was an removable deadline
+[02:43] to motivate ourselves to actually get on and build the thing.
+[02:47] So in January we started off by creating a timeline of how we got to fast around before
+[02:52] we actually need a thing that people can play and we decided June should be a good time
+[02:57] for the first play test.
+[02:58] So six months of building three months of running it and on stop and that would be good enough.
+[03:04] Once we decided that we then had a little bit of a process to come up with, okay,
+[03:09] what's the theme of the escape room?
+[03:10] We wanted to have a really strong theme, we don't want to just be a random collection of things
+[03:14] and we had a very lightweight CFP process for about two weeks just within our group.
+[03:20] Anyone could submit an idea any time where they came up with a theme and they gave
+[03:25] an example of how the structure and flow might work for the room and they would share it immediately
+[03:29] and people would immediately read it and comment and suggest things.
+[03:33] And then after two weeks we had a vote and we kind of had the goals of we want to pick
+[03:38] a theme that we're all keen to work on and we're all excited about and also something
+[03:43] that is physically possible.
+[03:45] Those are the two constraints we had and we ended up picking this one, Dreamstation,
+[03:52] which turned into Lucy Labs.
+[03:55] One of the nice properties of the CFP is that kind of later CFPs would steal ideas from earlier
+[04:01] CFPs we were kind of building top of each other's ideas and this one kind of ended up being
+[04:05] on a malagamation of all the other CFPs that were beforehand.
+[04:09] So it ends up as something that everyone had kind of input into the core framing of.
+[04:15] Along with the themeing, we spent a lot of time at the beginning just just sitting around
+[04:19] and chatting and drinking and eating and talking about our favorite escape rooms and video
+[04:23] games and particularly what we really liked about them and what we didn't like about them
+[04:27] and how we could extract and remix those properties into our own experience.
+[04:32] So live actors or varieties of settings or activities, one of the things in particular
+[04:38] we were interested in was everyday spaces.
+[04:41] So these are spaces that people go to everyday.
+[04:44] So the dentists, supermarket, living room, the dentists, the coffee shop, the dentists, etc.
+[04:51] And these are kind of interesting because they're quite cheap to make quite a lot of the time
+[04:56] you can find stuff that's very readily available.
+[05:00] So you can also take advantage of interesting properties of them like a supermarket checkout
+[05:03] for example is quite an interesting thing that people are familiar with but perhaps you
+[05:07] can kind of twist it to be a bit different.
+[05:10] The world also has enough and non-discript wizarding school escape rooms so we wanted to
+[05:14] pick a theme that was really like different to everything we'd ever played before.
+[05:19] So this was our first time building a physical escape room in a place, how do we build it?
+[05:24] I'm going to pass you over to Wendy, who will tell you about that.
+[05:27] Thank you.
+[05:28] Alright, so this was the space that we had.
+[05:32] It's office space and as you can see it's a pretty open plan and to be able to realise all the dreams
+[05:38] that we had, we really wanted to build some walls in there.
+[05:42] None of us know how to build walls, none of us do construction.
+[05:46] So we had to do some research and we looked into doing, using AcroProbs, using Fabric Dividers.
+[05:51] Anything that means that we don't need to build a whole wall.
+[05:54] Unfortunately, all of these had various drawbacks that would limit, for example, bent.
+[05:58] But doors and where we wanted, or to be able to fully control the sound and light conditions
+[06:03] in all of the very distinct spaces.
+[06:05] So eventually we built start walls with some caveats.
+[06:09] So we were not allowed to screw into the ceiling because there was a spestless risk.
+[06:14] So we may do with really good bracing, attaching walls to each other to build strength.
+[06:20] And even just designing the space that we didn't need to build full walls at all,
+[06:24] for example, in the supermarket, putting in shelving to in lieu of having proper walls in place.
+[06:30] We also wanted to reuse the rooms in different ways.
+[06:34] This maximizes the space that we had and lets us play with more ideas.
+[06:40] But it also is really great for disorienting players in some fun ways.
+[06:44] After all, a dream isn't really meant to make sense and navigating through a dream.
+[06:49] The physical space doesn't really make sense anyway.
+[06:52] So what did we actually build?
+[06:55] Welcome to Lucid Labs.
+[06:58] After receiving a briefing from some extremely reassuring scientists in lab coats,
+[07:02] you are assured into our sleep lab.
+[07:05] The scientist fiddles with some control panel on the wall and ask you to don blindfolds
+[07:09] and relax as we begin the sleep procedure.
+[07:12] Something goes wrong and you remove your blindfolds to find yourself in a version of the lab
+[07:16] where the control panel is turning to a puzzle.
+[07:18] Solving it provides you with a key card.
+[07:20] Does it open the door?
+[07:21] No, of course not.
+[07:22] It opens an entirely different previously hidden door on the other side of the room.
+[07:25] Going through this door takes you to the supermarket.
+[07:28] Build its special offers, on which quite makes sense you need to puzzle them out
+[07:32] and scan the correct items for each offer in the checkout.
+[07:35] All under the supervision of the store, Tannoy, which helps the rates or frustrates you,
+[07:40] based on how you interact with the room.
+[07:42] After completing all of the offers, the Tannoy dive actually to exit the store by,
+[07:45] obviously, crawling under the fish counter.
+[07:48] You emerge into a completely dark room, which is the perfect place to meet our live actor.
+[07:54] The lights come up to reveal Granny's living room.
+[07:57] Granny awaits with a start, possibly a screen depending on who's playing her.
+[08:01] After everyone has calmed down, she accompanies you through a series of puzzles,
+[08:05] using a phone line, a mail or a catalogue,
+[08:07] Granny's television, a cook-coot lock and her family tree.
+[08:10] Granny provides occasional help and numerous rambling anecdotes.
+[08:15] Eventually, you open one of Granny's cupboards and enter a gloomy, undersea crawl space,
+[08:20] where you play a rhythm game using various sea creatures,
+[08:23] before emerging, blinking into another brightly lit room.
+[08:27] Players with a good sense of orientation may recognise this as the lab,
+[08:30] but it is no longer the lab, but it has been transformed into a gaudy-tell-evision game show set,
+[08:35] where a bombastic host takes you through a series of nonsensical rounds,
+[08:39] largely based around the information we gathered from you on those forms at the start.
+[08:43] In the final round, the host suddenly becomes more serious,
+[08:46] tells you that you need to wake up.
+[08:48] Hands you, a coffee cup and I've actually back to the supermarket.
+[08:52] You find that you can climb into the supermarket's coffee machine,
+[08:56] which leads to the cafe where you frantically have to serve coffee orders
+[08:59] to a series of increasingly demanding customers,
+[09:02] eventually after serving orders placed under your own names and faces,
+[09:05] you hear the scientists calling to you,
+[09:07] pleading with you to remember where you are and wake up.
+[09:11] And the mysterious tunnel appears.
+[09:14] It leads you back to the lab where you finally wake up for real,
+[09:17] and completely experience, to a very relieved scientist.
+[09:21] So how do we build all of that without a huge budget?
+[09:25] Well, a lot of our props are really, really cheap.
+[09:27] Our colleague Ben designed this puzzle using fringles,
+[09:30] which just meant we had to snack on a lot of fringles,
+[09:32] while building the room.
+[09:34] I designed this puzzle involving putting egg boxes together,
+[09:36] which just meant collecting a bunch of empty egg boxes,
+[09:39] and after thinking better of using real eggs in the escape room,
+[09:43] discovered you could buy dead cheap polystyrene eggs on eBay
+[09:45] and have a fun time painting them while watching a believe your vision.
+[09:49] We had a puzzle that required a load of customers' toys,
+[09:52] then bought a job lot of about 80 of them from some guy
+[09:55] he met on the internet and met up with an carpark
+[09:57] who handed them over and a black bin liner.
+[10:01] The same philosophy applied to our larger props too,
+[10:04] for that coffee machine, which the players needed to walk through,
+[10:06] we found this old garden storage cupboard on eBay
+[10:09] and gave it a facelift.
+[10:11] When he scoured the internet for all sorts of furniture
+[10:14] and fixtures and fittings for granny's room,
+[10:16] and then travelled all over London by all sorts of means of transport
+[10:19] by Van and E-bike, including carrying a fireplace,
+[10:22] I cannot tell you a ridiculously long distance on public transport.
+[10:27] But what really made all of this possible
+[10:30] was that we were prepared to be comfortable launching with something
+[10:33] on the date that we committed to, with something pretty rough
+[10:37] but then iterated over the course of the run,
+[10:40] evolving it as we had new ideas or fun interactions between the players
+[10:43] that we hadn't anticipated,
+[10:45] we recognised the things that we could elevate and turn into real moments within the experience.
+[10:52] I'll talk to you about just a few of them,
+[10:55] just to really demonstrate the full scope of what's transformed over the course of the run.
+[11:01] So one of the main ones is the game show.
+[11:04] The game show was pretty bad burns for playtest.
+[11:08] This is what I looked like, it was missing plasterboards,
+[11:10] it had pen and paper name plates,
+[11:13] we had very much bare wood constructions,
+[11:16] and a post-it note that said buzz on it for your buzzer,
+[11:19] holes in the wall that were covered with random leftover fabric we found,
+[11:24] start morning, and a very nice side effect of this was that,
+[11:31] in a rush, we decided to hide the price,
+[11:33] the prices just in one of the holes,
+[11:36] which I'll hand it out by your game master during the game show,
+[11:40] and that was lovingly coined the price hole,
+[11:43] which then stuck for the entire rest of this game room.
+[11:47] A little bit, I think this was our first official runs,
+[11:49] we had plasterboards, but it was still pretty plain.
+[11:54] And by the end of it, this is roughly what it looked like,
+[11:57] we had wooden name plates with whiteboards for individual customization,
+[12:01] fabric matched to the players' favorite colours,
+[12:05] to wrap around their podiums, and real buttons,
+[12:08] but we still made the player say buzz,
+[12:09] because we thought it was funny.
+[12:12] Now, this was a particularly challenging room,
+[12:14] because not only were we transforming the space,
+[12:17] just by improving it, this was a transforming space in the context of escape room.
+[12:22] This is the room that we reused from the lab,
+[12:25] and the set dressing needs to fit both rooms,
+[12:29] which rated on lots tweaking the room to give the biggest wow factor
+[12:32] when people come back in through,
+[12:34] if they even remember it was the same room.
+[12:36] While still needed to make sure that all the transformations were physically possible,
+[12:40] my one or two runners,
+[12:42] making all those changes, whilst the players were playing the rest of the room.
+[12:47] For example, one of the core center pieces of this room was the custom
+[12:52] built and designed furniture, that transformed between the sleep pod,
+[12:55] where people are sort of inclined,
+[12:57] and the podium.
+[13:00] This meant that we could have a sturdy bit of furniture
+[13:03] that could stay in the room and could change the room in a quite drastic way,
+[13:08] without having to move any heavy furniture in and out.
+[13:11] Similarly, we had this control panel that started off as the thing that the scientists
+[13:15] stood with at the beginning,
+[13:17] which eventually became the price or the official price or where the drinks were dispensed.
+[13:24] Now, this was not planned.
+[13:26] So we had to improvise a bit which involved,
+[13:29] removing the walls, climbing into the holes in the walls,
+[13:32] and doing various weird things.
+[13:34] Inside, to make it happen.
+[13:36] And the progression of it went from just,
+[13:41] hey, we can open this and there are drinks inside.
+[13:45] To now we've added some good sea lights and back mirror to make it look like a
+[13:52] more luxurious bar like Phil.
+[13:55] And eventually, we made a final adaptation where at the very end of the game,
+[14:00] you reveal you opened it once again,
+[14:02] and in Finty Mirror, with a coffee cup inside,
+[14:06] is the segue to take you back into, to take you into over-brute.
+[14:10] Now, talking about over-brute, again, as you can see,
+[14:15] it was very bare-bones at the beginning.
+[14:17] We were missing past the board from a whole wall,
+[14:19] but we really wanted to immerse players into feeling like they were in an actual coffee shop.
+[14:23] I'll be at the slightly surreal one.
+[14:26] So after many, many hours of painting,
+[14:29] we get a beautifully painted cow and a name for the cafe.
+[14:35] And if you spot there, so I'm slightly too realistic feeling others,
+[14:39] positions where you would expect others.
+[14:42] Now, a benefit of this room was that it was also self-decorating.
+[14:45] We wanted to put players' dreams that they drew during the game show,
+[14:49] onto the walls.
+[14:50] So at the start, it was pretty played, but by the end,
+[14:52] all of the walls recovered with little drawings of people,
+[14:56] things, actual things people have dreamed, which got very, very weird at points.
+[15:02] And this is how I looked at the end.
+[15:04] We also stole some plants.
+[15:06] They were from the office, but we didn't sell it from actual other people.
+[15:10] Now, finally, we have the dream tunnel.
+[15:13] So this was a pipe dream that we thought was just too unrealistic,
+[15:17] and we depirurized for the playtest.
+[15:20] But we really wanted to make it happen.
+[15:23] So initially, the players would leave over the brood to return to the lab through the supermarket.
+[15:28] But we saw an opportunity to create another cool space,
+[15:31] and more cool spaces, always better,
+[15:33] by cutting through the supermarket and going back to the lab.
+[15:37] And so what we ended up making was entirely self-contained,
+[15:40] and hidden within the sets of the supermarket.
+[15:43] And there's a bit of a iteration, but between mine and Harry's ideas,
+[15:47] we've really made something that was pretty neat, pretty slick,
+[15:50] and it was really, really satisfying to hear
+[15:53] when people came back out into the lab.
+[15:55] That they hadn't know how they got there.
+[15:58] So this is a lot.
+[16:00] How did we achieve this, Harry?
+[16:02] Yes, how did we organize ourselves?
+[16:05] Some people asked me this drawing the van,
+[16:07] like how we decided to did what?
+[16:09] I realized that I didn't know.
+[16:11] I'm going to describe it as kind of radical self-organisation.
+[16:14] So one thing we did was regularly re-prioritise,
+[16:17] and we did keep things really lean for that initial playtest.
+[16:20] But we also made sure we gave time and space for people to be creative
+[16:24] with something that they cared about,
+[16:26] like doing surgery on all of those 80 cuddly toys,
+[16:29] to tackle them with individual barcodes,
+[16:31] with whimsical names that appeared when Scandon the checkout,
+[16:33] which is what Shave and Banner doing here.
+[16:35] Fundamentally, it was a really great example of everyone pitching in.
+[16:39] If you're off a million with the board game spirit,
+[16:42] I learned that tells you everything you need to know about how we worked together.
+[16:45] So people would take ownership of a particular area,
+[16:48] ensure that it was on track and ask the help and they needed it.
+[16:51] People would offer particular skills across the whole piece,
+[16:53] so Wendy and I used the construction team, for example,
+[16:56] or people with electronics or different helping train actors for the interactive bits.
+[17:01] Or just offering time when people had a bit of capacity to help out where needed.
+[17:05] And these numerous little asks and offers across the whole team,
+[17:08] allowed us to adjust really dynamically as a team,
+[17:11] and also to actually open for the deadline to run the room
+[17:15] and with a lot of volunteers who joined us over the course of the run as well,
+[17:19] like 40 or 50 people involved by the end.
+[17:22] And that also allowed us to deal with disasters.
+[17:24] Like the time about a week before the end of the build,
+[17:27] we had a really heavy weekend of building work plans,
+[17:29] and we lost power to the office unit for the entire weekend.
+[17:33] Which led us to figure out that we could string a power cable across from one unit
+[17:37] to another by attaching it to one of those cuddly toys,
+[17:39] which I believe this is bare battle about there,
+[17:41] and lobbying it with sufficient force.
+[17:43] If you take one lesson away from this talk,
+[17:46] please do not do this.
+[17:48] Instead of listening to what Sarah has to tell you instead.
+[17:51] Also, big chat, how are you thinking?
+[17:54] So let's zoom out a bit, if we talk about how we built it.
+[17:58] My commission that started, we are all massive as scary in France,
+[18:00] like we love playing these things.
+[18:02] And if there's you want, where there's a skin called Turpeco,
+[18:06] which is the best escape rooms in the world, as voted on.
+[18:09] By enthusiasts, so a lot of the rooms we played internationally are on this list.
+[18:14] And this was very much what gave us a lot of the inspiration to do that.
+[18:19] The top ranking ones tend to be big sets,
+[18:22] like very immersive sort of steel,
+[18:24] a lot of things from immersive theatre.
+[18:26] Long shows, like some of them are two plus hours.
+[18:29] Some of them are four plus hours.
+[18:31] Come talk to us afterwards in the FAQ terms,
+[18:34] like the European recommendations, or if you have escape room recommendations,
+[18:37] I would love that.
+[18:38] As it happens, we have no top 100 type of rooms in the UK,
+[18:43] shout out to the Reading Witch, which is the highest ranked UK room at 147.
+[18:48] But the closest, I think, we have in the UK to this sort of thing,
+[18:52] is immersive experiences like Punch Drunk or Secret Cinema,
+[18:56] which is what this is, this is like the audiences of a hundred of people
+[19:02] and dozens of actors.
+[19:03] We can't do this.
+[19:04] We don't have the money, we don't have the space.
+[19:07] But there are loads of things that we can do that Punch Drunk can't.
+[19:12] You are at EMF.
+[19:13] You will know this intuitively that, like being a small, scrappy,
+[19:17] and unique offers options that these big enterprises can't do.
+[19:22] What kinds of things?
+[19:23] There's a really great book on this called Unreasonable Hospitality
+[19:27] by Will Good Arer, who for a while operated the best restaurant in the world.
+[19:31] He's not a chef, he's front of house.
+[19:34] And all of the interventions that he talks about in the book
+[19:37] are not about the food.
+[19:39] They're not about the core product that this restaurant is selling.
+[19:42] They're about the hospitality.
+[19:44] They're about, for example, how customers are treated.
+[19:47] As example, he tells a story about when they started a new menu.
+[19:51] That was like, this is a restaurant in New York,
+[19:54] so it's history of New York themed and the waiter had to explain
+[19:58] to customers the history of New York and the history of the dishes that they're eating.
+[20:02] And before they could start the meal.
+[20:03] And it was a catastrophe because it stopped the waiter
+[20:06] from forming a rapport with the diners
+[20:09] or being able to adjust the experience to what they wanted.
+[20:12] They just want to be left alone to eat.
+[20:14] Or did they actually just want to have some ban to that in one of history lecture?
+[20:18] And this is what I love about escaped rooms.
+[20:20] They're very, very personal.
+[20:22] What other art form can you get to go chat to the creators
+[20:26] directly after and ask them about it and have some ban
+[20:29] with them, like, EMF all installations.
+[20:31] Right? That's, I love that stuff so much.
+[20:34] So rare.
+[20:35] The next thing that is that these big experiences
+[20:38] tend to be a bit like lowest common denominator when it comes to the creative direction.
+[20:42] There was a really impressive Tomb Raider experience in London recently.
+[20:46] We're like huge big set, big act, lots of actors, like really impressive game.
+[20:51] But it was trying to do quite a lot in a short space of time.
+[20:54] And it didn't land emotionally as a result.
+[20:56] It was a bit like a AAA video game.
+[20:58] It's just like, this is quite beige actually.
+[21:00] There's a guy called Davis Byra who recommends checking out
+[21:04] the blog he co-run school room escape artist.
+[21:06] He has a good talk on this, which he talks about the idea of
+[21:09] Turpeca bait, which is basically a category of escape room
+[21:12] which is chasing, getting on to that top 100 list
+[21:15] at the cost of, you know, they're basically copying the key elements
+[21:18] that the top 100 rooms have.
+[21:20] Big sets, their dark, their scary.
+[21:22] They don't have too many puzzles.
+[21:25] And this chimed for me because I have a vision of a horrible future
+[21:29] in which all escape rooms are the same.
+[21:32] It's far better and richer for the industry and for players
+[21:35] if we all do our own weird little thing and we all bring our own
+[21:39] take to it.
+[21:40] Spiro describes this as like having a voice, having a perspective,
+[21:43] having a point of view.
+[21:45] To that end, we had a loss of in jokes in this escape room
+[21:49] which most people didn't notice, I hope.
+[21:52] For example, we got one of the company co-founders
+[21:54] to dress up in a cultist robe and in front of a green screen
+[21:57] and be filmed because there was this long running joke about how you
+[21:59] can't tell the difference between these two people
+[22:01] and would keep getting their names mixed up.
+[22:04] But most players who didn't know either of these people
+[22:08] didn't notice these jokes, they just responded positively to
+[22:11] because they were enough not in jokes, I guess, out jokes.
+[22:15] And it was clear that we cared about it.
+[22:17] It was clear that this was sort of real
+[22:19] of coming from the heart.
+[22:20] It was authentic in the way that brands big bands chase.
+[22:24] And the final pillar of the unreasonable hospitality is
+[22:28] Improv.
+[22:29] So being able to respond to things in the moment,
+[22:31] Harry talked about the power cut.
+[22:33] Being able to counter-surprise obstacles,
+[22:36] obviously, enormously important part of any kind of business
+[22:39] any kind of creative endeavor.
+[22:41] But it's also about being able to improvise to add things
+[22:44] to the experience.
+[22:46] The the minimiest of unreasonable hospitality that you will get
+[22:50] if you google it is he tells stories like the couple who
+[22:54] were dining there for their anniversary
+[22:56] and one of them goes, oh no, I've left Champagne in the freezer
+[23:00] at home.
+[23:01] And he asks the waiter, isn't going to explode if we leave it there?
+[23:04] And the waiter is like, yes.
+[23:05] But don't worry, give me your house keys.
+[23:07] And of course, we're not going to interrupt your meals.
+[23:10] So the room wait to run off and they're continuing their meal.
+[23:13] back home at the end of the evening.
+[23:16] They opened the fridge.
+[23:17] The champagne is there in the fridge,
+[23:18] along with a card and some chocolates from the staff.
+[23:24] Being a being small, being scrappy,
+[23:26] lets you personalize things to people
+[23:28] and just come up with cool stuff.
+[23:30] That you wouldn't be able to figure out
+[23:31] by formula if you tried.
+[23:33] For example, in the game show,
+[23:34] we got to the habit of customizing everyone's name plates
+[23:38] with the pictures of their favorite animal.
+[23:41] We asked players up front,
+[23:42] their favorite colors were,
+[23:43] and then we would give them a pen of that color,
+[23:45] to draw with one player who height-hid-cake in the room,
+[23:50] to celebrate some of these 200s escape room.
+[23:53] We had quite a few bespoke quiz show questions,
+[23:56] ask me in the Q&A tent about the 10-year payback
+[23:59] from a very hard question on only connect.
+[24:02] We had quite a few bespoke items,
+[24:05] or products in Zeeve Market,
+[24:06] and like special offer quests,
+[24:07] like we've kidnapped your plushie.
+[24:09] You have to find it in order to be able to get it back.
+[24:12] At the most elaborate end,
+[24:14] we had a colleague who bought the company charity auction
+[24:17] sort of bespoke experience,
+[24:18] and we ordered Krebs in for him,
+[24:20] because there was some kind of meme about Krebs.
+[24:23] But these things don't actually need to cost you any money.
+[24:26] The Krebs cost us money,
+[24:27] but in unreasonable hospitality,
+[24:31] he's got this anecdote about,
+[24:33] there's a team of,
+[24:35] there's a table of diners who are from Denmark,
+[24:37] or somewhere it's there.
+[24:38] They've been on a foodie holiday,
+[24:40] is they're final night in New York,
+[24:42] and the way to overhear them saying,
+[24:45] oh, this has been amazing,
+[24:46] this is the best meal we've had.
+[24:47] The only thing we have in Eaton in New York
+[24:50] is a hot dog of a street vendor.
+[24:52] Q the maids for D, running out of the restaurant at Tottenham's,
+[24:55] going around the corner,
+[24:56] buying a $1 hot dog of the guy down the street,
+[24:59] getting the chef to plate it up,
+[25:00] like it's fine dining, and serving it.
+[25:02] And of course the diners lose their minds.
+[25:05] Our moment for this came when our co-op teammate Cas,
+[25:10] who's in the audience of the shout out to Cas,
+[25:12] he's photo is in the room in one of the puzzles.
+[25:16] One of the players noticed this,
+[25:18] and my whole fast-mise secondary school physics teacher,
+[25:22] Q, furious discord exchange,
+[25:24] and then 20 minutes later during the quiz show,
+[25:26] next is Time Four, the physics round presented by
+[25:29] your worst nightmare and incomes the physics teacher
+[25:32] who asked players questions about physics.
+[25:37] We find this stuff enormously rewarding.
+[25:40] It's just intrinsically fun doing puzzle design
+[25:43] and skate rooms.
+[25:44] Those of you who saw our talk at the last EMF,
+[25:47] I'm probably Catlin,
+[25:48] describe this as 12 hobbies in a trench coat,
+[25:50] like it's a very varied hobby.
+[25:54] And I love this, because it lets me get better
+[25:55] and lots of different things.
+[25:57] But I cannot stress enough how,
+[26:00] yeah, it's so rewarding and important to watch people
+[26:05] tell your game,
+[26:06] I cannot stress enough how rewarding it is,
+[26:08] having people experience that.
+[26:11] Finishing projects is awesome.
+[26:13] I know who I'm talking to and I know how this sounds,
+[26:16] but if I have one message to you all,
+[26:18] it is stop-starting, start finishing.
+[26:19] Like, get more comfortable sharing the thing
+[26:22] that is crappy work in progress,
+[26:24] before you're completely happy with it.
+[26:25] Like, get something minimal,
+[26:27] rough and ready and give it to people.
+[26:29] That was the benefit of setting the play test date quite early.
+[26:34] I mean, overbearing was basically five recipes
+[26:36] on a table when the first real team played it.
+[26:40] We then changed a lot by the time
+[26:42] it finally closed in September.
+[26:44] New features, fixes, responses to play a feedback.
+[26:48] It also definitely helped to have friends
+[26:50] who could be those play test players.
+[26:51] You kind of got when it was a bit rough and ready.
+[26:54] But what I was really pleasantly surprised by
+[26:56] is how many of the real players who were not off friends
+[26:59] who were people through the escape room community,
+[27:01] like they just didn't really care about the lack of polish.
+[27:03] They cared that it had a strong call.
+[27:06] So in post deadlines on yourself,
+[27:09] or find some vehicle to make you finish it,
+[27:11] having, yeah, my physical deadlines,
+[27:13] it is a great example.
+[27:15] Also, people liked it, I guess.
+[27:17] We started with the intention of most of the players
+[27:19] being like friends and family and also John T.
+[27:22] And we ended up with like 600 plus players
+[27:24] over the three and a half months we were open.
+[27:27] Including a lot of people through the escape room community,
+[27:30] like the praise means a lot more when it's coming
+[27:32] from someone who's played more than a thousand escape rooms.
+[27:34] That was really nice.
+[27:36] Some were stats here, which I'm not going to read out.
+[27:38] But we were, we were, I found some actually.
+[27:41] We were doing this all as a charity fundraiser.
+[27:42] We were not charging people for this room,
+[27:44] but we did raise 16,000 pounds for medicine,
+[27:46] scientific, san frontia and very foundation.
+[27:51] Thank you.
+[27:52] APPLAUSE
+[27:56] I mentioned the Turpeca Awards earlier.
+[27:59] It was not clear to us at all that this would be eligible at all
+[28:02] because you have to be in English.
+[28:04] You have to be open for a certain number of days in the year.
+[28:07] And also it has to be publicly bookable.
+[28:08] I mean, you can email us if you like.
+[28:11] We got five nominations for that, which is wild.
+[28:14] We're not expecting that.
+[28:15] And someone put us up for this award from Remiscae Partis,
+[28:19] which was just absolutely wonderful to receive.
+[28:22] We were fortunate in a lot of ways.
+[28:24] We had the space, we had the budget,
+[28:27] and we had quite a lot of person power,
+[28:29] I mentioned, something like 40 people contributed in some way
+[28:33] to this project, massive shout out to all of those wandsers.
+[28:36] But we were also wildly ambitious.
+[28:38] A lot of the best escape rooms in the UK are really small.
+[28:41] This is the murder of Max Sing Claire in Edinburgh.
+[28:43] This was built on a two-k budget.
+[28:45] There's a brilliant blog post about it.
+[28:46] It'll take space in one room.
+[28:48] Rada, the drama school in London,
+[28:50] doesn't annual pop-up as a final year project
+[28:52] for the theatre text.
+[28:54] Again, one of the best escape rooms in the UK
+[28:56] is just really, really well built.
+[28:58] The current top room in the UK, I mentioned earlier,
+[29:00] the Reading Witch is great to have a great talk
+[29:02] about how they built it on a shoe string.
+[29:04] The things that people are responding to in these rooms
+[29:07] is not big budget theatre tech.
+[29:09] It's hot, it's personality, it's the fact
+[29:12] that they've refined a really great idea in response
+[29:15] to play a feedback.
+[29:17] So in other words, it's kind of the unique philosophy
+[29:18] of doing one thing and doing it well.
+[29:21] If any of you, any of this doesn't
+[29:23] spy you to make your own thing, we want to complain it.
+[29:25] You tell us that would be amazing.
+[29:27] So do stay in touch.
+[29:28] These are our contact details.
+[29:29] We are delighted to also provide advice
+[29:31] not that I don't think we're particularly qualified for it.
+[29:34] And we are always looking for escape room recommendations.
+[29:36] So we will be outside to do Q&A.
+[29:38] Thank you all very much.
+[29:39] And also, come play over, Brut.
+[29:41] APPLAUSE

@@ -1,0 +1,320 @@
+[00:00] Good afternoon everybody.
+[00:16] So, I suppose a question to you.
+[00:21] Let's just jump into it.
+[00:22] Did a robot knit your jumper?
+[00:26] Probably not.
+[00:29] We could just go on a pub or we're here.
+[00:31] So, let's go forward with this.
+[00:33] Let's explore how, whether it's possible for robots to knit our jumpers and what we
+[00:39] would be needed for that to happen.
+[00:41] So, let's start with some ground rules here.
+[00:44] What do we mean by robot?
+[00:46] I think this is important to define given this particular crowd.
+[00:50] We're just going to say it's an automated system that needs very little or even
+[00:56] no human input to kind of go through a entire task.
+[01:00] Pass that kind of initial design stage.
+[01:03] And no, we are not discussing that any further.
+[01:07] That's just the definition we're accepting and moving on with.
+[01:11] So, let's take a look at maybe something close to the home.
+[01:15] Did a robot knit the clothes that you are wearing right now?
+[01:20] If not the hypothetical jumper that we've posed.
+[01:23] So, first, let's go over some basics.
+[01:25] How would you know if the clothing that you're wearing is knit?
+[01:29] So, statistically, especially because it's quite warm, you are most likely wearing something
+[01:34] knit right now.
+[01:36] If you're not wearing a knit t-shirt or something, and almost certainly you're underwear,
+[01:40] is knit a lead to kind of explore that later in your own time.
+[01:44] But you're looking for something that has a shape that kind of looks like little
+[01:49] pins.
+[01:50] And, you can see these lined up in the fabric of your clothing.
+[01:55] Maybe kind of hard to do in the dark of the audience right now.
+[01:58] But this is an opposition to something that's in a grid like structure, which is in a
+[02:02] woven structure.
+[02:04] Really cool thing about the knit part is it couldn't be just a single piece of yarn that's
+[02:10] looped back and forth on itself, back and forth, back and forth.
+[02:15] In particular, more stretchy usually in the kind of pulling the visa part instead of trying
+[02:20] to make the visa longer.
+[02:22] And stretchy are certainly then your standard woven fabric, though there's a little bit
+[02:25] of stretch if you're kind of trying to stretch it on that diagonal.
+[02:28] So if you have some knit fabric that you're wearing, the next question is, can you find
+[02:34] a seam?
+[02:35] So a seam is where you're going to have two or more pieces of fabric that are coming together.
+[02:41] So I might be stitched together as the kind of the most common or maybe even glued
+[02:46] together.
+[02:47] And so if you can find a seam, I'm sorry, I've robot did not knit that piece of clothing for
+[02:53] you.
+[02:54] But if you can't find a seam, then maybe it is possible that a robot did knit that piece
+[03:02] of clothing that you were wearing.
+[03:05] So perhaps the step back, why are your seams that important?
+[03:09] Why is that a factor that really matters on this topic?
+[03:12] So seams are how we join up things.
+[03:16] And so let's take that our hypothetical jumper.
+[03:19] So we have our jumper, look something kind of generically like this.
+[03:24] How do we make this?
+[03:27] We have seven main pieces that kind of come up that put together into a standard jumper.
+[03:34] We have a front, a back, a sleeve, a sleeve, a sleeve, a sleeve cuff, a sleeve cuff, a
+[03:38] waistband and a neckband.
+[03:40] And the steps of actually connecting these things together, the seaming part is what requires
+[03:46] a human to move from one kind of device to another.
+[03:50] And so this is where if you don't see that seaming part, you're starting to be in that
+[03:53] kind of robot territory.
+[03:55] But if we have something that's kind of a standard way, probably the way that our EMF T-shirts
+[04:01] have been constructed, we're looking at something that's in these different parts.
+[04:07] And our clothing is notably three-dimensional.
+[04:09] It fits around us as being three-dimensional people.
+[04:13] And so we want to traditionally take something that is a flat, 2D shape and turn it into three
+[04:19] dimensions around our body.
+[04:21] And so this is where we need to kind of cut things out that are flat and then join them
+[04:24] together to make those seams.
+[04:26] So this is the simplest way we could go about making certainly mass-mine your factor, kind
+[04:30] of industrial-scale clothing.
+[04:34] So one way we can do that is what's called a cut-in-so method.
+[04:37] So we can take a long piece of fabric that's just been knit off of knitting machine.
+[04:44] So just back and forth, long big rectangle.
+[04:47] And then we just lay out the pattern pieces, lay out the sleeve, cut it out, lay out the
+[04:50] front, cut it out.
+[04:52] And this is a way that is really, really fast.
+[04:56] We've been doing this for a really long time.
+[04:58] We know how to make clothing like this.
+[05:00] So it has some downsides.
+[05:02] So it leads to waste and material.
+[05:04] We have offcuts.
+[05:05] So all the kind of the extra bits around that we didn't go straight into that sleeve pattern,
+[05:08] which is kind of a weird shape, is just waste.
+[05:12] And then again, we need a person to join up those different pieces together.
+[05:15] And that's kind of the first part is the cut.
+[05:17] The sit and part is the sew.
+[05:21] So we have some alternative approaches we could do as well.
+[05:24] So we could actually knit the shape of each of the sleeves, the front, the back.
+[05:30] We could knit those ourselves to the exact shape that we need.
+[05:33] And certainly if you're a hand knitter, you're like, yeah, this is what I do.
+[05:37] I can, you know, make something smaller and a little bit wider and make it the shape that we're
+[05:41] looking for.
+[05:42] So in fashion textile terms, this is called something that's fully fashioned.
+[05:46] So you're not having to cut out and have waste, but you are able to kind of from that
+[05:51] thread, make directly the shape that you're looking for.
+[05:54] So can be done by hand or by machine.
+[05:57] And actually by machine for a very, very long time.
+[06:01] Nice thing about this is a whole lot less waste.
+[06:03] But of course, anyone working with any kind of additive manufacturing process, 3D printers
+[06:08] being a many around here, you know that it's a low waste, not a zero waste process.
+[06:14] You always have kind of support materials that are going to be wasted a little bit as
+[06:19] well.
+[06:20] And it's the same with doing the knitting for this.
+[06:21] There's always a little tiny little bit.
+[06:23] But we still have that sewing up the seams problem.
+[06:26] So we still have to seam things together.
+[06:28] The nice thing with fully fashioned, and this is where you might find something a little
+[06:31] bit higher end, maybe kind of a less of a fast fashion, is you can start doing things called
+[06:36] linking and doing kind of a higher quality join instead of a kind of normal sewing machine.
+[06:40] But you still have to have a person and that's pretty skilled labor to do that in order
+[06:45] to do that linking part.
+[06:48] So seams are issue.
+[06:50] So how do we get rid of the seams?
+[06:53] If you are a hand knitter, which is really kind of where I'm coming at.
+[06:56] From this, you're like, yes, I absolutely know how to knit in the round.
+[07:00] And we can have things that don't have seams.
+[07:02] We can make tubes.
+[07:03] They make those tubes, we shape, and those shapes, those tubes connected to other tubes.
+[07:07] And we get a jumper.
+[07:08] So why is this hard for a machine to do this?
+[07:12] So let's, we have some machines that actually can do this.
+[07:17] And so that means if we're getting rid of this seam part of the process, we now can
+[07:23] declare we have robots that can actually knit our jumpers for us.
+[07:30] So we have hand machines, kind of the first one I was introduced to 1995, that have
+[07:35] computerized control that are able to do this kind of seamless knitting.
+[07:40] But that was now kind of a while ago.
+[07:44] Why aren't we using robots to make all of our knit clothing?
+[07:48] And why was this such a hard problem?
+[07:51] How long have you been working on this whole knitting thing anyway?
+[07:55] So let's step back.
+[07:56] How long has knitting been happening?
+[07:58] So first earliest kind of example of knitting existing hand knitting is going to be fourth
+[08:04] century AD.
+[08:05] So we're not talking about recent technology here.
+[08:08] This is an example of kind of the oldest artifact within the VNA's collection of hand
+[08:15] knitting using what we would recognize as a modern process.
+[08:19] This is from 1100 to 1,300 roughly as when they think it was made.
+[08:23] So again, not a new thing that we've just been working with.
+[08:27] We come a little bit more forward and not geographically too far from where we are today.
+[08:33] And we have the invention of the stocking frame.
+[08:36] So you might think of a lot of textile innovation coming about with the industrial revolution,
+[08:40] but actually it's a stepping back to before that.
+[08:43] And so the stocking frame is the first kind of automated mechanization of being able to knit
+[08:50] textiles.
+[08:51] And this very first machine actually could already do the fully fashioned part.
+[08:58] So the fully fashioned part has existed since knitting machines were first invented.
+[09:03] So they've had to go through a couple other iterations before we got to what we have today.
+[09:08] We jump forward to 1863 or so.
+[09:12] And we're starting to see things that are then powered by steam powered by water and
+[09:17] really scaling up production and be able to create those textiles at a much larger scale.
+[09:24] Don't look at this picture too closely.
+[09:25] Those are actually power looms, not knitting machines, but let's just between us, not
+[09:30] dwell on those details.
+[09:33] But one of the limitations of these machines is that we're not able to do the different
+[09:37] kinds of fabrics that we need to make our standard jumper.
+[09:41] So on our jumper, we have our seven pieces, our front and our back and then our cuffs and
+[09:45] our neck and our waist.
+[09:47] The edge ones, the cuffs, the neck and the waistband.
+[09:51] Those we typically see as being a slightly different kind of fabric.
+[09:55] So it's one that's a bit stretchier and one that has kind of better recovery.
+[09:58] So it kind of goes back, if you stretch it, it kind of goes back nicely for you.
+[10:03] And usually that's in a rib structure.
+[10:05] So it kind of looks more like it's a vertical stripe.
+[10:09] But that takes a different mechanical setup.
+[10:11] Then the types of fabric you would see in just kind of the body part of the jumper.
+[10:18] And we weren't able at this point in time yet to have both of those fabrics get made
+[10:23] on the same machine.
+[10:24] So we still have to make the front and the back of our jumper on one machine, the cuffs
+[10:28] that are ribbed on a different one and then join them up.
+[10:33] We weren't able to actually make those things together on the same machine until 1970.
+[10:38] So we had to come way closer to present day before what something's called a V-bed frame
+[10:42] was able to enable these kinds of things.
+[10:45] Which again, if you're a hand knit or you're sitting there and like this is me just
+[10:50] changing the angle of my needle.
+[10:52] This is not a big deal, but it's taken mechanical engineers.
+[10:56] A lot longer centuries to work out how our hands are manipulating those threads in a way
+[11:01] that we could do it inside the machine itself.
+[11:04] So now we can directly in from 1970, we can directly knit our cuffs onto our sleeves,
+[11:08] we're getting closer to our automated robots.
+[11:12] And at the same time, we're seeing computers and to various industries including textiles.
+[11:19] So we're now starting to see the beginning of computerized knitting machines that are
+[11:24] supporting these processes and being able to make more complicated things in a way
+[11:27] that you don't have to worry about mistakes from kind of more mechanical actions or just
+[11:33] being able to have things kind of programmed us scale.
+[11:35] All of the reasons that we like having computerized things and these were driven by punch
+[11:39] cards, same way that a lot of other computing technologies were driven.
+[11:42] So the knitting machines were using the exact same technology.
+[11:47] It wasn't then until 1995, if Japanese company called Shima Sakey, they introduced the
+[11:54] at a trade show, the prototype of their technology called whole garment.
+[11:58] And yes, it's all in capital letters kind of just shouting at you.
+[12:01] That's their official rendering of it is their machine that is able to do the seamless knitting.
+[12:08] So this was the first machine, first technology released that is able to support knitting
+[12:14] in an entire jumper in one go.
+[12:17] It's a cuffs, the waistband, the neckband, everything in between can just, it's kind
+[12:23] of looks like an old school printer.
+[12:25] It just comes out the bottom of the machine and you have a jumper.
+[12:32] So why did this take so long?
+[12:34] We have the stocking frame in the mid 1500s, but we had to wait until 1995 in order
+[12:40] to get ourselves a robot that can emulate what a hand-knit or can do.
+[12:47] So we have a combination of things that were being developed for us.
+[12:49] So one is that our needle design.
+[12:52] So what it is that how we actually hold the loops of yarn onto the machine itself, we
+[12:58] able to do the knit stitch manipulation.
+[13:00] We think of this in hand knitting as our kind of standard just a stick.
+[13:05] Now, we can get fancy with those sticks and we get pointed to both ends or we get connected
+[13:09] to another stick, but we're talking about just two sticks.
+[13:12] The kind of similar thing that we do in a knitting machine is we have needles, which
+[13:16] really look like hooks.
+[13:18] And each individual hook is controlling one single loop, one single stitch inside our
+[13:23] next structure.
+[13:24] So we've needed to have some iterations on how the technology of how those were formed
+[13:29] be developed.
+[13:30] We also needed a lot more complex machines structure to be able to house and kind of move
+[13:35] around and manipulate all of those needles as well, needed to be supported.
+[13:39] So in particular, kind of how we got to that V-bed in the 70s so that we could then
+[13:44] have knits and have ribs go into jersey, kind of plain knitting, then back and forth and
+[13:48] more complicated things.
+[13:50] We needed to have the overall structure of the machine move forward.
+[13:53] And then the computerized control was really important in particular having that digital
+[13:57] control, in moving on to digital computing and having also kind of supporting CAD software
+[14:03] to support these really complex actions.
+[14:06] So we only have so much time in the day.
+[14:10] So we're just going to focus on one of these.
+[14:12] So what is it about the needle design that let us go from what happened in our fully fashioned
+[14:20] pieces up to making it be supported to be, or fully fashioned pieces out of stocking
+[14:26] frame, the let it be supported by a chemist, whole garment machine, other suppliers also
+[14:32] exist.
+[14:33] So the very first one is called a bearded needle.
+[14:38] So a bearded needle is basically just a hook, fairly simple kind of object.
+[14:45] And this is what was invented with William Lee and his stocking frame.
+[14:49] And it's just a hook that you can then loop yarn into it and then you want to be able
+[14:53] to control kind of the whole premise of the thing.
+[14:55] If you want to be able to control, if that loop is coming out of kind of the edge of the hook,
+[15:01] or it's remaining in the edge inside that kind of inner part of the hook so that it
+[15:06] can be pulled through another loop.
+[15:08] And the way this is done is there's an external kind of element within the knitting machine
+[15:13] called a presser bar.
+[15:15] And that's just pressing down to whether the bearded needle, the hook, is kind of pressed
+[15:21] in order to make it kind of a closed loop a close circle at the end of the hook, or
+[15:25] whether it's open so that the loop of yarn could be pulled up and off of it.
+[15:29] And if the hook is then closed, it would slide right over the hook and off to form your
+[15:34] next loop.
+[15:36] Kind of crazy things about these is that the needle themselves did not move.
+[15:42] So the entire machine is moving around the bed of needles in order to make all the different
+[15:47] movements that's happening, kind of very different from modern machines.
+[15:53] And from the 1800s, one of the kind of big innovations there was in the creation of
+[16:00] what's called latch hook needles.
+[16:01] Now you would see this in a lot of different handicrafts.
+[16:04] Like if you ever done latch hook, rug making and things like that.
+[16:07] And so these are now hooks, but they have a little wiper on them.
+[16:13] And the nice thing about that is the way the wiper is whether it's open or closed to kind
+[16:19] of close off the loop of that hook is manipulated by the needle itself now moving instead
+[16:24] of the entire machine moving around the needle.
+[16:26] And it's just a lot simpler way to control whether the thing is open or closed.
+[16:30] It really lovely kind of passive movement by the way it interacts with the yarn that's being
+[16:34] passed over it.
+[16:35] So a really important change for how things have, how the machine itself is designed.
+[16:43] So we had the first design that lasted a good couple of hundred years.
+[16:47] Now this is the second iteration of this.
+[16:49] And this stayed around for again, good couple hundred years before the next major innovation
+[16:55] in the needle design itself happened.
+[16:58] So we now have what's called a compound slide needle, which is the more kind of generic name
+[17:03] for needle innovations that Scheme is a key that Japanese company who is currently kind of
+[17:11] winning the knitting machine race.
+[17:14] They invented this in 2008.
+[17:16] So this was actually passed a later iteration based off of what they put out in their 1995
+[17:22] prototype of their whole garment machine.
+[17:25] And the really clever thing about this is really hard to explain how this moves.
+[17:29] But the clever thing about it is the whole thing shifts in the important gain is the exact
+[17:35] physical movement, the length in centimeters and millimeters that the needle needs to move
+[17:41] in order to pass a loop from one needle to its neighbor is now cut in down drastically.
+[17:49] So this saves a lot of space and it saves a lot of time.
+[17:52] So if we want to make a fully fashioned garment, if you want to be able to increase or decrease
+[17:57] the size of something to make it not just be a long rectangle, we need to take each of the
+[18:02] needles that's holding a loop if we want to make it kind of narrow in.
+[18:08] We need to take one of those loops and move it onto its neighbor's needle.
+[18:12] The neighbors hook and now we have fewer for the next time we knit that row.
+[18:16] Now we have fewer loops that we need to go through and so the fabric becomes a little bit more
+[18:20] narrow.
+[18:21] That is involving doing a lot of complex moving of multiple, full beds of knitting needles.
+[18:28] And that was a really big mechanical engineering constraint as to the complexity of the stitch
+[18:33] type and then the complexity of the kind of the movements and speed that could be accomplished.
+[18:40] By having this type of needle, it brought that all into a much smaller scope and gave a lot more flexibility.
+[18:45] And now the shemas machines that support this, they have four beds of needles crammed into the same space.
+[18:52] When in the 70s, the big thing was that we could have these v beds with two beds of needles that could do a lot more.
+[18:57] We now have four beds of needles crammed into these machines.
+[19:01] So it's possible that you can have a robot fully knit your jumper or any other knit clothes you like.
+[19:14] But why isn't not likely that that is what has happened?
+[19:18] So this is the same reason that we don't see robot to another aspect of our lives in which it technically they could do that thing.
+[19:26] So it could be one of the reasons this is just expensive.
+[19:30] These are super expensive machines.
+[19:32] They are slower so that cut and so method of just knit along either tube or a long piece of fabric that you just cut out your pieces and sew it all up.
+[19:45] That we can do really quickly.
+[19:47] Making something that's going to kind of shape and be in a 3D complicated thing where it comes out the bottom of the machine.
+[19:54] Much much slower for in production terms for that to kind of be a throughput.
+[20:00] Our gains are if we're looking at things like mass customization we want things to have each one to be slightly different from another one in some kind of algorithmic way.
+[20:09] Then that's where these machines can be really useful.
+[20:11] Otherwise you're trying to just make several hundred thousand of the same thing.
+[20:14] These machines are not the way forward at a kind of a profit margin level.
+[20:20] And then kind of one of the really big reasons for this as well is the same as any technology is the technology is shaped by the people who are making the technology and the technology itself is then shaping back the larger society that is interacting with it.
+[20:36] And textile manufacturing systems are quite old.
+[20:40] They've been around for a very long time and have very established ways and a lot of money put into a lot of machinery that has been sitting in factories for decades upon decades.
+[20:50] And so it's also just really hard to shift these really big systems.
+[20:54] It needs to be a really big case something really compelling and we're not to a machine at a price point that kind of works out in capitalism terms in a way that would make people want to have these.
+[21:04] Be making your kind of off the peg standard jumpers.
+[21:09] But they do exist.
+[21:11] It is possible to seek out companies that are directly making items that are supported by these kinds of machines.
+[21:17] There used to be a start-up in London who might still be doing this.
+[21:21] So there's not even that hard to find them.
+[21:25] So I've come at this from a very, uh, is a hand-nitter being really interested in, uh, what is it about knitting machines that, uh,
+[21:36] both can and cannot do what a hand-nitter is able to accomplish.
+[21:41] I had a lot of fun researching this and there was just kind of more things than was possible to fit into
+[21:47] a single talk. So I put up a list. I brought back to life. My blog I haven't posted in for 10 years.
+[21:55] So I had to place on the internet to stick this stuff.
+[21:58] Just a list of the resources that I found really useful so that you can go through.
+[22:02] There's some really fun YouTube videos from various English museums showing stocking frames and how they work.
+[22:10] You just have to sit and watch it three times to kind of understand how this machine functioned.
+[22:15] Found it super fascinating. So I have that there for you. If you would like to kind of also go down this rabbit hole a little bit with me.
+[22:22] And then I'm really happy to chat more, either today or at a later point in time, have contact details there.
+[22:30] And I'm generally the leading zero on any kind of social platform where I am present. So thank you so very much.

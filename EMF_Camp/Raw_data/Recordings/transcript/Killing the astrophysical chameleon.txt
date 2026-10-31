@@ -1,0 +1,201 @@
+[00:00] All right.
+[00:02] Hello everyone.
+[00:04] It's amazing to be here.
+[00:05] This is my first AMF camp.
+[00:07] And I am loving it so far.
+[00:09] I am a little bit low on sleep, but I think very high on vibes.
+[00:13] So it's been a very good time.
+[00:15] Now as has already been said, I'm going to be a little bit low on sleep.
+[00:20] I'm going to be a little bit low on sleep, but I think very high on vibes.
+[00:22] So it's been a very good time.
+[00:24] Now as has already been said, my name is Brian.
+[00:27] And I'm here to talk to you about my PhD project, which was I called it killing the
+[00:32] Astrophysicol Camelion.
+[00:34] No Camelions were harmed in the making of my PhD or talk.
+[00:38] So we can all rest easy about that.
+[00:41] I'm referring to something a little bit different.
+[00:43] First of all, I started talking a little bit about who I am.
+[00:47] Now I grew up in regional and regional and I'm going to be a little bit different.
+[00:51] I'm going to be a little bit more than I am.
+[00:53] Now I grew up in regional Australia.
+[00:55] So I'm trying to pick my accent.
+[00:57] That's where it's from, but I've been living here for a few years now.
+[01:00] Please call to Womber.
+[01:02] It's a real place I promised.
+[01:03] I went to Sydney for my undergraduate degree where I studied physics.
+[01:09] And I did my honors, which is essentially a 1 year masters in quantum computing, which was very fun.
+[01:17] Then worked for a bit at UNSW rewriting some courses and writing a course to teach teachers how to teach physics, which is about full to say.
+[01:27] And I got to talk about Lagrangians, which was very fun as well.
+[01:31] And make some videos where every single still I'm making a very weird face, which my friends have never let me forget.
+[01:39] I then decided to move halfway across the world to the UK where my mum is from.
+[01:44] So I've got family here.
+[01:46] And I ended up working in a school as a science master teacher in a sense school primarily for visually impaired students, which was very interesting as someone who had been very much on the sort of science side and like more.
+[02:02] I guess high level outreach going to a school where it was more about how do we change the way that we communicate to students who have these students.
+[02:13] And I have these very very different ways of processing information, not just in terms of like neurodivergence, but just physically in terms of a Kant draw a graph and say look at this graph.
+[02:24] There's also a really cool trick. So I really enjoyed that.
+[02:27] And then I got a job at the Royal Observatory, which was kind of a dream job. It's like the only job I've had where people weren't like, oh, you really want to do that job.
+[02:37] And I got this job people like, oh yeah, of course you want to do that job. That's great.
+[02:40] So I got to do Planetarium shows, she's really fun. I got to do some TV stuff, which was very fun. This is my friend here, staring at me like she's in love with me.
+[02:50] Her husband was very jealous of me.
+[02:53] And I also ended up on Australian TV hilariously. I kind of jumped scared of friend of mine. He was just eating a cereal and was like what are you doing on my TV.
+[03:02] I got to meet really cool people as well. I got to meet Tim P. That was Korea Highlight.
+[03:08] And I got to write a book called Orory about the science of the Orory. Last I checked, I think it's in like the top million books on Amazon.
+[03:16] So you know, I don't want to say that I'm famous, but oh, it's top million.
+[03:21] But it was it was really good fun and working at the Observatory gave me a lot of opportunities there.
+[03:26] But I really missed research. So I decided to go back to being a physicist now despite, you know,
+[03:35] astrophysical chameleon working at the Observatory. My masters was in quantum computing. Quantum is my best friend, my home.
+[03:44] So I went into a field called atom interferometry, which I will explain in this talk.
+[03:52] Well, let me go back because yeah, that's that's why I decided to spend my time doing. You may notice this.
+[04:00] This works, believe it or not. This is what a standard physical physical lab looks like.
+[04:05] This is a precision measurement experiment.
+[04:08] People sometimes ask me because I work in a laser lab. Oh, is that dangerous? I'd say the only danger is the psychic damage.
+[04:15] You're going to get from my cable management.
+[04:18] Now I have handed my PhD literally a month ago and I got my Vival on Wednesday. So I am.
+[04:27] Thank you. So thank you. Yeah, I'm not Dr. Brian, yet, but they, you know, either I'll make history by being one of the few people to fail at the Vival or I'll pass.
+[04:38] So, you know, toss up 50, 50, we'll see how it goes. I'll get some sleep before then, definitely.
+[04:43] But what is it that I actually do? When I say killing the artificial chameleon, what is that in tail? Well, what that means is I am taking very precise measurements to rule out or at least place bounds on various physical theories.
+[05:00] To do that, I call and trap atoms using lasers and magnetic fields and then I use those to put these bounds on these new fundamental forces.
+[05:09] So, I'm looking at here is a cloud of rebellion atoms somewhere between probably on the order of 10 million rebellion atoms with the light shining on that is the laser coming on.
+[05:24] Laser comes from all directions and that traps the atoms in the center and cools them down as well.
+[05:31] Anyway, that might seem a bit strange at first, but I'll explain it. We have here infrared view. Sorry, this is the infrared view and this is just from my phone camera, which is very fun because friend cameras, those of you who were at the Friday show last night may have learned that in, for encar amores actually pick up quite a lot of infrared.
+[05:52] So they actually don't work too terribly to take pictures of my setup, which is nice.
+[05:58] Now, when I say cool and trap atoms using lasers, that feels kind of wrong to talk about cooling something with lasers.
+[06:06] But the way that works is we need to reframe the question, what is temperature? On this level, what I'm talking about atoms, I'm really talking about the velocity of the atoms.
+[06:20] When I'm talking about their temperature. So, going back to a single atom, we have a single atom that has some velocity. It's moving in some direction.
+[06:29] I have a laser beam that is moving in the opposite direction. Now, our atom has some momentum, oh sorry, and our laser beam is made up of photons, little tiny balls of light.
+[06:41] Our atom has some momentum, and our laser beam also has some momentum. Each of these photons has some momentum.
+[06:50] That momentum is H bar K, K being 2 pi over the wavelength. So, in this talk, I will do my best to try and stay consistent. However, I find that really hard.
+[07:04] It's one of those things that you get really used to say K vector and frequency and wavelength kind of all mixed up together. So, if I accidentally slip up and say, well, when I say K, that's what I mean. I'm talking about a quantity that is related to the wavelength of light.
+[07:21] But you may notice, we have something going on direction and something going the other with two different mentors. Do we all know about conservation of momentum?
+[07:31] Yeah, exactly. So, it's a bit more complicated than this, obviously. It's a quantum process. But we can see now how, as something is barreling towards, with laser beams coming from all of those little ping pong ball photons will scatter off all this momentum.
+[07:48] So, take away momentum from the atom and it will slow down. So, you do it from all directions and you can slow down an atom. And this level, slowing things down and cooling them down is the same thing.
+[08:01] So, I've now got my slow, aka cold atoms. What do I want to do with it? Now, I want to make these really sensitive measurements. I want to make this a quantum sensor.
+[08:11] How do I do that? Because this feels weird. I've got this cold thing. How do I talk to it without interfering? Without making it go away, without dropping it out of my viewpoint from my laser or all of this.
+[08:29] One thing we do things really quickly. We do things within the whole duty cycle of my experiment was about half a second.
+[08:38] Because things are moving at all times. So, the first you do things in many ways, the less likely you are to have things fall out of the way of all of your laser beams.
+[08:48] And you need that because you need your laser beams to put your atoms into these quantum states that are sensitive to accelerations. So, I have...
+[09:00] There we go. I have an atom. It can be in one of these two states. Now, these two states, they are called a meta-stable states.
+[09:10] Because they are essentially stable. If I have an atom in the F equals one or an atom in the F equals two, it's not going to change between them.
+[09:17] A lot of atomic states are unstable and they decay immediately. Such as, for example, this intermediate state here.
+[09:26] When I shine some light onto my atom, if it is resonant with... Oh, yeah, sorry, my atom has some momentum that way.
+[09:34] If I shine light onto my atom, there we go. Then what will happen is my atom will absorb some light from one of these beams and then emit into the other one.
+[09:53] To make sure that it doesn't in the direction that I want, I make sure that one of my beams is resonant with this transition here,
+[10:07] with the one to this unstable state up here. And then the other one of my transitions is resonant with this state, the F equals two and the unstable state.
+[10:19] So in this way, rather than my atom going into the unstable state, and then immediately emitting a photon and dropping back down to the first state, it is stimulated to go from state one to state to via this intermediate state.
+[10:36] Now, so far, you're like, okay, cool, you're moving it between two states, but what does that do? Well, you may notice that I...
+[10:46] Which I almost forgot to mention, my atom has some momentum this way, but I have my light going this way.
+[10:54] If we think back to the previous slide where I had my photons hitting my atom, they were going counter-propagating. So it took in some momentum from here.
+[11:06] So it was losing momentum this way, because it was getting hit there. Now, it's going to change momentum in this direction, which means that instead of being traveling along here, my atom is now going to have some momentum in this direction.
+[11:24] That's because my atom has absorbed from here and emitted into here. So it gained a bit of up and then it lost a bit of down.
+[11:34] Losing down is the same as gaining up, so it basically gained two kicks upwards.
+[11:41] So, so far, this is sort of baby's first quantum, all right, fine, I can move things from one state to the other, and not just am I moving it from different internal states, but I'm also moving its momentum states. I'm changing its trajectory in space.
+[11:57] The quantum part comes from the fact that you do not have to stop there. You can go, all right, what if I have a whole bunch of atoms in here?
+[12:10] And I shine on my light. If I shine on for a particular length of time, and then I measure, then I will see some of my atoms will be in one state, some of them will be in another state.
+[12:26] So if I start here and then measure the population depending on how long I apply my light pulse, more and more of my atoms when I measure will be in the upper state.
+[12:38] Now this is all observable, but what this means, quantum speaking, is that because this is a, this is a, like a coherent transition.
+[12:54] If I, for example, have my light pulse go for one second here, then we can see that, on of my atoms, will be measured as being in the upper state.
+[13:09] That course, that what that actually means is that during it, my atoms are in a superposition of being in the lower state and the upper state.
+[13:19] When we measure, we force it to pick one or the other, but because this is quantum we're talking about when we're not measuring it, it's actually doing both at the same time.
+[13:30] Now what this means is that if I shine on a light pulse for the right length of time, I put my atom into being a superposition of being in those two energy states, and also those two momentum states, which means that my atom will start to move apart in space.
+[13:46] The wave packet will separate, and my atom will be simultaneously traveling along this vector and this one.
+[13:55] Which is pretty cool, I think.
+[13:59] If I wait a certain length of time, I can then do another light pulse and reverse their states, so they're now back on a collision course.
+[14:08] This is all a single atom, so a single atom at split apart in space, and I then reflect those two bits of the wave packet back onto each other and re-combine them.
+[14:19] It turns out that the state that you measure at the end is dependent upon what's happened to the atom here.
+[14:29] That sounds obvious when I put it like that, but what I mean is that mathematically speaking, any accelerations experienced by the atom in this while it's doing this path will be imprinted on its final population.
+[14:48] What we find is that we measure the population phase, and we get this relation here, so we can see that,
+[15:00] and we can see that the length of time between these pulses.
+[15:05] That as my atom is being split apart, re-combined, and then, yes, we've selected it, re-combined, it's picking up some information from whatever accelerations are hitting it.
+[15:21] Now this is exciting, because accelerations are to do with forces, and we love forces in physics.
+[15:28] We understand physics quite well, but there are a lot of things that we don't understand in physics, one of which being dark energy.
+[15:37] I know we've hard pivoted from quantum to the cosmos, but stay with me.
+[15:43] When we look out into space, we see that everything, or all galaxies, are moving away from us, and the further away they are, the faster they're moving away from us.
+[15:57] And drama is the exception, it's moving towards us, but every other galaxy is moving away.
+[16:03] We don't know why. We call this the thing that is causing the accelerating expansion of our universe, everything getting away from us faster.
+[16:13] We call that dark energy.
+[16:17] That's all we know about, that's all you have, dark energy.
+[16:22] So, you know, how are we going to measure this? Well, we've done a few measurements, after physically speaking, and we can go alright.
+[16:33] Suppose there is some field, like how we have the electromagnetic field, the weak force, all of this.
+[16:40] Well, how would it have to couple to itself, and how would it have to couple to matter in order to produce what we see in the world?
+[16:49] You're going to produce the effects. What does it have to do? Well, that's when theorists start to get a little bit excited and come to us with like, oh, could do this, this, this, this, this, this, this, this, this, this, this, this, this, and this, this, and this, and it's all these are different class of ideas.
+[17:03] And then the observational astronomers go, okay, but this is what we see. Now go alright, based on our observations to do with supernova.
+[17:14] So, how can I do you have to couple with itself? This way, somewhere in here, and that, somewhere in here.
+[17:21] You'll notice that, um, these are quite broad, and that's because, uh, well, one thing, observational astronomy, really hard, that's why I don't do it.
+[17:30] But also, this is why we do lots of different kinds of observations. We have supernova, we have barionic, acoustic oscillations, don't ask me about that.
+[17:40] Um, and then we have things looking at the cosmic microwave background radiation, and with all of these, we can sort of overlay them and go alright.
+[17:47] What, where do all these match up? What theory could give us a universe that sort of behaves like ours appears to, based on our observations?
+[18:02] Um, now there's lots of ideas on how that could work. Uh, let's look at lots of different things, but the one that I was talking about, uh, so that I was researching, uh, it's called the Camillion Field.
+[18:12] Yeah, we're halfway through the talk, and only just now, Camillions coming out. Um, now, I'm not talking about a real Camillion.
+[18:19] I'm talking about something that can hide in plain sight. Because this is the other thing with dark energy.
+[18:25] We see it's effects on a cosmic scale, but we do not see it near our Earth. This is a really big problem actually, because we think that the laws of physics should be the same everywhere.
+[18:36] Why does something seem to affect the vacuum of space, but not our Earth?
+[18:43] Okay, now it seems kind of obvious why something would affect the vacuum of space with us nothing, and then Earth where there's something, because there's a pretty big difference between those two situations.
+[18:53] Uh, and that's what some theorists thought they went well. There's stuff here, and there's no stuff there.
+[18:58] Maybe that's the difference. Maybe there is something, the Camillion, that away from stuff can take on some really high value at push-up parts space.
+[19:08] But near the Earth, it's suppressed. It hides from matter. Hides in plain sight, and is therefore undetectable.
+[19:20] Now is anyone a theorist here? No, good. I can make fun of them then. Oh, now if there is still love a theory that gives you technically measurable results.
+[19:34] If it's an actual really good experiment to do, they're like, no, no, no, no. We'll you'll avoid it on that's too easy.
+[19:39] We want to do something that is like, no, no, no, you need to go and spend millions of pounds to verify my great idea.
+[19:46] I mean, to be honest, yeah, I do want to send millions of pounds to verify your maybe not so great idea. I'm going to change it and make it a great idea.
+[19:53] So, uh, I didn't make this great idea though. What people did, uh, my supervisors supervisor, went well.
+[20:04] They for main problem with measuring this community in field on Earth is that there's stuff.
+[20:10] Turns out we're actually really good at making a region of no stuff on Earth. We have these vacuum chambers, which I saw.
+[20:22] There we go. I did see a on one of the boards, someone, you know, saying they had free ultra high vacuum equipment.
+[20:30] Wild, very strange thing to have kind of want to go and meet them.
+[20:35] But basically, inside here, we pump out all the air, all the stuff. There's nothing in there. This is a better vacuum than space.
+[20:42] Space, terrible vacuum, particularly the space nearby Earth awful. There's so much so many particles there.
+[20:48] Sure, there's no air, but there's a lot fewer particles in my vacuum than in space.
+[20:57] So, now I have a region of space where there should be nothing. Therefore, the community in field should appear.
+[21:05] It should be a continuous, like, scalar field. So, it shouldn't be that it is absolutely like zero. It should be that it's just suppressed to close to zero.
+[21:17] Now, how do we measure something that is suppressed by any measuring device?
+[21:25] Hey, this is where the atoms come in, which makes sense, seeing as I started this whole talk by talking about atoms.
+[21:31] Really got a rigoury, rigoury that around, I think, so I can make it more of like a reveal of our surprise atoms.
+[21:37] But, the idea is, inside this vacuum chamber, on the wall of the vacuum chamber, it should be the community field is essentially zero. In the middle, it will have some peak value, which my atoms should be able to be sensitive to, because my atoms are very, very dilute. They are not very, very undense.
+[21:59] So, they shouldn't screen the community in field very much if at all. Now, it is really, really, really hard to just make a measurement of something, because you don't really know what you're measuring.
+[22:12] My interferometer, as I showed you before, it was sensitive to accelerations, but there's all sorts of things that can cause an acceleration, not just the presence of this community in field.
+[22:24] Maybe I have some astray magnetic field. Maybe I have, maybe I've just set it up wrong, and I'm sort of tilted on just measuring gravity.
+[22:32] So, what we do instead is we do these differential measurements. So, I need to introduce something else into my experiment, a ball, literally just like a ball that's in my vacuum chamber.
+[22:43] So, now I have my vacuum chamber, I have my walls where it's zero, and I now have a dirty grape ball in the middle.
+[22:49] The community in field will drop to zero on the surface of that ball, but it should go back up to being quite large, next to it.
+[22:58] Okay, so now, if I have a ball that can move inside my vacuum chamber, I can change the shape of my chameleon field.
+[23:08] Changing the shape of my chameleon field will result in a force being present on any atoms inside here that will change depending on where my ball is.
+[23:21] So, in this way, my atoms measure some acceleration. I move the ball, I measure the acceleration again.
+[23:29] If there's a difference between those two accelerations, that suggests that something changed when I move the ball apart from moving the ball, I suppose.
+[23:38] Something changed as far as the atoms are concerned. And so, maybe new force, dark energy solved.
+[23:46] My Nobel Prize is not in the mail. I measured zero. I measured zero difference between these two.
+[23:53] Despite the fact that this is a great idea, full position to panic acceleration due to the community in field.
+[23:59] Yeah, measure it like that. No, no, we measured nothing. So, this is where we were measuring.
+[24:12] Now, this is actually a plot from a different group that was doing a very similar experiment to mine, because they're plot pretty.
+[24:21] And also, because I had a lot of other problems with my experiment that I'm very happy to talk about in the Q&A 10 afterwards. If people are interested, but essentially what we end up measuring was basically phase distortions due to this ball.
+[24:39] Turns out, if you put a ball in a vacuum chamber and it hits your laser field, you'll light beam. You end up with a diffraction pattern.
+[24:49] Maybe we should have realized that 10 years ago, but we didn't, so it's fine. But so that meant I got to send a lot of time studying that.
+[24:55] So, but the end result of it was that we, our results were completely consistent with absolutely no, community in field. No extra acceleration.
+[25:08] No, no. That is part of precision measurements. Part of precision measurements is measuring zero.
+[25:18] It feels kind of depressing at times, because you're going, oh, I just spent so much time putting this together only to go, turns out we knew physics really well.
+[25:29] Turns out that's, we were correct to begin with. This new theory.
+[25:35] But that is important. And it's one of the things I genuinely really love about precision measurement physics is that we get to publish zeros. We get to publish null results.
+[25:44] We get to say, no, there is nothing here. For this particular case, this doesn't mean that the field of dark energy, or even to be honest the field of chameleon dark energy, it turns out, is dead.
+[25:56] I thought it was because where's it going to go guys? Where is it going to be? This line here is where we expect if, if the chameleon field could explain dark energy, this is where it would be.
+[26:11] Do you notice there's no empty space left? There's nowhere else it could be. But I have it on a good authority that there is some theorists who are still very excited by it.
+[26:23] For other reasons, apparently they're like, no, it doesn't need to explain dark energy, it's got lots of other things it can do, but look.
+[26:30] There are much more interesting things that we can do with Adam and Fromedus. There are many more experiments out there for us to do. Why don't we pivot to those? Leave the chameleon dead. Let me have my joke, please. Let's move on to what else we can do.
+[26:48] By making it bigger. Now I said before that, oh yeah, you know, you make these the do the things quick so things don't fall out of your laser beams.
+[26:55] You can also just make your laser beams real big, which is what various large freefall adamants from which are doing.
+[27:04] Note this is 100 meters. Not being built yet, don't worry. The biggest one, there is a one meter one that is just about working and they're going for a 10 meter one soon.
+[27:16] The idea with things like this is that now you have a really long period of space in which you can probe.
+[27:24] You can look for things like variations of fundamental constants. You can look for accelerations like the chameleon, but not the chameleon because it's dead. Oh my goodness.
+[27:32] A little BDI creature is dead. I've killed it. Well, me and several other people around the world have killed that thing.
+[27:40] Or you can also look for this process of nuclear spins, which again kind of gives you some more things to do for sort of variations of fundamental constants.
+[27:48] Because we have lots of questions in physics still. And even if the answers end up being, oh, this is zero, this is whatever.
+[27:55] That's still really good and important information. That's still things that we need to know to push it forward and to give theorists some things to play with because they really like to have things to play with.
+[28:06] And if you leave them without things to play with too long, they can't with things like string theory.
+[28:11] I'd like to avoid that at all cost. I'd like to give them keep them well filled with experimental results.
+[28:17] But yes, so hopefully, from this you have a bit more of an appreciation for the intersection of various fields of physics.
+[28:26] A little bit more of an appreciation for the sort of different things you can do. You can take something that is atomic physics that is atoms.
+[28:34] And you can use it for something like astrophysics. You can use it for all sorts of things.
+[28:39] And that's the thing that I love about physics is that our whole job is playing around.
+[28:44] It's answering questions going, well, I think this is like this. So I could do this to measure that.
+[28:52] And I just think that's really, really cool. And I wish more people understood it and were interested in listening to it.
+[29:01] So I really, really appreciate the option need to be here today and talk to a room of people who are.
+[29:07] Thank you very much.
+[29:09] Thank you.

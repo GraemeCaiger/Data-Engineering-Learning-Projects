@@ -1,0 +1,341 @@
+[00:00] I'm going to talk about paging something that got incredibly out of hand for me this year
+[00:22] in the best traditions of EMF.
+[00:24] This started off with markers in the room somewhere that was a conversation with Marcus on
+[00:28] Fedy, one January-ish weekend about, oh, it wouldn't pages be really cool for him, and
+[00:33] then it's like, you can probably make that stuff work in it, yeah, snowballed from there.
+[00:37] So this is a bit of history of paging, and also how I've built the world's smallest paging
+[00:42] network.
+[00:43] So we're going to talk about it.
+[00:45] We're going to talk about it.
+[00:46] The concept, why I think actually think paging is quite good and what's different about it.
+[00:50] One of the history, a bit of today, and we'll try and do some demos if everything breaks.
+[00:55] So what is kind of, what is paging?
+[00:58] I'm quite a company see, but probably quick show hands.
+[01:01] Any people in the audience that are over, I'm going to go ahead and stuff, 40 probably,
+[01:07] will remember the 90s and pages and stuff.
+[01:11] People that are under about 25 are probably like what's a pager.
+[01:15] So it's definitely an asky, asky dad kids.
+[01:19] Pager is a small receiver only, and that's an important factor, where we're ball device
+[01:23] that alerts its user.
+[01:24] This is what we used before mobile phones.
+[01:28] Paging networks use broadcast radio.
+[01:30] So where is your mobile phone?
+[01:31] Is talking to your local cell tower, and it's a transmitter, and a receiver, and you've
+[01:35] got to have coverage.
+[01:37] Paging networks are far more like broadcast FM radio, like radio one or something.
+[01:42] It's a big powerful transmitter on a hilltop site that just blats out a signal.
+[01:48] The pages themselves are just receivers.
+[01:50] They do not connect to the network.
+[01:52] They do not talk back.
+[01:55] All of those hilltop sites are then usually connected by a back hall.
+[01:59] I want to clean when the networks were in most commonly, and I think the one network
+[02:03] that's still running, it actually uses satellite for the back hall.
+[02:06] So the message is sent up to a satellite down to probably about 80 to 100 paging sites
+[02:12] around the UK.
+[02:13] You'll get full UK coverage with, in the order of 100 base stations.
+[02:18] Over a satellite and then broadcast out for more of those.
+[02:22] Most paging networks or the public paging networks are then linked to the phone system.
+[02:26] So the way you send a message to a pager is the pager has a phone number.
+[02:29] You call the number.
+[02:30] You speak to an operator, human being.
+[02:32] You have a conversation with a person, which is a bit strange for some people.
+[02:36] You tell on the message they type it into the computer and hit send, and it comes up
+[02:40] as on the user's device.
+[02:43] So what's good about pages?
+[02:45] Firstly, it's a dedicated device.
+[02:47] Like your phone is information overload.
+[02:50] You've got 101 notifications.
+[02:52] You're getting pop ups from T-Moo to buy something for this day.
+[02:54] You've got WhatsApp.
+[02:55] You've got signal.
+[02:57] You've got Facebook.
+[02:57] You've got all this stuff on your phone.
+[03:00] So if it's something important, if you've got a particularly an uncool type role,
+[03:05] safety critical, emergency call outs, all this kind of stuff, putting that into your phone,
+[03:12] can sometimes mean like you have to therefore, you have to manage all the other notifications
+[03:16] and put your phone into a mode so that yeah, I don't want Facebook Messenger waking the
+[03:21] up at 2 in the morning, but if somebody's dying, I want to be woken up at 2 in the morning.
+[03:25] So the dedicated bit of hardware that you can put by the bed and switch the phone onto
+[03:30] silent has an advantage for that.
+[03:32] It's much more usable.
+[03:34] It should receive only devices I said.
+[03:36] That's quite useful because the battery in these things will typically last six weeks,
+[03:40] you know, 16 hours like your phone.
+[03:42] You just put a AAA battery in and it sits there and lasts for ages.
+[03:48] It uses a low frequency, 150 megahertz VHF.
+[03:51] So again, like you don't have these kind of shadows of coverage.
+[03:55] You know, it doesn't work in my downstairs dining room.
+[03:57] Pretty much, you know, the signal will get through.
+[04:01] Better battery life, better coverage.
+[04:03] And also, they're un-tracable.
+[04:06] So much of a few years ago, the Hezbollah Mossad, Pageer thing, whenever to a page of
+[04:11] a blog, oh, are you blowing someone up there?
+[04:12] There was a whole thing Israeli intelligence put some compromised devices into the supply chain
+[04:20] that Hezbollah leaders were then ended up carrying and then they managed to blow them up.
+[04:25] The issue was why were in 2023, you know, Hezbollah still using pages?
+[04:30] And this isn't because it's an old, you know, they're stuck in, like I think.
+[04:34] It's because a page was received only dead device.
+[04:36] So if you're a phone, the network and anybody that has access to them, it knows where your phone
+[04:40] is at any one time.
+[04:41] And if you're somebody that doesn't want somebody that can access the network, aka a nation
+[04:45] state to know where you are, carrying a pageer means people can send you a message, but
+[04:49] the network has no idea where that device is.
+[04:51] So they're very good to untrackable.
+[04:53] There were some other things in the 90s, why certain other people quite like carrying
+[04:56] pages that, you know, their customers could get in contact with them, but they couldn't
+[05:00] be tracked.
+[05:02] And also, alert lead respond.
+[05:05] Somebody phones you, you get phone call at two in the morning, you wake up, hurt,
+[05:08] what and gives you this information, you've got a process it.
+[05:11] Your page goes off at two in the morning, you wake up, you wipe the suit and we
+[05:14] eyes you get your brain in gear for 30 seconds, you read the message, you call the person
+[05:18] back.
+[05:19] That's kind of, you know, a better user experience.
+[05:23] Okay.
+[05:24] So, once of the tech, there were two predominance standards in Taging.
+[05:30] Michael Poxag, this was written in 1981.
+[05:34] This is the predominant page and standard still and has been since the early 80s.
+[05:39] It's the post office council standard's advisory group.
+[05:42] So, it tells you how old the telegrams is when this was written by post offices.
+[05:46] Again, for those of you under about 40, 50, the post office used to run the one phone network
+[05:53] in the UK, it was the GPO, the general post office, because, you know, when telecommunication
+[05:58] telephones came out, it was another form of communication and people that ran the communication
+[06:03] in the government delivered the letters.
+[06:05] So, post office council advisory group, the pages use what's called a Rick number,
+[06:11] RIC radio identification code, not Rick Rolling, but it's also sometimes there is a
+[06:18] cap code, cap code is like a motor roller specific terminology, motor roller, made a lot
+[06:23] of pages.
+[06:24] It's a 21-bit number, so you've got about 2 million possible codes within your
+[06:29] paging network.
+[06:30] You can have 2 million unique devices.
+[06:33] So, actually not particularly scalable, you know, by mobile phones standards, we've
+[06:38] got some of our 80 million mobile phones in the UK.
+[06:43] Modulation, it's very simple for the radio nerds of us out there.
+[06:46] It's a two FSK frequency shift keying, so you've got a carrier wave and you just hear
+[06:50] the frequency up and down, a 4.5 kHz frequency shift, and then there's 512, 1200 or
+[06:58] 2400 EPS bits per second.
+[07:01] So again, really old modem standards, like 56k was the last, the fastest of the dial-up
+[07:06] modem, the fastest paging data seat speed is 2.4k, so it is quite a slow data speed over
+[07:12] the air.
+[07:14] 3 different types of message.
+[07:16] In POX, you have what's got a toe-nownly, so very basic pages that were just beep,
+[07:21] and you had no display, nothing, but it was more a unit what that beep meant.
+[07:26] It goes beep and you go, you phone the office was the original one.
+[07:29] Traveling salesman, his little box and his bait belt goes beep, he phones up the office
+[07:33] and says, oh, have you got a message for me?
+[07:35] Very, very analog.
+[07:36] New Marick pages that could just send numerical messages, so maybe a phone number would
+[07:40] come up.
+[07:41] The page where I had 14, 15 was a new Marick-only page up, and then full text, so you
+[07:48] can display a string of text.
+[07:49] A bit like a text message.
+[07:51] In theory, unlimited message, unlimited length of message, there's not been anything
+[07:54] under standard, the difference message.
+[07:56] In practice with air-time and stuff, you're probably talking about 900 characters, most
+[08:01] of the network support, so little bit less, but not a lot less than a text message.
+[08:07] When we get onto Flex, slightly more modern, standard, this was created by Motorola in the
+[08:13] 90s.
+[08:14] It's still using analog radio, it's still using FSK, they did introduce 4 FSK modulation,
+[08:21] so faster data rates, 16 or 3,200 bits per second, and could be used again, really, the
+[08:30] frequency doesn't matter, but I have seen pages that work on anything from 26 megahertz,
+[08:35] so that's the old CB band, like frequencies, often like hospital on site ones, and so
+[08:40] they got that.
+[08:41] Right up to in the US, they actually bandpaging at 900 megahertz, which is mobile phone
+[08:45] frequencies, and there's some crazy stuff in the US that haven't been.
+[08:48] Again, you still got Rick numbers, same space.
+[08:51] The interesting thing with Flex is it's synchronized.
+[08:54] So over the air, a Poxag transmitter doesn't send anything until it has a message.
+[08:58] When there's a message to send, it just transmits blasts out a synchronization signal,
+[09:03] wake up signal, the page will wake up, all the pages receive the message, they look at the
+[09:08] the Rick number and work out if that's for them, and if not, they ignore it if it is,
+[09:11] they save it and bleep.
+[09:13] Flex, every 1.875 seconds, the base station sends a little burst, like a synchronization signal,
+[09:22] and the flex pages will synchronize, so there's still just even if they will synchronize
+[09:25] to that, so when you first power it on it, it takes a few cycles of, you know, a few
+[09:30] seconds to actually synchronize up, and then the receiver in the page will only wake up,
+[09:35] every 1.8 seconds for, well, up to two seconds, I think basically, so, well, it's 125 milliseconds
+[09:42] of receive, and then they'll go back to sleep, and apparently this was more efficient,
+[09:46] but yeah, it was an interesting thing when I started decoding these signals.
+[09:51] There is something in Flex called the emergency-re-sync signal, so if you have a device that
+[09:55] isn't synchronized, you can wake up all the pages by sending a, I think, a 5 second
+[10:00] long burst of data, and any Flex page will just synchronize to that and receive a message.
+[10:08] So, the 90s, which was actually quite a long time ago, I don't quite believe it yet, but,
+[10:15] you know, it still felt like, 1998 was like fairly recent, that was modern, wasn't it?
+[10:21] What was happening in the 90s?
+[10:23] So mobile phones, mobile phones were around in the 90s, we didn't have pre-pay,
+[10:28] it was all very late 90s at least, so you had to have a contract, there was, well,
+[10:33] there was four networks for most of the 90s, but you still had to sign a contract,
+[10:37] because it was probably about 30, 40 pound a month, and, you know, calls are expensive,
+[10:43] and really mobile phones were not accessible to the masses, at least until the latter stage of the 90s.
+[10:49] The other thing that introduced pageing that really took off in 90s was what was called
+[10:54] calling party pains, CPP pages. So again, pages have been around for a while, but you had a
+[10:59] contract, you signed a contract, you paid a monthly subscription, 15 pound a month, there were
+[11:04] very much a business type device. I think it was page one, well, the first company that came out
+[11:09] with this concept of CPP pages, where you could go and buy a page for £60, £70, and that was it,
+[11:16] there was no subscription, but anybody that called your phone number for your page, paid 40,
+[11:22] 50 pence per call, so it was like a premium rate number, and that was what was great for kids and
+[11:28] things, that was why I had my first one, because you could buy it with your birthday money,
+[11:31] or it was that sort of price band, but then you didn't have a subscription, but when your parents
+[11:35] wanted to get hold of you, they called you on the home landline, and you just got charged to the
+[11:39] home phone bill, and as long as you didn't spend all your time calling your mates and running
+[11:43] up huge phone bills sending page messages to your mates, then you didn't get into much trouble.
+[11:48] And also the culture of it was kind of, you know, it was all the kids TV shows, the teen stuff,
+[11:54] pages were coming out, and like bright neon colours, that you know, this kind of design of the 90s
+[11:58] that fitted really well with our shell suits, and that kind of thing. I also found a fantastic source of
+[12:04] reference for his story of tech. There is a website that has every Argos catalog online as a PDF
+[12:10] since like 1984. So you can, and again, for those of you that age remember browsing the Argos
+[12:15] catalog, looking at all the cool toys. These are the pages from the Argos, the pages of pages
+[12:21] from the Argos catalog in 95, 96, 97. So you can just about see the top one left for there, first one,
+[12:29] that was the one I had, that was a numeric only one, that one was 79, 99, when it came out.
+[12:34] The other one below it was numeric only. 96, I think we were still kind of the same, the
+[12:39] prices were coming down a bit, but then numeric only. 97 was when text pages came out, so I upgraded to
+[12:46] that far top green, Vodafone's app one. I had that one, and I could get text messages, and then you had
+[12:51] an operator and things. And there was a few different designs, and you could start to see the colours coming through.
+[12:58] And then by 98, we see like prepaymo by phones from orange just started coming in.
+[13:04] Pages were kind of, this was sort of the dying end of pages really, the late 90s, as prepaymo by
+[13:11] phones took over, but you had these colours, you had to have a flex one, that little far end,
+[13:16] like blue, much of all the one, is a flex pageer. So I mean, they got kind of a bit less
+[13:21] corporate a bit more fashionable, this was fashion in the 90s. But yeah, the Argos catalog is fantastic.
+[13:27] So where are we today? Pages are still in use today. These photos are all, I did a version of this
+[13:36] talk back in March, and as of mid March, these were people, friends of mine's active pages.
+[13:42] That top green one, that's a hospital in Somerset, that is an onsite pageing system for the
+[13:47] medical wedge. So that is the device that is carried by the uncool medical registrar around the hospital
+[13:53] and how they contact her on her shifts. That's one that just bleeps doesn't have a display,
+[13:58] it does do voice, and it's an inches before he's paging and moving to. It's an onsite network,
+[14:02] because they have a transmit one, the roof of the hospital, the pageer only works around the site,
+[14:07] but obviously you know, it's the call you from wherever you are at one end of the hospital to run
+[14:11] the other end of the hospital, usually, and then get you one to the other end of the hospital,
+[14:14] and then the other end of the hospital, and then the other end of the hospital, and then the other end of the
+[14:14] hospital, then the other end of the year. Five of the gate. So again, friend of mine's over-tained firefighter,
+[14:19] that's his even five-vigade pageer. So the five-vigade run that, because if you're
+[14:23] retained fire crew, you sit at home, you know, you have a day job, and then there's a fire,
+[14:28] your pageer's going out, you run to the fire station, you get on the truck, you go. That's still
+[14:32] all how the fire service is done in, you know, outside of cities in a large part of the UK.
+[14:37] Fire service one of their own pages, the one frequencies, that's why you're quite
+[14:40] in see on the tower, the training tower and extra fire station, there's an antenna on the top of that,
+[14:45] because that's their pageing network, and again, because the people are local to the fire station,
+[14:49] they only need to cover, I think you have to be within five minutes of the fire station to get
+[14:53] called out anyway. So if your pageer doesn't have coverage, it's no point, pageing you here,
+[14:58] to say, oh, there's a fire in some of the set, can you please come and get on the engine,
+[15:01] because, you know, you'll be long on to the page, everybody wait till they get six people and go.
+[15:07] I want to lie, again, another one called thing, they still want their own private national
+[15:11] pageing network, so they have hilltop sites and again, the local, the cruise or carry, carry pages.
+[15:19] And then there's critchco, so a critchco, there's critchco, or what used to be known as page one,
+[15:24] they redranded, so this is still the line of UK public national network that's operational.
+[15:30] So they have two frequencies, a flex and a box-ag channel, and they still have people with
+[15:36] subscription pages, certain organizations are still using them. There's some bird rescue stuff
+[15:41] like you're saying, you can actually decode page messages over the air and I keep seeing one's
+[15:44] a page about like, injured cornwinter in this wildlife park or something, so there's some variation
+[15:49] of like RSPB used, paid their pageing network and a few other things. So onto demos, let's see,
+[15:57] we'll do another one. I'll say this all got a bit of hands, and I ended up buying a few old pages on eBay.
+[16:11] I had a bit of a habit, is that showing? Oh no, there we go.
+[16:18] So yeah, this box was mostly empty at the start of the year.
+[16:25] I started buying up all the old pages, I could find some latency on that.
+[16:30] But a few interesting ones, this one is a critchco pageer, or a page one pageer. This is a
+[16:39] CPP pageer from the 90s, which has a phone number on it, but it's still live. So this was bought
+[16:44] for 60 quid back in the 90s, and the number, most of them are disconnects, because if you didn't
+[16:50] receive a call for like three years, they disconnect it. This one it turns out is still connected.
+[16:56] And so we can call the pageer.
+[17:04] To noon, welcome to critical, the new names are page one. You can call the line for an operator,
+[17:11] or enter your numeric message now. So on it. I'll just put a numeric message in rather than
+[17:16] the message was not accepted. Thank you for calling. Good bye.
+[17:20] That's my fail. It did work earlier, but basically yeah, that would have cost me 75 p.
+[17:26] There's a weird bug as well that we funded tomorrow, but the final question. But yeah, that is still a
+[17:31] live pageer. Some of the other more interesting ones. This is one of my favorites, this is one of the
+[17:40] nicest, this is the Motorola Advisor, the one that's in hackers. So the one that Z serial killer
+[17:45] uses is spray painted neon yellow. It's basically one of these. So this is not, this is an XBT1.
+[17:51] BT's network is dead. I think if you can see the screen too well on that, let's just move that a bit.
+[17:59] Come back to you. There we go. But yeah, so that's not there. So the network's dead.
+[18:06] But I discovered about building a tiny network. You can build your own pageing transmitter,
+[18:11] or I figured out how to do it. So as anybody seen, one of these,
+[18:16] lower tracker friends and the audience, this is a sense cap T1,000 D. So it's a Bluetooth device. It's got GPS
+[18:23] and everything. But it's also got a little radio in it for the lower. That radio is actually incredibly
+[18:28] programmable. So that will go down to 150 megahertz. This one's 153 megahertz.
+[18:35] This will do FSK modulation. Poxag is FSK modulation. So I have some custom firmware on here,
+[18:43] which will now act as a paging transmitter, and incredibly low power. I've got it set. This will go
+[18:47] up to about 22 dBm. But you can go down to negative 9. So that's like 0.01 milliwatts.
+[18:56] But we can actually, and just in case it's anybody from offcoming the audience, I have this
+[19:00] lovely Faraday box here. Just to, so I will shut the lid. But what I've then built is a little,
+[19:09] let's see my phone. So I have a LIS app, which will connect to the device over Bluetooth.
+[19:18] So I'm now connected to this on Bluetooth. I've set the frequency, I've set the power,
+[19:23] and I can 142493. If I enter the written number of the paging, the pager 142493, and on message,
+[19:33] hack, hack the planet. That won't work. It's got to be that.
+[19:41] Hack the planet. I'm just going to keep, we'll try not to leak too much RF. I mean, this is incredibly
+[19:47] low amount of power, but technically it's a licensed band. So, and that's received a message.
+[20:01] So, open it up. I'm going to have to return on the back point. There you go. You can just
+[20:07] about the lead. It says hack the planet. You can also, as if you can see just what on the screen
+[20:13] done there, but it says the date first of Jan 91, because when I put a battery in it, it reset
+[20:17] to its default times. So that tells you the kind of error it's from. It's, that's a fairly
+[20:23] one. This was the oldest one I managed to find. Actually, this is the tree cursor. To that,
+[20:27] it's the Motorola PMR 2000, which you can tell how old something is, because they called it 2000
+[20:33] to sound futuristic. But this is a pre version of that. This, I think, was 1987. This design came out
+[20:41] similar to that, but again, really old. And yeah, there's a whole bunch of stuff here.
+[20:46] This, again, is another nice one. This is a flex pageer, maybe a BT. This is actually an
+[20:51] Ericsson flex pageer. It's the only Ericsson while I've managed to find. And yeah, there's a whole
+[20:56] load. Also, swatches. If I remember swatch watches from the 90s, they started making swatch watches
+[21:03] with numeric pages built in. This actually has a pageer inside it with a second battery at a phone number,
+[21:09] and it receives numeric pages, so you could have a really stylish 90s swatch watch.
+[21:14] So, that's the most of the demos. The other thing I'm going to say, you've done it with those
+[21:21] little sense caps. I also, if you've got the Heltech radio boards, this is one of those Heltech V3s.
+[21:29] Again, I've put some custom firmware on it. Wi-Fi, IP page and gateway. So that, you can
+[21:35] make transmits with a pageer.
+[21:52] Perfect. So, like I said, this got a bit out of hand. I started playing around here. I can make
+[21:58] old pages work. I can transmit pages. I can also these can receive pages. The RF is a bit harder on
+[22:05] those because these are tunes to a very specific frequency. They're quite wide transmit now over
+[22:09] a sieve. So, these are only received on the lower 868 frequencies by actually right on top of it,
+[22:16] kind of thing. But then I sort of thinking, well, there's another, you can buy lower boards that also
+[22:20] do like 400 to 500 megs. The Chinese lower frequencies are down at the 4th week of E-band.
+[22:28] So, but it's the same chip and same firmware. So, I wonder if I could build something that would
+[22:35] run at 433 because that's a more usable frequency. And so, we ended up, I don't know, we've got it here.
+[22:40] I ended up building an expansion for the badge. So, this is Blipy. This is a Poxag Paging Transmitter
+[22:48] and we're seeing for the badge. So, I built 40 of these, I was real took at the end. But not only
+[22:55] that, we also have a Paging Network on site because why not. So, I called it Blipy Paging with some
+[23:02] keynote design that I worked with. And so, around to the site, there are three, I'm going to
+[23:08] digy Peternodes. If you're an amateur radio person, APRSDG, same concept. But they're basically
+[23:13] little hell tech boards. There's one decay at the top. There's one just out here and there's one
+[23:19] at the far end of the site. And those will receive messages, send down receive messages on the
+[23:25] same frequency as the Blipy board to set. So, you can transmit, you can write a message from your
+[23:31] badge, send it. It'll be picked up by one of those digies and we broadcast by the others. Or,
+[23:36] if you're close enough, badge to badge will also work simply because you don't need the network.
+[23:41] Everything runs on the same frequency, these just like, they digy Pete, digital repeats.
+[23:46] So, they don't repeat it in an analog way, but they store and resend. So, we've put these up this
+[23:51] morning and I don't think you can just make out from the map, I've watched it settle like one,
+[23:55] because I couldn't load on the MF map. But this is the kind of coverage. So, I had another
+[23:59] app on my badge, which has the GPS in it. And I walked around and every five meters, it would page
+[24:05] out to my GPS coordinates. And then the digies were picking that up, storing it, and plotting it on
+[24:11] the map with the colors. The colored dots aren't great because I got the scaling a bit wrong.
+[24:14] Actually, this is good signal. So, red is negative one-o-four, but it's still perfectly usable.
+[24:19] So, you can just about see the really right areas of one, I was right close. So, I should have
+[24:23] I should have scaled, like, negative 30 is green, negative 110 is red. And I did a linear scale in
+[24:29] between, but actually you really want to be like, negative 94 should still be green anyway.
+[24:35] So, most of that should be sort of green and yellow rather than red and orange.
+[24:39] But yeah, so we have an experimental page in that work. It's on 433900.
+[24:45] If you've got one of the programmable, dampness pages that you can change frequency, you can also
+[24:50] stick that on there. All of the bleepies will generate their own wick number. You can also subscribe
+[24:55] to other wicks. What I didn't say about wicks or is, paging has no concept of a form address.
+[25:01] It has the wick number and the message. But you don't know who it's from. There's no form, there's only a two.
+[25:08] So, when you're sending a message, it will literally, you can just send it to a number,
+[25:13] send it to a wick and the page will receive it and they have no idea what sent it other than that with.
+[25:18] There's also a little voice AI paging bureau I've built, so it goes through an
+[25:21] anthropic LLM and some text to speech stuff. But if you call 25337 on the phone system,
+[25:28] it'll then ask you to key in the page number, the wick number and you'll speak to
+[25:33] anthropic and see if it can decipher what you wanted to send. It'll pretend to be a paging operator
+[25:38] and take the message for you and then send it and it'll go out through the digits.
+[25:43] Cool, so, last slide, if anybody would like a bleepie, that is my van. I'm behind stage C.
+[25:50] I've got 40 of these, I've managed to make, so these are artisan hand soldered,
+[25:54] I've got the burns to prove it devices. So I'm going to do 20 today and 20 at the market,
+[25:59] tomorrow the expansion market in Nullsector. There's 20 pound each, which is basically what the
+[26:05] components pretty much cost me around is I think 18 something for the bill and materials.
+[26:09] I'm going to say one per person, I don't know if they're all four of them and take all of them.
+[26:15] It is plug and tray operation, so it should all just plug into the badge, the app is on the board,
+[26:21] it'll auto launch the app. If you've got the late to the two.of, where it'll then add it to the menu
+[26:25] of the app, if not, I'll explain it to you later. I've also got some bare PCB, so I've got 40
+[26:32] made up devices and I've got 50 just the PCB boards and you need to buy the components,
+[26:38] which is again about about 15, 16 pounds. It's an RP 2040 Raspberry Pi Pico tiny
+[26:46] version, get it from the pie hut, so a fiveer, a Pzo speaker and then the little radio module,
+[26:52] which again I'll give the link on the DGK and you can just solder the three components onto the board.
+[26:56] It's not, it is hand soldered with a soldering iron, if you're a little bit of patience and you can
+[27:01] build your own one. They can also be used over USB without the badge, so you can plug the USB into it
+[27:06] and use it by serial as a page and gateway. And with a minute, 90 seconds of spare, that's it.
+[27:14] That's my contact details, my website, sammachin.com, sammachin everywhere. My deck is 9,
+[27:20] triple five. Thank you.

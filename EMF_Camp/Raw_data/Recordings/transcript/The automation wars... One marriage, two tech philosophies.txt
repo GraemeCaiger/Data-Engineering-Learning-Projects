@@ -1,0 +1,532 @@
+[00:00] Thank you.
+[00:02] Thank you.
+[00:04] Thank you.
+[00:06] Thank you.
+[00:08] Thank you.
+[00:10] Thank you.
+[00:12] Thank you.
+[00:14] Thank you.
+[00:16] Great.
+[00:18] Hello everyone.
+[00:20] All that works fantastic.
+[00:22] It's mine.
+[00:24] Yes.
+[00:26] Good.
+[00:28] We will be talking to you for the next about 30 minutes of battle.
+[00:32] The automation was.
+[00:34] This is about this talk.
+[00:36] If I can.
+[00:38] So this talk is really an opportunity to explore many different questions.
+[00:43] We will be throwing more questions out at you.
+[00:46] Fan, we shall be given answers to.
+[00:48] You're going to hear a lot of anecdotes from a couple who have been navigating
+[00:54] together for a really two decades.
+[00:58] Some of them will be great anecdotes.
+[01:00] Some will be really awkward.
+[01:02] We will be really honest.
+[01:04] The reason this talk came about is because this was kind of the best way we could get
+[01:10] EMF tickets.
+[01:12] We really wanted to come.
+[01:14] We couldn't get tickets.
+[01:16] They did.
+[01:18] I secretly wrote a proposal on post.
+[01:22] We were excited and we are delighted with that.
+[01:26] What is this talk?
+[01:28] This is not intended to be a technical.
+[01:32] I'll share a little bit around what we've got set up and how it all runs.
+[01:36] It's not necessarily the best way of doing it.
+[01:40] It's a tall.
+[01:42] We have not experts in the slightest.
+[01:44] It's not a technical deep dive at all.
+[01:46] We don't have marriage issues.
+[01:48] This is more of a light-hearted conversational chat.
+[01:50] It's not a marriage or a cheap way of getting therapy.
+[01:54] We promise.
+[01:56] I'm with the talk.
+[01:58] Before we go on with this talk, I must say.
+[02:00] Just a slight trigger warning.
+[02:02] We were discussing the areas we wanted to touch on today.
+[02:06] We realised that one area that might come up is around control.
+[02:10] We wanted to give a bit of a trigger warning.
+[02:14] Please do look after yourselves.
+[02:16] If that's going to be a trigger fee.
+[02:18] A bit on terminology.
+[02:22] We might use the term Wi-Fi network internet.
+[02:26] I know there are very different things, but we'll use them interchangeably to refer to the general concept of it.
+[02:32] If it comes up, the sensor refers to a single piece of information.
+[02:38] A temperature reading whereas a device might be something which captures temperature and humidity at the same time.
+[02:44] Brilliant.
+[02:46] Before we get into the ends of the hours of our home, our marriage, whatever.
+[02:52] This is a modern fairy tale.
+[02:54] We met at university about 20 years ago.
+[02:58] It wasn't quite love at Versite.
+[03:02] We graced it on each other.
+[03:04] I think I'll see you maybe about that.
+[03:08] I was intimidated by you.
+[03:10] Okay.
+[03:12] I was just so quiet.
+[03:14] We didn't really get a chance to capture it.
+[03:16] But one was a different device, ditched us both at the same time.
+[03:22] We realised that the other actually wasn't so bad after all.
+[03:30] It was really a case of opposites.
+[03:32] To the point where one of our friends found out that we were seeing each other,
+[03:38] she snorted so hard, became out of his nose.
+[03:40] We are very different people in lots of different ways.
+[03:44] But somehow, over the years we have been able to make it work.
+[03:48] It all comes together in something beautiful, which you can see are family crest up there,
+[03:54] which I get to do through our wedding day.
+[03:56] We've got our shared love of dinosaurs.
+[03:59] Dinosaur's rule.
+[04:01] We have the cons badge from Star Trek and Signia.
+[04:06] We've got the moon, we love space.
+[04:09] We both love theatre theatre.
+[04:12] We both love camping.
+[04:14] That has been rekindled after a couple of years.
+[04:17] This weekend.
+[04:19] We've got on each side.
+[04:21] We have our set for interest.
+[04:23] I love to bake.
+[04:24] My name is Rosen Wolvenbaker.
+[04:26] I am Baker by nature.
+[04:28] And our set of love to build.
+[04:30] So we've got a soldering iron and circular saw plates.
+[04:33] It's a joining of two opposites, but we do come together quite well.
+[04:38] A little bit of story time.
+[04:41] A few months ago, I was at home by myself.
+[04:45] I was at home by myself.
+[04:46] I was going on a work trip.
+[04:48] I was sitting bed being like, right, it's time to go to sleep.
+[04:51] Ready to snuggle down.
+[04:53] I took out my phone and our home app, because everyone has a home app.
+[04:57] I pressed the shut down button or sleep button.
+[05:00] I think sleep.
+[05:01] Sleep.
+[05:02] Okay.
+[05:03] I pressed the sleep button.
+[05:04] What is the sleep button, do you?
+[05:06] It shuts off various different kinds of lighting around the house.
+[05:10] Locks doors and depending if guest mode is on, leave certain lights on.
+[05:16] We'll come back to guest mode later.
+[05:18] So I pressed the button and nothing happens.
+[05:22] I was like the lights were still on.
+[05:24] I don't know.
+[05:25] If doors are locked or not locked, what do I do here?
+[05:28] So it's like, you know what?
+[05:29] I am a strong confident woman who does not need to call her husband who is an India fast asleep.
+[05:35] I can work out how to do this.
+[05:37] So I opened up the app.
+[05:39] Like, like, the inner workings of the app.
+[05:41] I have access to everything.
+[05:42] I just not really good at understanding how it all works.
+[05:45] So I went in and, oh my goodness, I was like, I have not been in here for
+[05:50] Yonks.
+[05:51] I did not realize all of the things that are in here.
+[05:54] What did I find?
+[05:57] So yeah, we use home assistant as kind of the central core of everything.
+[06:02] If you haven't kind of seen that and interested in the subject, please check it out.
+[06:06] It is really impressive.
+[06:08] It allows you to tie together everything you've got.
+[06:11] You're not locked into one ecosystem.
+[06:13] We use pretty much all the different protocols, devices from the whole variety of manufacturers.
+[06:19] And slowly built up quite a few devices over the years.
+[06:25] And you can do some really interesting things with the data that comes through.
+[06:29] So I'm trying to track complete the lectures to use it across the house.
+[06:34] And it makes this really nice graph, which shows how energy moves from place to place.
+[06:39] But I've still got my untracked consumption at the bottom, which constantly irritates me.
+[06:44] It can never locate where it's going.
+[06:47] And yeah, this was one of the interesting use cases that came up recently.
+[06:53] So we've got a newborn and at night she would stir and we not wouldn't quite sure why.
+[06:59] So using a VAC sensor, we could detect if it was related to her farting or not.
+[07:05] And it was just her discomfort causing us to kind of roll around or we're expecting something else.
+[07:11] I also found another one of these in the downstairs toilet.
+[07:15] So apparently that if that goes off.
+[07:17] Yeah, rather than having a fan that turns on all the time, it only turns on when it detects.
+[07:21] Notchish gases.
+[07:26] Oh, yes. I really dislike the heat.
+[07:29] And for some reason it feels like if I can measure it in an excruciating level of detail, then it will help.
+[07:35] It doesn't, but I get some pretty graph showing how the temperature changes in my kind of home office space.
+[07:43] Oh, and all of this lives in our downstairs toilet.
+[07:47] So there's a nice paneling on the wall, which everything kind of sits behind mini computer, router network switch to left knee device as well as a couple of other manufacturer specific things, but it's all out the way and not seen.
+[08:03] Oh, and this was a quick kind of dollymp, some of the devices that we've got scattered around the house.
+[08:09] There's normal kind of WiFi access points and ceiling in the wall.
+[08:13] Got lots of door sensors scattered around the planes along with some kind of custom bits and pieces using ESP32 devices.
+[08:22] And yeah, a load of bits just scattered all over the place.
+[08:26] And because it's what home assistant, it doesn't really matter where it comes from or how it's made it all comes into the same place.
+[08:34] Yeah, I had no clue.
+[08:37] So as I was going through the app, I was like, okay, there's so much of this. How has our to be able to configure all of this without me really seeing it?
+[08:45] I mean, rather to you, amazing stuff. I have requested that.
+[08:49] I have a light switch that works rather than having to be able to always have my phone with me.
+[08:55] But there was so many things that were operating across the house that I started to have this mini existential crisis.
+[09:02] So I started to think, oh, am I now living inside a computer? Like, is this it? When did homes even start becoming computers?
+[09:08] I know we've got our central hub in the downstairs loop, but I didn't realise that the whole house was running in this way.
+[09:14] Is this what they make tricks actually is? Is this what the future is? I'm already living in the future.
+[09:20] So all of these thoughts, get going around my mind.
+[09:23] And so then started to think about, well, okay, well, are we normal? Is this a normal thing?
+[09:30] And I was looking at, it's not, it's not, it's not, it's not, spoiler alert, we're not normal.
+[09:38] So about 40% of UK homes says ofcom have a smart speaker in their home.
+[09:45] And 19% of those, a smart phone, smart speaker owners use it to control smart home devices like lights and heating.
+[09:56] So we really are in the minority. Perhaps not in this room though.
+[10:02] So let's have a quick poll with hands. What flavor smart home user are you?
+[10:07] So we've got three categories here either, it's just a speaker.
+[10:11] It's a speaker with fun extras or it's the control hub for my life.
+[10:16] Okay, so quick, show of hands for it's just a speaker.
+[10:20] Okay, go, go, go, go.
+[10:23] It's a speaker with fun extras.
+[10:27] Anyone else who's the control hub for my, for the life? Okay, this isn't a normal room guys, but yes, yes, quite an even split though.
+[10:35] Here, here.
+[10:38] Brilliant. So then we were looking at, okay, well, what, or I was looking at, what other things are there that are connected to the internet.
+[10:46] So there's things across our home that connected to the internet. What other things are there?
+[10:50] Are there some things that are ridiculous? It's not all really actually just ridiculous.
+[10:55] So again, a bit of a poll. So if you think they are ridiculous, they smart, please do point to your head.
+[10:59] Oh, sorry, I didn't mention audience participation.
+[11:02] So point to your head if you think they're ridiculous, they're smart.
+[11:04] If you think they're just ridiculous, give me a wave.
+[11:07] So smart teeth freshers. Now smart teeth freshers, map your mouth. Okay, go, we're quite ridiculous.
+[11:15] They map your mouth as you brush, give you statistics on your brushing time and allow you to understand kind of if you've kind of cleaned all the cavities.
+[11:24] I think that was kind of quite a bit of just ridiculous.
+[11:28] And a Wi-Fi egg tray.
+[11:30] Okay, cool, cool. So the Wi-Fi egg trays, they help you to know if your eggs are still fresh.
+[11:37] So they vibrate your eggs and let you know if your eggs are still fresh.
+[11:41] And smart water bottles.
+[11:44] Now that was one that you really liked. You were like, yes.
+[11:47] I wanted to make one years ago that kind of tracked every time you filled up the water bottle.
+[11:51] They would feed that into a Fitbit water consumption.
+[11:55] But now someone else has made it. It wasn't just you.
+[11:59] Internet connected salt shaker, which tracked, okay, yeah, cool. Yeah, it is ridiculous.
+[12:06] But it tracks kind of your salt intake and kind of tells a, whoa, does not do that.
+[12:12] The smart fork tracks how quickly you eat. What do we think?
+[12:16] Ridiculous. Yeah, great. Wi-Fi connected pet feeders.
+[12:21] Really, okay, everyone's like, yes, this is great.
+[12:24] Good until the services they rely on go offline and then your pets don't get fed.
+[12:30] Yeah, I know, I know. Poor kitty.
+[12:34] Smart umbrellas. Yeah. So I found that these things as you, like, if you leave at home,
+[12:41] and it's going to rain, it tells you, which is so ridiculous.
+[12:44] I mean, tell me before we let the house, please.
+[12:48] Oh, and smart nappies. What do you think?
+[12:51] Now smart nappies allow you to see if your child has a UTI.
+[12:58] Now, even the founder of the smart nappie themselves is like, this is going to cause parents
+[13:03] unnecessary stress. So I, as a parent myself, I quite agree.
+[13:08] However, it doubt us exist.
+[13:11] So, though these things are a bit on the ridiculous side, as well as being a little bit,
+[13:18] kind of smart and genius too.
+[13:21] There have been some things in our home that has really helped me.
+[13:25] Even though I absolutely love everything being analog and being able to understand how things
+[13:30] work, at least from being able to just touch my light switch, there have been these brilliant
+[13:36] accessories in our home.
+[13:38] So the first one is Guessnode, which came from a time where my mum came, and she was
+[13:46] walking down the stairs and we'd gone to bed. She was walking down the stairs,
+[13:50] asked her to sleep, but the whole house was in darkness.
+[13:55] So, guessnode was invented.
+[13:58] Yeah, this one quite simple, but it adjusts that kind of good night routine.
+[14:03] So it doesn't turn off certain lights, turns on bathroom lights, and yeah, just the heating
+[14:10] in the guest room.
+[14:11] Yes.
+[14:12] My mum is delighted because now she, whenever she comes, he put it into guessnode.
+[14:15] She doesn't have to keep asking us to turn the heating on.
+[14:18] She's not just stuck on the stairs in the middle of darkness.
+[14:21] The next one is music everywhere.
+[14:24] Now I love to dance and sing and just follow up around the house.
+[14:30] You love me, babe.
+[14:32] And when I was like, oh, we really great if the music could just follow me around the home.
+[14:38] Arthur was like, yes, it would.
+[14:40] I'm sorted that right out.
+[14:42] So at any time I say, play this music everywhere.
+[14:45] I can go in any room in the house and the same thing will be playing, which is great.
+[14:49] For the most parts.
+[14:51] For the, okay.
+[14:52] Although it was work doing that the other day, including in the office when I went in.
+[14:56] You set it up.
+[14:57] You set it up.
+[14:58] So if it was playing during your work meeting, it's, I think, needed a little bit of,
+[15:03] what was it, must have been some sort of 90s pop.
+[15:07] 10-rich sensors.
+[15:09] Yeah.
+[15:10] Obviously, sticking to 10-rich sensors everywhere.
+[15:13] It's an easy way to kind of get started with a lot of this stuff and where most of it began.
+[15:18] It's only, I think, to remember the nursery started become kind of useful there.
+[15:25] But yeah, it's kind of nice to kind of see how things are going, especially with the heat wave at the moment.
+[15:31] And understand which rooms stay hot for longer and for how long.
+[15:35] Yeah.
+[15:36] And when you have a toddler who is quite sensitive to heat,
+[15:39] understanding what the temperature is in her room has been great for me.
+[15:44] And then also, we've got this button by the kitchen door.
+[15:49] Because Arthur has a workshop and an office down at the bottom of the garden.
+[15:53] And rather than just be yelling, kind of, dinner's ready.
+[15:58] Or other things aren't quite as 50-hour for my fish.
+[16:01] Then I can press the button and it alerts him.
+[16:04] So these are great successes that I really love the automation and that we're going to do.
+[16:08] And that's what the convenience it is for to life.
+[16:12] But what we've realized is that the arguments that we end up having aren't about the technology itself.
+[16:18] It's actually about the values and what it means to us.
+[16:22] So what that bit of technology kind of, yeah, what it represents within our lives.
+[16:28] And so, kind of, when we're thinking about kind of what we're optimizing for, I think what we realize is that we're on very different sides of the spectrum.
+[16:37] So for you, Arthur, what are you optimizing for?
+[16:42] The sci-fi kind of life, I think it comes down to.
+[16:46] So automation, data, just for the sake of data, like who doesn't like collecting data about things.
+[16:54] The, yeah, that building that kind of environment that responds as you move through.
+[17:01] So you need to do less.
+[17:04] Is it going to go around?
+[17:06] Yeah.
+[17:07] Cool. I mean, for me, I'm like predictability.
+[17:11] If I press something, I want it to work.
+[17:14] The lights which already worked before.
+[17:16] I just, if I press it, it's there.
+[17:18] I'd love, like, efficiency.
+[17:21] That would be really great.
+[17:23] I'd like to understand.
+[17:25] Although, seeing that, as we'll see a little bit later, one of the things that I did so is that you didn't know how to do that.
+[17:30] I was like, but you didn't know how the lights worked before.
+[17:33] So why does it matter now?
+[17:34] But we'll come back to that later.
+[17:36] So one of the things that we've seen is, kind of, like, how do we, or one of the things we've been thinking about is how do you govern share tech?
+[17:42] Not that we are a country in our home.
+[17:44] We're not set ourselves up as a state, but within our home, like, how, or within anyone's home, how do you govern?
+[17:51] Like, what is installed and kind of what is installed?
+[17:56] So a little while ago, kind of when we first moved in together, I was like, oh, I'm going to go and buy a shower radio.
+[18:05] And I was deeply embarrassed for you.
+[18:08] That.
+[18:09] So I didn't buy a shower radio.
+[18:12] We went further to Steggurgle home mounted on the wall, so it gives you exactly what you want.
+[18:18] Plus, it does more than it is more useful.
+[18:21] Yeah.
+[18:22] And when that moved into music everywhere, I was delighted.
+[18:24] But at that time, I was like, but why can't I just install my shower radio?
+[18:28] It was just be so easy.
+[18:30] It would come tomorrow.
+[18:32] You wouldn't have to do anything.
+[18:33] But it didn't fit within the kind of the, what the framework of the house.
+[18:40] And so as we become more dependent on the internet on as more and more devices become connected,
+[18:48] is this something that we're going to need to have as more of a conversation?
+[18:53] Like, do homes need to have, do people need to be having agreements within their homes around what can be enscrolled,
+[18:59] what should have been installed?
+[19:01] Should children get any say in what gets installed?
+[19:05] Pretty sure she's just going to want anything that's got big buttons, but, yeah.
+[19:10] Yeah, I think at some point kids should definitely have a say, but only when they're aligned with my way of thinking.
+[19:18] And my absolute favorite that I've said completely deadpan as we were kind of talking about.
+[19:24] This is like, oh my gosh, should the house just have to need a privacy policy?
+[19:28] It's like, no, that does actually does the house need a privacy policy?
+[19:32] If anyone connects the Wi-Fi, it kind of skips up kind of macadresses with devices and timestamps, cameras,
+[19:39] mic, snapshot faces.
+[19:41] If it was a business, it certainly would.
+[19:45] We will still have friends, I'm sure.
+[19:50] So another story was the man in the loft.
+[19:55] So again, another time after went away, always breaks when you go away.
+[19:59] It's perfectly fine when you're here.
+[20:01] But another time after went away, I came home when my mum was visiting,
+[20:06] and we got in and all the lights in the house were off,
+[20:10] except for the loft light.
+[20:12] Now, I know when we left, the loft light was off.
+[20:15] So I had clearly decided and go did by my mum,
+[20:20] who absolutely loves a tree crime podcast.
+[20:23] I, we decided together that there was a man in the loft.
+[20:27] And I was like, oh my gosh, there's a matter of what we're going to do.
+[20:30] What, like, oh, do we call the police?
+[20:32] How do we do with this?
+[20:34] So oscillation was, for my mum to go outside with her, my bar phone.
+[20:39] Ready to call the police?
+[20:41] And for me to go up in the loft with a baseball bat,
+[20:43] and see if I could find the man in the loft.
+[20:46] There wasn't a man in the loft.
+[20:48] What had happened?
+[20:50] Rather than your mother saying, please turn on the light,
+[20:53] she had an S to the end.
+[20:55] And so every light across the house got turned on.
+[20:59] And that was for me an interesting kind of point.
+[21:03] Yes, it was called to have the loft light into the rest of the thing,
+[21:07] but I didn't really need to be exposed in that way.
+[21:10] So one of the things that we were then talking about is,
+[21:14] well, does everyone in the house need to be able to operate it?
+[21:18] So I asked us, but like, been trying to take me on this journey,
+[21:22] as much as the specifically possible,
+[21:24] I just don't always want to go on it.
+[21:26] So if it's been taking me on this journey, kind of showing me,
+[21:29] oh, this does this, and this does this.
+[21:31] But I don't always take it in,
+[21:33] and then I don't have the know how to be able to actually make sure
+[21:36] that it works properly at the other end.
+[21:38] But again, as we start thinking about how we design our features,
+[21:42] is that something that we need to be optimizing for,
+[21:45] ensuring that everyone in the house knows fully how to fix things
+[21:49] if they go wrong.
+[21:51] So this kind of brings us back to the doesn't really matter, point.
+[21:54] Because I have a point here.
+[21:58] If the light bulb had actually known,
+[22:01] if the light bulb would play, and I would have been able to choose the light bulb,
+[22:03] we're not that bad.
+[22:05] If something had gone wrong in the house before,
+[22:07] if the Wi-Fi had gone down or whatever,
+[22:09] would I have been able to do it beforehand,
+[22:11] before I have to put all of this stuff in?
+[22:13] Probably not.
+[22:14] But does that mean that it can get more and more and more complicated
+[22:19] as new things get added?
+[22:23] So, but really kind of made us start thinking about the hidden impact
+[22:27] of all of this.
+[22:28] One of those being controlled.
+[22:32] In our relationship, I think it's only come up once as kind of being a real
+[22:36] sticking point.
+[22:37] And again, that was when we first moved in together.
+[22:39] And you know what it's like when you first moved in together,
+[22:41] you're thinking, oh, where do we put our plates?
+[22:44] Do we have matching sets of this and that?
+[22:47] There was all of that, but also the excitement of,
+[22:50] oh, I get to set up a new home or not, aside.
+[22:53] Is that right, that fair to say?
+[22:55] Yeah, a whole new space rather than living in a flat
+[22:59] home, you've got to not do too much destructive damage.
+[23:02] I can kind of rewire all the lighting circuits.
+[23:05] They've got proper controllers at the heart at them
+[23:07] and make all these changes the way you'd want.
+[23:10] A house to be set up.
+[23:11] And it was, as this was being set up, obviously,
+[23:15] as it was telling me day to day, what was happening,
+[23:17] what was going in and was really excited.
+[23:19] I was like, what, who?
+[23:20] I'm really happy for you.
+[23:22] And then, one sometimes, though, I would come home
+[23:25] and lights were turned on and off.
+[23:28] And I was convinced our home was possessed.
+[23:31] Absolutely convinced.
+[23:33] Because things weren't, I think there were little bugs.
+[23:36] There were little bugs in different places,
+[23:37] and we weren't entirely sure where they were all the time.
+[23:40] Well, I was going to always give me a heads-up
+[23:42] that something wasn't quite working as it should.
+[23:45] And so, one day, I absolutely snapped.
+[23:48] And I was like, I just feel like I have no control
+[23:51] in my own house.
+[23:53] And thankfully, I mean, we wouldn't be together at that.
+[23:56] It wasn't the case.
+[23:57] But thankfully, I was like, okay, let's sort this right out.
+[24:00] Strupt everything back and only made sure that kind of things
+[24:03] that actually work, go in.
+[24:05] And now it's a whole lot better.
+[24:07] It's all good.
+[24:08] Yeah, for me, this was a real kind of change
+[24:11] and where I thought about things.
+[24:13] It was that thought that this data,
+[24:16] you can see how someone moves through a house
+[24:18] through the lights that they turn on or off
+[24:20] when they're there, when they're not there.
+[24:21] And you can use that for really unpleasant purposes
+[24:25] to kind of track a part and see what they're doing,
+[24:27] what they're not doing,
+[24:29] question them when they go out,
+[24:30] so you know, when they've gone out,
+[24:31] when they've opened a door.
+[24:33] And that was so far away from anything I ever wanted
+[24:36] to kind of have at home.
+[24:37] It was that kind of point to kind of go back and reassess.
+[24:42] But as much as we could have that conversation
+[24:45] and be open and honest with each other,
+[24:47] we've had many, many years of being together.
+[24:49] We know how to kind of navigate those situations together.
+[24:52] For so many new couples or thinking about kind of our children
+[24:56] kind of growing up and moving into relationships
+[24:58] and kind of going into new spaces
+[25:00] with all of this technology.
+[25:02] Like, how, where is the education around?
+[25:05] Having these open conversations to understand
+[25:08] what control feels like for each individual.
+[25:11] How, if one person is has the understanding
+[25:14] of the systems within the home,
+[25:17] but the other one doesn't, kind of,
+[25:19] where's the empowerment?
+[25:21] And how do you ensure that both parties are really empowered?
+[25:25] And that also comes through within digital inheritance
+[25:29] where kind of heaven forbid,
+[25:32] if anything were to happen to Arthur,
+[25:34] I would be screwed.
+[25:36] So screwed.
+[25:37] I keep, like, often say,
+[25:40] I'll get a man in and Arthur's like,
+[25:42] I am a man.
+[25:43] No, I don't mean it like that.
+[25:45] But I'd have to get a man in this instance
+[25:48] to cast her up everything away.
+[25:50] I could work out how the housework.
+[25:53] Do we need to make sure that there is documentation?
+[25:56] Do we need to make sure that there are ways of other people
+[26:00] knowing how the housework's.
+[26:03] I would like a PDF.
+[26:05] Please.
+[26:06] Maybe.
+[26:08] I feel like, as we've talked about,
+[26:11] AI can solve this problem quite well
+[26:14] if it's done right.
+[26:16] So, what we think about inheritance,
+[26:19] and other persons going to inherit all of this stuff,
+[26:21] is our gorgeous daughter.
+[26:22] So, enter play a three.
+[26:24] Little Miss T, as you can see here there.
+[26:27] She joined us in October 2024.
+[26:31] And since kind of like,
+[26:33] I'm not going to lie.
+[26:34] I have relaxed a lot about the technology in the home.
+[26:37] I'm like cameras, yes, please.
+[26:39] I would love a camera in her room.
+[26:41] So, we've started thinking about,
+[26:45] okay, what does that now look like for us
+[26:48] as we navigate the parenthood?
+[26:51] So, different from conversations we've had since having,
+[26:54] a baby camera is being the first one.
+[26:57] Yeah, we were at no cameras inside the house,
+[27:00] kind of family at all.
+[27:02] But, yeah, camera in the nursery, yes, that's there.
+[27:07] And the thought of capturing what goes on in the garden as well,
+[27:11] to capture those extra kind of moments that you wouldn't choose to film,
+[27:15] it's very tempting.
+[27:18] Screens as well, what counts as a screen,
+[27:20] like how much screen time can she have,
+[27:22] kind of thinking about if we set up the home in a particular way
+[27:25] that she's not able to then go into other people's houses.
+[27:28] I mean, I always already wave my hand over around and bins to see
+[27:31] if they'll open.
+[27:32] What is she going into other people's houses and doesn't know how to open
+[27:35] a bin or turn the light on or whatever?
+[27:37] We need to set her up for the real world.
+[27:40] And kind of if everything is automated at what point
+[27:43] does she get to learn the manual way?
+[27:45] So really thinking about how we set her up to be able to understand
+[27:49] kind of what things that like manually.
+[27:51] This is obviously a huge topic and a series of talks all on its own,
+[27:57] but kind of onto the deck's slide.
+[28:00] Then this I think is an interesting aspect of that.
+[28:04] So, after designed an AI tool and we've been kind of thinking about what
+[28:10] does the AI look like in our house?
+[28:12] Everywhere in our house, we realise that all of the voices will
+[28:16] women.
+[28:17] That probably wasn't the best message to be sending to our daughter.
+[28:20] So we started changing the voices within our home.
+[28:25] When you say the voices within our home, it sounds like again, you've been possessed.
+[28:29] But we started changing the different voices to have different accents,
+[28:33] different voices to make sure that she's not thinking that women
+[28:37] are just at your service continually.
+[28:40] And this kind of really came through in a UNESCO study a couple of years ago
+[28:45] where it was kind of highlighted kind of what this looks like for the next
+[28:50] generation.
+[28:51] If we continue to have AI assistance voiced by women, kind of what messages
+[28:57] that really sending to the next generation.
+[29:00] And kind of like a final anecdote to kind of round us off.
+[29:06] When we're in the car a few weeks ago, I was like, listen to a voice
+[29:11] note on WhatsApp out loud in the car and it said,
+[29:14] Oh, and he wants to respond and the ear was in the back.
+[29:18] And it was like, oh, no thank you.
+[29:20] Which is gorgeous.
+[29:21] Like, yay.
+[29:22] But also, she'd have no context around where is this voice coming from?
+[29:28] What does this mean?
+[29:30] Like, can I, is this AI in my friend?
+[29:32] Is this, is this not my friend?
+[29:34] How do I interact with it?
+[29:36] And so one of the things that we're now really thinking about navigating
+[29:39] is, well, how do we help her to grow up in a world where she gets to be able to
+[29:43] distinguish between kind of humans and not humans.
+[29:46] And we're also, absolutely, minding our peers and peers when we're talking to
+[29:50] talking to all of the things around the home to make sure that she picks up
+[29:54] that you must be, you need to be kind to everyone, right?
+[29:57] So there are a million other questions that we could explore.
+[30:02] But hopefully that gave you a bit of a few to take home with you
+[30:05] and to start thinking about yourselves as well.
+[30:08] Thank you all so much.
+[30:10] And we will be at the question Q&A 10 if you've let's chat.

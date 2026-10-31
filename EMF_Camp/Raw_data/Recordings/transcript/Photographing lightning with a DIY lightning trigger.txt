@@ -1,0 +1,260 @@
+[00:00] Thank you for coming.
+[00:15] My name is Dan and last year in May, that is not working.
+[00:24] I went on a trip to America with my brother and two of his friends from uni.
+[00:32] The three of them do this trip every year and they go to trace storms and they love watching a good tornado.
+[00:40] Luckily, they are meteorologists and so they know what they're doing.
+[00:45] They will wake up in the morning and they will look at the weather models to work out where they're going to go next.
+[00:52] They will record weather observations and they at least understand what these diagrams mean.
+[01:03] They constantly check the radar to make sure that we stay out of trouble as well, which is I'm very grateful for that.
+[01:11] Now, I am not a meteorologist.
+[01:15] I also can't spell meteorologist.
+[01:18] My expertise lies more in shortly written Python scripts and the history of robot was on BBC.
+[01:26] My aim for the trip was to just take some nice photos and I wanted to take some photos, particularly in lightening.
+[01:37] In 2022, the three of them, because they do this trip every year, they took this photo and this is one that my brother got by taking a video of the storm on his phone.
+[01:51] And then lightning happened to be there.
+[01:54] In order to get that image there, he took a screenshot of the video from his phone, which is, you know, if that's not that bad.
+[02:05] But the problem with that is that it's not really the best quality image.
+[02:10] Obviously if you zoom in, the shape of the lightning bolt isn't particularly well defined. Can you see that particular?
+[02:17] Yeah, good. The shape isn't particularly well defined. The resolution isn't great.
+[02:22] There are video encoding artifacts on there and there are some other defects that are caused by the rolling shutter effects on the phone.
+[02:30] And I thought if I brought my SLR camera that I'd be able to capture something a bit better, maybe.
+[02:37] So lightning triggers already exist out there. You can buy them, you just plug them into your camera and they supposedly just work.
+[02:48] And so I thought originally I would just buy one of those because I doubt that much time.
+[02:54] This one here from Amazon looked pretty good, but it had sold out. The Pluto trigger also looked really nice.
+[03:02] Had its own website and everything had also sold out.
+[03:06] And then there was this this other website, the lightning trigger store.
+[03:10] And they, what did they have?
+[03:15] It looked like this website hadn't been updated since like 2002.
+[03:19] I'm also sorry, but at $389, there was no way that I was going to pay for that.
+[03:25] So I thought I'd rather try and make my own.
+[03:28] So I had this SLR camera, a micro controller, an electronic starter kit, and a little bit of spare time.
+[03:36] And I thought, like, if we go on on this trip and the clouds are over there.
+[03:44] And I am a safe distance away with my camera.
+[03:48] If lightning happens over there, I want the camera to take the photo before the lightning fades away.
+[03:54] And if all that works, I will be a very happy boy.
+[03:58] So the camera that I've got is a Canon DSLR.
+[04:03] I bought it over 10 years ago, bits of it are falling off, there's gunk in the lens.
+[04:08] And it doesn't have Wi-Fi like your modern cameras do.
+[04:12] But if you look at the side of it, there are a couple of jack ports in there.
+[04:18] The top one is a 2.5mm port, which allows you to plug in any of those triggers.
+[04:25] I didn't know how they worked, so I thought I'm just going to stick a wire into it and see what happens.
+[04:31] And conveniently, one of the, I bought a set of headphones that had a 2.5 to 3.5mm cable.
+[04:39] And I thought I was going to plug it in, nothing happened.
+[04:42] And then I put a wire from the tip of the 3.5mm cable into the sleeve and that created a connection and triggered the camera.
+[04:55] So that was pretty cool.
+[04:57] You can think of this a little bit like an electronic circuit.
+[05:01] Kind of just, yeah, do some hand waving here as well.
+[05:04] But on the right hand side of the circuit is, you've got a battery there, the little X,
+[05:09] like, be the camera, maybe.
+[05:11] And then on the left hand side is this, it's like a, you can think of it like an open switch.
+[05:17] And then when you connect the tip to the sleeve with a wire, that switch closes.
+[05:22] And it completes the circuit, allows current to flow the camera triggers.
+[05:28] And so what I needed was a way to operate the switch programmatically.
+[05:33] And it turns out there is a thing called a transistor that will really help you with this.
+[05:38] And it is a small little black thing with three wires poking out of it.
+[05:42] There are different types of transistor.
+[05:45] And if you came here to know the difference between the NPN or a PNP transistor, I'm afraid you've come to the wrong talk.
+[05:52] It looks a bit like, well, it looks like this on a circuit diagram.
+[05:57] And you can see the three pins top, bottom and off to the side.
+[06:02] I prefer to think of it like that with a little switch on the inside of it.
+[06:09] And the idea is if you were to apply a small current to that middle pin, it effectively closes the switch,
+[06:16] and allows current to flow between the top and bottom pins.
+[06:22] So yeah, in our previous circuit design, you can replace that switch with the transistor.
+[06:29] And the idea is there's also, like, you can complete the circuit and all of that, but I'm skipping over that.
+[06:36] You can, we can move on to the next slide.
+[06:42] Because it is a light-dependent resistor.
+[06:46] It's got a really good name because it's resistance-trainters.
+[06:51] When light hits it or with the amount of light hitting on it, we can see that in action here,
+[06:58] so I've connected up a multimeter and it's measuring the resistance.
+[07:01] So under my desk lamp, it's reading at just over two kilowounds.
+[07:06] But when it's put in shadow, the resistance will increase to eight kilowounds.
+[07:11] And I wasn't sure if lightning flashes would be too fast to register a change in the resistance,
+[07:17] but this one way to find out.
+[07:19] And that was to experiment.
+[07:21] But this here is also a Raspberry Pi Pico microcontroller.
+[07:26] And you can get one for about five pounds.
+[07:29] You can program it in C or in MicroPython.
+[07:32] And that is really convenient because I already know Python.
+[07:38] You can program it to send current down any of the GPIO pins on the side,
+[07:45] which is really convenient if you want to operate a transistor.
+[07:50] And also some of those pins on the side can be used for analog input.
+[07:55] So where you can read changes in resistance, for example, if you've got a light sensor,
+[08:01] and you want to read something from there.
+[08:04] So putting it all together, it looks like this, which is really messy.
+[08:10] And I couldn't really test it at home before the trip, because the weather was too nice.
+[08:17] So I didn't know whether it was going to work properly,
+[08:21] but what I did know is that before I took it to America,
+[08:26] that I wanted to meet it up, and I wanted to start soldering some things together.
+[08:31] And I planned it out like this.
+[08:34] I had to buy a few extra things for it.
+[08:38] So the thing with all the holes in is a phototyping board.
+[08:42] I also got a jumper wire set where you've got all the wires which are cut to the right length.
+[08:47] And in order to make a decent connection between the camera and the Raspberry Pi,
+[08:53] you can buy these three and a half mill breakout adapters.
+[09:01] And so there's three of them there.
+[09:05] If I wanted to mount the light sensor on top of the camera,
+[09:10] I also needed another three and a half mill cable.
+[09:14] And that's on there.
+[09:18] So when I started soldering it, I realized quite quickly just how useful blue tack was.
+[09:25] So you can hold it all in place, put the iron in the solder,
+[09:30] and attach your components from when it stops I down.
+[09:35] And the end result, look like this, which I'm sure you can agree,
+[09:38] is a lot nicer than that original prototype.
+[09:43] The code is really bad, so that's why it's so small.
+[09:46] Hopefully you can't read that.
+[09:48] But all it needs to do is when the mic controller starts up,
+[09:53] you want it to just collect like some background readings of light.
+[09:58] And in a loop, we want to just take another light reading check.
+[10:03] Is it significantly brighter than what we've seen before?
+[10:08] And if so, we trigger the camera.
+[10:11] And if it's what the same.
+[10:17] We add the new light reading to this list of previous light readings,
+[10:27] and remove the order.
+[10:29] So we're always looking at the last couple of seconds of light readings.
+[10:34] So if brightness changes gradually, it's not going to affect things.
+[10:39] So this is me testing this out with my phones torch.
+[10:45] And the numbers are just what come out of the RASB Pi.
+[10:51] Can you see where the lightning is?
+[10:55] I hope you can.
+[10:56] It's just there on the right hand side.
+[10:59] And that's what I mean by significant.
+[11:02] There's just like a little bump up.
+[11:03] And if I can write some code to spot that, which I did, then that will trigger the camera.
+[11:10] So the final setup look like this.
+[11:14] I've, you can see how I've mounted the light sensor on the top of the camera.
+[11:19] It's more blue tag.
+[11:21] And I've also put it inside the tip of a ballpoint pen to sort of like focus.
+[11:28] For light.
+[11:29] So, yeah, I don't want, if you're looking this way, I don't want to capture a lightning bolt from all that way,
+[11:35] because the camera's pointing over there.
+[11:37] That was the thought anyway.
+[11:39] The RASB Pi is powered by USB power bank.
+[11:42] And the only way that I could test this was to shine my phone torch,
+[11:47] and it looked like it was reacting all right.
+[11:50] So, but what I wanted to do was to measure the reaction time of the system.
+[11:57] And how do I do that?
+[11:58] I do that with another RASB Pi and some blinking lights.
+[12:01] There you go.
+[12:03] So, that is a particular pattern.
+[12:06] And if we slow that down and what I did was I took a long exposure photo while panning across.
+[12:11] And we can see that pattern in action.
+[12:15] And what's going on is that very top LED is just on constantly.
+[12:19] And then everything underneath is counting up to 256 in binary.
+[12:24] And that's the number of milliseconds since that top one turned on.
+[12:29] So, the idea is if I mount the light sensor on top of that constant LED,
+[12:36] plug it all into my camera and see and set the shutter speed really fast,
+[12:43] we can see that it takes that photo and we've got 110, 110, 110, 110,
+[12:49] which is 189 milliseconds.
+[12:53] And which is quite a long time.
+[12:56] That's not very lightning fast, is it?
+[12:59] I mean, I don't know how fast lightning is at this point.
+[13:02] So, but I want to do was to speed up the reaction time a bit.
+[13:07] Long story short.
+[13:11] There is, if you turn off the video preview, that speeds things up quite a lot.
+[13:16] But then there's also this thing called mirror lockup,
+[13:20] which is a thing that keeps the mirror of the SLR up.
+[13:25] Or you push the trigger that goes up and then when you push the trigger the second time,
+[13:29] that's when you get the lowest, the fastest reaction times.
+[13:34] And so, I was pretty happy with that.
+[13:36] The board itself reacts much quicker.
+[13:42] And so, it just meant that the most of that lag time,
+[13:46] well, what was it? It was 83 milliseconds on average.
+[13:49] Most of that lag time was within the camera,
+[13:51] not within the board that I'd sold it together.
+[13:54] So, yeah, I don't have time to explain how I measured that.
+[13:59] I then took it to America to test it in production, if you will.
+[14:05] Luckily, it survived the journey.
+[14:08] And so, here we are, we are on the road.
+[14:10] This is the first day.
+[14:12] And we were chasing a storm.
+[14:14] We saw some lightning in the sky. I was sat in the back seat.
+[14:17] And I thought, you know, I'm just going to plug it all in.
+[14:20] Just point it out there. Just hand-held.
+[14:23] I'm not expecting anything decent, but we'll see if it works.
+[14:26] But it's about time for some lightning facts.
+[14:29] So, lightning occurs when the base of the cloud becomes negatively charged due to lots of ice particles rubbing together.
+[14:39] And when the potential difference gets to 100 million volts,
+[14:47] if we get some these stacked leaders and streamers and bits of lightning,
+[14:55] you might see it if you see that slow motion videos of lightning.
+[14:58] You can see them coming down from the top and they're branching out and they're trying to find a path down to the ground.
+[15:05] Also, at the same time, you'll see these streamers coming up from the ground.
+[15:10] And when they make a connection, bam!
+[15:13] That's when you get that really bright flash of light.
+[15:16] So, the streamers take about 50 milliseconds to do their thing.
+[15:21] And then that bright bolt will take about one millisecond.
+[15:26] Oh, no, less than a millisecond. So, it's really, really fast.
+[15:29] So, also at 30,000 dmps, 30,000 degrees C as well, which is really hot.
+[15:35] I wouldn't recommend getting struck by lightning.
+[15:38] But we don't care about that.
+[15:42] This is, you know, back to the story.
+[15:47] So, I was pointing the camera out the window when it took this photo.
+[15:52] I mean, I can't even see it on there.
+[15:54] I can see is to lower the brightness a little bit.
+[15:57] And you can definitely see there is some lightning there.
+[16:00] So, we can see it works.
+[16:03] So, then we found a good place to stop.
+[16:07] Set up the tripod, help the pie in one hand,
+[16:11] and captured eye-capted this video.
+[16:14] I'll be holding the tap on the camera.
+[16:16] Thank you.
+[16:17] We are right now.
+[16:18] Oh, I love this.
+[16:21] It works.
+[16:23] So, that is that thing that I saw this guy that reacting to lightning
+[16:28] and capturing this pretty amazing photo.
+[16:30] I was really pleased with myself.
+[16:32] And you can even see with this one, you've also got like the leaders coming out as well,
+[16:36] which I wasn't expecting to capture at all.
+[16:39] So, what actually happened there?
+[16:41] If we do this in slow motion, there were actually three different,
+[16:47] different bolts there.
+[16:49] So, that first one at time zero comes and goes.
+[16:54] Camera hasn't reacted.
+[16:55] Camera reacts at a hundred milliseconds when you see the screen is off.
+[17:00] But that third bolt that happens is the one that the camera actually took.
+[17:06] So, I was really pleased with that because I managed to get this picture out of it.
+[17:11] And if we zoom in, the image is still a little bit grainy,
+[17:15] but I really like how the lightning is quite even.
+[17:19] And yeah, it was a nice surprise that it caught all of the leaders as well.
+[17:24] I think the photo could have been better if I used the optical zoom a little bit more,
+[17:29] but I was really happy with this result.
+[17:32] Now, obviously, I've got more quite a few more.
+[17:37] So, this one here was, I had quite a few of this type where you couldn't see any of the leaders.
+[17:44] I then had this one where there was going right across the sky.
+[17:48] You can just about see there.
+[17:50] This one was really cool because I had the rest of the group in it and they just happened to be pointing.
+[17:55] And I really like this one where you've got a really bright flash coming down to the ground.
+[17:59] And then there's also stuff going across the sky.
+[18:03] But it wasn't perfect shots every time.
+[18:06] These are a whole bunch of the failures.
+[18:09] They were often triggered by lightning, which it happens, and obviously the camera reaction time isn't quite as good as it maybe should have been.
+[18:19] We get some bolts that come out of shot.
+[18:23] We've got a carb rate light in the top right, which triggered it.
+[18:27] And yeah, it just didn't really work particularly well at night.
+[18:33] Probably something to do with my maths or something.
+[18:38] And I really enjoyed this one of a car driving past and it captured that.
+[18:43] So some photography tips, if you are foolish enough to do this yourself.
+[18:48] What you want to do is set your focus and exposure and just keep it on manual.
+[18:57] And you want a, or I found that a longer exposure tended to work better because then you're more likely to get more lightning.
+[19:07] Turned off image stabilization.
+[19:10] If you're on a tripod, you cannot get it more stable.
+[19:13] So there's no point.
+[19:15] Zoom in maybe be lucky. That's important.
+[19:19] You need to be pointing it in the right direction.
+[19:22] How do you know that it's the right direction? You don't.
+[19:25] And also don't get struck by lightning.
+[19:27] Stay a safe distance away and maybe travel with meteorologists as well.
+[19:33] Oh, and we also saw some tornadoes.
+[19:35] That's all of the photos that said that my brother took.
+[19:40] So that's the end of the talk.
+[19:42] The lightning detector.
+[19:44] There's a workshop.
+[19:46] So Derek, is Derek Woodruff here?
+[19:48] Yes, hi.
+[19:50] So on Sunday morning, there will be a build a lightning detector workshop.
+[19:55] That does not use a light sensor.
+[19:57] That's detecting radio waves instead.
+[20:00] And I'm really looking forward to going to that building another lightning detector
+[20:05] and trying to hack that to trigger my camera as well.
+[20:09] So there we go.
+[20:10] Thank you very much for watching.

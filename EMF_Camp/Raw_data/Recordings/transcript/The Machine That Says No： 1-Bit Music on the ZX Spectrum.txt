@@ -1,0 +1,211 @@
+[00:00] Thank you. Hello. So this talk is a whistle stop tour so I'm going to go dead quick through this because I've got quite a lot of notes that I want to get through.
+[00:25] And my journey is of trying to make my ZX Spectrums, I don't want to pluralise its spectra, it feels weird.
+[00:35] And my ZX Spectrums make nice noises. ZX Spectrums do not make nice noises. This gives me massive anxiety this in the background if anyone has had one.
+[00:45] For an expecting this at any moment, which is a classic thing. I'm using two Spectrums proper and a recreation of one using the Christmas regression of the U.L.
+[00:59] But for all intents and purposes it's 3 48K ZX Spectrums for not being introduced too.
+[01:05] The Spectrum itself is a chatting. Can't make noise. But it's not very good and most importantly this happens.
+[01:18] It makes the noise. It completely uses all of the processor power to use the noise. And that's a bit of a pain if you want to do something more musical for instance or indeed fun with it.
+[01:37] So it's a cheap machine. 982 it's cheap at the time. It's competing with things like the Commodore 64 that has a dedicated sound chip. This has no sound chip. This has no no DAC dialing.
+[01:49] This is just a bare bones machine. The technology itself dates back to the 1950s really where you've just got a beeper.
+[01:56] The idea is the beeper will beep to tell you the computer has done something. It's not for making music. So anything beyond that is a little perverse. If you want to leave now, that's fine.
+[02:07] I'm cheating and using flash lighting. What? No tapes.
+[02:14] I don't want to show off, but I like this piece of music. But it is just using beeping. It's in basic and it's just the beeper.
+[02:28] I see nodding your head like you're popping to this. It's a really simple program. It uses a lot of beep commands, stored in data statements.
+[02:43] It's a little bit reductionist as a way of making music, but it is possible. In 1985, single air introduced the 128-cospectrum. This does not exist in my life. This had a AY3-8190 series audio chip in it.
+[03:02] We don't include that. I'm not interested in the idea of how we can make it on the original machine.
+[03:11] Lesson time. I wrote this in basic as well. I'm going to tell you about the ULA. That's the uncommitted logic array that Francie built to go within the ZX.
+[03:22] It's a really common processor at the time. The ULA was built and it did a lot of the input and output.
+[03:35] It has a load of pins. It's got 40 pins. This one. In 28. It's the one we're interested in.
+[03:45] We directly connected the buzzer speaker. We can move that speaker into one of two states. Hi or low.
+[03:54] A little bit of physics. We can move it high and low so we can move the speaker both forwards and backwards. If we do that at a regular interval, we get sound of a particular wavelength and a particular frequency.
+[04:07] Now there's going to be a question later. David, I'm going to ask you, say pulse width.
+[04:14] The first thing is a square wave. The second one is a pulse wave of a different width. This has a different tonal quality. This will become important later in the talk. Different duties like a different pulse width.
+[04:35] Physics.
+[04:37] Vibrating the rhythmically. That's what sound is. We can vibrate the rhythmically.
+[04:44] Faster is higher. Beyond about 20 times per second we're hearing it as a note. When we're up into this frequency, it's a pretty piercing note.
+[05:04] At some point it becomes beyond the frequency of our hearing and dogs complain.
+[05:11] We can also do the thing where we change the pulse width each time. We can shorten it.
+[05:27] We can make sound effects like that. That's really what this was being used for most of the time.
+[05:38] It's quite a fun to do. I have to put a note to myself to get out of that when I do it.
+[05:45] We can also make those kinds of things by effectively randomly cycling when this is going up and down. This is what we'd expect.
+[05:57] I'm going to talk about Z80 assembly. I'm really sorry. If this goes every people's head, it won't last too long. I promise you.
+[06:03] I'm going to teach four instructions in Z80 and we're going to make a musical loop. The people at the front are well trapped.
+[06:14] Here it is. Here's my sound loop. This is the most simple sound loop I could think of writing in Z80 assembly, which I have done.
+[06:21] The things on the left sound loop, white high adjust labels. The section in blue is basically repeated.
+[06:28] I can take you to the section in black. I load B with a counter, which is 200. I do a D and J Z.
+[06:36] I'll be B will go to 198, and so on. I thought it repeats. That's over and over. Then I load the A register with a binary number.
+[06:51] Then I send that to the output port 254, which in turn sets pin 28 high on the ULA.
+[07:02] I do the same again, but I set the pin low. This is why this completely hangs up the processor because it just gets caught in the loop. I'm going to do this now.
+[07:14] No, I'm not going to do the maths. I beg you, pardon. T states. Let me tell you about T states. T states are how long each instruction takes.
+[07:21] I know what you're thinking, sir. It's about that jump back to the start. That's an extra H C states, but we're not going to worry about that for this.
+[07:36] It gives us this many T states. How long is that? In music, given the clock speed of the spectrum, a whopping just under 3.5 megahertz.
+[07:47] We get a beautiful 6 to 6 8 hertz tone. I was so pleased when this actually worked out and then used my app on my phone to check the frequency.
+[08:08] I thought it stuck on a need to reset the spectrum.
+[08:15] What we can do though is use the fact that we've got, like, persistence of vision. We have that idea of we kind of hear things and remember them from a little time.
+[08:24] Let's do this kind of thing.
+[08:31] I'm playing this. Math is mixed. It's got sound effects, but it also has a tune in game.
+[08:40] It's a 90.83. What it's doing. We can hear it actually. It's jumping to the sound routine, making a little bleep and then jumping back to the game.
+[08:50] It's doing it repeatedly and we're getting all of the mountain kids. Very nice. It actually runs slightly quicker if you turn the music off.
+[09:00] That's what you want to do. If you speed running my mic in 2020, what you do with your life.
+[09:10] I wanted to make nice music. I thought I could still do that idea. I can write some things in that into the evening.
+[09:19] I'm going to do that.
+[09:29] I'm going to do that.
+[09:36] I'm going to do that.
+[09:42] I'm going to do that.
+[09:46] Yeah, I'm going to run it in. Thank you for tapping early.
+[09:53] It's not very nice sounding, is it, though?
+[09:59] In my journey to try and make better sound. Yes, I did do that. Thank you. That's what I've been doing this week.
+[10:05] Writing Z8T bloody thing. I do a sign of font for this. I hope you're all happy. David, coming back to you.
+[10:12] What makes things sound nice?
+[10:15] Yes, well remembered. We could probably do some things. We don't end it with square waves all the time.
+[10:21] It might sound more interesting. I'm not the first person.
+[10:28] I'm not going to do anything with some stuff. I'm not going to do anything with my own.
+[10:39] Sorry to all of you. We can hopefully hear during this piece of music that the beeping is not so square.
+[10:52] It's a little bit more sinful if you will. Thanks. It just runs because obviously, no keyboard routine.
+[11:00] We're going to have to put in the pause in right at the end.
+[11:10] That pause not really the effort. I put that in this week as well.
+[11:16] Back to here. I was going right. If I'm clever with my fancy pants Z8T, I can read the keyboard and work out how long each reading of the keyboard.
+[11:29] God, it's annoying. Reading the keys on the outside of the keyboard are quicker than reading the ones to more than the middle.
+[11:35] That's a frustration. I know. Having done that, I think we can play something.
+[11:43] Probably do that. Probably.
+[11:48] I'm doing the same thing. I'm using that. If I go lower,
+[12:04] we can hear the more sort of pulse with the changing slowly.
+[12:10] Very good. Well done. I was proud of that.
+[12:17] We now come to the most important contribution to the spectrum music scene.
+[12:25] Fantastic programmers. They released some random music box.
+[12:31] Melbourne, hows? God knows Australian software company.
+[12:35] In 1985, goodness knows how they got that license and why they thought this would be a good idea.
+[12:41] But it's good piece of software.
+[12:46] Let's get out of the system.
+[12:49] But notice, we have to do it. We have two notes at the same time.
+[12:53] We also have percussion built into it. I can't do percussion at the same time as the music.
+[12:59] It's coming up. I'm going to let it happen.
+[13:07] Oh, where's the next one?
+[13:09] Oh, there's two in there.
+[13:13] I can't do that.
+[13:18] I can hack out the routine.
+[13:29] Other people are the nerds at Hattown.
+[13:33] I've hacked the routine from that.
+[13:38] Brilliant.
+[13:43] Okay. So again, I've built this in something I play with the keyboard.
+[13:47] We can hear now the same kind of repetition that we had before when it was hopping between notes.
+[13:52] But also we've got do you often.
+[13:55] This is quite hard.
+[13:59] Not this goes hard.
+[14:01] This is quite tricky.
+[14:05] Absolutely terrible.
+[14:19] But you saw what was going for.
+[14:22] Other people's routines were hacked and doing very similar things.
+[14:31] Exactly the same thing where we can have two notes at the same time.
+[14:36] But it's doing that.
+[14:38] How would two notes at the same time happening?
+[14:43] It's magic.
+[14:47] We're back to Andy's physics lessons.
+[14:50] Here is a very narrow pulse whip thing at a particular wavelength.
+[14:55] Here is another thing at a different frequency.
+[15:04] Here are the two interleaved.
+[15:08] No, no, no.
+[15:10] It's an interleaved pulse train or similar.
+[15:13] People use different words to describe that.
+[15:16] But in decoding, this is our ears.
+[15:19] We hear this as two different tones happening at the same time.
+[15:22] We're doing two separate counters.
+[15:25] We can create this fake polyphony.
+[15:30] It's rubbish with that.
+[15:37] I bring you to Tim Follon.
+[15:39] Tim Follon was about 16 when he started programming in the 80s.
+[15:42] He did a rifically clever things with this.
+[15:44] I'm in awe of this gentleman.
+[15:47] He's taking that to the extreme where he's playing with lots of pin pulses in chains.
+[15:53] Pin pulse streams that play together.
+[15:55] The music sounds distinctively one bit busy, which is an effect of it being the way it's being done.
+[16:05] But also, it becomes quite quiet because of the fact that the speaker is spending most of its time in one position.
+[16:11] It's just hopping up and down.
+[16:12] But it's really impressive.
+[16:15] I'm eating.
+[16:18] I'm eating.
+[16:33] No, the percussion with him.
+[16:37] He can't play the game while you're doing it, though, because he's taking it up all the processor.
+[16:44] The game's terrible when polite there.
+[16:47] The game's terrible, but the pin act of music is good.
+[16:50] No, typically it doesn't matter.
+[16:55] It doesn't matter that there's absolutely nothing in the low end and stuff going on.
+[16:59] To speak, built inside the spectrum.
+[17:01] There was no way of getting the sound out of the spectrum unless you were to...
+[17:05] It wasn't going to be a TV.
+[17:06] It's coming out of a speaker inside the body of the spectrum.
+[17:09] It's tiny.
+[17:10] So if there's any artifacts in the low frequencies, it really did not matter because they would just not be in the register for the speaker.
+[17:16] So exploiting that.
+[17:18] But, quite a little bit.
+[17:22] So I take you to another piece of view.
+[17:24] This is going to...
+[17:25] So this is using the same kind of pin pulse thing.
+[17:27] I'm going to play it by hand.
+[17:28] It's a bit weird.
+[17:29] Again, just give me time.
+[17:32] Try it.
+[17:33] Okay.
+[17:36] I want...
+[18:01] Alright, that'll do good.
+[18:28] So you need that pin pulse thing.
+[18:30] I'm basically into demoing different things here.
+[18:36] So this is...
+[18:38] Okay, this gets a bit weird.
+[18:40] So that was kind of pin pulsey stuff and sounds like this.
+[18:43] The next thing is again, another lifted engine.
+[18:47] I...
+[18:48] So I write this off of it.
+[18:49] You might notice the border changes at the same time as a do-stuff sometimes.
+[18:52] That's because writing to the speaker also writes to the border.
+[18:56] If you choose to...
+[18:58] Yeah, I know.
+[18:59] If you choose to go...
+[19:00] I want to leave the border black.
+[19:01] You're masking out this at a particular bit to do that.
+[19:04] So sometimes I just quite like it.
+[19:06] Apologies for the epileptic in the audience that are going...
+[19:09] Oh, yes, that's triggering for me.
+[19:11] So...
+[19:12] It should come with warning.
+[19:14] Yeah, right.
+[19:20] This is using the Sanford Engine.
+[19:22] This known because it was from a particular game.
+[19:24] And then I'm going to move to something with two spectrums.
+[19:26] So hence I've got those set up.
+[19:28] I'll do this quickly because it's got percussion in, it's quite nice.
+[19:54] And we're going to set up that.
+[20:21] But hopefully you can hear this some quite fun playing with the way the pulse width is changing.
+[20:28] But also the way there's interleaved percussion.
+[20:30] And I'm controlling a constant segment by segment by hand.
+[20:33] Right, I'm going to do something on two spectrums.
+[20:35] Obviously.
+[20:36] I can't...
+[20:38] Two bit views.
+[20:39] Two bit views.
+[20:40] Yes, two.
+[20:41] One bit is never enough.
+[20:42] So two spectrums.
+[20:44] Let's get out of that.
+[20:48] And do this.
+[20:50] I might not be doing anything, but...
+[20:56] No, I'm a problem.
+[20:58] Right.
+[22:18] But...
+[22:28] But...
+[22:33] Right.
+[22:35] I'm going to complete hang on.
+[22:37] I'm going to include here.
+[22:38] But acknowledgment, swear, acknowledgment, to do.
+[22:40] Nothing can be done without these people's contributions to the spectrum.
+[22:43] One bit music scene, particularly George Michael.
+[22:47] Some of those people I believe are not their given names at birth.
+[22:51] But there we go.
+[22:52] I made some flashy things to make it pretty.
+[22:57] And then I left you with a gentle piece of music algorithm.
+[23:00] It's quite jazzy.
+[23:02] That was Andy Jenkinson on the surprise second bit.
+[23:17] Give it another big hand.
+[23:18] Folks, because that was incredible.
+[23:20] Thank you.
+[23:21] Thank you.

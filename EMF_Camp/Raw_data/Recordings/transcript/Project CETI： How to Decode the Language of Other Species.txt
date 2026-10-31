@@ -1,0 +1,253 @@
+[00:00] Thank you.
+[00:15] All right.
+[00:16] So I figured this would be kind of a fitting in the moment thing because EMF this year is
+[00:22] seemed on space and this is not a talk about space but this is a talk about in some sense
+[00:29] aliens.
+[00:30] So project city is the citation translation initiative.
+[00:38] We are a group of scientists interdisciplinary from all over the world, from universities,
+[00:47] the West Coast of the US to the UK.
+[00:52] We have folks at Berkeley, MIT, Oxford, Hife everywhere, and all disciplines, maybe not
+[01:01] every single discipline.
+[01:02] But we have folks who are roboticists.
+[01:07] We have marine biologists of course.
+[01:10] We have machine learning specialists because you have to have AI.
+[01:15] We have ethicists and legal scholars and I'll tell you a little bit more about that later
+[01:23] in the talk.
+[01:24] But it's an extremely diverse group of folks and what we're really trying to do and
+[01:29] citation translation initiative is a little bit of a background because we wanted to name
+[01:34] ourselves after setting the extra trust yearals search for an intelligent life.
+[01:41] But what we're really doing is not so much translating as trying to understand what is it that
+[01:48] whales and specifically sperm whales are saying to each other.
+[01:53] And just to note about me, I am a program manager on the group.
+[01:58] So I know a little bit about a lot of things but I'm not going to go super in depth on any
+[02:03] one thing because we have in depth researchers who tell you that.
+[02:06] So this is going to be just an overview of what we're doing.
+[02:09] I will show you lots of pictures and videos of sperm whales and tell you about some of the cool things that
+[02:14] I discovered working on this project and learned about by getting to work with all of these incredible
+[02:20] people everywhere.
+[02:23] Right.
+[02:24] So how did we end up with the citation translation initiative?
+[02:28] Why did you get a bunch of scientists to sign up to this kind of crazy wild sounding project?
+[02:35] In early 2020, before the pandemic hit, there were some folks who were on a fellowship at Harvard,
+[02:43] unfortunately I wasn't one of them.
+[02:45] But my now good friends were there together and there was a marine biologist named David
+[02:51] Gruber who was now leading the project.
+[02:53] And this biologist named Shane working out in Dominica recording whales and doing lots of
+[03:00] conservation work had sent him these recordings of sperm whales.
+[03:05] Not really knowing what to do with them, not really sort of any agenda.
+[03:08] They were just two biologists sharing information on marine biologists working at the sea.
+[03:13] And David was playing them in his office and someone walks by who happens to be a cryptographer.
+[03:21] Some of you might be familiar with zero knowledge proofs.
+[03:26] But a woman named Shoffie Goldwasser was one of the co-authors of that paper.
+[03:30] And she was the one who happened to be walking by.
+[03:32] And she went, that sounds like code.
+[03:36] That sounds like something that you could on encrypt.
+[03:41] It sounds like more scode.
+[03:43] And so she popped her head and said, I think we should do something with this.
+[03:46] Hi, I'm Shoffie.
+[03:47] I think we should do something with this.
+[03:48] And then that's how this project started.
+[03:51] And through those connections, both David and Shoffie have people that they've obviously
+[03:55] worked with over the years.
+[03:57] They pulled together this incredible group of people.
+[04:01] And since then we've done a huge amount of trying to figure out,
+[04:07] can we actually look at what whales are doing and understand what they're saying?
+[04:14] So, okay, why sperm whales exactly?
+[04:18] So, sperm whales have the biggest brains of any animals on the planet.
+[04:25] They are huge.
+[04:27] They also communicate using sound over very, very long distances.
+[04:34] They have these complex societies.
+[04:38] And they, interestingly, we already knew before we started this project,
+[04:42] through Shane, the biologist that was working in Dominica,
+[04:45] that they have really interesting cultural dialects.
+[04:47] So, we knew that there was something going on with our language
+[04:51] before we even started looking at it in detail.
+[04:54] Because Shane, who spent 30 odd years listening to these whales,
+[04:59] and knows every whale in Dominica by name just by, like,
+[05:02] it's hump on the horizon.
+[05:03] He's incredible.
+[05:05] He had gone to different areas in the world, like Sri Lanka,
+[05:10] listened to different whales and gone, oh, they are speaking differently.
+[05:15] I can recognize the patterns of the clicks well enough to know that whales
+[05:19] in other parts of the world versus the whales that he knew
+[05:24] and had these relationships with in Dominica were actually using different dialects.
+[05:30] So, we had an inkling already, the sperm whale language was complex,
+[05:35] and that it would really be fruitful to research how sperm whales were
+[05:40] community to each other.
+[05:42] And as a way of trying to understand, I get a foothold into the animal communication world.
+[05:50] Okay, how do they talk?
+[05:53] So, many of you might be familiar with this idea of whaling,
+[05:58] going to kill sperm whales, you know, the moby dicks of a world,
+[06:03] for the sperm and saidy that lives inside their huge organ.
+[06:09] What that is actually what they used to talk, or part of what they used to talk.
+[06:13] So, they have a force air through their big nostrils,
+[06:18] and then it actually reverberates back through the sperm assetti organ,
+[06:22] and then forces out and makes clicks that are so loud that if you were next to a sperm whale,
+[06:28] when it clicked, it would actually probably damage or hearing pretty severely.
+[06:34] So, don't do that, or try not to do that.
+[06:38] So, they also have these things called coda.
+[06:40] So, these are distinct from the clicks that they put out into the water
+[06:44] to echo locate to try and find each other.
+[06:47] A coda is actually like a distinct pattern of short and long clicks.
+[06:53] So, it's a, t, t, t, t, t, t.
+[06:55] So, you can actually start to identify patterns
+[06:58] this thing that kind of sounds like Morse code.
+[07:01] So, they're making huge sounds out into the water.
+[07:05] You can put a microphone called a hydrophone on the end of a stick
+[07:10] off a boat, and actually hear them from a very long ways away.
+[07:15] So, let's see if we can show you a little bit of sperm whales speaking.
+[07:23] Let's run that again.
+[07:26] Okay, you can just about hear that there.
+[07:38] They're just like making these clicks at each other as they go through the water.
+[07:42] Let's just play it again.
+[07:44] Okay, so, there was a little bit jumpy, but it sounds a bit like, t, t, t, t, t, t, t.
+[07:53] And they're quite distinct.
+[07:58] Let's just...
+[08:08] Sorry, folks.
+[08:16] All right, we'll just keep going through this slides.
+[08:19] So, the way that we work as a global institution is we are located in Dominica
+[08:26] because sperm whales throughout the rest of the world, they are migratory.
+[08:31] They do long migratory distances, but in Dominica it happens to be really special.
+[08:37] This is where a lot of sperm whales go to have babies.
+[08:41] So, they actually stay there, year around, and there's this one corridor in Dominica
+[08:47] that you can actually find them.
+[08:49] So, we forged a pretty strong relationship with the local government in Dominica to build a research lab there.
+[08:58] And we also built an educational program.
+[09:01] We have fellows who are from the local community college.
+[09:05] They don't have a university in Dominica, but they have a two year community institution.
+[09:09] So, we have a fellowship program for students from there to join our team and learn how to do field research.
+[09:16] And then we have this global network of researchers that we bring in.
+[09:22] So, we have a linguistics team that's part of UC Berkeley, and I'll go through a little bit of our work later.
+[09:30] We have a robotics team at Harvard who is figuring out the pretty difficult challenge of how do you actually record a underwater,
+[09:44] a massive, massive animal that just dies really, really, really deep, really, really fast to go hunt,
+[09:51] and then might hang out in the surface for a little bit, and then dive from hang out in the surface.
+[09:55] How are you going to actually get this sound?
+[09:58] We've picked the possibly hardest animal to do data collection for, yeah, this one.
+[10:04] And then what we are really trying to do is build an interdisciplinary group.
+[10:10] So, David, who found the project is marine biologist.
+[10:16] There is a big sort of marine biology center to the thing, but we have also all of these people who are building the tabs,
+[10:25] figuring out how to deploy the tabs, figuring out how to handle the data in a data pipeline.
+[10:30] Let me tell you, it's not really obvious, but there are a bunch of logistical challenges that come up when you are doing data collection
+[10:37] in a country that doesn't have reliable internet and also is beset by tropical storms.
+[10:42] There is also, I mentioned, Shafi earlier, she's doing a lot of theoretical work to figure out how can we actually know
+[10:53] when we think we've made discoveries about the language.
+[10:56] How can we validate that theoretically in the least invasive way possible?
+[11:05] Right, so I mentioned that collecting data in a marine environment in general is pretty hard.
+[11:13] It is especially hard when you were trying to collect data on big animals who dive as deep as they can to go search for their food source, which is squid.
+[11:23] We had some really, really rosy ideas at the beginning of this project that we were going to stick a bunch of microphones in the water,
+[11:34] and different parts of Domeka, and they would just kind of ambeantly record all of the sperm whales all of the time, and that would be great.
+[11:41] We would have just a ton of data, the biggest collection of data ever on sperm whale vocalizations.
+[11:47] I would tell you in a minute why we had to pivot on that a little bit, but we did end up investing quite a lot of time, and this is what the Harvard team works on,
+[11:56] in figuring out how to attach tags to sperm whales in a way that is non-invasive.
+[12:04] People have done sperm whale tagging before and other kinds of whales tagging, but what they tend to do is actually build a tag that hooks into the animal skin.
+[12:14] And we felt like we wanted to be gentler than that in our approach, so we spent a lot of time figuring out how to make tags that would stay on with suction cups.
+[12:28] And we also more recently focused on how to have an automated glider that would follow these sperm whales around.
+[12:42] The suction tax, and this is a kind of hard to see photo, but that's actually a drone dropping the tags on the whales.
+[12:50] When we first started this project, the default way of putting a tag on a whale was to go out in a little dinghy, so it there take a big long pole and try and stick it on the whales back.
+[13:06] And as you might imagine, this worked some of the time. Not very much at the time, which is why when we first started working on the data collection that already existed that was collected by people tagging in this way, it was really, really small.
+[13:24] Small enough that people were sending it to each other via email.
+[13:29] So we were not working with big data sets at first. So what we have done is one really, really work on the tags themselves.
+[13:39] So one thing that's important is how can you suction effectively onto the whale long enough for it to stay on and stay on under quite a lot of force because these whales stay maybe up at the top of the water for like an hour or so.
+[13:57] Chitchatting and particularly in Dominican, they stay up at the water more often because the babies don't actually dive. So when they've got young, there will be at least the young whale up at the top and then the parents will dive each come back up.
+[14:15] But the other thing is we want to quite a lot of data collection capabilities because one of the interesting things that allows us to start picking up patterns, etc. in what the whales are doing and identifying that with what their click,
+[14:30] and what they're saying is being able to tie an accelerometer to that particular data set, for example.
+[14:39] We had ambitions to do video, we're not quite there yet, but we've done three-ish generations of tags to try and get the suction better to try and get the tags to be able to have more data recording collection mechanisms on it and also be a little bit smaller so that those suckers don't have to work as hard to stay on.
+[14:59] And a big, big difference was this drone tagging. This was a bit of a game changer because we were able to have someone usually this was some, we have a lot of kind of undergrads who are really good at playing video games, come and do the drone tagging for us.
+[15:21] As also, they're trying to roboticists and they are trying to be in the fields, but I think they're making a skill above the older people that work in part for a long time is this, hey, I know I don't work a controller really well.
+[15:35] And they basically go out and they do it this little drone and they get it above the whale and then they drop it and it suctioned on the back of the whale.
+[15:43] And stays there for roughly 24 hours and then we were able to retrieve it when it kind of falls off and bobs up out of the water and get the data off of it.
+[15:55] So this was probably our biggest data collection challenge. I said that we were maybe a little bit rosy-eyed about this idea of, we can just put hydrophones everywhere in the water on boos and we're going to listen to everything that's happening.
+[16:13] So it turns out that when you try to attach something to the seafloor in a country that has a lot of tropical storms, there is a lot of force on the cable that is attaching the buoy to the seafloor.
+[16:33] So we have a buoy that has a lot of tech on it that's going to be an interesting problem. So we got this amazing buoy together. You can see it in this photo.
+[16:43] We put it out into the sea. Everybody was so excited. And I think about five days after we got it in the first tropical storm of the season came twisted the thing until the cable broke loose and I went floating off the way.
+[16:59] We found some fishermen who told us where it was. We did actually get it back out of the water. I think we tried to have three more times with different types of cables and doing things like different types of attachments to the seafloor.
+[17:15] We haven't quite got a buoy to stay in place yet. But that's okay. Because we have this cool thing with a autonomous quieter that actually follows the whales around.
+[17:30] So we partnered with a French company that does marine sensor technology. And this spider is an autonomous underwater drone, basically.
+[17:41] And it can follow the whales record everything they're saying. And it has the nice property of not needing to be attached to a seafloor and work with ponding to some two storms.
+[17:57] Cool. So now that you know all about our fun problems trying to get data, which I will say that this is actually the hardest part of the project.
+[18:08] Anybody that's worked on a machine learning or AI project probably knows that it is the data that is key. So the data collection of this project is in my opinion the really interesting part.
+[18:22] But we have also managed to collect enough data, fair enough models at it to learn some interesting things.
+[18:30] So I mentioned we have a team of linguists out in Berkeley. They have been starting to identify parts of whale speech.
+[18:42] And I think they have reasonable claim to saying that they have identified an analogous part speech to vowels and dipfongs and whale coders.
+[18:55] So for those of you who are familiar dipfong is like when you kind of have two vowels and one when you're saying we're like out in English has a whale.
+[19:07] So whales also do this thing where they kind of stretch out a coder in a form that's analogous to dipfongs. So I'll play this. It sounds, I'm sorry, a little bit like a fart. It's not a fart. It's a whale making a little very quick series of clicks. So let's just play it.
+[19:31] Can you hear that?
+[19:37] Okay, yeah, do you hear that? Very quick.
+[19:44] And from that they built on this idea of being able to identify the phonology of sperm whale.
+[19:51] So really looking building on that, okay, we have vowels and dipfongs. But what are the, what is the grammar of sperm whale speech?
+[20:01] And for those of you who are interested, I will be around for questions. I believe there's a question, 10 somewhere that the Harold can direct us to.
+[20:09] And I can share with you all of the papers, links for all of this stuff so that you can read all of the nitty gritty details. If you are a linguist nerd, for example.
+[20:21] You're super jealous about reading. What's the black thing?
+[20:25] We're going to skip the video for, I'm not sure that it's quite working that.
+[20:31] We are also because we are in the age of generate of AI. We are generating sperm whale vocalizations.
+[20:41] Now I want to emphasize something. We are not generating vocalizations that we intend to play back to whales.
+[20:53] And this is a bit of an interesting one because how do you, you, naively, how would you test whether you are saying something in a language and someone else understands it?
+[21:07] Well, you speak to them and you see if you get the response that you're expecting.
+[21:13] This has a couple of problems in an animal environment.
+[21:19] One is, well, if somebody is speaking to me and I don't know who they are, if they look weird, like, you know, they look like an underwater autonomous drone.
+[21:33] Or if they look like a boat that I'm familiar with in other contexts and they're saying something suddenly in a language I don't expect.
+[21:41] That's weird. And then when you bring generative AI into the mix, I'm pretty sure that we are all familiar with AI gobbledly cook.
+[21:49] I think it would be a little bit weird and maybe slightly unethical if we were to then point that gobbledly cook at a bunch of whales and say,
+[21:58] Hi, we're just going to like see how you behave and if it upsets you.
+[22:03] Even in playing back recordings of whales themselves, so there was an incident with a humpback whale, for example, in Alaska, where the scientists recorded the whale, played back its own voice to itself, and it started attacking their research boat.
+[22:24] So we know that actually animals get upset when we do this in the past.
+[22:29] There's also a slightly heartbreaking incident of somebody who works with elephants who played back a recording of a dead matriarch to the herd,
+[22:38] and all of the elephants in the herd also started showing signs of distress, essentially.
+[22:45] So I think it's pretty clear that we don't want to just create a bunch of AI gobbledly cook.
+[22:51] We don't know what it says and just blasts it out into the water.
+[22:55] That's not the aim of a project that has it. It's heart really actually protecting these species and bringing understanding to their life for the purpose of protecting them.
+[23:07] So what we're doing instead is trying to use generative models that are based on language generation models that work in other contexts.
+[23:17] So if we know that we can generate language speech and see that like theoretically works with languages that we both know that are pretty far apart, like for example, there are some tribes that speak in whistles.
+[23:33] And that's a pretty different way of speaking than for example English or even most other languages.
+[23:41] If we can get models that actually can correctly do generation for those, then we can start to reasonably think that we can generate and create large amounts of synthetic oil data that is actually accurate.
+[24:03] And I think one of the most exciting things that our team managed to do, and this is really a matter of being in the right place at the right time because we had set up this significant operation in Dominica and because we know that this is where sperm whales go to calf is we did manage to record the first ever sperm whale birth.
+[24:31] I will play a video that given the videos of Benabit Janky, I will also point you towards the study website where you can watch quite a few of these videos if you're interested.
+[24:40] But this was a really interesting moment we had our hydrophones in the water, but we also had drones with video cameras actually circling above the whales.
+[24:53] So we what we got was this really cool dataset of the sperm whale vocalizations along with the video of the birth and what was happening in real time.
+[25:07] And a couple of interesting things to highlight from that.
+[25:11] And the reason is a sperm whale birth is incredibly communal.
+[25:15] This is a societal event. So the mother comes up to the top of the surface water.
+[25:23] And all of these different whales start to circle her.
+[25:27] And as the birth started actually kind of picking up and happening, and part of like how we knew that this was happening in real time when the folks in the field were there was the vocalization started picking up.
+[25:38] So they started talking to each other at time. They were just communicating like we didn't haven't seen before.
+[25:44] And then they were helping actually to hold up the mother and calf at the surface because of course sperm whales are mammals. So they do also pre-air.
+[25:53] And there was this new group collaboration.
+[25:58] All of this is mentioned in our we have a review of the paper.
+[26:02] But one thing that we didn't emphasize in the paper because we kind of thought people would think maybe we were a little bit cookie and we are if we
+[26:10] leaned into this too hard and also we are still figuring out what this meant is it wasn't just sperm whales.
+[26:20] A whole bunch of pilot whales actually also showed up for this birth.
+[26:28] Now pilot whales are traditionally considered to be sperm whale enemies.
+[26:34] They harass them a little bit.
+[26:38] And the marine biologists who are very attached to sperm whales of whom I've met quite a few recently are very like anti-pilot whale.
+[26:49] It's like a little talk of work.
+[26:52] But these pilot whales weren't engaging in harassing behavior for this birth.
+[26:58] We actually don't know what they were doing.
+[27:01] And we are trying to figure that out.
+[27:04] But to me it's really fascinating and I will say on a personal note right about the time we are working on this paper I also gave birth.
+[27:12] So I had a lot of thoughts and feelings about this kind of like brain experience.
+[27:17] So this whale had gone through and that we were watching like a little bit closely.
+[27:22] Anyway, I was really interesting to see the social dynamics happening within one species and maybe we still don't know.
+[27:31] Also across species for this whale birth.
+[27:38] Let's see if I can show you a little bit about what that looked like.
+[27:44] So short clip.
+[27:48] Let me just play it again for you.
+[27:52] So that's the group of whales that you can see there and we've highlighted them for you.
+[27:58] And you can see that they're kind of all circling around one spot.
+[28:02] And this actually took about an hour so that we have a bunch of different clips of this.
+[28:06] They were just like really circling and kind of lifting up this mother as she was being born.
+[28:13] So really like social group, very communicative moment in this moment of life.
+[28:23] So I mentioned that we had some ethical reserves reservations about how we interact and communicate with sperm whales.
+[28:34] So as part of that, one of the people that we've partnered with really closely is a group called more than human rights.
+[28:41] They're out of NYU. I recommend checking them out if you're interested in these questions.
+[28:45] But they help us put together an ethical framework for working with whales.
+[28:51] And other species in general. So it's called, how do we talk to our animal kin?
+[28:58] And I think just in summary, this is a really challenging space.
+[29:02] There's a lot of interesting stuff going on.
+[29:04] And one thing that we're very, very conscious of is, have not becoming like this person who I have put on here.
+[29:11] He is a cautionary tale. This is John C. Lily, who did a lot of work with dolphins in the 1970s.
+[29:17] He is known for giving LSD to dolphins as an experimentive technique.
+[29:21] I think we are not going to be giving LSD to whales any time soon to see how they react.
+[29:28] All right. So I will end with if you want to know more, and if you want to actually participate a little bit, you can go to the study website.
+[29:35] And in particular, I would point out this lesson to the whales campaign, which allows you to interact with a bunch of the study recordings,
+[29:43] study data, and also think about how you would want to communicate with the whale community if that were an option.
+[29:52] All right.

@@ -1,0 +1,163 @@
+[00:00] What is it?
+[00:16] Do we have it?
+[00:19] Do we have it?
+[00:23] Good.
+[00:24] Good afternoon.
+[00:27] Just a word of warning first.
+[00:30] This talk will contain maths and code.
+[00:35] So a bit about me first.
+[00:37] I'm a retired communications engineer.
+[00:40] I worked for my colonies, frantic, BT.
+[00:43] But these days I spend a lot of time in my camp of ant visiting my family and going to festivals.
+[00:53] I was not quite like this one by musical festivals.
+[00:56] And I also spent a lot of time in the pub.
+[01:02] That one quite a lot of stuff, but the reason for that is there is music in the pub.
+[01:08] And also it's considerably warmer than my camp of ant most of the year.
+[01:16] At the beginning of this year my mobile phone company told me that they were going to turn
+[01:22] off 2G and 3G networks.
+[01:26] That gave me a bit of a problem because I had a 2G tracker fitted to my van who still purpose
+[01:32] was to enable me to remotely turn on my electric blanket before I left the pub.
+[01:39] So I got a nice warm bed to head for in the winter.
+[01:44] In fact most of the year we don't really turn on a fan, but that's more important these
+[01:51] days of the moment.
+[01:54] So my requirements were these.
+[01:57] I wanted something off the shelf.
+[01:59] I didn't fancy building any more stuff.
+[02:01] It needed to be pretty discrete.
+[02:03] It was fancy walking into a pub with miles of cables and aerials and whatever else.
+[02:08] So those are my requirements.
+[02:13] Also the big one there is no subscriptions to your mobile phone companies.
+[02:19] Thank you very much.
+[02:22] So pretty much the first system to suggest itself was APRS.
+[02:29] It's been around for 40 odd years.
+[02:32] There's loads of equipment for it.
+[02:34] It's used all over the place.
+[02:36] It's used on the AMA, it's a used on CubeSat for telemetry.
+[02:40] It's used in many places and there's lots of equipment for it.
+[02:47] The data link layer layer 2 is the amateur version of the old X25.
+[02:55] The physical layer pretty much remained one option for about 30 years, but in the last 10
+[03:03] years another option has become available.
+[03:06] So on the physical, this talk will mainly be a comparison of the two options that are available.
+[03:16] So meet the contestants here we have.
+[03:19] On the left hand side is a scruffy old man.
+[03:22] He's representing audio frequency shift key in over FM.
+[03:27] On the right is a very attractive young lady who happens to be called Laura and is my daughter.
+[03:34] So these are the two options we have for LAYA 1 APRS.
+[03:42] This was my implementation of the system using the old fashioned audio frequency shift key.
+[03:51] On the left is the equipment I've got in my van.
+[03:55] It's a cheap baffing radio and it's got the grey thing on the side is an audio sound card
+[04:03] which has got a USB-C out that goes straight into a Raspberry Pi which is bolted on the side of that project box.
+[04:10] Inside the project box is a mains relay and a little interface to the Pi.
+[04:18] That's all it is.
+[04:20] And in the pub all I have to take is you can take either an android or an iPhone but the android app is much, much better.
+[04:29] And I've taken the radio with me as well and that can be discreetly hidden away.
+[04:34] That's another cheap walkie talking but that one's got APRS on it.
+[04:40] So it's quite a cheap setup quite a simple setup.
+[04:45] That's a in my van.
+[04:47] It's that project box in the middle there with all the wires but the main thing is it's got a big relay in the side there
+[04:54] which will switch quite a few amps at 240 volt.
+[05:00] Okay.
+[05:01] The software there is on the Raspberry Pi it's running Linux and it's running.
+[05:07] It's got four other programs and that's it.
+[05:10] This is the main program that is running on it and the first 12 lines of this are the same
+[05:21] putty see just the initialization of the Raspberry Pi to output on two ports GPI or 241 and 17.
+[05:30] Line 14 is just there to kill any current existing dial valve running programs because we don't want to
+[05:39] they are in a more than one running.
+[05:41] Then line 16 is a single line a big long line and the first thing is it calls dial valve.
+[05:48] It calls it with the option T to put a time stamp on everything.
+[05:52] Pipes that to Grep.
+[05:53] Grep's just looking for my call sign and that's then T to
+[05:59] said is two instances of said running.
+[06:02] One is looking for the word started and nearly weren't looking for the word stopped and they fire off
+[06:07] two of the smaller scripts.
+[06:10] The started script and the stop script which gives me my acknowledgement that it's received my command.
+[06:19] Okay.
+[06:22] The two other scripts are just
+[06:26] through simple scripts there.
+[06:28] They are initiated by said and
+[06:33] basically give an acknowledgement of either the equipment being turned on or the equipment being turned off.
+[06:38] So I can see that it's actually received my message from the pub.
+[06:43] So that is that pod.
+[06:46] Now as for the performance,
+[06:49] AFSK is not ideal over walky talkies which are designed for voice.
+[06:56] The main problem is that they are fitted with preemphasis and or deemphasis and maybe not.
+[07:05] And either way it's a source of distortion for the data.
+[07:12] But on the plus side, dials pretty good software much better than the old source.
+[07:18] They all um, um, units we used to have in the 80s and 90s for decoding APRS.
+[07:25] And also the some options in dial width to make it more resilient to single bit errors.
+[07:34] Right. So I said that be a bit of maths because we need to establish some sort of baseline
+[07:41] could to compare the two systems, Laura and AFSK over FM.
+[07:48] This I dug this out of a little textbook.
+[07:51] This is the generally accepted performance for AFSK over FM as a non coherent detection system.
+[07:59] The main thing to pick up here, if you look for an error rate down the left-hand side,
+[08:05] down the wax of 10 to the minus 5, that equates to about 14 dBs of eB over N0.
+[08:15] Now the point I want to make here is we must compare the two systems on a fair basis.
+[08:22] Single to noise power ratio is not a fair basis when you're talking about spread spectrum systems.
+[08:29] Because effectively they can spread themselves over whatever they like and get down to really low
+[08:33] single to noise ratios and then the D spread themselves back up to where they want to be.
+[08:39] So the only real comparison you can make is to use the energy per bit to the noise power spectral
+[08:46] density which is a dimensionless quantity. If you really want to have the signal to noise ratio,
+[08:53] you've got to multiply that by the data rate are and divided by the bandwidth.
+[09:00] Now I've basically assumed a two-to-one ratio here between the data rate and the bandwidth.
+[09:08] It's probably a lot worse than that in most cases but anyway that's 3 dBs so that takes the
+[09:13] signal to noise to 11 dBs. But the thing to do, once you remember here, is the 14 dBs
+[09:19] as a figure of merit for the old fashion system.
+[09:26] I was going to do demo but unfortunately my I've got I can show it to anybody here and it's working
+[09:32] on site here back as well as no while at all. But the Android phone I've got would not play ball
+[09:40] with the HDMI. So this is a screenshot of what actually happens when I send a message.
+[09:50] The message comes from my call dash 2 sends that and then the reply comes back with the test on
+[09:57] if I've sent if it's detected that I wanted to end on. The other important thing to remember is
+[10:05] its line of sight and here what the previous system I had was a cellular mobile radio system.
+[10:14] Now they have base stations which are 50 meters tall shoved on the highest point of ground round
+[10:19] about and they're probably going to 100 watts. Here we've got a system where to both antennas
+[10:27] are between 1 and 2 meters roughly which is not great. So in the urban environment any of those
+[10:33] sort of more bar radio environments we'll be lucky to get a mile. But that's how it is that's physics.
+[10:41] If you happen to be if the pub happens to be on the top of a hill great if it's not we might
+[10:47] have to be a bit closer. Okay this is the competition which is available now in a much cheaper
+[10:57] price. The top log big board is a Laura Tracker for 70 centimeters and the lower board is the same board.
+[11:08] It just doesn't have the U-blocks GPS receiver on it. So I've done some tests. I've implemented
+[11:17] both mesh testing with the system and also APRS. So the Laura physical layer has got many options
+[11:30] and you can mix and match whatever you want really with with the Laura chips. That's the sort of
+[11:39] the main the main fact is you can vary. So mesh testing it's become very popular
+[11:51] recently. It's available on the license free bands subject to meeting the off-com I are 20
+[12:00] 30 requirement. It's also I've used it on 70 centimeters with this equipment and I've used it both
+[12:10] there's mesh testing using I think the call it long fast that's what I'll show you in a minute
+[12:16] what they what that actually means. So I implemented that and also there is now well the other thing
+[12:23] I should say is mesh call is become more popular amongst the mesh advocates because well
+[12:31] it's got a better protocol in terms of the return part and also it's it's probably
+[12:41] it's fixed in terms of its options whereas mesh testing you can vary them to suit yourself.
+[12:47] So quite often there's a mismatch and then you won't communicate. Laura on APRS has made the
+[12:53] sensible decision to fix the frequency spreading factor cold rate and everything else so there's
+[13:01] no problem there and it's getting to be quite widely used as a tracking system. So these are the
+[13:09] mesh testing modes you can have. I used long fast which is a slow day rate and a very good
+[13:20] margin of you loss for your transmission path. This is the link budget for mesh testing.
+[13:31] You can see long fast is just about down at the bottom there's a slow on the x axis you've got
+[13:40] the data rate and it's down in the very low there it's hundreds of bits per second and it's got a
+[13:48] pretty good link budget margin there. This is actually published by SEMTECH who are the original
+[13:57] original licensees of the original patent owners for mesh for Laura.
+[14:08] Right now we're going to get to the the most important point to make a fair comparison
+[14:17] with APRS and we remember that the graph I put up before 14 dBs was what APRS achieves over AFSK
+[14:26] non coherent over FM. At a 10 to the minus 5 over 8 if we look at this graph if we look at the
+[14:35] spreading factor 12 which is the blue ones at 10 to the minus 5 it's minus 21 dBs
+[14:46] singleton always ratio that's a power ratio which is why I said we've got to compare it on a
+[14:51] like for like because that that looks phenomenal but if you the top equation there is the one you
+[14:59] have to use to turn that single turn always into an energy per bit to noise spectral density and
+[15:07] if you calculate log M M is the spreading factor rate the power it's the power of the
+[15:17] two for this to the spreading factor so using that we see we have to add 25 dBs to that and the
+[15:25] energy per bit to noise spectral density at the minus 5 is 40 dBs and that comes from the iE
+[15:33] concept paper which is a really good paper for anybody interested in Laura performance.
+[15:39] Right so here's the here this is aprs.fi which tracks all APRS transmissions on
+[15:57] 144.8 m2 meters this iG the read how I got this track was at my house in a
+[16:07] average there when does it say we I put an aerial up there and implemented an iGate with one of
+[16:16] the Laura modules so it received the signals on 439 m2. Shut them on the internet and into the
+[16:24] server on aprs.fi so this is the track that I made round rubric included various forms of
+[16:32] transport as you can see included river and that was about 3 kilometers that at a tenth of the power
+[16:40] well probably 16 dBs less power than the FM system. Meshtastic achieved pretty much the same.
+[16:50] So this is what my comparison has drawn the conclusion drawn first of all you must remember
+[17:04] it's line of sight whatever modulation you use if there's anything in the way it's not going to work
+[17:08] you get huge amounts of loss which doesn't matter what you've got so it's line of sight
+[17:14] the other input so Laura on the theoretical front as we saw 14 dBs versus 4 that's a 10 dB
+[17:25] difference which equates to 10 times an hour or be it over an additive white Gaussian noise channel
+[17:33] which is not very representative of a mobile environment but it's it's pretty it's a pretty good start
+[17:40] so that is my conclusions and some of the reasons why it is better. Finally that's the net results
+[17:52] and nice warm bed to come back to. Okay thank you very much

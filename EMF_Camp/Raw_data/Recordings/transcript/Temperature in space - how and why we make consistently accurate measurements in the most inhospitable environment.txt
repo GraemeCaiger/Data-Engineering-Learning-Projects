@@ -1,0 +1,179 @@
+[00:00] Hello EMF. My name is Ben. I'm a spacecraft electronic engineer down in Harwell. Before we
+[00:19] get really going, this is my project from the EMF this weekend. This picture is part of my
+[00:26] installation, the EMF Sky Survey, and this was taken purely on Thursday night. So if you
+[00:32] want to hear anything about this, then come and see me at Test Village and we can
+[00:35] show you the telescope that took it. But I'm going to talk mostly about actual telescopes
+[00:40] today. So my talk is kind of in three general themes. I'm going to go through some
+[00:45] infrared telescopes and talk a bit about what general types of instruments you might
+[00:50] find on a space telescope. Then we'll go and get a bit narrower and talk about the SISD
+[00:55] mission and the full climate program that goes around looking at surface temperature measurements.
+[01:01] That's been going on since about 1980s and it's primarily what I'm working on at the moment.
+[01:06] And then finally we'll look a bit about calibration. So space telescopes have very accurate
+[01:11] calibration but their calibration doesn't last. So we'll talk a bit about why recalibration
+[01:16] is so important in space and the hardware that lets us do that. So I have to start with a
+[01:22] disclaimer. This is going to try to be a non-technical talk. However, it's an extremely
+[01:27] technical subject. So I'm going to try and get it down the middle and if there's any really
+[01:32] detailed technical information in the slides, you kind of don't need to understand it to get the
+[01:36] point. So hopefully I keep it in an easier to understand framing. There were also going to be
+[01:42] lots of pictures of flight hardware. If you've never seen space telescopes, flight hardware, that's
+[01:46] quite cool. So, next slide. If you make it to the end, I have a high definition recording of this launch.
+[01:56] This is the NGL 11 and Tariys rocket flying from Wallops Air Force Base. This was in 2019
+[02:03] and I was lucky enough to go there with the NASA social program. And I got a very high definition
+[02:09] recording of that launch. So at the end I will play that through hopefully some very nice speakers
+[02:14] and it will get close to what it feels like to have been there in person.
+[02:19] So who am I? I mostly work on sensor front end electronics. So that's the big box
+[02:25] electronics that primarily drives the actual seller-concentre on space telescope cameras.
+[02:32] Mostly I work on climate missions but also Helio Hilly physics missions.
+[02:37] So most recently NASA's punch mission flying for small spacecraft so monitor
+[02:43] this solar corona's here and then also a company called Spyre flying a new type of instrument
+[02:48] looking at more accurate weather observations on Earth. So you can see some flight hardware here,
+[02:54] that box at the top. That's the instrument box for the punch mission on the NASA
+[02:59] punch mission. So that's got four PCB cards in and it's probably about this sort of size.
+[03:05] And then at the bottom here this is the prototype for the Hims Cube set mission
+[03:10] which has got a microwave sound on it and our little box for electronics is that little gold box there.
+[03:17] And I work for rail space. rail space are a public funded body. We're basically a government
+[03:22] arms length body. We are the UK's national space laboratory. If you're a tough familiar with NASA
+[03:28] guardard you might kind of draw some parallels to our role as in the UK science sector and how we
+[03:35] design instrumentation or test facilities for industry and of space agencies.
+[03:43] So I'm going to start generally. So hopefully you all know what this telescope is.
+[03:47] If you don't I don't know why you're in this talk. This is the James Webb Space Telescope.
+[03:52] It's got four instruments on it. This one is generally pitched as being an American mission.
+[03:58] It's in fact not. It's probably the most international space telescope ever launched.
+[04:02] Mary in particular the mid-infrared instrument was led by UK consortium with contributions from
+[04:08] Europe and at least one of the other instruments is a pretty significant European contribution to
+[04:13] and another one has quite a bit Canadian influence too. So although the Americans built most of
+[04:19] the spacecraft bus itself, it will mirrors an optics. The actual instrumentation inside is very,
+[04:24] very international. So there's a few types of instruments on board. Most of these types are
+[04:31] kind of in each of the four instruments but they have various different functions of modes and
+[04:36] different types of spectrum they look at. First one is quite obvious. You have pretty all know what
+[04:41] cameras do. It's a two-dimensional array of pixels. It takes values from those pixels and there's
+[04:46] become an image. Spectrographs are a little bit different. They break the light down into the
+[04:50] spectrum and take more of a one-dimensional measurement so you can see the components of that
+[04:55] light frequency instead of the amounts in different places. And then finally the other common one on
+[05:00] the web space telescope is a corona graph. That is basically a the front stage of the camera
+[05:05] optics that block style it. So you can see planets over faint objects nearby without the style
+[05:12] light blowing out the image. So this is some flight pictures of Mary. This was when it was
+[05:20] being tested at RouseBase down in Howell. So you can see at the top there this is going into the
+[05:26] thermal vacuum chamber for testing. This is that one there is the actual flight unit. I think this one
+[05:32] here is also the actual flight unit undergoing alignment testing and field of view testing. And then
+[05:38] the graphic over here kind of gives you an idea of what the field of view of that is and the types
+[05:41] of instrumentation inside Mary. And if you sort of a Laura from SpaceTalk yesterday I think it
+[05:49] was then you would probably have seen quite a lot of pictures of our test facilities that
+[05:52] rich part of this comes from. So this is kind of an example of what comes from Mary. This is
+[05:59] Wolf Wright's start surrounded by quite a lot of radiation and dust. It's four like years across.
+[06:05] It's 8,000 light years away and to give you an example of how difficult this image is to take
+[06:11] instrument is currently cooled down to 6.7 Kelvin. That's minus 266 degree of C. If you don't do that
+[06:19] then the light and heat in the detector makes this image basically impossible to capture. So you have to
+[06:25] get down right to the limit of literal physics to be able to take these kinds of infrared pictures.
+[06:33] To give you an idea about the accuracy and how accurate these instruments are. This green blob
+[06:38] is the most distant object ever taken in the image. It's a galaxy called Mom's 17.
+[06:46] It was discovered last year and the red shift if there's any astrophysic in the room is quite
+[06:51] extreme. A 14.4 red shift figure basically means you look at the wavelength of the light when it was
+[06:57] transmitted and you multiply that by 15.4 and that becomes the wavelength when we see it. So that's
+[07:04] quite extreme. The table here shows a bit about how far that light is travelled to a given Z figure.
+[07:11] Z10 means it's moved 13 billion years pretty much and a Z14 means it's moved 13.5 billion years and
+[07:19] that object is now 33.8 billion light years away. So the reasons for this have to be in credit
+[07:24] percentage of to be able to make these kinds of measurements to any level of accuracy and I think that Z figure
+[07:29] is accurate to prevent a couple of hundreds. So it's maybe 100 million light years or so of distance.
+[07:39] More specifically and the instruments I'm going to be talking about for the rest of today are radio
+[07:43] meters. So radio meters are kind of like cameras, except instead of looking at two-dimensional
+[07:49] measures of pixels. It's a bit more one-dimensional and instead of looking at specific wavelengths,
+[07:54] we kind of look at a big band of wavelengths and then we want to very accurately measure the amount
+[08:00] of radiation that's been emitted from those from the object that we're looking at. So VISA generally
+[08:06] designed to be incredibly precise and the reason we need them to be precise is because we need to
+[08:11] do very accurate climate science and climate modeling with these measurements. So this one,
+[08:16] the top here I think is one of the models for a mission called SLSTR and there's some more flight
+[08:20] images of that one there. This is all going into the firm of vacuum and tech chambers over at
+[08:24] well space. So why do we need to take these really accurate measurements of these specific bands?
+[08:31] Well we need to know how this works. This is the global mean-se surface temperature and we have to
+[08:37] have a very clear model of what these drivers are, that are driving these rising temperatures.
+[08:42] And then the way we can work out exactly what these drivers are doing is by incredibly accurate
+[08:46] measurements of this sea surface temperature and this graphal kind of show how all of these
+[08:51] little factors contribute to the overall rising temperature. And the other reason why they have to be
+[08:58] so accurate is they need to detect a point-not-to-degree Celsius rays per year. This is also from space.
+[09:05] This is 700 kilometers away and this is obviously a very small signal to try to detect
+[09:12] and the other problem is instrument centered drift while they're in space that their
+[09:15] calibration is changed. So this is a very difficult level of accuracy to get down to.
+[09:22] So this all starts in 1980s. This was the long track scanning readyometer. This was built in the UK
+[09:28] with a consortium of British and Australian organizations. And basically this was the first
+[09:34] detector ever designed to measure sea surface temperature specifically for climate change.
+[09:40] There were three versions of this detector. One was flown in 1991 and the most latest one was
+[09:46] flown in 2012. You can see there's two kind of banana shaped apertures which is where the main
+[09:52] detection happens on the right there. That's for calibration on the ground. And I also want to
+[09:56] draw your attention to the two cylinders at the top and bottom. This is the black body calibration
+[10:01] sources and we're going to talk about those in a little bit. So very briefly about how this works.
+[10:07] The two banana shaped apertures form two sets of scanning channels. So we've got one that
+[10:13] goes straight down and another one at an angle out in front and that's used to do atmospheric
+[10:18] corrections. So in showing we get a very accurate ground measurement. So here's the the three
+[10:24] that launched. You can see there's some different it's evolved over the over the three programs.
+[10:31] They added a lot of capabilities to measure things like aerosols, land temperature, atmosphere,
+[10:35] temperature, cloud temperature over the three programs. So this was quite evolving quite quickly.
+[10:40] This was over 20 years. This is the current gen. This is SLSTR on ESA's Sentinel-3 mission.
+[10:48] You can kind of ignore all the technical detail but this is the same kind of double banana
+[10:53] aperture and in the middle you can kind of see the bucket covered in foil. That's the black body
+[10:57] calibration system. Sentinel-3 is flown twice so far. There's another one flying.
+[11:05] Next month I think. Too much. I'm a never one next year like most likely. And right now
+[11:10] as plot of my day job we are now working on the next gen. We have only just started designing
+[11:16] flight hardware for the next gen. That will be flying in 2035. So this is the kind of day to
+[11:22] re-explake together. This is from AATTR which was the third one in that initial program.
+[11:27] So this is the kind of C surface temperature map that we're going to intend to get out of this mission
+[11:33] and we use that data to produce data sets like this which give you trends for surface and air
+[11:38] temperature. And these are the kind of models that we have to have a incredibly high accuracy to get
+[11:44] accurate models of climate change. So that's how we get to those measurements. How do we know
+[11:52] that we can trust them? And that's the biggest issue in climate science really is consistently
+[11:58] trusted measurements and models. We use reference for armaments. Everything you put into space
+[12:06] will drift. So the resistance values will drift. The properties of the circuit will drift.
+[12:11] This is all caused by radiation, temperature swings, reliability of components. We cannot have
+[12:17] a calibrated mission that's been set up on the ground and expected to work to the same accuracy
+[12:24] for a 10-year mission duration. So we have lots of uncertainty being introduced. We have differences
+[12:31] between the same instruments on different spacecraft and we don't get any trust between these
+[12:37] measurements unless we correct it. So this is the type of hardware we use to correct it. This is called
+[12:42] a black body cavity. For reference a scale, it's about this big. It's probably about a football
+[12:49] size. It's basically a big metal bucket. Inside that metal bucket is a layer of vantablack or
+[12:55] very similar coating. And the purpose of that is to produce a firmly ideal object. So this
+[13:02] inside this cavity this will emit basically only infrared radiation. So from that we can use
+[13:07] the temperature of the top of the cavity to give us a very accurate calibration for our infrared
+[13:13] optics. So we use all of these electronics of the inside. There's probably about 10 or 12
+[13:19] from monitors on top of that cavity and we produce incredibly accurate models of the temperature
+[13:24] of that base with which to compare the measurements on the instrument so that we know that
+[13:29] our measurement is very accurately aligned to what the actual temperature of that bucket is.
+[13:35] So that's that one. The next gen ones are on the order of 10 millilililvin temperature accuracy. So
+[13:42] 0.01 of a degree. And yes, if anyone asks that top one, that is a cylindrical PCB. It was an
+[13:50] absolute nightmare built and we are not built in them anymore. I have yet to see one by the way,
+[13:56] but it's very cool. So the problem we have is as mentioned before, all electronics and space
+[14:03] will drift that their properties will change. On the ground we're using incredibly accurate
+[14:07] resistive bridges to kind of pre-calibrate these and get them set up. These bridges don't
+[14:13] exist in space. It's not possible to exist in space. They would also drift with the rest of the
+[14:19] instrument. So how do we calibrate the calibration electronics? We can't have calibration electronics
+[14:27] all the way down. It doesn't work. It would all drift. So we have to do some quite tricky things to
+[14:33] consistently produce measurements that we can trust through a 10 or even 15 year mission duration.
+[14:39] The way we do it in the next gen is quite clever. I think in those days change. So if you imagine
+[14:46] face-changing when you've got a solid that melts, the temperature of that material will rise.
+[14:52] And that rises until it starts to melt at which point it will stop rising until it's fully melted.
+[14:59] So we use this property and I've got a nice graph here. We use this property to have a fixed
+[15:06] reference point for temperature. It doesn't change when the space environment interferes with
+[15:13] the electronic. So that's temperature of the gallium inside our face-change cell. As that melts,
+[15:19] that temperature will stop rising and we use that as a very specific known reference point.
+[15:24] So if you imagine we've got drift into interfilling volaic climate measurements,
+[15:28] so red is the line of what would happen if we didn't correct this drift at an amount of
+[15:33] 0.05 Celsius per year. From earlier, we saw that we need to be measuring 0.02 to have anything
+[15:40] like an accurate measurement. So with these annual corrections through this phase change,
+[15:45] we can get that down under 0.02, which is how we're now able to measure a long term
+[15:51] very accurate climate data. So this is some of the next gen stuff. This on the left here
+[15:59] was a model called engineers, which was basically a massive rigid select network instead of
+[16:05] about horrendous cylindrical PCB. This one measures temperature and much more accurately than the
+[16:10] previous one did. It's much lighter. It's infinitely more easy to build. You can kind of see some
+[16:16] pictures up here. That one on the left. This red-based one is the SLSTR black body and it's got
+[16:23] a massive box of electronics next to it. This one is the engineers, one and all the electronics are
+[16:28] inside this cavity area on the left here. You can kind of see at the top that little bulk looking
+[16:34] thing is a little phase change cell. It's about this big reservoir of half a gram of gallium in there.
+[16:39] And that's what we use as a reference point to consistently recalibrate the calibration system.
+[16:45] This is semi-flying at the moment. It's flown on the HIMS mission, which I mentioned earlier.
+[16:50] That's a cube set testing out this technology before they fly on a constellation. And right now
+[16:57] we are using this technology on the new generation of central three missions, which will be flying
+[17:02] on the next e-Supprogram in 254, 2035. So that's as I think it. But I do have a rocket launch for
+[17:12] those of you who make the end. So as promised, this was from 2019 and hopefully basically my story.
+[18:21] So if you can see all the rum all that I can appear, that's quite like what it is in your life.
+[18:37] And they're going to perfectly set on Sunday evening. You're just going to play a bus in
+[18:41] Null sector. So if you want to hear it in really big basis speakers, then you might actually feel the
+[18:47] bone shaking in Null sector. So yeah, that is me.

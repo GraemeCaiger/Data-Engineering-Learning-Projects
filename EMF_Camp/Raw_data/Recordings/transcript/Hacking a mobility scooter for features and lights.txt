@@ -1,0 +1,235 @@
+[00:00] So yes, this is hacking a mover's skitter.
+[00:18] That is the mobility scooter.
+[00:22] This one is phenomenally dusty because I've been driving around DMF
+[00:26] since I arrived.
+[00:29] Who am I? I am an amateur hacker.
+[00:33] I'm not part of a hack space.
+[00:35] I did do degree in computer science about 20 years ago.
+[00:38] And I decided to turn it up to remote controlled chaos cart last time.
+[00:46] They were doing a lot of work with motors and getting the thing moving.
+[00:53] So I own a device that already moves.
+[00:56] It does it quite well.
+[00:58] It doesn't like the hills around DMF, but it does it quite well.
+[01:01] I can take all the other features they've got and work on this.
+[01:06] So yeah, I am not qualified, not in the slightest.
+[01:12] Anyone who gets to see my code will know this, but it's a project.
+[01:17] It's been a project for the last couple of years.
+[01:20] Honestly, when I'm showing up photos, there will be a fair number of photos of the red scooter on the left,
+[01:27] which is not the one that's on stage.
+[01:30] That's because that one failed back in April.
+[01:36] And I replaced it with this one, which is now here.
+[01:41] The original list of plans had a few interesting twists to it.
+[01:49] It turns out fair number of those things are not as trivial as they seem.
+[01:53] And some of them are more trivial than they seem.
+[01:57] So locks, mobility scooters, all have a key on them, which turns them on and off.
+[02:06] And one of my initial thoughts was, well, I own three scooters.
+[02:11] Let's make them all use the same key.
+[02:14] Thank you, Tindak, to be a terrible idea, not least, because you can buy them on Amazon for a couple of pounds.
+[02:21] This is not secure.
+[02:23] I'm fairly certain the key that the more distinct keys that come with scooters are probably more secure.
+[02:30] So good idea, no, no, wasn't.
+[02:35] The next thing I looked at was fixed speed traveling.
+[02:41] Scooters are absolutely fine at going a decent speed, providing you've got your hand on the wakewag.
+[02:47] The wakewag is the standard control levers that go around the middle of a scooter.
+[02:54] It's fantastic, Tick-Tick, and a cool time.
+[02:58] And actually, with a very small amount of wiring, they are just a variable resistor on the inside.
+[03:04] You can just wire a switch, the original switches up there.
+[03:10] That one took about quarter of a mile before it broke, because that's where my foot goes.
+[03:17] And it wasn't sturdy enough.
+[03:19] It replaced it with a much better quality switch.
+[03:22] And I just sorted out the wakewag.
+[03:26] So when you press it down, whatever speed the speed dial is set at, you go full-pelt.
+[03:32] But it means you get both your hands.
+[03:35] The previous scooter had no useful voltage display.
+[03:42] Most scooters have no useful voltage display.
+[03:45] They have a little needle that goes from red to orange to green.
+[03:49] That tells you absolutely nothing.
+[03:51] And as someone with autism, I'd like to know what voltage I'm actually getting, because that tells me how flat my scooter is.
+[03:59] So I stuck up a, this is designed for a car system that just has voltage and 3 USB ports on it.
+[04:12] And it's quite deep, and the phone for this scooter isn't.
+[04:19] So I've had to set it off.
+[04:22] Which has its own little set of problems.
+[04:27] I own a 3D printer. I have a great file. I own a 3D printer.
+[04:30] Because as is evidence on the middle here, this is a knob goes round with a notch on it.
+[04:38] It goes round and it hits the USB supply.
+[04:45] So I threw a different to the solution.
+[04:48] And then I threw a different to the solution.
+[04:50] And then I threw a different to the solution where it didn't hit.
+[04:53] And then I did the same again.
+[04:57] The, um, a lot of the things I've designed and done have been benefited by a 3D printer.
+[05:04] Because it allows me to design something, change it, or fit it, find out it doesn't work, change it, and do the same over the course of a weekend.
+[05:14] I didn't quite touch on the beginning side.
+[05:17] I have any, so I have very, very limited energy levels, which means that, yeah, I don't have time to send things off.
+[05:25] Get them back, send things off, get them back. I just don't have the energy for it.
+[05:29] So yeah, search and the things I've 3D printed, control box, the frame for the USB box.
+[05:39] Those were the prototypes for that box.
+[05:42] This is the prototype for the top of the scooter I've got on stage.
+[05:47] Which turns out to be a blindingly complex shape.
+[05:51] I taught myself how to use fusion for a 6D. I'm not any good at it, but it's good enough, and it has now printed out as an actual item.
+[06:04] Horns. Anyone who's used a, yeah.
+[06:08] Thank you. Thank you because the original electronic horn on this one does not work, because the first thing I did was unplug it, because it makes a horrible, horrible tinny sound that makes your
+[06:20] background.
+[06:23] Yep. Yep. They are pathetic. The key phrase here is clown horn, because Amazon will sell you.
+[06:39] Something that goes hog for £8.50.
+[06:44] Likewise, bottle holder, originally used for a bicycle with a couple of large straps for attaching on a bicycle, goes around the middle.
+[06:55] I've owned about, in fact, I think it probably says I purchased three times.
+[07:00] For the number of those, I've bought for various scooters over the years.
+[07:06] But sometimes you don't have to go particularly hacky to solve these problems, disconnecting the original horn and adding one on the side.
+[07:15] Likewise, little rubber cliffers from Amazon, so that it just not that well attached, pulls off frequently falls off in the car, but reclips.
+[07:31] So I work out where I'm in my talk.
+[07:36] I might be able to demonstrate this depending on the lighting in here.
+[07:45] No, not as well. There is a set of LED lights that are underneath this scooter.
+[07:54] And I learned to talk myself how to program an Arduino.
+[07:59] This is the original version. There is no wiring in that box.
+[08:05] The second photo is after the spiders mess that was my wiring. I know good at this, and it's fine.
+[08:13] Yes, the Arduino is missing out. It's holder on this picture. I don't know quite what happened, but I fitted it in later.
+[08:22] And this box just has linear controls on the, I think, the previous photo is very better.
+[08:28] No, really. Linear controls on the front red green blue white, which is intensity, and you just turn the top of the knobs and it turns the lights up and down.
+[08:39] In this process, I discover what happens when you put 24 volts through an Arduino.
+[08:47] It blows a whole off its case. It lets out magic smoke and luckily I do a no-to-cheap.
+[08:54] But I can't, why? This is evidence.
+[08:57] I didn't matter when doing something like this, but those things are make a mess. Be happy, because I learned way more from this mistake than I did from the few things that work first time.
+[09:12] Likewise, AliExpress. AliExpress is a great place for getting everything. This is just a selection of the bits I've been buying from AliExpress.
+[09:24] Anything that's designed for a car will typically work at 12 to 24 volts. The majority of scooters are 24 volts.
+[09:33] Which means you can just plug a lot of things straight in.
+[09:38] And with a buck regulator switching it down to five volts in the control panel or in the bottom of the control, it is not visible in that photo.
+[09:50] Yeah, bottom of the control box is just any voltage in five volts out.
+[09:55] And you can buy Arduino accessories and add on whatever you like.
+[10:03] The story on what happened with the two scooters.
+[10:08] I am not an engineer. I'm barely a computer scientist at the best of times.
+[10:14] So when the motor on the original scooter failed, I went to eBay and I bought a replacement.
+[10:22] I fitted in. I discovered that the plus and minus wire ring on the new one were backwards from the previous one.
+[10:28] So first I made pulled the throttle it went backwards.
+[10:32] Always entertaining when you've then wired it in.
+[10:36] So red goes to red, red, black goes to red and you have to remind yourself, no, this is fine.
+[10:43] The motor is wired backwards for a reason.
+[10:48] And that was Christmas roughly.
+[10:52] And last April the motor went again when just dead short circuit nothing powered.
+[10:58] I can't get these motors a second time I tried.
+[11:02] So at this point what I actually achieved was a new scooter.
+[11:09] Scooters are surprisingly inexpensive especially if you have a local friendly scooter place that does trade-ins,
+[11:19] which is where this one's come from in Norwich.
+[11:23] If anyone really wants to know what it is, TJ's is less plus.
+[11:29] And this was April.
+[11:32] It turns out that A between April and EFF is not enough time to get it off fully working.
+[11:41] And I've no idea what the second half of that sentence is going to be.
+[11:47] So I started not to find this one.
+[11:51] And lessons were learned.
+[11:53] The control panel from the previous slide was down at my feet.
+[11:58] It wasn't that accessible. It wasn't that easy to operate.
+[12:01] And I had, well, why not? Why not do something better second time, I'd have learned some lessons, apparently not enough.
+[12:11] And we come to this lovely device. This is a photo stolen off the internet unlike everything else.
+[12:16] Because I'd wired it in before I remembered photograph it.
+[12:19] This is a cheap yellow display. It was about 10 or 12 pounds from Ali Express.
+[12:24] It is cheap, it is horrible.
+[12:27] And it has an ESP32 on the back.
+[12:30] That doesn't talk nice with an odd we know.
+[12:33] It talks, but it doesn't talk nice.
+[12:37] Didn't have enough input and outputs for the various senses I wanted.
+[12:42] So I currently have both of them barely talking the same language.
+[12:47] Both that in the control box.
+[12:51] But again, we can make failures.
+[12:54] The next slide shows the inside of the control box of that one.
+[13:02] And I3D printed in increasing number of layers.
+[13:09] The top piece that we're going to end up on there to make sure that it fitted.
+[13:17] It's not a straight, it's not parallel. In any direction, it's curved at both ends.
+[13:25] And I learned way more about fusion from this than I had anything from the previous scooter.
+[13:31] But by failing, by trying, it can work.
+[13:41] If I go through to the halfway produced one on the left there,
+[13:48] I slightly told the one because it turns out that there's not enough volume in that.
+[13:52] I just like to tell the one again, which I think.
+[13:57] Oh no, that's me telling it apart. Let's move that back.
+[14:01] But I've torn this scooter apart dozens times.
+[14:08] And every time I do I learn something.
+[14:11] The key thing, excuse me.
+[14:15] The thing I learned most at the beginning is it starts off as a perfectly useful drive-able device.
+[14:24] And I should not touch that.
+[14:26] I'm not an engineer.
+[14:28] I do not want this thing reclost by DVLA as a car.
+[14:34] Because as a cost to scooter, it's fine.
+[14:37] The moment it becomes a car, I need to get it certified.
+[14:41] I need to get it licensed.
+[14:43] I need indicators, which this one doesn't have.
+[14:46] Other scooters do.
+[14:48] And I need to get to V5 for it.
+[14:51] And tax.
+[14:52] No, no, no, no, no, no.
+[14:54] Let's leave that very much in its original configuration.
+[14:57] But that doesn't mean I can't tear it apart.
+[15:00] It just means I shouldn't touch the motor assembly.
+[15:03] No, really.
+[15:04] So I touched everything else.
+[15:07] This one has a weird, wonderful work.
+[15:11] The original screen that came with it, that looks like it's just displaying a 4LDs for how much power it has or not.
+[15:22] Turns out, if you remove that, the whole thing won't power up.
+[15:28] I have no idea why.
+[15:31] But hiding in the middle of the control panel is the original screen.
+[15:36] Still plugged in, hacks into everything else because if it's not in there, it doesn't work.
+[15:42] No idea why.
+[15:44] Don't think I can't, no, either.
+[15:47] Because again, it's not necessary.
+[15:50] How am I doing my time?
+[15:52] Cool.
+[15:54] You don't have to be any good at this to do this work.
+[16:02] I've wrapped, I've got some cheap, I've no idea where I've got this LED type.
+[16:08] I bought it for another project 10 years ago.
+[16:11] Got some cheap LED type, rubber coated time less likely to damage it, unlike the screen, which does come up in a second.
+[16:21] I've just hot glued it to the bottom of the scooter.
+[16:25] As I said, I was hoping this might work for visibility.
+[16:30] In fact, I might ask the lighting team if they can try to only the central light off.
+[16:34] And I'll see if I can get the LED strip tape to be visible.
+[16:39] Yep.
+[16:41] Changing colors slowly down there.
+[16:44] It's got a couple of preset patterns on it.
+[16:48] Thank you, Tex.
+[16:49] And that runs up through the Arduino, which has actually got the inputs and outputs for it.
+[16:58] Up to the screen, which does and it has a single available input and output pin.
+[17:05] And then I've just, I've programmed the touchscreen for a variety of little controls.
+[17:12] If I mount off the dark, which is not a guarantee I have, I may, you will see this wandering around with it's light, just by up.
+[17:21] Because it's a bit of fun, and it's just more interesting and more unique as, as I, as something that looks different.
+[17:35] You don't see that many LEDs on scooters.
+[17:39] And I've just hacked it together.
+[17:41] The wiring that's connecting its two sets of strips, which means that I'd be white or I'd be even power, more accurately, on both sides.
+[17:50] Turns out, it's actually the same number of connectors as is in a network cable.
+[17:54] So this is cat six.
+[17:56] Cat six, because I didn't have any cat five lying around.
+[17:59] Network, which runs up through the through a bunch of wiring.
+[18:03] I've just cable tied to the middle, runs up through here and all into the unit at the top.
+[18:12] The, where are we, let's go to sides.
+[18:16] My workspace has been a little challenging, I'm not part of a workspace.
+[18:20] This is my hallway.
+[18:24] Both my husband and my dog are terribly upset that I keep blocking the front door with it.
+[18:30] But I've learned way more about connectors when doing this than I've ever liked.
+[18:38] Because getting the thinnily detail to connect with thin wiring requires small connectors, and small connectors are an absolute bugger to crimp.
+[18:50] And I've got through hundreds of them.
+[18:53] There is a plastic tray for them visible on my desk.
+[18:58] Yes, there, because I got through a lot.
+[19:02] And again, I found, and I tried again, and I succeeded.
+[19:10] And that's what this project is about.
+[19:13] I'm about proving that someone who works retail can take a device and can edit it, and we can get something more interesting.
+[19:29] I've got more than a few pages of Arduino code, half of which works most of which currently doesn't.
+[19:38] I have aspirations. There is in there a time module, a temperature module.
+[19:43] I'd rather grateful that temperature module isn't working.
+[19:46] Otherwise, I'd find out how hot it's been this weekend.
+[19:50] There is a clock.
+[19:53] My challenge, my challenge just before I left, was I could either get the clock transmitting to the screen, or the screen transmitting to the LED tape.
+[20:05] So currently, the time says it's midnight, and it's been saying midnight for the last 10 hours.
+[20:10] Despite how hot it's been.
+[20:14] And there will be more coding.
+[20:18] I've discovered I do not know the correct way to code an Arduino.
+[20:22] And that's fine.
+[20:25] And I've said this once already.
+[20:28] That is the takeaway is it's fine.
+[20:31] You can do these things. I as someone with little to no training can do this.
+[20:37] And so can everyone else.
+[20:41] My next steps are to finish the last bits of wiring.
+[20:47] It's not actually all quite plugged in.
+[20:51] But it works.
+[20:52] The scooter, I've been driving around the AMF all weekend.
+[20:57] So the scooter still works.
+[20:59] And I will get the time working.
+[21:02] I will get the temperature working because that's just code.
+[21:05] And with enough time and enough effort, if I can do this,
+[21:09] absolutely anyone can.
+[21:12] Thank you.
+[21:26] Thank you.

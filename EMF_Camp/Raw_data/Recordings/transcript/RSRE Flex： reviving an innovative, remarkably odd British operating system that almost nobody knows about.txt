@@ -1,0 +1,344 @@
+[00:00] I think you very much.
+[00:17] Okay, so as usual, I'd like to start my talk with a disclaimer, and this time the subject
+[00:23] letter is entirely responsible for the caveat.
+[00:26] As we sit here in this big tent, I observe that the talk title has the word revival in it,
+[00:31] and even though this mainly means the actual recovery and usage of the flex environment itself,
+[00:36] I'm hoping today to try and revive some of the spirit of the complicated network of ideas and influences
+[00:41] that gave rise to this unusual vision of computing.
+[00:44] All to say that we've got a bit of a journey before we get to flex itself.
+[00:48] I'm going to be talking kind of fast to cover the bases and taking cues from a script.
+[00:53] And I'll also maybe punctuate chapter markers with an audio effect which I hope is helpful.
+[01:00] Folks, I'll do my best.
+[01:03] Okay, so for the past year, I feel like I've been using a computing platform from another
+[01:08] universe, and I'm very excited to share it with you now.
+[01:11] In fact, it's not really, it's not from another space going somewhere against this year's
+[01:15] EMF team.
+[01:16] It's actually from about five miles away that way.
+[01:20] Let that place in the 1970s, a bunch of interesting threads in computing came together
+[01:24] to yield a very different vision of what using a computer could be like.
+[01:28] And starting from this intersection, let's begin with that firmness of foundations, the
+[01:33] mathematical realm of programming language theory.
+[01:41] In particular, we begin with this humble, tight written technical report from 1982.
+[01:45] The author is Ian F. Curry, a name for us to remember.
+[01:50] This paper describes the programming language characteristic that Curry found especially
+[01:53] pleasing.
+[01:54] And in the reading of it, you get a sense that the pleasure itself was as motivating to him as
+[01:58] the practical benefits.
+[02:00] I'll try to convey the ideas, follows.
+[02:03] Now not everyone is a programmer, but I hope we can all see what's going on in this function
+[02:07] that takes an number X and gives back that number plus three.
+[02:11] And using this function is very simple, plus three of 12 is 15, plus three of 20 is 23.
+[02:17] But suppose that rather than typing in very similar looking functions for plus five or
+[02:22] plus two or plus a million, if we wanted them, we want the computer to be able to make
+[02:25] these functions to order.
+[02:27] All we want to do is give the computer the number we want to plus and the computer should
+[02:31] give back the function that does it.
+[02:33] This saves us the work of typing very similar functions over and over.
+[02:38] What we're looking for is a function that makes a function, like this one.
+[02:43] It's called plus maker.
+[02:44] It takes in this number n, and it makes a function that returns X plus m.
+[02:49] And let's use it now.
+[02:50] So when we make plus two, we say plus maker of two.
+[02:53] That gives us this plus two function plus maker of five gets us a plus five function.
+[02:58] And then we can use those as shown plus five of 14 is 19 plus two of six is eight.
+[03:03] All good.
+[03:04] Now what carries paper is so excited about.
+[03:07] And what is actually a fairly subtle concept is this.
+[03:10] Look back at our plus maker function factory.
+[03:13] The value n that we give to plus maker is always just called n, but plus five remembers
+[03:18] that m was five when it was made.
+[03:20] And this doesn't change.
+[03:21] You get replaced when we call plus maker again with n equal two.
+[03:24] It's like there's a separate history known to each function that plus maker makes.
+[03:29] Private universes, enclosed within the hidden memory, so plus five and plus two.
+[03:34] Now programmers and computer scientists in the audience are wondering why I'm not using
+[03:38] the official name for this feature.
+[03:40] So I'm not using the classical closures.
+[03:41] Well, I didn't because Kerry didn't.
+[03:43] He called functions with these private universes praiseworthy procedures.
+[03:47] As you may have noticed, this paper is called in praise of procedures.
+[03:53] Now, electrical closures that already been described in 1964 by bi icon Peter Landon.
+[03:58] I don't know why Kerry didn't use the term or reference related work here, but he wasn't exactly a late
+[04:03] comer.
+[04:04] It would be another 10 or 15 years before programming languages unabashedly proclaiming this feature.
+[04:09] The merge into the mainstream and Kerry had a wish list in the meantime.
+[04:14] Praiseworthy procedures could be very useful for many things.
+[04:17] In particular, their private universe could be secure places to store data.
+[04:26] Now, if you were interested in feature programming languages for large software projects
+[04:31] in the 1970s, a few options were of interest.
+[04:34] One note where the candidate was Algo's 68, a language.
+[04:39] Some fans.
+[04:40] Algo's some interesting past.
+[04:43] Most people know about Algo will be familiar with 1960s, Algo's 60s.
+[04:47] Algo's a language that pioneered a kind of basic block structured form we know well today.
+[04:51] For most programmers, this simple program is very easy to understand.
+[04:55] Well, to make a long and fascinating story much shorter, the people working on the successor language took some huge swings.
+[05:02] Reading retrospectives.
+[05:04] We get the sense of academic computer scientists gazing out over the broadening intellectual horizon of computing and trying to work out one language that could express every unique grain of the capability and elegance that they were beholding there.
+[05:19] And to their credit, their feature instincts were largely correct.
+[05:22] Algo's 68 has loads of modern features, including strong descriptive typing, anonymous procedures in lambdas, first-order procedures like our plus maker uses.
+[05:31] Arase sizes, operator overloading, and a lot more.
+[05:35] And there are even some things we haven't quite found to use for yet.
+[05:38] For example, identifiers like variable names can have spaces in them.
+[05:43] And look how you can decide which variable you want to assign a value to.
+[05:48] This is part of Algo's 68 stringent devotion to orthogonality, or being able to use most language forms of most settings.
+[05:56] But Algo's 68's development was famously neither easy nor smooth.
+[06:01] As described in the excellent history of Algo's 68 by CH Lindsay,
+[06:05] Specifying the language occurred over a series of intense and sometimes acrimonious meetings in these locations.
+[06:12] See, Algo's 68's advanced features were mooted at the time when computer science did not really have the language to discuss those features that we had today.
+[06:20] Moreover, when it's invented, to specify these features formally,
+[06:24] many people found their notation extremely difficult to understand.
+[06:29] Things got to the point where in December of 68, several members of the team developing the language authored a minority report that deemed the entire enterprise of failure.
+[06:39] Algo's 68 did eventually get specified.
+[06:42] It's all limited use, notably in the UK and the Soviet Union.
+[06:46] Today there's a very modest revival, including a GCC front end that debuted only last year.
+[06:51] You'll always get the sense that the programming world has caught up to its ambitions.
+[06:55] But the conclusion of many during its development was that Algo's 68 was a programming language so complicated,
+[07:02] described by a specification so reckonedite that nobody could possibly write a compiler for it.
+[07:09] But there was one shop that did.
+[07:12] And it was about five miles away that way.
+[07:15] Oops, too far.
+[07:20] The Royal Radar establishment was a post-more UK MOD research lab in Malvern that carried some of that era's moment,
+[07:26] and in basic and applied science research.
+[07:28] Becoming the Royal Signals in Radar establishment in 1976, the lab made some noteworthy advances in sensing communications and solid state physics.
+[07:36] Think of a smaller, slightly more defensory-intreated bell labs, and you won't be far off.
+[07:41] We all the liquid crystal display to them among other things.
+[07:44] Just like Bell Labs, RSI had people working on computing, and you may have caught that you've already met one of them.
+[07:50] In June 1970, the same E and Cree and his colleagues Susan Bond and John Morrison stunned the Algo world by demonstrating the first working Algo 68 compiler.
+[08:00] People couldn't believe it.
+[08:02] They sent code to Malvern for them to compile just to prove it.
+[08:05] Now, if I'm not mistaken, these developments and later flex took place within the mass and computing group under mathematician and brilliant amateur clock maker Philip Woodward.
+[08:13] Based on the count of someone who is there, the lab sounds convivial, collaborative and rigorous.
+[08:18] It's small, highly talented, and very well educated membership all dedicated to their work.
+[08:23] The atmosphere was academic, with facilities including single-person offices, chalkboards, and a common area for tea, twice daily, and discussions about work and so on.
+[08:32] Two more names we must now introduce into this estimable context, our Michael Foster and Peter Edwards, additional flex inventors and developers.
+[08:41] There were others as well, but by now you have heard many of the central figures.
+[08:45] Although the biographical information I found has been limited, I've been able to learn a bit more about their personalities from my witness.
+[08:51] A lie detail since none of those traits seem to have influenced flex directly, but I will quote this person and saying,
+[08:57] I feel privileged to have known them all.
+[09:00] Well, for all of its academic trackings, we must remember that R.S.R.E. was a defense laboratory, and therefore security would have been an acute concern in any computer design origin.
+[09:09] For this reason, we can be pretty certain, one recurring topic in the maths and computing group to room was,
+[09:16] whoop, two par.
+[09:20] These days, most computer security is based substantially on identity.
+[09:25] What you're allowed to do is based on who you are.
+[09:28] Identify yourself as a specific individual or role, and the computer grants you access to the resources associated with that persona or affiliation.
+[09:37] We're often with logging into a computer or website.
+[09:40] That's identity-based security at work.
+[09:42] But there are alternatives.
+[09:45] Think of a house key.
+[09:46] The security it offers isn't based on who you are, but rather whether you have possession of the key.
+[09:51] You can lend the key to someone else, and then they have the same access to your home as you do.
+[09:55] Well, computer security can work this way too, and while some of you may be thinking of things like security tokens and you be keys and so on,
+[10:01] those are usually about ways to confirm your identity.
+[10:04] A house key isn't like that.
+[10:06] It provides access to one resource, your house, for whoever holds it.
+[10:10] There's a computer security approach where a house key resources are secured behind special keys,
+[10:15] present the computer with the key, and you get the resource.
+[10:19] Without the key, you don't get it.
+[10:21] It doesn't matter who you are, the computer doesn't really track identities.
+[10:24] These keys are called capabilities, and the paradigm is called capability-based security.
+[10:29] For programmers, capabilities can be thought of as unforgible pointers, versions vary, but it's not unusual for them to be bundled with type information and memory bounds.
+[10:38] Well, I think it's a bit of a shame that the approaches are more popular, partly because the existence and possession of powerful access tokens seems I can excellent McGuffin for sci-fi paper films.
+[10:48] But it's not an easy system to set up.
+[10:51] You need to make certain that the ability to make a capability is strictly controlled, or else anyone can make their own in gain access to any of the keys.
+[10:58] So, usually this is done with dedicated hardware, and this is what brought us such famous systems over the years as IBM System 38, or Intel's disastrous IAPX432,
+[11:09] and closer to home Cambridge Cap, and the Plicy System 250, and we all know and love all of these.
+[11:16] Anyway, finally, oops, yeah.
+[11:22] It's been a long time, so I'm going to keep back on in concepts behind Flex. It's now the late 1970s, and Ian Curry is joined by those fellow researchers, foster and Edwards, and pursuing a vision of computing that combines all of these things, and more.
+[11:35] What do you have?
+[11:37] The fundamental instruction set architecture was ideal for algal 68, but not just algal 68.
+[11:43] algal 68 with praiseworthy procedures, and their private universes, regular algal 68 for all its features didn't have those.
+[11:51] And with added security and control of typed capabilities, ensuring that resources could only be accessed by certain means and in certain ways.
+[11:58] And on top of all of this, Curry, Foster, et al.
+[12:01] sought to remove the perceptual distinction between data and memory and data on disk. No files anymore. I'll try to show that later.
+[12:09] There had never been anything like it, and that's why the RSI had a dedicated multi-user mini-computer made under contract by Logico.
+[12:17] They called their concept and the computer the Flex machine.
+[12:20] And for its time, this was a pretty nice computer, and it realized much of what the research team had aimed to achieve.
+[12:26] Part of how it did this was loads of sophisticated functionality, was built into the microcode that implemented the machines instruction set.
+[12:34] Okay, microcode.
+[12:36] A sidebar here to explain this important term.
+[12:39] Think about how the atoms of your physical acts, picking up a glass or standing up or taking a step.
+[12:45] Think about how these are actually a symphony of muscle contractions and relaxation.
+[12:50] Some part of you learned in your earliest years, even though they're probably completely opaque to you now.
+[12:56] Well, the atoms of computer programs, instructions like add these numbers, move this data into memory, talk to that peripheral.
+[13:03] These two are subliminal symphony of transactions between numerous discrete elements inside a computer processor.
+[13:10] Not all of these used to it this way, but for those that do, microcode is like the orchestral score for these symphonies.
+[13:16] And the Flex machine's microcode symphonies were especially rich and complex.
+[13:21] Anyway, I'd say more about the logical built machine, but it didn't last long.
+[13:25] It's Flex development moved on to successor systems.
+[13:27] This is why I need to introduce, like, perk.
+[13:33] It's 1978 in Pittsburgh.
+[13:37] And three-ray-verse computer corporation is a hardware startup that's fed up with zero-axis failure to bring its revolutionary vision of modern computing to market.
+[13:45] So instead they make their own zero-axis alto, like computer called perk.
+[13:50] To many, this is the first workstation computer available for commercial sale.
+[13:54] It has got a lot of the fundamentals of modern computing.
+[13:57] There's a pointing device and a high resolution bitmap display.
+[14:00] There's even sound, but most attractive to the Flex folks at RSRE.
+[14:04] It has programmable microcode.
+[14:06] You can design and upload your own processor defining symphonies, establishing the set of atomic instructions that can follow.
+[14:14] Three-ray-verse was probably lucky to partner with UK computer giant ICL who helped to make their hardware slightly more practical for commercial sale.
+[14:22] Slightly.
+[14:25] This plus the UK science research council advocating workstation computing with perk probably accounts in part for how foster curry at L.
+[14:33] wound up using it as a successor to the bespoke logical computer.
+[14:37] Today there are a few of the systems still knocking about as a rule. They are very difficult to keep running.
+[14:43] The logic is spread out over more than 600 discrete ICs.
+[14:47] Many running close to their maximum operating frequency.
+[14:50] If any goes marginal as they are want to do after about 40 years, the computer ceases to work.
+[14:56] And hours and hours of intense hardware troubleshooting.
+[15:02] Oh wait.
+[15:06] All perks have a numerical counter display for power on diagnostics.
+[15:10] Each increment asserting that another part of the computer is still working.
+[15:14] Perk usage includes a good amount of flipping the power switch and watching the number count up in a spirit of silent prayer.
+[15:22] Let's do that now.
+[15:25] Okay. Ten past fundamental processor checks but we're waiting. Where's the hard drive?
+[15:29] Can't get to the hard drive. Screen still blank. 14. 14. Oh no. There's no hard drive.
+[15:35] Well maybe it's spun up now. Hit reset again. Okay. Now we're cooking memory checks.
+[15:39] Okay. Waiting for a boot key. And we go. And yes. Flex is booted. Here it comes.
+[15:45] Hey.
+[15:48] Welcome to RSRE Flex everyone.
+[15:52] So Flex starts out if you're a synthetic right out of the gate. Let's log in.
+[16:06] This syntax is a little funny and that's because logging in amounts to executing a procedure that takes no arguments.
+[16:12] A praiseworthy procedure. Your entire user experience and all of your data lives inside the closure.
+[16:18] The private universe of a procedure whose name is your name.
+[16:22] Now some weird stuff happens when you execute the call. But once you're in, you're sitting in a text editor.
+[16:27] You can type things like normal and not very much happens.
+[16:31] But that little mouse button diagram hints at ways to navigate beyond a single page.
+[16:35] There are special keyboard keys too. I'm going to use one now on that bit of text that says tutorial.
+[16:41] It's the same one I use when we logged in and it's called the obey key.
+[16:47] Okay. Not a big change. The word is now surrounded by a box. But it's actually a huge difference.
+[16:52] As far as the interface is concerned, the text is no longer there. It's been replaced with what you and I might call a hyperlink.
+[16:58] But what Flex calls a cartoosh.
+[17:01] This is an illusion to the ancient Egyptian method of denoting royal names and writing, which was to surround them with this oval shape with a lying tangent to one end.
+[17:12] Pointing and clicking with your examin mouse button. I apologize for the panning. It can't be helped.
+[17:17] But anyway, what that does, it takes you in this case to the tutorial, which is just one of several online documentation facilities.
+[17:25] All of Flex's docs bar the install instructions are online and they are extensive.
+[17:31] The tutorial gets you started with editing and navigation, which is unique and can take some practice and goes all the way to developing.
+[17:38] Here what the keyboard keys do for example.
+[17:41] Well, returning out to the starting place, let's do a bit more typing.
+[17:46] So let's do that. Okay. I'm now going to type 1, 2, 3, 2, 3, and never guess for n5.
+[17:58] Okay. Yeah. So, yes. As mentioned, we're just in the text editor.
+[18:04] So, B. He causes your command line to be evaluated by the command line interpreter.
+[18:08] It's not really like a conventional command line, though. In Flex, this facility is mainly for building values like the one I just typed.
+[18:16] Watch what happens when you press obey.
+[18:19] Cartuishes everywhere. Just like when we logged in.
+[18:22] Let me make a duplicate of this and then press a special key. Let's hope I remember how to do that.
+[18:27] Yes. Okay. And I'm going to press the mode key.
+[18:30] Okay. Here we now see the type or mode of these values. Cartuishes are typed.
+[18:37] But let's go back and examine the structure we typed before.
+[18:41] So there we go. Here it's behaving less like a hyperlink.
+[18:45] We're instead taking apart the structure and seeing the values inside.
+[18:50] So cartuishes are typed references to values.
+[18:53] B. The numbers are text data or source code or what have you.
+[18:57] Type to references. Cartuishes are visual representations of capabilities.
+[19:01] Perhaps this is why Flex is principles never can never themselves characterize.
+[19:05] Flex is being a hypertext based.
+[19:07] Maybe he felt it was more general than that.
+[19:10] Well, enough messing around. We should edit some code.
+[19:14] The per cumulator I'm using has some limitations. It can't write data to disk yet.
+[19:19] So I've prepared an example on my real perk ahead of time.
+[19:23] Let's call it my MF stuff. We're going to obey it.
+[19:28] And now we're going to examine it.
+[19:31] Okay.
+[19:34] In this document, I've laid out a kind of unrolled experience of writing and testing some code.
+[19:39] The first cartuishes the top brings us to the source code.
+[19:42] Note that there's no file name here. Just a link. You don't really think of files.
+[19:46] Just values. The text inside the cartuishes arbitrary. It's not a file name.
+[19:50] Anyway, let's give the quick look. It's just a simple algal 68 program.
+[19:54] It just adds up numbers and a list.
+[19:56] Well, very good. We want to compile it.
+[19:59] And so to compile something, what you do is you copy your cartuish or rather you don't copy it
+[20:05] because you're not unrolling it. You're just editing it.
+[20:07] Anyway, you apply the algal 68 procedure to it.
+[20:10] To the cartuish that points at your code.
+[20:12] The exclamation point by the way means apply procedure.
+[20:15] There are a few more steps after that to get a reference to the compiled procedure itself.
+[20:19] But note that each step results in a new cartuish that refers to the result of that step.
+[20:24] Ordinarily, you would replace the text inside to avoid all of this like deeply distracting nesting.
+[20:29] But then finally, at the very end here, we've copied that procedure referencing cartuish.
+[20:35] And now we can apply it to some arguments. Let's just do that.
+[20:39] You guessed right. We're going to say, obey and off it goes.
+[20:44] As always, the result is a cartuish.
+[20:46] So we have to examine it to see what it refers to.
+[20:49] Sure enough. Thankfully, it's 108.
+[20:52] APPLAUSE
+[20:58] Okay, one final thing to show. We'll make a new window because Flex has a tile window manager as you can see.
+[21:04] And we're going to open one final thing. Position that there.
+[21:07] I'm going to say, Doc and obey. There we go. Time to examine that.
+[21:12] Yeah.
+[21:13] Okay, this is your table of contents of system modules. Code your program can call.
+[21:18] And you can inspect pretty deeply.
+[21:20] And what I'm hoping to show you is in here, I guess, an action with programs.
+[21:24] And this is another list. And we're going to go to the window.
+[21:27] Okay. So this is system source code.
+[21:31] But look at the top here. If you want to use code from another module, you don't say include this or import that.
+[21:38] You just stick the modules cartuish at the top of your program.
+[21:41] Yeah. So let's sum up. Within the hidden universe of our own praiseworthy procedure,
+[21:47] we're using a hypertext editor to construct and manipulate strongly typed values,
+[21:52] including programs whose references are represented graphically as typesetable visual handles called cartuishes.
+[21:59] And that is scratching the surface of flex.
+[22:02] Folks, I'm really not aware of anything else much like it.
+[22:05] Neither now or in 1985 when it was made. Maybe list machines?
+[22:10] I don't know. But let's now give our simulated perk arrest and talk about.
+[22:16] So what goes on inside the hardware of a computer designed to realize everything we've just seen.
+[22:25] What do the actual bits, bytes and operations look like?
+[22:28] Well, here's a taster. Most data is grouped into 32 bit words.
+[22:33] Your most basic data numbers all have this one bit at the very end set to zero.
+[22:38] That means this word is not a pointer, not a reference to other data.
+[22:42] Down at the bottom we do see a pointer and that bit is there one.
+[22:46] Only the hardware is able to see or set this bit.
+[22:49] Note also that pointers have a handful of bits that say what type the data is.
+[22:53] But there's more to capabilities than that. References to vectors in arrays include dimension information.
+[22:58] And procedure references are this complicated data structure.
+[23:02] Studying this diagram will teach you how flex makes its procedures praise worthy in hardware.
+[23:07] Here are some of the fundamental machine instructions that binary program code in flex is made of.
+[23:13] Adding comparisons and so on. Now if you look, you may wonder what this you business is.
+[23:19] Flex uses a stack machine as well as a single register you.
+[23:23] It's not like most registers we know. You stands for universal.
+[23:28] It can hold basically any data structure of any size.
+[23:32] Flow control instructions are pretty high level. They're a good match to level 68 code.
+[23:38] But keep looking and you'll find some increasing as a terric instructions like these for for interfacing with a laser printer.
+[23:45] All of this made for a pretty compact OS kernel and they were proud of this.
+[23:50] Well, there's a lot more to show but I should probably start wrapping up.
+[23:58] So, did flex ever make it outside of a research lab in now.
+[24:02] Well, the answer is yes. Starting in 1985, you could contact the RSRE and under terms that have so far been lost to time.
+[24:11] Getting a valuation copy of your own. It came to you on about 15 eight inch floppy disk, which is what the per cues for a removable storage is best.
+[24:21] I can tell flex made it to a few educational institutions among the University of York.
+[24:25] Flex was relatively absent from the scientific literature however, and it had little influence on the academic OS community.
+[24:32] Flex folks didn't stop with flex meanwhile.
+[24:35] The game foster went on to create 10 15. A kind of code for programs that's independent of the computer that runs it.
+[24:41] This effort was useful for building compilers and the project called Tindra carries on today in a relatively limited way.
+[24:47] But beyond that, flex left few traces.
+[24:50] Pre-sworthy procedures are basically expected of any new high level programming language.
+[24:55] Capability fell out of fashion in the 90s, but it started to re-emerge as the modern internet and mobile world has revealed the limitations of identity-based security.
+[25:04] Hypertext obviously became a big deal, but Flex had very little to do with it.
+[25:09] And Korean foster have passed away both, unfortunately, although Susan Bond and a few other RSRE and Flex people from around that time are still around.
+[25:20] Well, it's pleasant to wonder what might have happened if Flex's less popular concept, so it's user interface notions made it into the mainstream.
+[25:28] I do have a few thoughts on this, but I'll probably have to let you imagine on your own what it would be like.
+[25:33] I will say if nothing else, I'd would rather give an AI a whole bunch of capabilities rather than have it actually in person at me.
+[25:44] For most of the century, Flex was remembered by handful of RSRE-related people and small numbers of fans of the part computer.
+[25:50] For the latter, it was this little known operating system that some people had maybe heard of or knew someone who had used it.
+[25:56] Well, I'm a recently minted perk weirdo, and as other weirdos urged me into the quest, I managed to find floppy disk containing Flex in the hands of a couple of private collectors.
+[26:05] After months of preparation in practice, I succeeded in archiving many of these disks using a set up the connects an 8-inch floppy drive to a modern computer for low level imaging.
+[26:13] For those in the know, the drive is a 10-NTMA48-2 floppy drive probably from about 40 years ago, and I'm using a grease weasel as my imaging device.
+[26:22] This shot and the next are POV images of me finding Flex media and artifacts in the back shelves of one of these collections.
+[26:28] You can imagine how excited I was about this.
+[26:31] But here's another POV image that illustrates some of the things you encounter in a recovery job. There's a beautiful mold specimen right there.
+[26:39] All together, I think I probably traveled about a thousand miles over multiple trips to get what we have now.
+[26:44] And if anyone here has a line on more, I am glad to tack on another thousand.
+[26:49] Dang.
+[26:51] There's little I would like to do more than share Flex with everyone here.
+[26:55] Immulator trouble notwithstanding it is straightforward to install and experience, but this is where I have to ask people in the audience for help as there are two substantial hurdles all related to IP.
+[27:06] We're working now with the Melbourne radar and technology history society to try and find anyone who has any memory or details of the terms by which RSRE made Flex available to third parties.
+[27:15] If there's the remotest chance, you might know anything about this or know somebody else who might. Please talk to me.
+[27:21] Flex also contains licensed numerical library code made by numerical algorithms group, which is still around and trading under the abbreviation nag.
+[27:31] We may be saying a gb. Either way, some of this library code includes source code and while there probably isn't much call today for nags, alvo 68 products, numerical code always contains precious magical constants.
+[27:43] But people can sometimes defend rather jealously. So if anyone here knows anyone friendly at nag who might be worth reaching out to, I'd love to hear from you.
+[27:51] Until we managed to clear some of these blockers, Flex won't easily make it much further than the private universe of my own hard drives and cloud backups.
+[28:00] So, so concludes my effort to cram as much Flex as I can in the 30 minutes.
+[28:05] That's hard not to reach the end of a talk like this without some degree of regret. There's so much more that I know people here would be interested in.
+[28:11] And it's hard to feel like you've done the topic justice. I haven't covered the right once file store, for example.
+[28:17] Still, I hope you enjoyed what little you saw. If you're interested to see more things or try out Flex for yourself, options are limited, but you'll come find me.
+[28:25] I'll be at the Q&A 10 after this or dial RSRE that 7773 to someone and you can try it out on my laptop.
+[28:33] And yes, I must thank these very important people for helping me discover and recover Flex and the perk as well.
+[28:39] And I must thank you all for your kind attention.
+[28:42] Thank you.

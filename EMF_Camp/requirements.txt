@@ -1,6 +1,10 @@
-psycopg2
+psycopg2        # PostgreSQL database adapter for Python
 pandas
 ipykernel
 requests
 scikit-learn
-python-dotenv
+python-dotenv   # For managing environment variables
+yt-dlp          # For downloading audio from EMF 2026 playlist
+openai-whisper  # For audio transcription
+imageio-ffmpeg  # For handling FFmpeg integration with imageio
+rapidfuzz 

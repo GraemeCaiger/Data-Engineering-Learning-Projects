@@ -1,0 +1,347 @@
+[00:00] Thank you.
+[00:02] Thank you.
+[00:04] Thank you.
+[00:06] Thank you.
+[00:08] Thank you.
+[00:10] Thank you.
+[00:12] Good morning.
+[00:16] If you remember one thing from this talk, I hope you remember lots of things because I think it's a really interesting subject.
+[00:22] If you remember one thing from this talk, I want it to be this.
+[00:26] I am not a doctor.
+[00:28] I am absolutely not qualified to diagnose any disease, to advise on treatment, to talk about degrees
+[00:38] disease progression, anything like that.
+[00:40] I study molecular biology.
+[00:42] I am not doctor, nurse, paramedic, pharmacist, anything useful.
+[00:46] Please do not make important life decisions like medicine about the advice of bearded men,
+[00:50] shouting at you in fields.
+[00:52] If that kind of thing appeals to you, I have to do something like that.
+[00:56] If that kind of thing appeals to you, I have been thinking of starting a cult.
+[01:00] I will talk to you about that.
+[01:02] Do not try and take medical advice from me.
+[01:04] I will do my best not to say anything that sounds like medical advice, but also please don't read in.
+[01:08] I have been talking about dogma and cults.
+[01:12] We are going to talk a little bit about the central dogma of molecular biology.
+[01:16] Introduce DNA, RNA proteins, and talk about the structure of the cell.
+[01:22] I will talk about how viruses get in, exploit the various systems in five
+[01:26] to cells.
+[01:28] The central dogma of molecular biology.
+[01:32] All the best dogmas is quite simple.
+[01:36] It has a very foundational basis.
+[01:40] It is very useful.
+[01:42] It is mostly true, so long as you don't think about it too hard.
+[01:46] I am being a little bit of a direct there, but it is mostly true.
+[01:50] DNA in the cell, as the source of truth, the oxyribonia clare casette.
+[01:54] This is an enormously big by molecular terms molecule.
+[01:58] The hangs around in the nucleus of the cell, containing vast quantities of information.
+[02:04] DNA is the source of truth, the source of all information in the cell, mostly.
+[02:10] The information in the DNA needs to be used somehow.
+[02:12] It gets copied into RNA, which is very, very similar, a bit less stable.
+[02:18] We get small regions of DNA copied into RNA.
+[02:22] The RNA leaves the nucleus of the cell.
+[02:26] This is used as a template to make proteins mostly.
+[02:30] This is close enough to being true, and it is a very good mental model to get started with.
+[02:34] You have DNA copied into RNA, RNA moves, and either does something itself, or serves
+[02:40] as a template to make proteins.
+[02:42] The proteins in the cell go off and do all sorts of stuff.
+[02:46] As you can see here at the bottom of the diagram, when we say a protein, what we mean is
+[02:50] actually a long stringy molecule.
+[02:52] Each of the subunits is called amino acid.
+[02:54] There are 20 of these, the whole different shapes, sizes, charge,
+[02:58] hydrophobicity, and you build up a very, very long string of these,
+[03:04] that then fold into a big complex machine, but does something interesting.
+[03:10] This all happens in the context of the cell.
+[03:14] Depending how much biology you know, we get taught that the cell is a membrane,
+[03:20] inside which you have a soup of proteins and DNAs and sugars.
+[03:26] This is broadly true, but the cell is a very highly structured environment.
+[03:32] Without getting into all the details, it's not worth listing.
+[03:36] The cell comprises lots of very carefully structured, very tightly regulated
+[03:42] machines, areas, subdomains, organelles.
+[03:46] It is not just a bag of soup.
+[03:48] And so one of the things that the virus has to do when it gets in is find its way through this,
+[03:52] get the right parts into the right parts of this huge enormous,
+[03:56] complicated factory.
+[03:58] More computer oriented people sometimes like to think about this in terms of information flow.
+[04:02] Information starts in the nucleus, or comes from outside the cell
+[04:06] to be picked up by a lot of senses on the cell's surface and brought in.
+[04:10] So information is constantly flowing through and around the cell decisions are getting made,
+[04:14] and the factory, if you like, is responding appropriately.
+[04:20] So cell as a self-maintaining information processing system for a computer e-crow.
+[04:26] DNA is a long-term storage, the source of truth.
+[04:29] RNA carries a message or sometimes performs functions on its own, or both.
+[04:34] Tritians are the machinery, more or less, and membranes control where things happen.
+[04:38] Again, more or less.
+[04:40] Lots of hand waving here.
+[04:42] Each of these sentences you can spend a career on and still not fully understand it.
+[04:46] God knows I don't.
+[04:48] So hacks and espionage.
+[04:50] We're going to talk about what a virus is, and what it does when it gets to a cell,
+[04:54] and what constraints under which they operate.
+[04:56] So viruses are not a factory.
+[05:00] If the cell is a factory, a virus is not.
+[05:02] They are a small set of instructions in code in the viral genome,
+[05:06] and just enough machinery to get it into the cell, and to take the cell over to make more copies of the virus.
+[05:12] For a sense of scale, by the way, if a cell, if a human cell, is as big as the circus tent,
+[05:19] a virus is somewhere between a great prudent football, depending on the virus,
+[05:25] and depending how badly off my maths was.
+[05:27] These are some examples of viruses.
+[05:30] The point I want to make here is that viruses are incredibly diverse.
+[05:34] So we have working from left to right to back of my Zaykh virus, which has an RNA genome, and is a long rod.
+[05:40] It's actually comprised of just one protein that forms the snacks up and up and up and up in a spiral,
+[05:46] like a spiral staircase, until it's long enough to contain the genome.
+[05:50] Then we have an adinavirus, which infects humans, and is a big complex virus.
+[05:55] It's quite big and chunky by virus standards.
+[05:58] Then we have influenza virus.
+[06:01] This is very different. It has a segmented RNA genome.
+[06:04] So adinavirus has a double-stranded DNA genome.
+[06:08] Influenza has, I think, eight of and different RNA molecules.
+[06:14] All need to be assembled together to form its genome.
+[06:18] And these are surrounded by a layer of membrane that was stolen from the cell,
+[06:23] in which the influenza virus was made.
+[06:25] Unlike the adinavirus, for example, which is just a protein coat.
+[06:29] It's a sort of hard protein shell.
+[06:31] The influenza is a squishy membrane as blob.
+[06:34] And then on the far right is bacteria-fage.
+[06:38] Looks like an alien space-lander is great.
+[06:41] These specializing infecting bacteria.
+[06:45] They're very different from human viruses, but we love to include them in presentations,
+[06:48] because they look really cool.
+[06:50] In this talk, by the way, I'm going to be focusing on viruses that infect mammals,
+[06:54] generally humans in particular.
+[06:58] So all of these are very different. They share similar constraints.
+[07:02] Because they need to be small, they therefore have very limited genome size.
+[07:07] That means a lot of things that they can't bring their own complete replication machinery.
+[07:12] They rely on hijacking a bunch of the cells machinery,
+[07:15] and persuading it to make more copies of the virus.
+[07:18] It has to have a way of getting into the correct cell,
+[07:21] because its machinery is set up specifically to hijack a certain kind of cell.
+[07:26] It has to get to the right part of the factory inside the cell,
+[07:29] in order to manipulate those bits of machinery.
+[07:32] It has to be able to, once it's there, take over what the cell is doing,
+[07:36] and persuade it, make copies of the virus instead of staying alive,
+[07:40] or instead of making mucus in your nose, or whatever the virus is trying to stop this often doing.
+[07:45] And it mustn't get caught too soon.
+[07:49] Ideally, a virus would have to be picked up by the immune system,
+[07:52] but it's good enough if the virus can make copies of itself and spread before your immune system shuts it down.
+[07:59] So how do we approach some of these problems?
+[08:02] So the first one, data compression.
+[08:05] Quickly, we're going to very quickly talk about, we're talking about having genes,
+[08:10] which can carry a lot of traits.
+[08:13] It basically a gene is a stretch of DNA, which encodes how to make a protein.
+[08:18] We start off with what's called a promoter region.
+[08:21] A regulatory region.
+[08:22] This is a stretch of DNA with a correct sequence, such that a bunch of different cellular proteins can land on it,
+[08:28] recognize that sequence, and say, okay, this part of DNA is a signal,
+[08:33] that whatever downstream needs to be copied into RNA to be made into a protein.
+[08:38] And then you have the gene itself.
+[08:41] We have X ons and introns, which are not worth getting into too too much,
+[08:45] but we have the DNA sequence that encodes how to make a protein.
+[08:49] There are edits that need to be made from this to remove what's called introns,
+[08:53] which are short stretches of DNA, which are not useful for making the protein.
+[08:58] So they need to get a sniped out.
+[09:00] So we have a stretch of DNA.
+[09:02] The proteins, the transcription complex lands on the promoter,
+[09:06] chugs along the DNA, making an RNA molecule.
+[09:10] Some modifications happen.
+[09:12] And the introns get spiced out.
+[09:15] We have a mature RNA molecule that contains just the sequence needed to make the protein.
+[09:21] And then this gets, we say, translated into a protein.
+[09:26] So this is normal mammalian gene, normal human gene,
+[09:29] and roughly how it gets from a gene to a protein.
+[09:33] If we look at an AAV genome, so this is the genome from one of my favorite viruses.
+[09:38] It's a very, very small virus.
+[09:40] You'll have been, you've probably have been infected with something like this before in your life,
+[09:45] and not known it.
+[09:46] It would be an asymptomatic.
+[09:48] This is a tiny, tiny virus, who has a very compressed genome.
+[09:53] Part of the way it does this is by getting around some of these constraints you've just talked about.
+[09:58] So if we look at the top row, we have P5, P19, P40.
+[10:01] These are different promoters.
+[10:02] So these are the areas of DNA, whether replication complex lands.
+[10:06] And so as all this is the start of a gene, I need to start making RNA from this.
+[10:09] What you'll notice first of all is that the first promoter called P5 sits outside the gene as normal.
+[10:16] The next two, called P19 and P40, are actually inside the coding region.
+[10:22] So the virus is managed to evolve protein coding regions.
+[10:26] So DNA that contains a correct sequence to make a functional protein that it needs to replicate.
+[10:30] That is also the correct DNA sequence, such that some of the cells replication machinery can land on it.
+[10:37] And say, OK, this is the start signal for something I need to make into RNA.
+[10:42] This is the hugely difficult to do because you're meeting two very different sets of constraints.
+[10:48] So OK, we've got promoters inside coding regions, quite tricky.
+[10:53] We can also see that from this rep region, the four rows below, we have Rep 78, 68, 50, 40.
+[11:00] These are all different proteins being made from the same coding region.
+[11:04] And I talked about very briefly about the RNA maturing and bits of the introns being spliced out.
+[11:10] The virus exploits this system and uses a combination of different start site from the first promoter and the internal promoter.
+[11:18] And then different splicing strategies, exploiting the cells machinery to produce different sets of proteins from that.
+[11:24] So we get four different proteins from one coding region.
+[11:29] And the VP ones do something very similar. What's really interesting is AAP and MAAP.
+[11:35] So assembly activating protein, associated accessory protein, not getting into what they do.
+[11:40] But this plus one here, these are in what's called a different reading frame from VP1.
+[11:46] So they're doing something very special to squeeze more information into the same DNA sequence.
+[11:51] So how does the DNA sequencing code are protein?
+[11:55] A protein we said has made of amino acids. There are 20 amino acids. There are four letters of DNA, ACTG. How do we get that?
+[12:03] The answer is that they get red in triplets called codons.
+[12:07] So we have our DNA strand at the top, gets copied into RNA.
+[12:11] And then if you read in triplets, the UGG gets red as triptofan.
+[12:18] And the UGG gets red as phenylalanine and so on. So these are sets of three letters.
+[12:25] But how do we know which sets of three, why UGG are not GGU?
+[12:32] So what we can have instead is alternate reading frames.
+[12:36] So the row in red, each of these KWTKTICL and the top represents a different amino acid reading one set of triplets.
+[12:46] But if we shift into a different reading frame, we can see the blue letters, N and E and L.
+[12:52] I think I've just failed my eye test and then E and L.
+[12:55] Whatever the letters are actually R, encoding a different string of amino acids from the same codons.
+[13:03] This works mostly, but it's hard to do. Like if you draw an analogy with English, this is our DNA sequence at the top.
+[13:11] You can split it up in different ways. You can have a nice age to get her or an ice age together.
+[13:19] And so the protein encoding is sort of doing this trick. The analogy isn't perfect, but it mostly works.
+[13:24] You have a specific sequence which reading it slightly shifted one way or the other, encodes a very different information.
+[13:32] I will say this is quite a fun puzzle. If you get stuck in the bar queue for the bar later, coming up with a few sentences,
+[13:37] it's more interesting than I expected it to be. But like with English, you can get a few words.
+[13:43] The few words, strung together, don't make a lot of sense. It's enormously difficult to write complete sentences or to have two different meaningful stories in the same string of letters.
+[13:53] And enormously hard. But as you can see from the AAP and MAP, these are very different proteins from anything else in the rest of the virus.
+[14:02] Each of them does two or three different jobs. And the virus manages to encode them in the same string of letters just one offset.
+[14:09] As it does the bar at the VPs, it's a beautiful piece of squeezing lots of utility into a small amount of sequence.
+[14:18] So another approach, this one is used by Polio Varus among many others, polyprotins. So I spoke about having a promoter driving A gene.
+[14:29] Another way you can do this, have A promoter driving and a normal machine. You make one huge protein or polyprotin.
+[14:38] And then that gets cut up progressively into smaller and smaller chunks. Each of which is a functional protein. And many of the intermediates themselves are functional.
+[14:47] What's particularly nice about this is that some of the subunits are proteases, they're called, which work to make subsequent cleavage events.
+[14:57] So you get a initial cleavage into the big subunits. One or two of those act on other subunits to accelerate the cleavage to make sub-difference subunits.
+[15:08] And this act is a sort of a crude clock in a virus replication cycle. So over time, the pattern of available subunits changes.
+[15:17] Some of those change the way in which it breaks itself down. And you get a shift from the genes that are needed early in the cycle to the genes that are needed late in the cycle existing as proteins.
+[15:29] It's a really, really beautiful system. So use of polyprotins. And I mentioned that because this is a lovely thing which coronavirus is do, including everyone's least favorite coronavirus.
+[15:44] This combines these two ideas. So the convocerone virus is all how what's called a slippery sequence.
+[15:52] So the mRNA has a sequence in it, which the machinery to translate into protein does not cope with that well.
+[15:59] And so some of the time, about 40% of the time, it accidentally makes a frame shift. So it goes from reading one set of triplets to the next set of triplets along just one letter different.
+[16:12] And this has the effect that if that frame shift does not happen, we get a shortage polyprotein. If the frame shift does happen on the slippery sequence, we get a polyprotein that's double willing.
+[16:24] This happens about 30, 40% of the time, depending which paper read, exactly the experimental system, but a minority of the time.
+[16:31] And that percentage is hugely important because the virus needs an exact ratio between the short polyprotein and the long polyprotein which relies on the frame shift.
+[16:41] And so it's been demonstrated that if you, that if you introduce very small mutations into this, and that's frame shift happens at a different rate, the virus just doesn't work well.
+[16:50] And so this is a beautiful way that the virus can regulate its own production of viral proteins and control what information gets expressed from the genome by relying on the cell machinery to just hit the slippery sequence.
+[17:02] Some of the time it will slip, some of the time it won't, and that happens exactly the right percentage to make the virus work perfectly.
+[17:10] It is a fantastic system.
+[17:15] So we've talked a little bit about information compression. I repissial and go in quite fast.
+[17:20] How does the virus start to take over the cells? What does it do?
+[17:25] So cells typically, when we're talking about replicating, have a bunch of different phases they go through.
+[17:32] And it's more or less a cell doesn't just sit there and decide, okay, I'm going to divide into, okay, now I'm going to divide into again.
+[17:39] There are a bunch of very well-defined processes that goes through, which includes checking external environment to say, am I getting signals, telling me the body wants me to divide?
+[17:48] The internal environment saying, do I have an energy to divide? Do I have a finished replicating my DNA? Are there any stress signals?
+[17:55] Most of our cells, most of the time, are not in this cycle. They are what we say is quiescent, or we could say they're in G0 on this diagram.
+[18:04] What viruses have to do is push the cells into a state mostly closer to S phase, which is where there's lots of protein production going. There's lots of DNA replication going, because that's the machinery the virus needs to hijack.
+[18:18] And so virus is generally, you have to encode proteins, which push the cells on a nice content quiescent state, where it's just sitting there being part of your nose or part of your ear, into a state where it's not dividing, but it's getting ready to divide.
+[18:31] So the virus can then insert its insurt, its genome into that machinery to get copied.
+[18:39] And as an example, add an virus, another very nice example of virus. Well, I get too far into this cascade. It has these early genes called E1AE1B. They have a lot of subunits that's not what's getting into it.
+[18:52] And they attack this on several fronts, so they get themselves involved in the DNA replication machinery. They sort of push themselves.
+[19:01] They send some signals within the cell that starts to push it towards this S phase, where the cell suddenly wants to produce protein, wants to replicate DNA.
+[19:08] And at the same time, it overcomes these blocks, which normally act as a sensor. If the cells feel that it's self going into S phase, and it doesn't have signals telling it, this is okay.
+[19:19] It will normally activate stress responses to say, I don't want to make protein, I don't want to make DNA something's wrong. And if it gets pushed too far, the cell will shut itself down.
+[19:30] And sort of ultimately, sort of commits suicide in a process called apoptosis. But add an virus among other viruses attacks these systems.
+[19:38] So it's simultaneously pushing the cells toward S phase, and inhibiting P53 impacts, which are involved in this cascade of shutting down the cell replication and going towards suicide.
+[19:49] So it's forcing the cell forwards and then holding back its stress response.
+[19:55] And the fighting against the stress response is huge, the important. This is way too complicated to get in. It's just to make the point,
+[20:01] I was cells have been co-evolving with viruses forever, for as long as they're having cells.
+[20:07] Our cells are very finely tuned to try and fight against viruses doing exactly this to them.
+[20:13] We have all sorts of molecular systems that are cells to detect, all-marked traits, both of viruses specifically,
+[20:19] and also of the cell being pushed into a state that it doesn't want to be in.
+[20:23] For example, being pushed towards protein replication, being pushed towards DNA replication, that the virus desperately needs.
+[20:30] And every red box on this diagram, no every green box on this diagram, a big if on, is a viral mechanism that's been identified
+[20:39] that's overcoming some part of the cells' response against viruses.
+[20:44] There are huge networks of pathways, of proteins interacting with proteins, making sugars, phosphorylating each other,
+[20:52] and sending massive amounts of information all the time, all throughout the cell, detecting specific hallmarks of viral infection,
+[21:01] and triggering different systems to shut down protein to synthesis, shut down DNA synthesis, send alarms out to the immune system
+[21:08] to shut down the whole cell itself, and the viruses evolve mechanisms to attack and shut down every single one of these.
+[21:16] One of my personal favorites is called virus-associated RNA1, the I-R-N-A, again from Adin and Virus.
+[21:24] There's a system in your cell called P-K-R, which has evolved to sense the presence of double-stranded RNA,
+[21:32] which is a very characteristic call mark of RNA of virus infections.
+[21:36] So P-K-R normally binds double-stranded RNA, and then it starts sending out signals all through the cell,
+[21:42] we're infected, shut this down, shut that down alertly mean system.
+[21:46] It's one of the security guards of the cell.
+[21:49] Virus-associated RNA1, folds up into this beautiful structure, binds hard to P-K-R, but doesn't activate the alarm.
+[22:02] So normally P-K-R would bind any double-stranded RNA, cell of the alarm.
+[22:06] This particular piece of double-stranded RNA, because of the shape it folds into,
+[22:11] binds protein canisar directly, stops the alarms going off, and allows the virus infection to proceed.
+[22:18] And what it does simultaneously is part of it gets cut off, gets processed, by part of the anti-different part of the antiviral response within the cell.
+[22:28] And that small part goes off, and the sequence of that part is important for shutting down other parts of the viral immune system.
+[22:36] So this is a beautiful example of it's a gene within the virus that is expressed to RNA, instead of the RNA making a protein,
+[22:44] both it's 3D structure that it folds into, and the sequence of the RNA itself are important and play vital roles in interacting with proteins within the cell,
+[22:54] and shutting down the alarm system that would otherwise stop the cell, or otherwise make the cell stop the virus from replicating.
+[23:03] A different alarm system is HLA, sometimes called MHC, depending where you're reading about it.
+[23:12] The distinction is not that complicated, but not worth getting into.
+[23:15] Our cells are on by nature very paranoid, because they've evolved to avoid being infected.
+[23:23] All the time, every cell is sampling tiny bits of the protein inside itself at random.
+[23:29] It chops out a tiny bit of that protein.
+[23:32] It sticks it on an HLA molecule, and it goes through a processing process and displays it on the outside of itself.
+[23:42] And then the idea is that all the cells are decorated with tiny tiny tiny bits of all the proteins that are being made within the cell at that time.
+[23:50] The idea being that the immune system can come along, have a look, have a sniff, is there something here, which shouldn't be here, has the cell shown me that it's called a virus protein inside.
+[24:00] This is a beautiful elegant system, and of course, viruses have evolved to attack and shut down every single part of it.
+[24:08] This ends up being sort of quite a fun, another fun arms race, because the viruses work hard to shut the system down, because they don't want to be displayed on the surface of the cell,
+[24:19] and it's not really consistent to find.
+[24:21] The immune system, by on its turn, has evolved the system where if a cell doesn't have this on, that doesn't have any of this on the surface, it will just kill that cell, because it assumes it's being infected.
+[24:32] It can say the alarm system, the display system, is not working on this cell.
+[24:36] It must be because someone has shut it down, we're going to destroy that cell.
+[24:40] And so you have this very delicate balance.
+[24:43] The virus needs to inhibit this display system as much as possible to avoid a detection.
+[24:48] But if it inhibits it completely, it goes too far.
+[24:52] You mean system will just kill a cell anyway.
+[24:54] Again, this is a subject you can spend your career on understanding the details of the immunological response on how cells cope with viruses.
+[25:03] But I find this sort of internal surveillance, the cell constantly checking within itself.
+[25:08] Here's a bit of me, is it fine? Here's a bit of me, is it fine?
+[25:12] And he means system constantly sniffing and tasting and saying, that's fine, that's fine.
+[25:16] No, you're infected. Get the block.
+[25:19] And the virus is fighting against this system.
+[25:24] Yes. And so, finally we get into your paparas.
+[25:28] So we're going to talk a tiny, tiny bit about retroviruses.
+[25:32] Retroviruses have RNA genomes. They make the way into the cell.
+[25:37] What's interesting about them is they contain the mechanisms for the RNA genome to get copied backwards into DNA.
+[25:45] So we start to talk about DNA RNA protein.
+[25:48] The retroviruses in sense start at RNA goes up to DNA and gets itself incorporated into the cell's genome.
+[25:56] And the cell just, okay, this information is in my genome. It must be fine. I'll use it to make copies of the virus.
+[26:02] And that information stays in the DNA for the rest of the life of that cell.
+[26:07] These can be very persistent infections.
+[26:13] Yes. And so what happens if that cell is a progenitor cell that will go on to become either a sperm or an egg.
+[26:21] And the answer is the progeny from that have this same insertion in their DNA.
+[26:27] This might be fine. It might be a problem for the infant for the child.
+[26:32] And if you look at our genome, our human genome is a graveyard of retroviruses that have made the way into our DNA.
+[26:41] Being silenced, the genome has been fragmented, but they are still there.
+[26:45] You can see huge quantities of retroviruses DNA that are still built into our genome.
+[26:50] A lot of it is too fragmented and silenced to have an effect. It's just there. It doesn't seem to do anything.
+[26:55] But others have become useful. So the famous example everyone giving this kind of door gives is syncitians.
+[27:02] So when a retrovirus meets a cell, if you picture two soap bubbles coming together, they fuse and become one and it releases the payload into the inside of the cell.
+[27:14] This happens because of proteins called syncitians, which fuse membranes together and confuse cells together.
+[27:21] And the syncitians are essential in the formation of the presenter in humans now.
+[27:27] At some point far, far, far back in our evolutionary history, a retrovirus got into one of a distant ancestors, hung around and the retrovirus proteins have become essential in us becoming percentile mammals.
+[27:39] And there are all sorts of beautiful examples like this of how viral genes are necessary for us as humans to survive and for making us what we are.
+[27:50] And then going very slightly in the different direction lines, ALUs and signs.
+[27:54] I have very distinct evolution of it origins. These are not old retroviruses.
+[28:02] However, if you look in our DNA, you can find loads. I couldn't find a nice background with a human but the mouse.
+[28:10] You can find loads of this kind of structure. It looks extremely retrovirus like.
+[28:16] Out of our human DNA, it can express genes which conclude reverse transcript days.
+[28:22] So it gets expressed and it has the machinery to make copies of itself and insert it in a different part of our DNA.
+[28:28] So we have these elements which in our own DNA are just going to be expressed like a retrovirus.
+[28:34] Get itself copied back into DNA and insert in a different part of our genome.
+[28:38] So these are not viruses, they are just part of the human DNA.
+[28:42] And what's fun about this is if this is a complete retrovirus that can replicate on its own, this is a parasite of that.
+[28:52] So a sign cannot on its own replicate. But if somewhere there is a line which is the very virus-like structure, the sign can hijack its machinery to get itself copied.
+[29:04] And something like 15% of the human genome is these.
+[29:10] The over-evalutionary history had been copying themselves and copying themselves, all throughout our genome.
+[29:16] The vast majority is inactive but at the moment we are all expressing at least fragments of these.
+[29:22] And I think it's something like one in 20 births.
+[29:26] Some of that has a new copy of something called ALU which is very sign-like.
+[29:30] And one in a few hundred births that baby will have a new copy of mine because that event has happened in a sperm-progenitor cell.
+[29:40] That a bit of human DNA that looks very much like a virus has copied itself and helped elsewhere.
+[29:46] So all of this has made the point that viruses are extremely diverse.
+[29:50] They have very different genome structures, they look very different in their different ways.
+[29:54] But they have operated in a very similar constraints that all trying to break into ourselves.
+[30:00] Some of the same problems, they are tiny so these are the use lots of information compression.
+[30:06] And they need to overcome the immune system.
+[30:10] And some of them integrate themselves into our genomes.
+[30:13] This has happened a lot in the distant past.
+[30:16] And a lot of the things that we do that make a human that helps us to find our direct results of viruses, integrating into our genomes,
+[30:22] turning out to be useful and hanging around for generations and generations.
+[30:26] And also making the point that a substantial chunk of our genome is very virus-like.
+[30:32] Expressing genes that don't look anything much like normal human genes
+[30:36] and exist only to make copies of themselves and help around within the virus genome.
+[30:42] Within the human genome, I'm sorry.
+[30:44] So this is trying to make the point that we are all part of virus one way or another.
+[30:48] If you are the kind of person who likes reading about intricate systems and learning about complicated ways that different systems can be broken and manipulated,
+[30:56] I strongly encourage you to read up on molecular biology and viruses.
+[31:00] There's been very far style of holidays, but hopefully it's way you're appetiteed a little bit,
+[31:04] what I think is a really fascinating subject.
+[31:06] Thank you.
+[31:18] Thank you.

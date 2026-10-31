@@ -1,0 +1,301 @@
+[00:00] I'm really hoping that all of this experience, at least someone can have fun because it really wasn't me.
+[00:20] Anyway, my name is Matthew. I've been involved in a defamation case in England.
+[00:26] This is the precise nature of the location is relevant because the United Kingdom is not actually one legal jurisdiction.
+[00:32] It's three. There's England and Wales, there's Scotland and there's Northern Ireland.
+[00:36] And all ten clearly have different legal systems, different laws, different ways that things are handled.
+[00:41] This case, it probably doesn't matter that much, but I'm going specifically talking about the English and Welsh scenario here.
+[00:49] I will not be talking about these specifics of my case because my lawyers have asked me not to.
+[00:56] But if you would like to talk to me about my direct experiences afterwards, then I'll be at the Q&A cent and so I'm happy to chat with people.
+[01:05] I also really want to emphasize that firstly, apparently, I can't proofread, but also I am not a lawyer.
+[01:13] Anything I say here should not be interpreted as legal advice. You should absolutely not do anything in this sort of situation if you have not spoken to a lawyer first,
+[01:24] or unless you are taking an extremely conservative approach to the problem in which case you can arguably get away with not needing a lawyer.
+[01:30] And we'll be covering some of those cases a bit later on.
+[01:33] So I have 28 more minutes and I have 21 more slides, so we're going to be going relatively quickly.
+[01:42] Which is a little unfortunate, there's a lot of information here and I'm going to try to present it in a way where it's actually somewhat coherent.
+[01:49] So, defamation is basically, well, when someone says, you have defamed me.
+[01:58] What they are saying is, you have said something about them that is untrue.
+[02:07] Now, that in itself is not really quite enough to rise to the point where this is a legal issue.
+[02:13] Some of this is down to the fact that in 2013, the defamation act fundamentally changed what defamation meant in English law.
+[02:22] But all of it, if someone said something about you, that fell into a sort of sufficient category of this person is Princeton's guilty of a crime, then it would be considered that that in itself was defamatory because it was unthinkable to falsely accuse someone of being a criminal when they weren't.
+[02:44] But as of 2013, it needs to cause serious harm or technically be likely to cause serious harm.
+[02:54] Now, what that actually meant was not really particularly settled until 2019, where a legal case was argued over whether what the exact definition of has caused or is likely to cause serious harm would be.
+[03:11] Something about law is that the judges do not tend to pay any attention to what politicians intended when they passed a law.
+[03:19] They pay attention to what was written down and tries to interpret that based on some context around that.
+[03:25] So, initially there was an argument that, well, likely to cause serious harm, basically met, well, if the statement was serious enough, then it was likely to cause serious harm.
+[03:32] So there wasn't really a meaningful difference. The counter argument was they wouldn't have bothered changing the wording if they didn't mean to change the meaning.
+[03:41] And so the presumption now is that there has to be some sort of evidence that serious harm was caused.
+[03:47] And most of the points, it has to, for this to be a case that you can actually settle in England, that's going to be something where serious harm was caused within the jurisdiction.
+[03:58] So if someone says something untrue about you, that is awful.
+[04:06] And they write that on a piece of paper that is then discarded into a toilet and no one ever sees it.
+[04:13] That's not defamatory for this purpose. It needs to be something where someone in England wills is going to think less of you as a consequence of having read what was written.
+[04:23] The two broad types of defamation, there's slander. Slander is transient defamation.
+[04:30] It's when typically slander is when you say something to someone or you say something about someone that is untrue and falls into the defamation category.
+[04:41] In terms of the internet, basically nothing is slander because almost everything on the internet is not transient.
+[04:46] Almost everything on the internet is considered to be recorded in some fashion, which puts it into the libel case.
+[04:52] So where something is fixed, where the defamatory content ended up fixed in some form, published in some form.
+[05:00] And in that case, basically everything that is on the internet is going to be considered as libel.
+[05:07] The difference is not that meaningful. There are a few things that are considered inherently defamatory if they are part of slander, which is not the case for libel, but outside that you really don't need to care.
+[05:23] Now, you have probably all at some point said something about someone that wasn't true.
+[05:32] Anyone wants to disagree with that?
+[05:36] Brilliant. I admire your honesty. There are various things that allow you to say something about someone that is untrue and which are not going to be considered defamatory.
+[05:50] And, basically not considered defamatory, that doesn't mean you can't be sued for it. It means you have a defense against it.
+[05:58] Now, we are later going to get into a brief conversation about, is this a fight you should have and you should think about that.
+[06:06] But it is allows to say present and honest opinion about someone which turns out to be not an accurate description of them.
+[06:17] And as you reach of circumstances where that's not a problem whatsoever, you can write about stuff if it's in the public interest.
+[06:24] Newspapers, for instance, are granted a fairly wide degree of latitude in their ability to publish things where they have not been able to verify 100% that something is true or not, and not be worried about being immediately sued for defamations.
+[06:38] Simply because it's considered that if you are publishing news about someone that is in the public interest, you should not be so scared of potential consequences that you feel unable to do so.
+[06:52] If you say run the websites and you publish something that you didn't write it, there are some ways you can get out of personal responsibility.
+[07:01] There's also if it's part of a peer review publication on a scientific or academic manner, that we all know that that's not really how the incident works.
+[07:10] So we can mostly ignore that one.
+[07:12] And finally, of course, if it's true, then it's not defamatory.
+[07:18] Like if you call someone, I'm sorry, I'm trying to think of something insulting but family friendly.
+[07:28] And I'm not really guessing there at the moment, but it were you to say, accuse someone of liking Marmite.
+[07:36] And they fundamentally objected to that.
+[07:40] And then it turns out that they has a secret Marmite habits that they were hiding from the world.
+[07:45] But defamation, it was true, so it's not defamatory, even if their reputation suffers from being discovered that they like Marmite.
+[07:55] So let's say you want a wake up and you discovered that the internet contains a series of lies about you.
+[08:06] So first, you should think, is this actually defamation.
+[08:12] You need to look at the context that is presented in.
+[08:15] You need to think about whether it falls into one of these categories.
+[08:18] Also, by the way, all of this is going to apply if you are taking legal action within England and Wales.
+[08:27] If this happens in another country, then you don't get to sue in England and Wales, even if you are there, unless there's a meaningful link between the person you are suing and England and Wales.
+[08:41] You should be suing in a different jurisdiction.
+[08:43] This is actually response to a real problem that existed before the 2013 and 2016 has still existed after that, which is that use of some differences that will get to in terms of English defamation law and the rest of the world.
+[08:56] People were extremely enthusiastic about taking legal action here rather than in jurisdictions where it made more sense because they could get more advantages outcomes.
+[09:06] So first, as a matter of law, is this something that you are in a position to do something about in this jurisdiction?
+[09:13] Is this something that is not going to be easily dealt with by some of the previous categories?
+[09:20] And the second is, this is going to potentially take a long time.
+[09:29] The beginning of my case until the final judgment was about one and three quarter years.
+[09:38] And for tedious reasons, it has been continues in some way since then.
+[09:42] So there's going to be a lot of time and finally, this is a civil issue.
+[09:47] This is not a criminal issue. You're not going to get legal aid for this.
+[09:51] But also, if you're the one suing, you're definitely not going to get legal aid for this.
+[09:55] This is going to be potentially extremely expensive.
+[09:58] The first stages are kind of reasonably priced. You can get those out of the way for not that much money.
+[10:03] But if you then follow through the entire process.
+[10:06] If you feel that following through is the right thing to do, you are looking at spending over a quarter of million pounds on this at Methamon.
+[10:16] And yeah, we'll cover some of this.
+[10:19] But the broad process is, the judicial system is interesting because there's the law and then there's the courts.
+[10:27] And then there's the courts. And then there's how the two of those intersect.
+[10:32] The courts will require that a certain process be followed in certain situations.
+[10:38] In order to streamline the process as much as possible, in order to reduce the amount of time,
+[10:44] effort and money that has to go into it.
+[10:46] And one of the key parts of this for a defamation case is you need to send a letter to the person you are accusing of having to fame to you.
+[10:56] And that needs to have a certain set of things in it.
+[11:02] The procedure is public. You can just look it up and look at the instructions.
+[11:06] But you need to inform them explicitly which things they have said you believe it to fame a tree.
+[11:12] You need to describe why they're defamatory and you need to describe why this is harmful.
+[11:19] If you cannot in the first letter you are sending,
+[11:22] is established a reason why people should think that this is actually defamation,
+[11:26] then the court is going to basically bounce this vote you haven't failed to follow the process.
+[11:33] The easiest way of doing this is obviously find a lawyer who knows how to do this, throw some money at them and get them to do it.
+[11:40] But I appreciate that in this room we are disproportionately people who think that we don't really need experts.
+[11:47] We should definitely figure out how to do this ourselves.
+[11:51] This is maybe one of those categories where I would not recommend this.
+[11:55] In the same way that I would not recommend that you attempt to repair a nuclear reactor yourself without expert knowledge,
+[12:03] this one is less likely to kill everyone, but it is going to make things more expensive if you don't do it right.
+[12:10] But most of the point, if you are on the other side, if someone sends you on these letters and you look at it and you read it and you think,
+[12:18] what could go wrong here?
+[12:21] So firstly the answer is a lot could go wrong.
+[12:24] But the second thing is, read it and see whether what is being said feels plausible.
+[12:31] If someone says you said this about me, it's false.
+[12:35] Here are some reasons it's false.
+[12:37] Here is the harm that is caused to me as a result of having said this false thing.
+[12:42] If that is a random throw away, twist of yours or something, then is that a fight you really want to get into?
+[12:53] It's pretty common for lessons of this form to also have a, if you just delete this and apologize, then everything will go away.
+[13:02] That's in a bunch of cases, it's going to be slightly embarrassing to have to do that.
+[13:10] That's not sort of binding it anyway.
+[13:12] But if you were to then just immediately delete it without apologizing, they would then need to chase that up and go with a actually know we,
+[13:20] we're serious about this, we need the apology as well, and you can make a decision about that as well.
+[13:25] But like you're in a position where you do get to make the judgment about whether you actually want to follow through on the threats that I mean,
+[13:33] whether you want to do anything in response to the threats that this means against you or not.
+[13:37] Now, if you are someone who is sued for defamation, and you decide, no, it is important to me as a point of principle that what I wrote,
+[13:47] remain published and I think I have a reasonable defense.
+[13:50] First, if you're wrong, that is going to be incredibly expensive.
+[13:54] Now, the quarter of a million value I mentioned earlier, so firstly, you're going to be paying your own lawyers if you are going to have your own lawyers.
+[14:02] At the end of it, if you lose, there will be damages awards against you and a meaningful proportion, somewhere between somewhere around 80% or so, of the other sites costs, you will also have to pay those.
+[14:14] Now, if you can't pay those, then you're going to have to declare bankruptcy, and if you're for instance own a house, then the house is a thing that can be forcibly sold as a consequence of that.
+[14:31] Guessing this wrong is not a convenient thing to happen to you. It is going to be a life-changing event.
+[14:40] You are going to be extremely constrained, you're going to have to declare to various people that you are bankrupt.
+[14:45] They're going to have questions as to why, which you don't have to answer, but they can probably work out.
+[14:49] So, by and large, if you do decide to fight this, when someone contacts you and says, this is defamatory, you had better be very, very important.
+[15:00] And you probably should not make that decision without consulting a lawyer first, because your understanding of what defamation is is not necessarily going to be correct.
+[15:13] And turning up and saying, well, this is my understanding of defamation, and then the judge saying, cool, but that's not our definition of defamation and our mass is more because we're the state.
+[15:26] You, yeah, really don't want to be there.
+[15:29] There will typically also be the court-like things if there isn't argument to go down and alternative dispute resolution pathway.
+[15:37] Basically, have some sort of mediation, have someone there to just try to guide you to a settlement without having to go to a court case.
+[15:46] Typically, the side that is suing will offer this.
+[15:52] You don't have to say yes. If you do, then there may be some expectation that both sides pay, whoever is performing this mediation in order to try to make it happen.
+[16:02] But, yeah, if both sides accept, if you end up with a settlement this mediation, that's going to be more expensive than just dealing with things by doing whatever was asked for you in the first place.
+[16:15] It's going to be massively cheaper than actually going to court and the outcomes are likely to be much less bad.
+[16:21] Understanding, this is not a situation I've experienced by understanding is that if the person suing does not offer to participate in this and the defendant says, actually, I would have liked to do this, that's going to be looked upon harshly by the judge in terms of costs.
+[16:40] But it's not necessarily going to change the outcome of whether something is defamatory if it goes to trial.
+[16:46] At various points during the process, there will be offers to settle, typically.
+[16:51] And the reason for this is firstly that people don't want to actually have to go to court to have this argument because, firstly, this is going to be the high court, which means in England, you're going to have to go to London, you're going to have to go to the real court of justice, which is this amazing Gothic Victorian building that in summer is approximately as hot as hell.
+[17:12] And in winter is approximately freezing.
+[17:16] So if you are going to say, this tries to get a trial in either spring or autumn, but otherwise try not to do that, but also try not to do that.
+[17:26] It's not going to be great.
+[17:29] It's offers to settle, are there as partly a try to avoid having to go to trial, but they're also there as a strategic thing.
+[17:37] If you refuse a settlement and the final judgment is less good than the settlement you refuse, you are not going to get, you're going to have to pay the other side's costs even if you win.
+[17:54] Because there was a point where you could have taken a better outcome than you actually got.
+[18:02] It also means that when cost of being paid, they're paid at a higher rate than was otherwise be the case.
+[18:10] You never end up having to pay 100% of someone's cost, but you end up having to pay more of their costs if you're in the situation than was otherwise be the case.
+[18:17] So this is done strategically.
+[18:19] Now one of the outcomes of this is also this can be done strategically in an unpleasant way.
+[18:25] Several of the recent cases involving defamation suits against newspapers involved the newspapers offering to settle at four and amount of money that was more than the court was ever realistically offer.
+[18:40] And at that point if you say if you refuse that settlement and it goes to trial and you win, you then still have to pay all the costs.
+[18:49] Because there wasn't opportunity if you get a better outcome and not do that.
+[18:53] And so people have been pressured into taking the settlement because the alternative was going to be a periquvictory where they would get a win.
+[19:01] But that's, they would be massively out of pockets and actually bankrupt us a result.
+[19:05] So this is something that a certain people with big pockets who really don't want to see stuff go to trial will do as a way of avoiding it actually going to trial.
+[19:15] On the first steps of all of this, once this is clear that things are heading towards trial is that there will be disclosure.
+[19:21] Now, it's entirely possible that you are much more used to this in the context of the American legal system because that is something that we're exposed to by media massively more than the English legal system.
+[19:34] Disclosure is basically equivalent of discovery as the point where you have to hand over everything you have that is potentially relevant to the other sides case.
+[19:45] Now this is going to be important because if, for instance, you are the person suing and the other side said this person doesn't like marmite and then in the process you hand over every email from you that includes the word marmite.
+[20:01] And it's discovered that you signed up to the marmite fandom association three years ago and have not unsubscribed. That's going to weaken your case.
+[20:12] Conversely, if the other side said this person doesn't like marmite and then you get a bunch of emails from them and that includes the email saying, I have no reason what's left to believe that this person doesn't like marmite.
+[20:24] I just don't like them. Then that's going to be part of the day of case. Now one thing here is obviously there's an incentive for you to not hand over stuff that makes you look bad.
+[20:39] Courts do not like that one weird trick.
+[20:44] And unfortunately, rather than being the one weird trick that makes your life great, it's the one weird trick that potentially results in incredibly unpleasant outcomes.
+[20:53] Because if there is any indication that that has happened, your potentially going to end up in a situation where you're going to have to hand your computers over forensic analysis by the other side.
+[21:01] And if it then turns out that a bunch of stuff was hidden or you didn't disclose stuff or you deleted stuff, that's going to be awful for you at trial.
+[21:11] Now stuff that is in disclosure can be used as part of the case that can be used in arguments that can be used at trial. It cannot be used outside that if you get a bunch of emails and in the process you discover that they don't like marmites, but they actually really love, Barfrel.
+[21:29] You don't get to afterwards say I have seen email admitting that this person likes Barfrel. No.
+[21:37] The courts, again, do not like you doing that.
+[21:43] You'll frequently also have a trial of preliminary issues because the first thing that needs to be established is is the statements you are complaining about or are these statements you're complaining about.
+[21:54] Actually, the statements you're talking about actually defamatory on the odds, which means they need to be in the analysis of what they mean.
+[22:02] And frequently one side will say this is obviously defamatory because the clear reason is X.
+[22:08] And the other side will say no, that's a very odd interpretation of what I said, the real statement.
+[22:16] And why is not defamatory? So have a trial preliminary interests and a judge will make a decision about what stuff means.
+[22:24] And then if the statement is not defamatory, you skip the full trial, you just go straight to okay we're just dealing with everything here.
+[22:32] No.
+[22:34] There's also a matter of how seriously defamatory the statement is.
+[22:38] I think that is X murdered someone versus X should be investigated for the murder of someone.
+[22:46] Have a different level of seriousness.
+[22:50] And they can both be defamatory.
+[22:55] But one of them is worse. And that's not going to alter the, are you guilty of defamation or not?
+[23:01] It is going to influence the damages that you are awarded as a consequence.
+[23:06] But also if the judge ends up determining that none of this was defamatory, then the case is just going to go away.
+[23:11] So there is an incentive to do this.
+[23:13] Sometimes you can end up with everyone agrees that it was defamatory.
+[23:18] But they have a defense for it in which case you can potentially skip this step and move onto the actual trial.
+[23:24] So was it defamatory?
+[23:28] Obviously if it was true, then by definition it wasn't defamatory.
+[23:34] The thing I alluded to earlier, there's attracted people to having defamation lawsuits in English and Wales, rather than elsewhere in the world, is that in most of the world,
+[23:45] the claimant needs to prove that what was said was a lie.
+[23:51] If you say I murdered someone and I say that's untrue, I need to demonstrate that I did not murder someone.
+[24:00] Which is going to be difficult for you to do because I haven't.
+[24:08] Obviously I'm going to say that.
+[24:11] But it turns out to be true.
+[24:13] So demonstrating the truth of a statement is a lot harder than demonstrating the false to your statement.
+[24:19] If you are accusing me of having a delstrogs, you're going to need hard evidence that I have done in order to convince the court.
+[24:29] That your statement was true and therefore you are not guilty of defamation.
+[24:36] Not impossible, but if you do not have something that is clear and ambiguous evidence, you're not going to be able to establish this defense.
+[24:46] Wasn't an honest opinion.
+[24:48] So firstly it needs to be an opinion, obviously.
+[24:52] So ex did a crime.
+[24:54] That's a thing to fact, not a state's opinion.
+[24:58] Based on this, it sounds like ex is a criminal.
+[25:02] Okay, that's maybe an opinion.
+[25:05] But it needs to be genuinely held.
+[25:07] If you do not genuinely believe that then this argument can't be used.
+[25:13] And also you need to when you make this statement.
+[25:18] In order to avoid it being the territory, you need to make this argument as a thing on this opinion.
+[25:23] And you're going to need to provide an explanation of the opinion at the time.
+[25:28] You're going to need to describe the facts that you are relying on to have that opinion.
+[25:34] And it needs to be an opinion that can be reasonably formed from the facts.
+[25:42] So if I say, I don't like pancakes.
+[25:48] And you say, Matthew Garret doesn't like pancakes.
+[25:52] That makes him sounds like a drug dealer.
+[25:57] You have an opinion and you have argued that it is based on these facts.
+[26:00] But you're not going to be able to get from the facts to the opinion in a way that would make sense for anyone.
+[26:06] So this isn't going to work for you.
+[26:08] Was it in the public interest?
+[26:10] So firstly, obviously for it to be in the public interest, it needs to be presented in a way to discuss issues of relevance to the public.
+[26:17] So you're going to need to tie this into a public interest issue.
+[26:20] You're going to need to describe the broader problem.
+[26:22] If you write a series of hit pieces against someone and you do not try to turn this into a matter of public interest in a coherent way, this isn't going to work.
+[26:32] Did you genuinely believe when you published it that it was in the public interest or is this an argument you're only making because you don't have any other arguments?
+[26:41] That's also going to be taken into account.
+[26:43] And also, you don't get to just write something about someone and say this was published in the public interest unless you're say willing to allow them to defend themselves.
+[26:53] You need to engage in some amount of appropriate journalistic process in doing so.
+[27:00] You publish your websites.
+[27:02] Many of you probably publish websites.
+[27:04] Some of you probably published material on that website that you didn't write.
+[27:08] Someone else wrote something that's defamatory and you published it without necessarily breathing it without thinking.
+[27:14] Hmm, is that a good thing to publish?
+[27:16] Maybe you don't impose any editorial control whatsoever.
+[27:20] You're a social media site, for instance.
+[27:22] You're hosting a message on instance and one of your users posted something to fametry.
+[27:26] Is that your problem?
+[27:28] No.
+[27:29] If you can reply to the claim saying, I didn't write this.
+[27:34] This user did.
+[27:36] Here are their contact details.
+[27:38] Then that's no longer a problem for you.
+[27:40] On the other hand, if you say it wasn't me, but I cannot put you in touch with that person.
+[27:45] Then you've got 48 hours to delete it.
+[27:48] But again, if you do, it wasn't you that wrote it.
+[27:50] It's not your problem.
+[27:52] There's a, um, the actual process is rather more complicated.
+[27:56] So, if this is potentially you, you should re-suff on that before trying to use this.
+[28:01] Once you get to trial, um, before you can present evidence, the evidence you're going to present
+[28:06] needs to be in a witness statement.
+[28:08] So, you write down what you intend to say at trial.
+[28:11] Both sides get a copy of that and then people get to base their arguments around that.
+[28:15] If you don't provide a witness statement, you are not going to be allowed to give evidence.
+[28:20] It's very hard to win a court case if you cannot present evidence supporting your site of the argument.
+[28:29] Just try to avoid that trivial mistake.
+[28:36] So, you have the trial.
+[28:38] The trial is, as I said, the seats are incredibly uncomfortable.
+[28:44] And thankfully, at least you are not the barristers.
+[28:48] You do not have to wear a wig while all is just happening.
+[28:51] But it's still not fun.
+[28:53] But let's skip over that.
+[28:55] And if you want to get to the trial, some of that is a time after the trial, which might be a few days,
+[29:00] maybe a few weeks might be a couple of months, bill the age judgment, and the judgment will describe the outcome,
+[29:06] whether the case was proven or not.
+[29:09] And the judge will explain why they reach that decision.
+[29:14] And that will also include, in a case of defamation, that will include the damages that they have chosen to, um,
+[29:22] enforce.
+[29:23] After that, they'll then be a one or two orders.
+[29:26] The orders describe what you have to do.
+[29:29] And I'll be, you need to pay these damages by these dates.
+[29:32] You need to pay these costs by these dates.
+[29:34] These are the things you need to remove.
+[29:37] These are things you need to never do again in future.
+[29:40] If you choose not to follow those orders, you can end up potentially being held in contempt, of course,
+[29:47] or not to be held in court, which is a fascinating quasi criminal thing where, um,
+[29:54] it's still a civil offense, but you can go to jail for it.
+[29:59] Not recommended.
+[30:00] Very unlikely to happen.
+[30:01] Last person that I know of that this happened to was Tommy Robinson.
+[30:05] And he really went to town in terms of contempt.
+[30:10] But by and large, you should probably follow those orders in a reasonably conservative way.
+[30:15] The one upside of contempt is because you can go to jail, you are then entitled to legal aid.
+[30:20] So if you can find some solicitors who are willing to work for you, under those terms, things will be better.
+[30:28] So you receive a complaint.
+[30:30] If you find it, it'll cost you a lot.
+[30:32] And even if you win, if the other side turns out not to have any money, if the people find complaints don't have money,
+[30:39] you're not going to get your passport back.
+[30:41] They can declare bankruptcy and you don't get anything.
+[30:44] Fundsmanly, the choice is up to you.
+[30:45] I am not here to tell you what to do.
+[30:47] I am personally would be strongly inclined to unless something I've written is absolutely clearly true.
+[30:55] And there's no argument there whatsoever.
+[30:57] I would not be particularly inclined to fight this because I have seen how unpleasant this is for everyone.
+[31:03] No one's going to have a good time.
+[31:05] You're probably going to have the less good time.
+[31:07] Obviously, try not to get into the situation in the first place.
+[31:11] Like, don't write untrue things about people.
+[31:15] It should be fairly easy.
+[31:17] Yeah, also don't do this unless you have lawyers as much as possible is going to suck.
+[31:23] If you are doing that, you're going to need to read the Civil Procedure rules.
+[31:27] Worst case there is you're going to write something.
+[31:30] It's going to be so ludicrously inappropriate that the court will say it's totally without merit.
+[31:36] You get three of those and you can have a civil restraint or to take an out against you,
+[31:40] because you don't get to file anything more with the course unless the course agrees beforehand,
+[31:45] which makes establishing your case a lot harder.
+[31:48] So that's it.
+[31:50] There's a lot more detail and I really don't have time to cover it.
+[31:53] But thank you everyone.

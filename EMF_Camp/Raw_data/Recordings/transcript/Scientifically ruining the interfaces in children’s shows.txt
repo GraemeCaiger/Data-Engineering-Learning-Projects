@@ -1,0 +1,372 @@
+[00:00] I'm going to be scientifically ruining the interfaces in children's shows.
+[00:18] Don't worry if you've never seen a children show.
+[00:21] This is an all encompassing talk for everyone.
+[00:25] Now 10 years ago, I was at Electromagnetic Field in 2016,
+[00:30] doing a talk on scientifically ruining the computer interfaces in movies in TV.
+[00:35] I've included this graphic because during the streaming and recording and playback of this,
+[00:40] I want the screen to look very confusing with a photo of present me and past me on at the same time
+[00:45] and I'll see you again in 2036 when I try and do the same again.
+[00:49] But since 2016, a lot has changed.
+[00:53] In 2016, 16 gigabout of RAM would cost you around 60 quid.
+[00:58] In 2026, it will cost you your first born child.
+[01:02] In 2016, AI was to many people, just a kind of cool film.
+[01:07] In 2026, it's a dystopian nightmare, sapping the universe and the earth of natural and creative resources.
+[01:14] But at least it can make you write emails quicker.
+[01:17] In 2016, AI was to say, the camera and now it's to read, no.
+[01:22] Now it's a list, no.
+[01:27] Now it's a list, no.
+[01:29] Now it's a rich eat no.
+[01:31] Now it's kissed, no.
+[01:34] It's Andy Burnham, can't bin face who knows.
+[01:38] A lot has changed since 2016.
+[01:41] For me personally, a lot has changed too.
+[01:44] In 2016, I was leading the type of life where I could go to vineyards and drink sparkling wine,
+[01:48] where I wanted to.
+[01:50] Since then, in 2026, I now have two children and my life is very different.
+[01:55] So instead of going out and watching primetime TV shows and claimed films,
+[02:01] I'm living in CBB's and Disney these days.
+[02:05] Now, normally I would introduce myself by saying the following,
+[02:09] I'm Dr. Sarah Weisman, I have a PhD in human computer interaction.
+[02:13] I was a lecturer of interaction design and it's gay rooms amongst other things.
+[02:17] I'm now a consultant user researcher.
+[02:20] I was a price-finalist for the human factors and ergonomics society.
+[02:24] And I've been quoted in mainstream media on many different topics around number entry.
+[02:29] However, none of that matters.
+[02:32] Because my title now is my, and according to my children,
+[02:40] one of whom is here today.
+[02:43] Hi.
+[02:46] According to my children, my achievements are as following.
+[02:50] I quite often peel bananas, catastrophically wrongly.
+[02:53] I do children's shoes up too tightly.
+[02:56] I'm quite mean about when the TV needs to be turned off.
+[03:00] I do children's shoes up too loosely.
+[03:03] I sometimes try to sing in the car.
+[03:06] And I sometimes think about singing in the car.
+[03:09] You may notice this is more a list of primes than it is achievements,
+[03:13] but that's who I am today.
+[03:15] So as I said, my life is looking a bit different.
+[03:18] So I thought during this talk today, instead of scientifically approaching interfaces in movies and TV shows,
+[03:24] we would apply the same principles and learn a bit more about HCI, human computer interaction,
+[03:29] through the lens of children's shows.
+[03:31] That's quite frankly all I've got these days.
+[03:33] Now, the first show we're going to look at, I do feel a bit guilty about because it's hey, Dougie.
+[03:37] And that is a show that I'm unsurprised by that.
+[03:40] Hey, Dougie's actually an okay show.
+[03:42] If you have to be trapped watching a TV show for children, hey, Dougie, you could do a lot worse.
+[03:47] In this episode, we're going to be looking at the future episode.
+[03:51] And in this episode, Dougie and the five-year-olds he looks after, who still take nap somehow,
+[03:57] are going to imagine what it's like in the future.
+[04:00] We are going to see the character happy who is a crocodile interacting in a kind of minority report style,
+[04:06] covering interface, and he's going to be making his own hybrid seed.
+[04:10] He's going to be choosing lots of different elements, lots of different plants,
+[04:13] to make a hybrid seed that will grow into who knows what.
+[04:16] In the future, they obviously have bigger concerns than maintaining natural biodiversity.
+[04:20] But let's have a look at that clip now.
+[04:22] We can be plund, Dougie.
+[04:25] Oh, boy.
+[04:29] Anything?
+[04:33] Oh, plund.
+[04:34] A bit of a sweet corn strawberry.
+[04:36] Oh, big pink flowers.
+[04:38] And a bit of this until the patch.
+[04:41] And this is the last thing.
+[04:43] Ah, this is it.
+[04:45] Yeah.
+[04:52] This is dense.
+[04:53] What is it growing to?
+[04:54] I'm not going to tell you.
+[04:55] You're just going to have to go away and suffer that, um, watch that yourself and find out.
+[05:00] Now, the reason I'm talking about this is not the minority style report style interface,
+[05:04] which actually is ergonomically horrendous.
+[05:07] When you have to have your arm out in front of you, that's called static load.
+[05:10] And there's only a short amount of time you can do that without resting on something
+[05:13] before your arm starts to hurt really, really quickly.
+[05:16] Whilst I was writing this talk interestingly, I googled that.
+[05:20] And it's actually sometimes referred to as guerrilla arm, which is a term I have never ever heard.
+[05:25] So I now have a side quest to work out how on earth that has a Wikipedia entry.
+[05:29] But that's not what I'm talking about.
+[05:31] What I'm talking about is the interface and something called the information architecture.
+[05:36] Information architecture is the design of how information is displayed to a user on a website on an interface on a festival badge that you might be wearing around your neck now.
+[05:47] Information architecture is the way that you arrange that information so that the user of that interface can more easily navigate it and understand what they're doing and find things.
+[05:58] Now, when things when information architecture is designed well, you are likely not even noticing it because you're thinking well, it's obvious how this should be arranged.
+[06:07] But actually it's not.
+[06:09] Information architecture can be done really badly.
+[06:11] And in that case, it's very frustrating.
+[06:14] Have you ever been at the supermarket trying to work out if the tomato you're holding goes into fruit or vegetable or salad on the self-check out machine?
+[06:21] You'll know the information architecture can be done badly.
+[06:24] And I'm telling you that an information architect has been nowhere near that interface that happy just had to interact with.
+[06:30] And here's what I'm going to tell you that.
+[06:32] That's because it doesn't adhere to a certain principle.
+[06:35] Now, the person who coined the term information architecture also coined this term.
+[06:40] Latch.
+[06:41] For any breastfeeding parents of the audience, don't worry.
+[06:44] It's not that type of latch.
+[06:45] Let's break it down into the acronym.
+[06:47] It stands for Location, AlphaBet, Time, Category and Higherarchy.
+[06:52] And these basically describe the five ways you might want to arrange information.
+[06:57] There's no real other ways you might want to do it.
+[06:59] So let's break those down and see what they involve.
+[07:01] So location.
+[07:03] If, like me, you are in your late 30s and you have a very unhealthy relationship with right move.
+[07:10] And scanning people's floor plans, then you have seen information arranged in a location-based way.
+[07:18] When you type into right move, the postcode of your fictional new house,
+[07:23] it displays those houses to you in a location-based order.
+[07:27] It's very useful like that.
+[07:29] Now, AlphaBetacle.
+[07:31] This one's a little bit different.
+[07:33] It's when you arrange information by AlphaBetising it.
+[07:36] A good example of this.
+[07:38] You are on an all company teams call.
+[07:41] And you don't like the speaker.
+[07:44] So you are scanning the participant list to see if your work-wife or work-husband is also on the call,
+[07:49] so that you can get into Slack and back-channel chat about that speaker.
+[07:53] Just me, maybe just me, okay.
+[07:55] Don't tell my work.
+[07:56] Now, that participant list in a team school is arranged by AlphaBet.
+[08:01] If that used the location-based information architecture and it arranged all the participants on that call,
+[08:06] based on how close they were to you, a that would be a GDPR nightmare,
+[08:10] and I think a big leak.
+[08:12] And B, it would not be very useful.
+[08:14] It's more useful to be able to see people according to AlphaBet.
+[08:17] Time.
+[08:18] When information should be displayed through temporal means.
+[08:22] Now, again, I've said I'm in my late 30s,
+[08:24] and so the social media of choice for me is obviously Strava.
+[08:28] I love to see my friends heavy lifting queens getting in their reps,
+[08:34] and improving their bone density, kudos for everyone.
+[08:38] Yes.
+[08:39] Now, Strava arranges its information architecture,
+[08:42] according to time.
+[08:43] The most recent workout you see is the one that is most prominent in the Strava interface.
+[08:51] Now, category.
+[08:53] This is when information is arranged by nominal categories,
+[08:56] where you need to arrange it by the names of things.
+[08:59] So you might want to arrange something by sets of colours,
+[09:02] or if you were doing like body parts.
+[09:05] You might say, here's a group of noses that we have,
+[09:08] and here's a group of eyes that we have,
+[09:10] and here's a group of eyebrows that we have, and hang on.
+[09:18] Here's mouth, glasses, and some other thing.
+[09:22] Okay, we've made the me structure.
+[09:24] We'll just get to the drop, and then we'll move onto the next slide.
+[09:29] Okay, next.
+[09:30] Get the idea.
+[09:31] That's how we have to re-works.
+[09:33] Now, hierarchy.
+[09:35] Higherarchy is when you need to structure information
+[09:37] when it has a natural kind of parent and child interaction
+[09:40] with one another.
+[09:42] And the thing I'm going to use here is blue-y,
+[09:45] because I had to put it in the talk somewhere.
+[09:47] So if we were going to arrange maybe a website that will allow you
+[09:50] to navigate through the blue-y family, you do it like this, probably.
+[09:53] You'd have Nana Christine and Grandpa Mort at the top,
+[09:56] and then under Nana Christine, you'd obviously have a red stripe
+[09:58] and band it, and under Mort, you'd have Chilean Brandy,
+[10:01] and then under Stripe, you'd have Muffin, Yes Queen,
+[10:04] and Sox, then under Bandit, you'd have Blue-y and Bingo,
+[10:07] and then Blue-y and Bingo can also belong to Chile though,
+[10:10] and then obviously in the episode the sign,
+[10:14] we see Brandy turning up pregnant, don't we?
+[10:16] So, there's obviously another child there,
+[10:18] and then when we think about the episode the surprise,
+[10:21] we know that Blue-y has a child, so that would go there.
+[10:24] But then that raises the question of who is Blue-y's child's father
+[10:28] as it's John Loup, is it McKenzie?
+[10:30] I don't know who we would put in this location.
+[10:33] Okay, I've lost myself a bit there, I'm sorry.
+[10:36] I know I've lost most of the tent as well,
+[10:38] but I also know that there's a small proportion of the tent sitting in front of me,
+[10:42] who's nodding along with me, who has some deep blue-y fan theory
+[10:45] who wants to talk to me about this after the talk for real life,
+[10:49] and I respect that.
+[10:51] Anyway, let's get back to the information architecture.
+[10:54] What this also helpfuly shows is the idea of
+[10:57] a poly-hierarchical classification.
+[11:00] That is, some information can belong in two different groups,
+[11:03] Bingo and Blue-y, belong to both Bandit and Chili.
+[11:07] And that's not a problem that shows that you are reflecting
+[11:10] the possible mental models that your users might have.
+[11:13] Okay, those are the five ways that you can possibly arrange
+[11:17] our information and information architecture.
+[11:19] I will say, whilst I was doing this,
+[11:22] I realized that the information within the latch acronym
+[11:25] is not arranged according to any of those rules.
+[11:29] It's arranged according to a secret sixth category
+[11:33] that is Wimsy, I think.
+[11:35] But you get the just.
+[11:37] So let's go back to our source material
+[11:39] and let's try and help this poor crocodile child
+[11:42] to navigate this interface.
+[11:45] So we know from the clip that there is possible seeds
+[11:49] that he can choose that are fruit and veg,
+[11:52] and we know there's also a flower option.
+[11:54] What I'm seeing here is categories.
+[11:57] So, excuse the graphic design,
+[11:59] you haven't come to a graphic design talk, okay?
+[12:01] So bear with me.
+[12:02] What we're going to do is we're going to put something over this side,
+[12:05] which is this is the things that a plant produces
+[12:07] and we're going to split that up into vegetables and fruit.
+[12:10] And then we're going to further use a different information
+[12:12] architecture strategy to arrange those.
+[12:15] We're going to put those in our better order.
+[12:17] So we've got the vegetables going down the side,
+[12:19] the fruit going across the top.
+[12:20] You'll notice I've not included tomato,
+[12:22] but I'll just put it into it.
+[12:24] On the other side, what we're going to put is we're going to put the flowers.
+[12:28] Now the flowers we're going to separate out by category.
+[12:31] So we'll do colors of flowers that you can choose.
+[12:34] And then we're going to talk about the number of petals
+[12:36] that you can have.
+[12:37] So we'll put that on the right hand side.
+[12:39] And obviously we'll arrange the numbers alphabetically.
+[12:42] Um.
+[12:43] Oh.
+[12:45] Oh.
+[12:46] Okay, fine.
+[12:48] We'll do the numbers alphabetically.
+[12:51] We'll do the numbers in numerical order.
+[12:54] Let's not do any innovation.
+[12:56] Now I think what we've got here is a more easily navigable interface
+[13:00] that will require fewer absolute buttons for pink flower
+[13:04] with two petals.
+[13:05] And it's something that you can maybe hopefully approach
+[13:07] without having touched before and understand how to navigate.
+[13:10] And we've done that by using the latch method
+[13:13] rather than the smash it all over the screen method.
+[13:18] Now that was Dougie.
+[13:20] What I want to do now is talk about Disney
+[13:22] because I'm in the mood to poke something big and American with a stick.
+[13:25] What we're going to talk about is Mickey's clubhouse.
+[13:28] Mickey's clubhouse is a TV show where Mickey and his friends
+[13:31] live in a colorful clubhouse and go on adventures with lots of sound effects.
+[13:35] One of the features of this show is that Mickey appears to be suffering
+[13:39] from quite crippling self-angiety.
+[13:42] Um, he's regulating his to check in with the audience
+[13:45] about whether something is right or not.
+[13:47] Hey, kids, was that orange purple?
+[13:50] Tell me, can you remember Mickey made?
+[13:53] Trust you gut, you don't need to ask us.
+[13:55] You know the answer, you don't need to check in with us.
+[13:58] The thing that we're going to see here is a incident
+[14:01] where Mickey has realized he hasn't got a Valentine's day card for minni.
+[14:04] And he needs to make one, so he needs to find the arts and craft room.
+[14:08] Let's see how he does that.
+[14:10] Hmm, what's call up the art and craft area, okay?
+[14:14] Does that look like the arts and craft area?
+[14:24] No, Mickey, no.
+[14:26] No, that's the kitchen.
+[14:29] Is that the arts and craft area?
+[14:32] No, Mickey, no, it's not.
+[14:34] Nah, that's the bathroom.
+[14:36] Is that the arts and craft area?
+[14:39] Yeah.
+[14:40] You betcha.
+[14:42] Come on, everybody.
+[14:43] Let's go make minni's Valentine's day card.
+[14:46] Okay, so, firstly, that's some really impressive architecture, isn't it?
+[14:53] That was plumbing.
+[14:55] Spinning, and then, you know, you're going to have to do it.
+[14:58] You're going to have to do it.
+[15:00] You're going to have to do it.
+[15:02] That's the kitchen.
+[15:03] That's the kitchen.
+[15:04] That was plumbing.
+[15:06] Spinning.
+[15:07] Right?
+[15:08] The kitchen and the bathroom were both on a spinning axis.
+[15:11] Most people would say that's ridiculous, but we know in this universe, there is at least one
+[15:16] Plumber, who, when a billionaire mouse called him, said yes, I could make rotating
+[15:21] Plumbing for you.
+[15:22] Another thing is that the maths of that is quite interesting, isn't it?
+[15:26] The first room was 180 degrees, and we saw four rooms, so that's a circle with 720 degrees
+[15:33] in it.
+[15:34] I think that is the real multi-dimensional stuff that Disney needs to investigate, forget the
+[15:38] multi-vers.
+[15:39] Now, what I want to talk about is, let's look at the way that that information was organized,
+[15:44] the way that those rooms were ordered, because I think there's something that we can
+[15:49] talk about there.
+[15:51] The number of leverpools that those things take.
+[15:53] The first one was the living room.
+[15:54] That no leverpools.
+[15:56] Number one was the kitchen.
+[15:59] After two leverpools was the bathroom, and then after three leverpools, we got to the
+[16:03] craft room.
+[16:05] Now, I think this hasn't been done very well because of all the rooms that should be
+[16:11] too very slow.
+[16:13] Leave a pause a ray away.
+[16:15] I don't think the bathroom is it.
+[16:18] I think if you're pretty desperate for a wee, you don't want to have to pull that
+[16:22] lever two times and wait.
+[16:24] I think therefore, there's a very high chance that Mickey Mouse has, at one point, when
+[16:30] coming back from the pub and needing a wee, you're anated in that fish tank.
+[16:39] I can prove it.
+[16:41] What we're talking about here is the way that information is organized in a closed
+[16:46] space and how we navigate through multiple layers of information in one dimensional
+[16:52] way.
+[16:53] This is less kind of cryptically illustrated by your phone.
+[16:57] So, on your phone, when you go to open a text or an email and you write, you'll be given
+[17:02] the upper case keys on the keyboard.
+[17:05] Then when you type an upper case key, it becomes lower case, but you could do it by pressing
+[17:08] the shift key.
+[17:09] If you wanted to turn those lower case keys into upper case keys, you'd have to press the
+[17:13] shift key again.
+[17:14] Now, if you're on an iPhone and you want to press a number, then you're going to have
+[17:17] to press the number button so that's another number press.
+[17:21] And then that gets you a few of the symbols.
+[17:24] But if there are other symbols you want to press, then you want to do a tilde, did you say?
+[17:28] A tilde?
+[17:29] Why would anyone need a tilde?
+[17:31] Oh, you want to talk about a hacking crafting festival that happens every other year.
+[17:35] Okay, I understand.
+[17:36] We'll find a tilde for you, but I've got bad news.
+[17:38] It's going to involve one more key press.
+[17:41] There's a lot of things you have to do to navigate the information there.
+[17:44] And it's not real different to press pulling that lever like Mickey was doing, but we're
+[17:49] using a soulless touchscreen button instead.
+[17:52] Now, the problem with this is that that involves a lot of effort.
+[17:56] You might not think it does, it's just pressing an extra button every now and then.
+[17:59] But researchers have found that if you want to computationally model the way that people
+[18:03] think about navigating a keyboard like that, you actually have to include the cognitive
+[18:08] time it takes to think about it.
+[18:09] That's both the time it takes to think where on earth is that symbol?
+[18:13] Is it in the first layer or is it in the second layer of symbols?
+[18:16] You also need to include the amount of time it takes for people to make a mistake.
+[18:20] Just because you think you remembered where it is and you've pressed that symbol button
+[18:23] two times, you might overshoot and then have to go all the way back again.
+[18:27] And in the end, this process takes a lot more effort.
+[18:31] And it's actually very onerous to have to navigate a text keyboard when you want those
+[18:36] symbols at the back.
+[18:38] Now it's so onerous that people are willing to make bad decisions.
+[18:42] Every researchers have done a test on how people design passwords depending on the device
+[18:47] they're given.
+[18:48] They gave one set of participants a physical keyboard.
+[18:50] They gave another set of participants a touch screen phone.
+[18:53] And they asked these participants to design new passwords on them.
+[18:57] And as a result of the device that they were using, there were some significant differences.
+[19:03] The participants that were given the phone keyboard to create passwords on were more
+[19:08] significantly more likely to choose passwords that had lower case letters than those who had
+[19:13] physical keyboards who were more likely to include symbols and upper case and numerical
+[19:17] information in their password.
+[19:20] When they then did a further test on the passwords that they created, there was a significant
+[19:25] difference in the crack ability of the passwords created by those two participant groups.
+[19:30] So people, when given a phone keyboard to design a password on, find it so much of a
+[19:36] path to use that keyboard that they are willing to make unsacura decisions and be significantly
+[19:41] less safe.
+[19:43] And what I'm saying is, if when it comes to security, we are not even willing to press a little
+[19:48] button on a phone screen to get to the deeper levels of information.
+[19:53] Mickey has definitely not been bothered to pull that lever and has weeded that fish
+[19:59] tank.
+[20:00] Now my next interface, okay.
+[20:05] So I had to put a wash on and then I had to prepare dinner and then I had to pack for this
+[20:11] camping festival.
+[20:12] I'm going on with my kid and I don't actually have another interface to show you today.
+[20:17] But I know they're out there.
+[20:19] I have watched hundreds of thousands of hours of TV shows for kids and I know there are other
+[20:24] terrible interfaces out there.
+[20:26] I am at wise makes on threads and I don't post much, but if you ever find yourself trapped
+[20:32] in a room with a children's TV show and you see an interface that you don't really rate,
+[20:37] then send it to me and we can make fun of Mickey behind his back.
+[20:41] Thank you very much.

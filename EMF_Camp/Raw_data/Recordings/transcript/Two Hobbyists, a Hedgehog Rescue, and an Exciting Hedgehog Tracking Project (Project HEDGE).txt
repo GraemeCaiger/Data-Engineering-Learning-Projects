@@ -1,0 +1,262 @@
+[00:00] I'm Andy Cook, I'm Diane's husband and I do as I'm told.
+[00:17] If only that were the case.
+[00:20] So basically we just want to really briefly tell you about Puclipics Hedgehog Rescue and
+[00:24] how we got started.
+[00:25] So it all happened because of COVID.
+[00:28] So during the first lockdown, unfortunately, myself and Andrew found ourselves out of work.
+[00:33] So we couldn't go out to work but we left at home trying to homeschool our two children.
+[00:39] So obviously we had a lot of spare hands on our time, but time on our hands.
+[00:43] So we decided what could we do with that time to make it a bit more productive.
+[00:49] So we decided that we would start a hedgehog rescue.
+[00:52] So previously to that we were rescuing, Andrew, we were releasing and we were fostering
+[00:59] or hedgehogs from another rescue, but we decided to start our own rescue and that's how Puclipics
+[01:04] came about.
+[01:06] We did though at first say that we only wanted to have three hedgehogs in the rescue at once.
+[01:13] Because obviously normally we would be working and obviously got the family life.
+[01:17] Anyway, he didn't quite work out like that.
+[01:20] And by the end of that first year in 2020, we had taken in over 120 hedgehogs into the rescue.
+[01:28] So we had to rethink.
+[01:34] So what happened was at the beginning of lockdown, Andrew spent a lot of time in our garage.
+[01:41] He was there, had that extra time to re-build his man cave.
+[01:46] We had dust extraction systems, we had all his tools, organized, he got out, his screw fixed catalog,
+[01:54] collection of every type of screw, a nail that you can imagine you ever needed and was getting
+[02:01] it all organized.
+[02:02] Unfortunately, because the number of hedgehogs that we had in the rescue escalated so much,
+[02:07] we had to rethink what we were going to do with them.
+[02:10] So unfortunately Andrew's man cave had to be replaced by a rescue.
+[02:15] So we converted our garage into the rescue.
+[02:19] So where are we at today?
+[02:21] Well, at the moment this year we've taken in lots of hedgehogs.
+[02:25] And annually now we're taking about 500 hedgehogs into the rescue.
+[02:31] I've not returned back to work because I'm running the rescue now full time.
+[02:36] We are a registered charity and we are looking at fundraising to expand the rescue further.
+[02:43] And replace our bit of dilapidated garage.
+[02:47] Our peak, so at our peak last year at one point in July, we had roughly 96 hedgehogs in the rescue at one time.
+[02:57] So what we're doing the rescue is, we anybody finds a hedgehog that sick or injured,
+[03:02] or they think poorly or orphaned, then they can get in touch with us.
+[03:06] We take that hedgehog in, find out what's wrong with it, treat it, rehabilitate it,
+[03:12] and then of course they get released back into the wild.
+[03:14] Usually where they've come from.
+[03:16] When we do release all our hedgehogs, we might catch it them.
+[03:19] So we know that if a hedgehog was to come back into the rescue, we could scan it.
+[03:24] And then we could find out about lots of other things that might be wrong with it
+[03:29] and compare it to when it came in last time.
+[03:32] Now that moment of release is always the best bit of course.
+[03:38] But it's always leaves us wondering what's happened to those that we have
+[03:43] have through the rescue.
+[03:44] Are they surviving?
+[03:46] Are they doing better or worse than hedgehogs that haven't been into the rescue?
+[03:51] Do they stay near the release sites?
+[03:54] Or are they struggling a little bit more?
+[03:57] We just don't really know.
+[04:03] I think that changed the lights.
+[04:05] So our first return patient was a hedgehog called Adira.
+[04:11] She'd been into the rescue, we have a lot hated and released back into the wild,
+[04:16] but not long afterwards.
+[04:20] She arrived with a massive abscess around the top of her head.
+[04:26] We drained the abscess, we treated it,
+[04:29] micrachipped it and released it.
+[04:32] But 13 days later she came back into the rescue.
+[04:38] She'd been attacked unfortunately by a very large dog and had actually got a broken leg.
+[04:45] So we've got the x-ray and she's wearing this splint here.
+[04:50] Now she was ready for release, but of course as soon as she was nearly ready for release
+[04:56] she decided that she was going to pop out babies.
+[05:00] She had to stay with us even longer.
+[05:01] So the gestation period of a hedgehog is roughly 30 days.
+[05:08] Now what we started doing then was we started going out into our garden
+[05:13] where we had the feeding station set up and we were having our micrachipped reader
+[05:19] and we were stalking the hedgehogs in our garden.
+[05:22] Scanning them as quickly as we could to see whether they were micrachipped ones
+[05:27] or whether they were any other kind of ones so that we could see which hedgehogs are actually visiting our garden.
+[05:33] We also took it a little bit further, didn't we?
+[05:36] And we would often be found roaming the streets of Ockley,
+[05:41] later night with a torch and a micrachipped reader.
+[05:46] Seeing if we could actually find any more micrachipped hedgehogs that we had released across Ockley.
+[05:53] Now obviously the more hedgehogs we released to a wider area,
+[05:57] obviously we couldn't cover that area on foot so we were only being able to actually
+[06:03] walk around our local area not so further.
+[06:06] So surely there was a better way of actually finding out about where our hedgehogs were that we had
+[06:13] to micrachipped them. So the question was Andrew, can you make something that reads a micrachipped
+[06:21] when it comes into our feeding station? Then I don't have to stay up all night looking at
+[06:27] hedgehogs or actually get the risk of getting arrested while we're skulking around in the
+[06:33] dark at night and that's how project hedge began.
+[06:38] Hedgehog electronic data gathering evaluation.
+[06:49] And a hands over to Andrew.
+[06:53] So of course my instrument response was if I had a man cave, I could do this but I don't anymore.
+[07:00] So by this time we're now getting 500 fish this year.
+[07:05] Not all of those get released in offly itself, they get released in the local towns.
+[07:12] And we're vastly expanding where we're getting hedgehogs from.
+[07:17] Tyring one.
+[07:19] Every same. Sorry.
+[07:20] Everything. My background is a project manager.
+[07:25] I'm trying to manage Diane my client in the best way I can.
+[07:31] But she wanted to pass it long term monitoring, low maintenance and costs.
+[07:37] We wanted a public interface in time that would encourage people to view hedgehogs and look
+[07:42] out, look out for them, feed them and generally it needed to be automatic or semi-automatic because
+[07:50] our time's pressures. So we started out with various people for concepts.
+[07:58] The universe, the elites wanted to get on board so we worked with some of their research students
+[08:03] in terms of GIS mapping on the hedgehogs that were coming in and the data that we were collecting from
+[08:09] our relatively simple proof of concept models. They raised from manual skills with the camera to
+[08:17] track the scales to digital scales. To a bit of a blue piece of job there with a lot of
+[08:23] double-sided sticky tape.
+[08:28] The system worked really quite well but it was inside the box and he has a hedgehog coming out of the box.
+[08:48] So this is Paul actually Paul the hedgehog obviously leaving one of our hedgehog stations.
+[08:53] So Paul was a hedgehog that was in the rescue and we don't get bitten by hedgehogs very often but
+[09:01] he did like the taste of my fingers and he was released however.
+[09:08] To release it, 880 meters away from the rescue it only took him
+[09:15] 13 days to actually find the feeding stage back in our garden. Personally I think that he was
+[09:24] just looking for my blood again. So hedgehogs are not the cleanest of animals and when you congregate
+[09:35] them into a single point feed, mayhem and shoes. So you can see how dirty it is in there.
+[09:43] We have to change the deployed prototype to be much easier to clean so the way in scales
+[09:50] have to go. By this time we are already starting to learn Nordred, Arduino IDE, the K-CAD,
+[09:57] databases and how it used a laser cutter. It was men and be something simple.
+[10:03] Nothing's ever simple in your world there is a...
+[10:05] Now. And of course we needed a back end to record all the information that was there.
+[10:14] So that's one of the hedgehogs coming out of the feeding station.
+[10:21] They always say hello to the camera. They're quite vague.
+[10:31] So the team is not just just myself. There's a colleague of mine, John Doffy who works
+[10:36] who is a member of Wavdeel, men's shed, men's shed is a fantastic organization
+[10:41] supporting the gentleman worth looking up about what they do.
+[10:48] My conversation with John went something on the lines of...
+[10:53] We need to work lean John but we need to be agile.
+[10:58] Every situation needed to be defined by scope, but we also needed to be
+[11:05] able to adapt to anything that Diane wanted. And of course it definitely had to be minimal viable product.
+[11:17] Another important member of the team. This is this is Rube Arb. He is our only long-term resident
+[11:25] of the rescue. He is a rather neurodivergent hedgehog, hence why he is actually lives at the rescue.
+[11:33] Unfortunately, unfortunately for him, he thinks he's a cat more than a hedgehog.
+[11:39] So he is the chief tester. So he was testing all our prototypes. He was chief brisket
+[11:46] culture and of course the CEO of it all.
+[11:55] So what we ended up doing is we ended up having a long-term test station that was at our
+[12:00] house where the rescue is based. And then we also had several other prototypes that we were
+[12:06] able to put around our volunteers gardens for short-term monitoring to test out
+[12:12] basically what was happening and what we were finding. So we had the 12-month period where at the
+[12:22] Rube feeding station in our garden, which was long-term there, actually had 2,536 visits from
+[12:29] 26 individual hedgehogs. Here's just some of the data that we've picked out from that long-term,
+[12:41] long-term, track-and-state at the rescue and also some of the satter-like ones as well.
+[12:46] So we had sprouts, sprout came to us in 2021. It was an abandoned hoglet, only weighing about 50 grams.
+[12:58] We treated it, released it, re-ad it and then it was released on the 21st of March 2021.
+[13:04] And we tracked in our tracking station in August of 2024. So we know that that hedgehog's sprout
+[13:12] is just about three years, well, over three years old. The average lifespan of a hedgehog is
+[13:19] in the wild is three to five years. And the data and research that we know so far about hedge
+[13:25] choices that generally stay within 15 garden radius. Generally they can walk up to two miles
+[13:35] and eight, obviously not in a straight line. And it seems to be that males seem to travel further.
+[13:43] But those basics that we know already were starting to disprove from the research that we've been
+[13:49] able to get from our tracking system. So we had another one here, wink, he was released in 2022.
+[13:58] And then two years and 21 days later he was spotted in another garden down on a different
+[14:05] part of the estate. And then again he was tracked in February of 2025. So it was lovely. You
+[14:13] cannot imagine what it was like when that first hedgehog went through that tracking station,
+[14:19] we got all the dates back and it told us who it was. To know that that hedgehog that we taken
+[14:25] in and spent so much time and effort and care treating it and rehabilitating it and then it's
+[14:31] still out there in the wild doing really well is the best thing ever. We also had Meowth. Now Meowth
+[14:40] hasn't actually been in the rescue. If you remember earlier said a little bit about how we kind
+[14:45] of stalked the hedgehogs in our garden, Meowth was one that we stalked in our garden. So it was
+[14:52] living in our garden or at least pass through our garden in the May of 2023 and surprisingly enough
+[14:59] was tracked to one of our trail tracking stations in October 2023. Well 160 days later,
+[15:09] but in a completely different town. So Meowth was a female hedgehog as well. So not a male hedgehog
+[15:17] that walked further. Meowth was a female hedgehog. So she travelled, obviously as the crow flies
+[15:21] 2,800 meters and cross the river wall as well. Headchoks by the way come swim.
+[15:47] So what did we learn from the first 12 months? Slugs are a real hazard to electronics.
+[15:55] I don't know what it is about PCBs but they love them and even at level each they can
+[16:01] shiv a lot quite comfortably on a PCB. So unfortunately several slugs were actually harmed
+[16:09] in the development of this system. I biggest challenges weren't really technical to be fair.
+[16:16] It was weather exposure. Reality is of trying to maintain a system out in the field that you
+[16:22] not getting active feedback from. The units were integrated and we had to crawl around on our hands
+[16:33] and knees to maintain them or completely bring them back out of the rain. So this is Huffie,
+[16:46] our mascot. He does live with us occasionally and he may or may not be my alter ego.
+[16:56] So we decided we needed something, we had to be easy to clean. We needed something that we could
+[17:02] maintain in the field or remove the components quickly, take them away and just do a quick swap.
+[17:10] And also we have to work out because these are going to deploy them with members of the public.
+[17:16] How are they going to clean them? How are they going to maintain them safely?
+[17:19] And there are certain back tears that we've passed between humans to hedgehogs and vice versa
+[17:24] and we have to put all those controls in place.
+[17:27] By this time, the number of software packages that we had to learn suddenly increased dramatically.
+[17:40] None of these were things that I had done before. Some of them were John had done but mainly we
+[17:46] started the development of the product after the years, long deployment to see how we could
+[17:54] improve it, easier to deploy and easier to maintain. All I wanted was for a hedgehog just to be
+[18:03] scanned and then we just to get an email in the morning to tell me who it was. All this other
+[18:09] fancy other systems, you know, it's just not necessary. Minimal viable product. That's what
+[18:15] SPM's always worked. So how did we get there? So our eldest child Jasper, they designed us an
+[18:26] entrance way. We wanted something out of pretty. So we transferred that into an electronic drawing
+[18:39] and then we three deep-rinted it. Which is really where Minimal viable product really sort of
+[18:43] kind of stops. Yeah. The electronics went through about 14 different deployments and different changes.
+[18:57] Some on a veribod multiple ones that we had produced at a manufactured off site and then sold
+[19:06] the components to. But we needed to do some of batch optimizations. So you might be wondering why I'm
+[19:17] hobbling around with the cane. It's that car battery and the other five others that I was
+[19:21] hoping around to recharge that I probably did it. We didn't focus on batch optimisation first because
+[19:30] we needed to prove the technology work proved that we could reliably and consistently read the
+[19:36] hedgehog RFID tags. We now use just our blue battery pack. We've gone from 20 days with the
+[19:44] veribod battery pack. For 20 days from the car battery to 40 days with the lithium ion pack. And now
+[19:51] we've added solar and solar controller and battery management system. And now we're in definitely
+[19:56] in the UK without any external power needed. And this is project edge. As you can see,
+[20:09] what we wanted was a product that used standardised components or components that we were in control of.
+[20:18] Every part of this design we're in control of, whether it's the electronics, the software,
+[20:23] the laser cutting, we have all the master bits and pieces. The camera units on there, one is a
+[20:29] a blink camera unit and the other one is for the host of the unit to have their own camera in there
+[20:35] if they wish. So we needed a name. We've got project hedges, the whole project. But now we have
+[20:42] a product. And of course it had to be edge operational gateway. It's from the edge of the
+[20:49] operation, links into our back edge. But it was too long. So we shortened that to edge
+[20:55] urgy, which as we say up north, edge dog. So edge dog unit out in the wild. We've now built
+[21:05] 20 of these. We've got about six deployed so far and we're about to, um, thank you, there's our
+[21:13] deployed, the remaining of the 20. And we're looking for funding and private sponsors to build the
+[21:19] remaining. The British headgear preservation society were very kind to sponsor 20 of the units to be
+[21:24] built and funded the majority of the cost of this project. So how does it work? That's simple obviously.
+[21:34] Headgear genders, unit wakes up, scans the chip, walled earkin, time and day it logged, sends
+[21:44] us the data via home wifi and then it's collected in a back end database. And then a happy wife.
+[21:50] And a happy wife here. But we didn't just track hedgehogs.
+[21:57] Sometimes we add other visitors and birds turned out to be one of the biggest pests. Who knew
+[22:11] that they liked cat food as much as edge dog? And of course we got the occasional amount as well.
+[22:20] That's a slug it sniffing but no, no creature, including hedgehogs, really, really wants to eat a
+[22:26] slug, it's always a last resort. And of course Magpies are just as tenacious as Blackbirds,
+[22:43] if not more. And of course aliens from outer space came to visit as well.
+[22:53] Now, they're the least of our problems. Cats. We spend a great deal of time
+[23:03] sizing the whole to stop a cat from going in.
+[23:13] Okay. Do you want to see that again?
+[23:17] Oh, technical error. I'm not used to a track-up pad.
+[23:28] Carb it played against, I don't know what I'm doing. Oh, you go.
+[23:33] So we had actually prototype and obviously tested lots and lots of different size holes
+[23:40] to make sure the cats don't get in and obviously the cat food that we are putting in the rescue.
+[23:47] So yeah, so the feeding stations I do have wet cat food. That's what we feed the
+[23:52] hedgehogs in the rescue. Wet cat food, wet dog food, cat biscuits and water. And that's
+[23:56] what we're leaving in our track-in-sation, our feeding station in our garden for all our
+[24:01] prickly friends to come and visit. So obviously the key thing was making sure that our own
+[24:07] two cats who obviously tell everybody that they are completely starved and neglected and the
+[24:11] only ever fed if they can eat the hedgehogs food. Couldn't actually get in there.
+[24:16] So we tried loads and loads of different contraptions. We had tunnels, we had pipes going around,
+[24:22] we had flaps, we had obstructions in the way. But this one particular cat in our neighborhood,
+[24:26] it didn't matter what we did, the still, the little seren so could still get in there.
+[24:32] And it wasn't until we actually just decreased the size of the hole that made the difference.
+[24:38] So we reduced the size of the hole. So yes, on this one here, a cat's head can get it, can get in.
+[24:46] We have a long box and put the food at the back. Then obviously a cat can still get its arm in there,
+[24:54] but just not can't reach the food. So that's how we developed it. But of course,
+[25:00] obviously cats do come in different shapes and sizes and a slimline cat, obviously,
+[25:07] can get itself in if it's squeeze is entirely, but obviously can't get out as quickly and as easily
+[25:15] as it got in. So we don't see project hedges something to keep to ourselves.
+[25:22] I've got a full time job. Darren looks after hedgehogs. We want to develop a system that people can
+[25:29] add on to it and ultimately, once the funding period has gone, we can be open source for everybody to
+[25:36] we'll provide the back end to researchers. They can purchase the units or build their own or somebody
+[25:42] else can add on to it and we'll deal with all the back end bits and they just end up with standard
+[25:47] dies clean data that we can use. So obviously Andrew's already mentioned that the British
+[25:55] Headtrop preservation society were really interested in what we were doing and all obviously all the data
+[26:01] and research that we could get from our track in stations. So they helped to fund what we do and
+[26:06] obviously keeping a close eye on it as well. Wolf Dale's men shared, obviously John there has been a
+[26:12] vital role and he has kept how he's kept his patients with Andrew. I really do not know,
+[26:18] but he is still on board with us. And then of course the University of Leeds and all the students
+[26:23] who are actually taking all of this information from the track in station plus all of our
+[26:28] other data we've got from our headtrops as to what we came in what was wrong with them, what
+[26:33] parasites have they got so that they can then generate some research projects and obviously hopefully
+[26:41] know that everybody else can share that information.
+[26:58] You just want in a nice bit of peace and quiet to have some tea.
+[27:07] That was a hedgehog there. Entiree in one of our volunteers garden where we got a tracking station.
+[27:30] It came through just on that left-hand side where they've got a hole in the fence where they've made
+[27:36] a hedgehog highway, hedgehog comes in and certainly knows exactly where the food is in the tracking station.
+[27:43] So that's the end of our presentation. So thank you very much for listening. We will be going
+[27:49] over to the Q&A bit. If anybody has any questions at all about what we do. Obviously you've
+[27:56] probably gathered that I don't really know very much about all this stuff, but I obviously do know
+[28:02] lots about hedgehogs if you just want to come and ask any questions, general questions about hedgehog
+[28:06] and room knows all this stuff here. We have got with us some leaflets if you want to take a leaflet
+[28:13] about how you can help hedgehogs. We've got our hedgehogs dicker but we've also just fought
+[28:21] this weekend, got our own spaced-themed hedgehog sticker as well. So if you would like, if you were
+[28:28] like a sticker, oh a leaflet, I'll come and chat to us and we're heading over that way. Or if you
+[28:33] do see us at any point, Joe, in the weekend and we've got our t-shirts on, we don't mind talking
+[28:39] about hedgehogs to anybody as well as having our family workshop to Morrow. We'll be talking
+[28:46] lots and lots of hedgehogy crafts for family members to do.

@@ -1,0 +1,263 @@
+[00:00] I am still.
+[00:15] Can we see my slides?
+[00:18] Something going wrong.
+[00:21] There we go.
+[00:24] I can't see my cursor.
+[00:29] Cool.
+[00:30] I lied to everybody.
+[00:32] It's actually one hour, three minutes and twenty seconds.
+[00:35] Sorry if that's a bit of a let down.
+[00:38] That is my fastest time playing the game, half-legged.
+[00:41] If you don't know what I'm talking about and I'm getting straight into things a bit too quickly,
+[00:45] don't worry.
+[00:46] I'm going to explain what is speed running.
+[00:48] I'm going to explain what is half-legged.
+[00:51] Just to keep everybody on the same page.
+[00:55] I'll talk about two.
+[00:57] It is a video game that you can play on your computer.
+[01:02] I would say it's quite a significant game to PC gamers.
+[01:07] I do expect a lot of people know what this game is at an event like EMF.
+[01:12] So, yes, I'm not going to get into the lore of half-legged to anything.
+[01:19] I'm just probably going to shut this out there now.
+[01:22] I put this presentation together in the campsite over the last two days.
+[01:29] I've not run through this at all.
+[01:31] So, I find it a bit breathing space.
+[01:34] That's why.
+[01:35] Yes, released in the year 2004 and here's the most two thousand and four thing I could think of
+[01:40] to put into a presentation to go along with that.
+[01:45] Developed by Val Software, which is to give a quick brief overview of them to fill you in.
+[01:52] They're like a bunch of like X Microsoft devs basically that formed in the 90s too,
+[01:58] because they wanted to make games.
+[02:00] They have been very successful since then.
+[02:04] They are household name.
+[02:06] I don't need to explain Val Software here, I guess.
+[02:09] Yeah, Pathogue and Pathogue too were built off the Quake Engine, which was developed by legendary program of John Carmacka did software.
+[02:21] This guy was known for reinventing the wheel a bit in how he would code and design an approach
+[02:30] problems that had yet to be solved very often making like very useful, more efficient use out of like the existing hardware limitations of the times.
+[02:43] And it's worth keeping that in mind with what I'm about to talk about, because we're going to get into how these how this or essentially is exploited in order to play the game faster.
+[02:53] So that leads into what is speed running.
+[02:57] So speed running is where you sit completely still in a chair and you play games as quick as you can.
+[03:05] From start to finish, there's lots of different categories, lots of different rules.
+[03:10] Like it depends depending on the game on the community.
+[03:14] Like how you define a game as being played from start to finish.
+[03:21] Usually these categories are designed around what's the most fun to play, what's the most fun to like watch or whatever.
+[03:30] I mean it gets really technical, there's a whole thing called like tasks running, which is a tool assisted speed running.
+[03:37] I think is what has sounds for where you like program the input into a game.
+[03:42] So you can like get the theoretically like best possible runs and like people really just enjoy doing that, even though they're not actually playing the game.
+[03:50] And yeah, that's just an example of one of the different categories.
+[03:55] So I'm going to be talking about the category I run is any percent no void clip, I think it's called.
+[04:04] So yeah, let's get into it.
+[04:10] Yeah, so I'm going to run through a few concepters.
+[04:13] I could go on for hours talking about half or two speed running.
+[04:17] It's really interesting.
+[04:19] I think like one of the things that like attracts me to and why I decided to like share some of this through the form of a talk is like.
+[04:26] This is whole like alternate world of physics that has been coded.
+[04:31] Not with the intention of how we exploit it.
+[04:34] There's not really like even the developers of this game don't really understand what's going on when they watch one of these speed runs happening.
+[04:40] There's a great video on YouTube of the half of the depth watching a run by the way.
+[04:45] I really recommend it.
+[04:46] And there I can try and guess what's going on when they're seeing all this crazy stuff happening.
+[04:50] I'm there like completely wrong about what is actually going on in the background and how we are like manipulating it.
+[04:55] So I'm going to talk about like those tricks is what I find like really cool and really there's only like I feel like a hundred of us that can really explain these things.
+[05:04] So I just thought it would be really cool to share.
+[05:06] Obviously there's been this and like great videos on YouTube of people breaking these things down.
+[05:11] So actually when I say a hundred of us that's probably not true.
+[05:15] But yeah anyway that's what it is about.
+[05:17] So I'm going to focus on like a couple of different exploits that we do in order to play the game faster.
+[05:25] So first of those would be what we call accelerating accelerated hopping.
+[05:31] We can do backside and front AVH, ASHA, FH, we hear me say that.
+[05:35] That's what I'm talking about.
+[05:38] There is save loads and there's something called bills big frill.
+[05:42] Which is I believe it was discovered by someone called Bill.
+[05:47] I think I don't really have any more information about that.
+[05:50] This is also something called the US clip.
+[05:52] I'll chuck on the end if we have time.
+[05:55] Yes because I put this together so last minute I'm not really sure if I'm going to go over under.
+[06:00] I'm completely winging this.
+[06:03] Cool.
+[06:04] So let's get into hopping.
+[06:07] So when Gordon appears in the game and he wants to hop imagine you're like running along and you take a jump.
+[06:14] You get a boost in speed when you jump so the player like really feels like launch that like motion going forward.
+[06:23] So accelerate that way that works is that Gordon had it but lost it so Gordon is the character you play by the way.
+[06:29] This little guy.
+[06:32] Yeah, some slight acceleration is applied to his velocity.
+[06:37] And when he lands, this is where the fun happens.
+[06:41] There's checks going on in the game so sort of sort of things out and make sure there's no funny business going on.
+[06:48] So for example let's say like you jumped as a grenade went off right behind you and it sent you like flying.
+[06:56] The game doesn't want you to keep that momentum when you land and just like ping off into the distance.
+[07:01] But as runners we want we really want that momentum.
+[07:06] So yeah.
+[07:09] I have to explain some physics stuff now.
+[07:13] So yeah the way it slows you down when it's doing that check it applies like a reverse force to.
+[07:19] So like quickly I just want it.
+[07:21] Yeah there's a little animation of jumping.
+[07:23] We just wanted to describe the difference between like speed and velocity.
+[07:26] This is just to get you thinking a bit more as to what the engine is thinking about when it's.
+[07:31] It's supplying that reverse momentum to so speed is basically just thinking about about it is like how fast you're going direction is not a variable when we're talking about speed.
+[07:41] Whereas yeah velocity.
+[07:45] Is more which way are you going like I could say I'm going 10 miles an hour that's my speed but if I'm going 10 miles an hour directly north.
+[07:54] That's like more important information really done speed and for a game engine that's that's what it really needs to know.
+[08:02] So this is where some of the magic happens so like I'm talking about this to celebration for us that's applied to when you when you land and the calculations that do that.
+[08:14] They want to slow you down if I'm going this way I'm going too fast they want to slow me down they want to apply a reverse force so nice like I come to a smooth stop they don't just set it to zero so in order to work out that force they need to work out the velocity.
+[08:29] And the way that source engine gets the velocity.
+[08:33] Isn't by any of the actual movement going on they get it in a really cheap way which is just looking at which is assuming the player is looking forward so the way the player is aiming like they're cross here.
+[08:45] Is the sort of basis for the direction of this reverse force that's going to be applied so you might be able to work out especially based on what the slide is called.
+[08:56] How we can exploit that if it's done based on the direction it's looking like what happens if we are jumping backwards.
+[09:05] And we go too fast the game tries to apply some advertisement mention to us but it thinks because we're looking the other way round it applies that reverse momentum the other way round so we end up going super fast.
+[09:18] And this scales as well so every time we hop every time we hit the ground we get faster and faster and faster.
+[09:24] So the point where it is pretty un-controlled and we have to kind of hit the ground a little bit and actually let it kind of slide and we want some of this force to be applied properly before we.
+[09:35] Take this exploit and so that we don't go flying off in an uncontrollable direction because the precision is like quite important.
+[09:43] There is also something called front hopping so I was saying earlier the way it gets direction to apply that reverse momentum is by the view of the player but there isn't override the very under that file.
+[10:00] So I'm talking about like say you're pressing forwards or backwards or like a stroke key to either side which override it so the annoying thing about back hopping is you can't see where you're going right it's really nice to see where you're going when you're speed running.
+[10:22] Because these numbers are never the same you can't really do it with muscle memory alone and be able to lock them both and we do not like luck in speed running.
+[10:30] We want everything to be as precise as possible and so front hopping is really nice so yeah as always saying the input of the player does it override it.
+[10:41] So if we tap backwards that the backwards key on the keyboard just as we land the game thinks we're going backwards it just overrides everything and it will we'll be able to get that reverse momentum applied in a forward direction and it's great and I'm going to show you.
+[10:56] What it looks like oh I had a slide for this but yes that's basically why just explained.
+[11:02] Whoop whoop whoop whoop two jumps.
+[11:05] So yeah this is a little video clip of me demonstrating some abhaching and airfaching.
+[11:13] So there you go that's that's the back hopping.
+[11:17] So all you need to do is take a little jump turn around and yeah we got some front hopping now so this will be applying that every time you land applying that reverse directional input.
+[11:28] This this is a section of the game where you're supposed to be driving a car around these beaches.
+[11:33] The cars are slow.
+[11:36] Yeah so you can see how I'm bouncing off all sorts of different things all sorts of different pieces of geometry.
+[11:43] And like I wasn't taking damage there this is where I could like seriously go on talking for hours there's like way too much happening in this clip but yeah I just thought after.
+[11:54] All of that talking I show you a nice little video clip but yeah the way you land is like very important and things like that to make sure you're not like losing too much health.
+[12:03] Health is a very well in speed running that in half life in particular that you really need to watch.
+[12:12] Due to the amount of times that we are damaging our self with grenades and rockets in order to get that extra speed boost that we need to make it overable.
+[12:21] Cool I'll talk quick about save loads it's not as interesting as back hopping but.
+[12:26] So yeah I've got this first line here is like a console command that I would type into into the source engine which is like why such a good engine it lets you do that.
+[12:36] So I would bind my jkey on my keyboards to save a game called save load and then immediately load that game called save load and what that basically causes.
+[12:46] My jkey to trigger is the engine just reload on demand when the engine reloads things load in in a different order ticks in the engine start happening before certain things have loaded in.
+[12:59] This is amazing for skipping things and also for example let's say.
+[13:08] I was like stuck in a wall where I shouldn't be and I somehow had some velocity applied to me but I wasn't going anywhere the game is kind of trying to resolve.
+[13:17] Gordon's position he's like hey he's not in the level let's let's move in a bit closer to the level if I have a load of the loss it would push me the other way it might push me that way.
+[13:26] Mysterious things happen during save loads.
+[13:30] And yes they are used very frequently but yes they can display scripted animations they can like kind of make things happen at like different times for example I'm about to something called tranquillit.
+[13:42] Which happens at very very first seconds of the game.
+[13:46] One point like four two is I think what you want on the time is the ideal time when you start doing my eight save loads for me in particular hardware dependent.
+[13:58] And what this is doing is yeah at the beginning of the game you're in a train ride which takes about 30 40 seconds that's like a long time to just be stood there doing nothing we want to get out of that train.
+[14:07] We do a couple of save loads and the carriage behind decents because it loads in at a different time and we kind of get pushed it.
+[14:15] The train goes around the corner it kind of pushes the player out of the train and then we're out and we can just stop bunny hopping get straight away we want to be straight away.
+[14:23] Here's a clip of train clip.
+[14:27] So this is what you're seeing this is what the valve devs are like what's going on what's happening here.
+[14:33] You saw that loading thing that was me doing save loads I jumped backwards that train that is now decent just push me out I'm off just hopping.
+[14:41] There we go see that save like 20 30 seconds.
+[14:45] Yeah and here's another one that I was talking about where you are using the velocity that you've stored up to like push yourself through a wall.
+[14:57] So yeah this is a chapter called entanglement that's a really long cut scene that we really don't want to do so what I did there is I saved loaded with a bench on top of me and let me sink into the floor now I've got grenade out.
+[15:07] I put that in a very specific spot and launch an SMG name in a very specific spot I saved load switch to an FDS bind to make it dirty which helps this so I can touch that turret.
+[15:18] I didn't practice doing this live this is way too much happening.
+[15:24] But yeah you can see how I was like basically moving through the walls using so those their save loads aren't great.
+[15:30] Okay so here we go build big.
+[15:36] So yeah back to John Parmax quake engine so what's really important to understand for this trick this is going to lead up to a big explanation of a big skip by the way.
+[15:50] You need to understand all of this first so Gordon has two hip boxes he's got his all I didn't test the animations for this one.
+[15:56] I don't know what's going to happen. We got John Carmax hip box and the havoc hip box so the havoc hip box was.
+[16:03] Think the quake hip box is the one that kind of came out box when these guys adopted the old engine but they wanted like physics in there that something quite didn't have in it.
+[16:13] So for some reason they decided to add a separate hip box. Now these hip boxes usually are in exactly the same place.
+[16:19] So the havoc box is constantly teleporting to make sure it stays in sync with the with the quake hip box.
+[16:27] But you can break it and it's really useful.
+[16:31] So if Gordon touches a physics object the havoc hip box then takes priority and the quake hip box starts pulling itself back.
+[16:41] Really a normal gameplay this doesn't matter because they're always in the same place right.
+[16:45] And it's also important to note that when you like crouch your hip box immediately changes to a smaller one.
+[16:53] So it's kind of like four hip boxes really. It's like crouch crouch and standing for each other the quake in the havoc one.
+[17:01] Oh yes, okay yeah, cool animation always together.
+[17:07] So I really wish I could explain this in the next bit but nobody really understands what's happening here.
+[17:13] But we know how we can leverage it. So the best kind of guess is that there's there was going to be some vehicle physics in the original half of the two ways that
+[17:21] We're worked on and there was some left over code left in the game. That's what we think is happening because there is an enemy vehicle that's parked on the street and a certain scene.
+[17:34] And it's got very very weird tires. They act very strange.
+[17:38] So imagine it's something to do with like what was supposed to happen to items when one of these vehicles drove over a physics prop and there's someone finished code there.
+[17:48] And yes, we all like rubbing this magic paint can very if you rub it just in the right place.
+[17:54] So it's not quite touching the model of the wheel but it's still within its kind of physics hip box.
+[17:59] Then it just starts floating off but technically it's still not moved.
+[18:04] Because it's hip boxes are now messed up.
+[18:08] And what is really weird is if we touch this paint can like Gordon's model touches this paint can when it's in that state and we kind of get that state too.
+[18:17] Now what this allows us to do this state, this special state means that our quake hip box now can de-sync from us under certain circumstances.
+[18:28] So imagine I'm walking along here and I've got like two hip boxes stuck to me and I jump.
+[18:36] Now my quake hip box is actually frozen in time here, so I crouched before I land.
+[18:41] And I can just stay crouched walking away and that quake hip box is still there.
+[18:46] Now if I stand back up the quake hip box is just going to go, boop back on to me.
+[18:50] But if we remember that if I touch a physics object then the quake hip box which is still me will sync straight back to where that one is.
+[18:57] And what's great is that when I jumped that quake hip box has stored that velocity so I'll continue that jump again as I was.
+[19:07] So that's the thing we can do that in certain areas of the game.
+[19:13] These animations.
+[19:15] I don't know what's going on here, you can tell I was coffee facing size.
+[19:19] Right, yeah, this is kind of what I was just explaining.
+[19:24] Yeah, I don't think I've missed anything here.
+[19:28] So oh my goodness.
+[19:31] Star program.
+[19:34] Okay, so yes, I mentioned we hate cutscenes, right?
+[19:38] Like there is a very, very long cutscene right at the beginning of the game.
+[19:42] In a chapter called Red Letter Day, it's famous one.
+[19:45] It's where Dr. Clino loses his pet head crab, Lamar and
+[19:52] Bonnie talks about a traumatizing story he had to do one of the teleports involving a cat and so where you also get the HV suit which is like wooden main armor we can't sprint until we get this suit.
+[20:03] Which is quite a big incentive to go through this cutscene so we can get it but it takes eight minutes right at the beginning of the game.
+[20:10] I could probably like rehearse the entire script for that because of how many times I had to sit for it before I was good enough to do Red Letter Day skill.
+[20:20] So it's a real real unpopulated monster. This was discovered about six years ago I think.
+[20:26] So what do we need to do? We need to use.
+[20:30] There's a couple of cutscenes leading up to it too which we unfortunately do need to trigger.
+[20:34] So we need to use BVT to escape the build big frill to sort of escape one of these cutscenes.
+[20:41] And what we want to do is we want to place our havoc hitbox somewhere and then we want to go back in and carry on these cutscenes in order to get the next level to load.
+[20:49] And then we want to go back to our havoc hitbox once that level has loaded and fly all the way around the lab.
+[20:59] Stray into the next load level trigger so that we don't have to sit through.
+[21:04] Yeah Red Letter Day for the 500th time.
+[21:08] This is really difficult. It's one of the hardest scripts in the game.
+[21:13] I myself only have like a 25% like success ratio of doing it. If you mess it up you have to reload. You basically have to start running again.
+[21:21] Because you can't save your game when you're in the state.
+[21:25] And that's also why I'm not going to, I'm not going to try and demonstrate this live.
+[21:29] I'm making some slides and videos.
+[21:32] So I'm going to explain that again for a bit more of a diagram.
+[21:38] So like we can see right we've got like the first map that you're in on the left hand side.
+[21:45] Then there's map 2. You'll notice there's a bit of a crossover in where these maps are.
+[21:49] Because there's some wise. So as what we are going to be aiming to do is to set that havoc hitbox where those two maps are crossing over.
+[21:58] The only place we can really do that is good though. Also is outside of bounds of the map.
+[22:02] Yellow area in this diagrams where you're supposed to be.
+[22:05] So we need to get out of there somehow.
+[22:08] In the little green box you can see at the bottom there. That is the load level trigger.
+[22:14] One thing I forgot to mention when we are in the BBT state.
+[22:18] If a new map loads we lose the BBT state.
+[22:22] So how do we get the next map to load and touch a physics object to in order to transport our quick hitbox back to the.
+[22:32] How that hitbox. And we had to basically do it in the same tick is the answer to that.
+[22:37] So Gordon will load in the level about here. There's like a bit of a scripted rooftop chase going on which we don't really care about what we're going to do is pick up the magic paint can.
+[22:45] We're going to bounce. Oh yeah that last arrow that appears is where we're trying to get to for the next load trigger.
+[22:53] So yeah we got to leave bounds.
+[22:56] We got to go to the special car with special tire, initiate build big thrill. We got to push that paint can through the thing.
+[23:01] We got to jump into it get the state more weird things happen. You can like float about.
+[23:08] I've not gotten into it in a safe time. But yeah and then we got to get back into the level to trigger this cut scene with Alex.
+[23:14] Then we need to go back out of the level. We need to set our habit hitbox in place.
+[23:18] And from this point on we got to stay crouch so that it doesn't reset.
+[23:21] Then we got to get back into the level and then we got to go into the level change trigger.
+[23:26] We got to hit a physics project up a physics prop at the very same tick of the engine that that load level trigger is triggered.
+[23:35] And if it goes right we should appear flying up in the sky and we can go all the way around.
+[23:41] Red letter days cut scene. So here's a video of that happening.
+[23:47] Starting with the magic paint can. You can see it's now floating off. We do an airf h crouch to insert.
+[23:54] This is the bit I didn't quite explain. That's happening. Let's just ignore this one for now.
+[23:59] We jump down here. We trigger this first cut scene which allows we can't progress without doing this.
+[24:07] I think I speed it up a little bit there. We meet Alex Vance for the first time.
+[24:11] So now what we're doing is we're doing a mini version of this. We're going to jump here.
+[24:15] We've just set our habit hitbox. We're going to touch it with a knife and another thing I didn't explain.
+[24:19] If you touch it it keeps that momentum. So when I jumped into that wall and I've touched it it's like going.
+[24:25] And because it's moving it's actually pulling the quake hitbox with it. I uncrouch to land here.
+[24:30] I'm going to do some airs hs into some standing ABH's. I'm going to crouch right here.
+[24:36] I'm going to bounce back into the level.
+[24:41] Get through this window which I absolutely hate doing that a bit.
+[24:46] Do some strafe hopping. This is called into the lift.
+[24:50] We continue on the cut scene. I decided to just let this play.
+[24:54] There's probably something I've got to explain here. I think it did pretty good job there.
+[24:58] Actually in real time. So yeah. We just listen to some of Alex's dialogue.
+[25:03] Now what we want to do is pick up our physics prop and it needs to be in an insanely precise spot for this to work.
+[25:10] So everybody likes to use this palette because it's nice and flat on one end.
+[25:15] Making it quite consistent prop to do is trick with I will be looking now when I'm playing at the sort of value you can see on the top right there at the position.
+[25:26] I think what is it needs to be? Is 9365.07. I think is the number to go to.
+[25:34] I don't think I know that exactly what it is. So you can see me quite going there.
+[25:38] Pop it down. Do this. That we've just teleported. It's the level has loaded at the same time.
+[25:43] We go flying around the edge. That wasn't the best one. I just died there.
+[25:47] But yeah. Red letter day cutscene is going on down into this building that we've just hopped over and then we jump down here.
+[25:54] We do two sail load and a save delete. So we get that HV suit that we just missed.
+[25:59] And that is red letter day skip.
+[26:02] Yeah. So I don't think we're going to do quick clip.
+[26:10] But if you are interested in learning how to speed run hopper to there's an amazing community which you absolutely will need because we are not good at documentation.
+[26:19] The guys to settle this up are like dated for different bills and there's bits missing and just like I recommend come to source ones.
+[26:28] The other one is the one that you're finding. Everybody is amazing. If you ever want to watch me streaming, I'm just heartaches.
+[26:34] I'm also supposed to be doing a half-light run on some like tomorrow from my 8-10 in the arcade.
+[26:41] I'm going to be running cutscene list because like the 25% success ratio is I was telling you about I'm going to take the easy route route route.
+[26:50] There's about 15 minute run. And yeah, I'll go do some Q&A over the Q&A cent as well if anybody has any questions.
+[26:57] Thank you.

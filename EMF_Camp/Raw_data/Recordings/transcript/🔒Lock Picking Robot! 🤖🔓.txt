@@ -1,0 +1,169 @@
+[00:00] I'm a little bit about who I am.
+[00:05] I'm a maker.
+[00:07] I make a whole bunch of different stuff.
+[00:12] Love, love, love, robots.
+[00:14] I thought, you know, should kind of combine them.
+[00:16] I'll have another QR code right at the end if you're interested.
+[00:20] But yeah.
+[00:21] So, I'm a little bit about who I am.
+[00:23] I'm a maker.
+[00:24] I make a whole bunch of different stuff.
+[00:26] Love, locks, love robots.
+[00:27] So, I thought, you know, should kind of combine them.
+[00:29] But yeah.
+[00:30] So, lock picking 101.
+[00:31] I'm going to take some audience questions here.
+[00:33] If you want to break into this house, how do you do it?
+[00:36] Yeah.
+[00:38] Big brick, right?
+[00:41] Okay.
+[00:42] Next question.
+[00:43] Lock picking 101.
+[00:44] How do you break in here?
+[00:47] Yeah.
+[00:48] You get a clipboard and like a polo shot.
+[00:52] So, generally, lock picking isn't actually useful kind of breaking in.
+[00:56] It's used by like lock sports.
+[00:58] So, people, you might have seen the lock picking tent over there.
+[01:01] So, people who are doing that kind of stuff, locksmiths and occasionally, but very rarely,
+[01:06] for like covert entry, where you can't really throw a brick through a window.
+[01:11] What picking 102?
+[01:12] There is a whole bunch of different types of locks.
+[01:15] So, yeah.
+[01:16] You can see a whole bunch over here and you might recognize a few.
+[01:19] Today, we are only going to be talking about pin tumbler locks.
+[01:23] That locks, which the key looks a little bit like this.
+[01:27] Yep.
+[01:28] Also, one will note about lock picking.
+[01:30] Never pick a lock that isn't yours and that is in use.
+[01:34] If it's in use, it can break and jam and just destroy the lock forever.
+[01:38] And if it's not yours, it shouldn't be picking it.
+[01:42] A little bit about lock picking.
+[01:44] Who here just raise of hands has done lock picking before?
+[01:48] Yeah.
+[01:49] Okay.
+[01:50] Most people, but not everyone.
+[01:51] So, very briefly, we've got a bunch of pins over here.
+[01:55] And if you try to turn this kind of silver part of this gold part,
+[01:59] it's not going to turn.
+[02:00] All those locks are going to jam against it and it's going to just
+[02:04] prevent it from turning.
+[02:06] Right? If you put the wrong key in, it's going to lift each of those pins up and down.
+[02:10] But it's not going to align with what we call the sheer line, which is this line right over here.
+[02:17] But if you put the correct key in, then all those blue pins are going to be above that and all the red pins are going to be below that.
+[02:23] And that's going to enable you to actually turn the lock. Right?
+[02:26] So that's basically how, like any standard pin-somble lock works.
+[02:33] If you're trying to do picking, what you'd generally try to do is you put a bunch of tension on it.
+[02:39] And then you lift each pin one by one and you'll find one that really sticks.
+[02:43] And that's because of manufacturing differences.
+[02:46] One pin's going to be slightly bigger than the rest.
+[02:48] And that's going to just kind of jam up.
+[02:50] Once you've got that, the next pin will be the thing that's actually blocking it from turning,
+[02:54] etc, etc, etc. Right?
+[02:56] Which means that generally, at once you only have one pin, that's actually binding against it.
+[03:01] Next little thing, muskies, suck.
+[03:05] They're kind of everywhere without really realizing it.
+[03:09] So these TSA locks, you might have seen this symbol on your suitcase.
+[03:14] It is on your suitcase.
+[03:16] It's, yeah, they're really, really bad.
+[03:19] They're so far a whole variety of reasons. Firstly, it's one key that unlocks tons of things.
+[03:25] So if you take a picture of that, you can unlock often like hundreds or thousands of different things.
+[03:30] Again, think of the like TSA lock on your suitcase.
+[03:33] You can unlock basically everyone's suitcase if you've got a picture of that one key.
+[03:36] Next thing is, if you've got the key, it looks like you own the lock.
+[03:41] Right? So you can just walk up to anyone's suitcase, so you can walk up in this case to an elevator and just unlock it.
+[03:47] I'm not going to say what brand of elevator, but that elevator has been registered fitted by basically the same one that does about like 60% of the London elevators,
+[03:57] and they all have the exact same key.
+[03:59] So it's not exactly safe, you know?
+[04:01] Yeah, using many places, a very easy to Google.
+[04:04] Which brings us on to the TSA lock. They're really suck.
+[04:07] Don't use them other than on language on luggage, and that's kind of because you have to.
+[04:12] They, this particular key that you can get on Amazon for a few quid, or you can just print one on thingyverse.
+[04:20] So I mean, it's free, really.
+[04:23] It opens about 90% of luggage, and yeah, I walked around my university when I was doing this project and found that 20 to 25% of all the lockers had that,
+[04:34] and I had the key in my pocket, and I could unlock 20% of the lockers. That's not good. That should not be a possible thing, right?
+[04:41] Another good example of kind of master-must-de-king systems is like the British Museum.
+[04:53] Here, they've got all of these different lockers. This is the same kind of brand. I googled who ensured the systems.
+[05:00] It's that company called Pure Lockers. The key costs £3.25, and yeah, you can again just get it off about two minutes of Googling.
+[05:10] But really, when you type your code in, you can't, like, and you forget it at the end of 8 hours of exploring.
+[05:18] And then, realistically, the British Museum can't carry a key for every single locker. That's a thousand different keys. It's just not reasonable.
+[05:26] So they use one, and it unlocks everything, because it's just way, way simpler.
+[05:31] So, next thing is, here we've got kind of the, what good people need to be able to do, so locksmiths or law enforcement's in clerks, and what thieves are kind of wanting to do.
+[05:43] They like, they will find a way in, generally it's an angle grinder, but they will find a way in.
+[05:48] And often, let's take the TSA example, they want to be a little bit covert, right? Like, they try to steal something from your luggage.
+[05:56] The good people, like, again, TSA, you don't want to have to teach them how to use really complicated equipment or anything like that.
+[06:03] They want to open it non-destructively. They don't break any of yourself, and again, they can't carry hundreds or thousands of any keys.
+[06:11] Both of them want to open the bags, both of them need to be in their quick, and both of them want to be able to access many different locks, right?
+[06:17] So, the one thing that really stands out here is the thieves want to be covert. So, how do you make a lock very suspicious to open?
+[06:28] Firstly, you make it take a while. Secondly, you require a very suspicious item.
+[06:36] So, if you were to try lock pick this, how do you do it? Anyone from guardians?
+[06:45] Drigglet? I'd personally just try all the combinations, because there's three wheels you try each one, each has got like 10 numbers.
+[06:53] It's going to take like a thousand, like there's a thousand possible combos.
+[06:57] If you take a second per combo, it's going to take you about 16 minutes, like 16 minutes, you go through all of them, and eight minutes on average to get it.
+[07:07] So, yeah, you can just try all of them. So, why can't we do that same technique with normal locks?
+[07:14] Which brings me to this? This is my project, this is the lock picking robot.
+[07:20] If you have a look over here, this whole section is just a lock. Everything from this side onwards is the actual robot, right?
+[07:29] The way it works is this metal key, which I've got right here, and I'll try to get on the camera view.
+[07:36] It's got this metal key, which has a series of very, very tiny holes in it.
+[07:42] These tiny holes let me pass a very thin wire through it.
+[07:47] And those wires let me effectively lift those pins up to various different heights.
+[07:52] That is the same as, like it effectively lets us do the brute forcing technique that we tried for the combination lock.
+[08:04] Could I get back to the slides, cheers? One little caveat is because this is a key, it's got a bit of a weird key shape, which means that you have to make this part for every individual kind of type or class of lock.
+[08:16] If you imagine if this key fits in here is not going to physically fit in here, but other than that, all other locks of this similar design, similar shape would be able to pick.
+[08:28] Other thing is this is kind of a cut-open view, this is based off the spot-nic patent from 1991, which has expired, but the idea behind that was that you had a series of wires that a person would physically push in to activate those pins, right?
+[08:44] So, yeah, instead of robot pushing it, you just have a human pushing it.
+[08:49] Just a few different videos of it working. If you have a look at the first one, you can see the pin is being slowly and very, very gently lifted up.
+[08:59] So, once I tested that and I made a resin 3D print of the key to make sure everything was working, I decided to put some like servo motors on it.
+[09:07] At the moment I'm using very, very small dynamic servos, which means that they vary very precise. They go to about this, like a thousand, twenty-four different clicks within full rotation.
+[09:18] So, very precise and very, very fast moving. And the last video you can see, all the wires are moving very, very small amounts and like you can see each of the servo motors one by one going in.
+[09:34] Yeah, so first question that more people ask is, yeah, all right, but like how fast is it?
+[09:41] It's all right. It does about 0.7 seconds per combination, which is a little bit faster than when we're doing like the manual one right with average, about one second.
+[09:52] So, if we were to use those awful TSA locks, it would take on average about 9.5 seconds, or if you're doing all of them roughly 19 seconds to break into it.
+[10:02] If you're looking at a metloc, so four different pins and like four different possible cut tips, you're looking at about 256 combination. So that's about 3 minutes or 1.5 on average.
+[10:14] And a standard lock, like one that you might see on like a front door or something like that, will be five different roughly five different cut tips and five different like pins, right, which means that it ends up being about 37 minutes.
+[10:31] You can see this does not scale well. So if you've got a 7 pin lock or anything like that, it is going to take weeks to do.
+[10:41] To make this, I prototyped a lot. You can see there's many, many different prototypes of every single component in this machine.
+[10:50] It was a, I think it was about a five maybe six week long project. So, end up doing a lot of different prototypes. And unfortunately, wasn't able to add in all of the features I'd really like.
+[11:04] Next question that people often ask is what other kind of locks is this kind of applicable to, right, like I've got a very weird key, how do I like would it be able to do that.
+[11:14] Tubular locks and dump locks which you can see over there have a very similar mechanism inside them as to how they actually actually actuate the pins, which means that theoretically you can make a weird key that could kind of also do the same for those two different ones.
+[11:34] So just to recap, I'll, like conditions, the kind of good people like the say the TSA, they don't need to gain any new skills, they don't need to be able to like break the lock to get in and they don't need to carry around thousands of keys.
+[11:51] And the thieves, they still gonna find a way to be honest, like they're gonna get bolt cutters, but they can't be covered.
+[11:57] Because, I mean, really, if you're walking around a airport and you're holding this there just suspiciously for three minutes trying to get in, it's a lot, lot more suspicious than literally owning the key to the bag that you busy opening, right?
+[12:12] And everyone's able to kind of open the bag and it will be relatively quick.
+[12:17] And yeah, it'll be able to open many, many locks.
+[12:20] So what's next? This was, as I said, about a five week long project, which means that there's a lot of different things that I'd love to improve.
+[12:28] And it's open source at the moment, so if anyone else wants to do some lock picking robot stuff, come talk to me very briefly after the show or scan my QR code at the end.
+[12:36] And please get involved to improve this project.
+[12:40] So a few things that I want to add in, firstly, at the moment, the only kind of tensioning that it has is the entire device being slimy of balance, which means that once the lock is fully open, it kind of clicks over and then it's finished, right?
+[12:56] Issue that is the lock doesn't even know that it's like the machine doesn't know that is finished picking.
+[13:01] So just kind of keeps going and it kind of breaks itself in the process because it's like pushing through the actual plastic, like the wires pushing through the actual plastic, which isn't great.
+[13:13] So I included a spot right at the top to get a motor there to try to do that.
+[13:20] The next is current feedback of these motors, have the ability to see how much force they're applying to each of the different pins, which is really, really cool.
+[13:28] But I'd love to effectively get it to try a few normal techniques first.
+[13:34] For example, pushing all of the pins really, really high in a technique called combing, if you know a little bit about lock picking, or just trying individual pin picking to see which ones binding more and then focusing on that until it eventually gets through.
+[13:49] And if none of those techniques work, then eventually going for the brute force technique. So it will get in, but it will generally go like a lot faster, right?
+[13:58] The next is because there's sensors in there, you'd be able to use it for whole bunch of different things. So you can use it for lock picking like manufacturers for them to do research on like different techniques and doing like QA.
+[14:10] So they can be like, this pin is slightly bigger than all the others because it's binding first. Therefore we should probably fix that in this line of locks.
+[14:19] But also love to make, as I said, these keys only fit in one type of lock. So either a technique that lets you fit a key in kind of all different types of lock or many, many more key blanks.
+[14:30] These are pretty easy to model, but you just have to get them ideally metal 3D printed, which can be a little bit tough. If not, you can do like resin 3D printers as well.
+[14:41] And here the last one is, if you again know a little bit about lock picking, there's a thing called a false set where you try like lift up a pin and you go, oh sweet, it clicked through properly, but sneakily it didn't.
+[14:55] It gets into kind of like a groove in the pin. So it starts to turn, but it's not fully fully up.
+[15:01] And I'd love to see if you can get some sort of like ML model to like aggregate the data and see like what the actual feeling is through the current feedback for that.
+[15:13] So, few really frequently asked questions. Are digital locks more secure?
+[15:18] Yes, and no, yes because they can have so many more combinations, right?
+[15:25] But we are doing roughly a second to try each combo.
+[15:29] And if you look at like an RSA hash or something like that, you can like go through those really really really really quick.
+[15:38] And you can have that from a whole bunch of other kind of different things.
+[15:41] But as with the real world, no one is really trying to break your hash by like doing every single combination, realistically people are doing like trying to find weird bypasses.
+[15:53] So if you went to the like, quantum encryption talk yesterday, you'll have some idea of that kind of thing.
+[16:00] But really they're going to go ask your bank hey, can you reset my password or do some stuff like that that's just kind of bypassing this system entirely.
+[16:08] My lock is weird, can it be picked? Yes.
+[16:11] Again, a brick gets through all of the locks, right? And less is a really high security lock and then you need a proper angle grinder.
+[16:19] What picking 103 tons of different types? What is the best lock? If you want to know there's a QR code over there, there is a lock sport community, which has kind of a ranking system on all the different types of locks.
+[16:33] And it says, you know, this is a black belt to pick, this is a green belt to pick, and it tells you how good a different lock is.
+[16:39] But it doesn't really matter too much. Again, brick.
+[16:45] Is that this is now open source. So please go contribute to it. There's the QR code over there to the GitHub.
+[16:53] Please go develop it a little bit more and work on some cool add-ons to this.
+[16:58] I'm not really going to be here very briefly after the talk because I've got a train to catch, but if you'd like to talk to me, I love talking about robots and locks and my left hand and bread, all that kind of stuff.
+[17:10] And I'm going to talk to me, scan that QR code and message me on any of those different social medias.
+[17:15] Thank you very much.

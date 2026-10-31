@@ -1,0 +1,205 @@
+[00:00] I'm very happy to be here to speak to you today.
+[00:18] Thanks for coming on at this time because if you're
+[00:22] a little bit hungover and dishevel and the brothers sitting
+[00:27] the shave.
+[00:29] So yes, this talk is called, it's the end of RSA.
+[00:32] The death of an N of RSA as we know it and I feel fine.
+[00:38] And that's because really it's sort of like a headline-busting issue,
+[00:43] but it's got solutions and if people working on those solutions as we sort
+[00:47] of working on it.
+[00:50] So yes, I'm going to see I'm from Belfast in Northern Ireland, which is what this
+[00:54] noise is.
+[00:57] I studied software engineering at Queen's University, and I'm going back in September
+[01:03] to study applied cybersecurity part-time along with working on post-mountain.
+[01:08] With my bachelor's degree on five years of experience in PWAC as a tech consultant,
+[01:17] I started at a company called ARCAT, where we work on enterprise-grade post-compting
+[01:24] security solutions.
+[01:26] And that basically means that we work on every part of the post-compting migration
+[01:30] journey from identifying and categorizing companies, cryptographic assets.
+[01:37] So that's all the encryption they use to then protect their data against post-compting
+[01:41] and then complying with future and present quantum legislation.
+[01:46] While I do work in quantum as my day job, this talk is by no means a representative
+[01:53] of a representation of the company ARCAT.
+[01:56] All of the thoughts, opinions and misinformation, were completely out of my own head.
+[02:02] So you can't hold it against that.
+[02:06] But every time I sort of explain post-compting to someone, I have to start with the facts of like,
+[02:12] this is actually going to happen.
+[02:13] So the three facts I always start with is quantum computers are being developed right now.
+[02:18] And they'll be available soon to a very limited group of people,
+[02:22] so mostly governments and researchers first before then you can go on by a quantum iPhone
+[02:28] and like 10 or 15 years.
+[02:32] The second fact is quantum computers by virtue of their quantumness are much, much more powerful
+[02:38] than classical computers.
+[02:40] And then the third fact is because of this additional power,
+[02:44] quantum computers threaten the strength of our current encryption methods that we've used.
+[02:50] There are used thousands of times per second every time you like log into a website.
+[02:58] So these are helpful to understand what the problem is.
+[03:02] Like TLDR, we need to migrate all of our encryption methods.
+[03:06] I always think of it as sort of like a Y2K scale of problem,
+[03:10] except not everyone has 10 computers.
+[03:13] And we don't know at what point in the 90s we're in because we don't know when a quantum computer
+[03:18] is going to be developed.
+[03:21] But this is helpful to understand the what,
+[03:24] but there is more to dig into it to understand the like Y and the Hoy.
+[03:29] It's very easy to say the quantum computers are much more powerful,
+[03:33] but why are they much more powerful?
+[03:36] So to sort of put some Y and Hoy behind it,
+[03:39] we'll talk about the difference between classical and quantum computers,
+[03:43] the physics that makes quantum computers quantum.
+[03:46] We'll talk about our current encryption standards and why they use prime numbers
+[03:52] and why that's not going to be good enough anymore.
+[03:55] And then we'll take a data to discuss one type of attack called Harvest Nye
+[04:00] to Crypt later.
+[04:01] And then I'll give you some timelines so you know when to start panicking.
+[04:06] It's pretty soon.
+[04:11] So the foundation of our understanding will come from the difference between the classical and a quantum computer.
+[04:17] Every computer you've ever used, although I probably shouldn't say this AMF,
+[04:21] at previous conferences this worked.
+[04:23] At every computer a normal person has ever used is a classical computer.
+[04:28] And it so it sends and stores data as a one or a zero.
+[04:34] And you can think of that as a light bulb is off or on,
+[04:37] depending on whether current isn't flowing or is flowing.
+[04:42] These are called bits because they're binary units.
+[04:46] And that's what's used in classical computing.
+[04:49] So you've all heard of bits.
+[04:51] Similarly to bits are classical particles, which can exist in a state of spin-dine or spin-up.
+[04:58] So you can think of this as your zero or one.
+[05:02] But in quantum technologies this particle can be in both a state of spin-dine and spin-up at the same time.
+[05:09] And it's hard to imagine something because we live in a real, not quantum world.
+[05:14] We're like too big to be quantum.
+[05:17] It's hard for us to think of something traveling in two directions at the same time.
+[05:22] So it's helpful to think of it as like a cloud of probabilities of potential states between zero and one.
+[05:31] And it just exists as that cloud until something happens to it.
+[05:35] And this is the difference between classical bits and quantum qubits.
+[05:40] It's a good name.
+[05:43] The other interesting thing about the difference between these is because bits can only have one state at a time.
+[05:50] They're combined par of the whole computer increases linearly with the number of bits in it.
+[05:57] But for a quantum computer because one qubit can have two states at once.
+[06:02] There's a quadratic relationship.
+[06:04] So one qubit can have two states. Two qubits can have four states.
+[06:09] Three qubits can have eight states. And then it follows all the square numbers.
+[06:13] And that's fundamentally what makes them more powerful.
+[06:16] They're not just like magic.
+[06:17] It's like they can think quadratically more at once.
+[06:22] So that ability to exist in two states at once is our first quantum mechanic.
+[06:31] And it's called superposition.
+[06:33] And it can be represented by this formula where psi is the current state of the qubit zero and one or the two possibilities.
+[06:42] And then A and B are the probability amplitudes.
+[06:47] I think I've confused other people with this before.
+[06:50] But in other quantum things they can have more than two possible resolutions.
+[06:55] It's just in computers because we already write everything for bits that have two possible solutions.
+[07:01] We use one and zero, but they can be zero, one, two, three, four.
+[07:06] The next quantum mechanic, the only to know is entanglement, which is the phenomenon.
+[07:12] The phenomena that two or more quantum particles of the same origin.
+[07:17] So after we produce the same time, can be linked so that the measurement of the state of one instantly impacts the state of the other one.
+[07:26] No matter the distance.
+[07:28] So I went to talk about this a few, probably last year, where he just talked about entanglement the whole time.
+[07:35] And I didn't understand that much better after the talk.
+[07:38] And it was like an all alone, just on the entanglement.
+[07:42] But basically the one thing I took away from that talk was to linked quantum particles can exist at opposite ends of the universe.
+[07:50] But when you measure or interact with one, it will resolve into its like state.
+[07:57] And then the other one will also resolve into its state.
+[08:01] Entanglement is a helpful quantum mechanic in our scenario because it lets the cubits work together.
+[08:07] And they sort of like form these waves that can then sort like organize and turn through a lot more data.
+[08:15] All linked because bits don't really interact with each other.
+[08:18] They sort of just like tally over.
+[08:23] Entanglement hasn't always been very well understood in 1935 through scientists expressed their issues with entanglement.
+[08:32] Einstein, he's part of a pedolsky and Rosen, who haven't heard of, wrote their infamous EPR paper, where they sort of went,
+[08:42] this theory doesn't work with like special relativity and that's an issue because if this particle is on one side of the universe and this was on the other side.
+[08:51] And they communicate to each other instantly, that's faster than this bit of light.
+[08:56] So they can't be communicating but we know that they do, so we can't like call this solved until we figure out what they're actually doing.
+[09:05] Hold on.
+[09:15] So the EPR paper in 1935 said that this was impossible but it was I think, I don't know, the 70s or the 90s, it was all before me I can't remember.
+[09:24] But it was a northern Irish physicist who worked at Surn and he was called John Stuart Bell, but there's no relation.
+[09:32] He came up with Bell's theorem, the basically solved this paradox and said, yes, we don't only know how entanglement works because it doesn't abide by like local,
+[09:43] physics that we can understand, but also it doesn't break special relativity because you can't consider them communicating with each other.
+[09:53] It's sort of like you do something to particle A and particle B randomly with no input, it just resolves, it doesn't know that it's going to do that, it doesn't receive any information.
+[10:04] But you need to just like appreciate the calm happened because that's how it like wears together.
+[10:11] The last thing to know about Cubits, but it's not really a quantum mechanic, it's called Decoherence, and it's basically if a quantum particle interacts too much with the real world, it loses its quantumness and not bad because we want to keep the quantumness much like the smoke, we want to keep it like inside.
+[10:35] Especially bad for quantum computers because it's then very hard to swap like Cubits and stuff, but there are ways to sort of prevent it so you can do it in a vacuum where there's no other particles to like interfere or you can do it super cold, so then they're like moving around less and like bumping into each other less.
+[10:56] I like to call this an engineer's understanding of quantum mechanics, it's not thorough, but it's enough to know where we're going next.
+[11:06] Because the next place that we're going is back to classical computers, because not that we know why quantum computers are much more powerful, we need to know why they are going to mess up our encryption, so we need to know higher our encryption works.
+[11:19] And if you've ever done anything in cybersecurity, you'll know that we have the same cost of characters all the time, so this is Alice involved.
+[11:27] For the purposes of AMF there aliens, because it's space thing. Alice has a public key on a private key.
+[11:34] The private key is they're both just long strings of numbers, but the private key can only exist on Alice's computer until she pays it into Chachi Bte, and then has to regenerate it.
+[11:46] But the public key is public and it can go across the public internet, too, Bob wants to speak to Alice, who Bob can write his message in human readable play and text, and then apply a cryptographic algorithm with the public key as a variable to turn this into cyber text.
+[12:07] The cyber text can then safely travel across public internet, because it's encrypted, this is whenever someone says it's encrypted, that's what they mean, it's in cyber text.
+[12:19] Until it reaches Alice's personal machine in her personal network, at which point her machine will apply another cryptographic algorithm with the private key to turn it back into human readable play and text.
+[12:35] And you can think of these keys as just prime numbers.
+[12:40] So the dark pink key, the public key, is the product of the two prime numbers in the private key, so here I've used three and five.
+[12:53] And because these keys are different numbers, it's called public key encryption, but it's also called asymmetric cryptography, because then you can also do symmetric cryptography with the keys of the same.
+[13:03] And you have the issue of exchanging the key over the public internet.
+[13:07] So this is used in like Taylor's sound checks, the primary version that's used a lot of times called RSA, and it has until now been very strong.
+[13:21] So what why I come up to computer is so fast, we know how our current encryption works, but we need to know why a quantum computer is going to interfere with it.
+[13:34] So the reason that prime numbers are used in cryptography is because multiplying the forward is very easy.
+[13:41] But prime factorizing the product is very hard.
+[13:46] So three times five is.
+[13:52] The two prime factors of 713 are.
+[13:57] So this is very difficult because you can't divide it by two, you can't divide it by three, you can't divide it by five.
+[14:04] You have to a number like this only has four prime factors, and it's going to be one, 713, and the two numbers that I want, but they're both prime numbers.
+[14:17] So therefore I can't break them down anymore.
+[14:21] So this is very easy to do four, oh sorry, yeah 2331, if you're interested.
+[14:26] This is very easy to do four words and hard to do backwards.
+[14:30] And obviously a computer could probably eventually get 2331 out of 713, but in actual encryption, these two pink numbers are many, many, many more digits long.
+[14:43] Up to 300 digits because it's 240-bit RSA, so each of those numbers then combines to turn into the public key with a little bit more miles.
+[14:53] So the reason that quantum computers threaten this type of encryption is because they're much more powerful.
+[15:01] And again, this Aventies were the 90s, definitely wasn't the 80s.
+[15:06] But shores algorithm was proven that a quantum computer could break this kind of encryption because of its quantum mechanics, because of its unique ability to sort of have the cube, it's worked together.
+[15:22] And like find it based on just like, that's not in the slide.
+[15:30] So one attack that, oh sorry, it might seem like quantum computers are a long way away, and it is always a bit of a joke that quantum computers will happen in the next 10 years, and that has been the same for the past 50 years.
+[15:45] But a way that your current data is threatened is through a process called Harvestnoy, Ducrip later, where if you have your sort of very sensitive document, noi, which you have encrypted, someone could intercept that encrypted document.
+[15:59] And just wait until commercially viable, cryptographically relevant quantum computer exists, the code break, this encryption, and then just decrypt it, literal.
+[16:12] That scares a lot of people in big businesses that are like, they're just going to be able to read it all, and it's like, yeah, but if you are looked at encrypted data, it doesn't make any sense.
+[16:24] So you have to know what you're going after. So I always say it's probably a big deal if you work in like government or healthcare stuff.
+[16:32] But like, no one's intercepting your encrypted like signal messages and like holding on to them for 10 years, for two reasons in my opinion.
+[16:40] The first reason is they have to guarantee that the data is still going to be relevant by the time they gather quantum computer.
+[16:47] And one example of this is bank cards. The bank card expires. So if you put it in a website and it's expired by the time they've got it, it's not of zero value, but it's of much less value than if they just came into your house.
+[17:00] And took your bank card, and then they would have the actual live data. So it has to still be relevant by the time they have the quantum computer in order to make it worthwhile to store.
+[17:11] The other thing is storing it isn't free. So they'd have to harvest loads and loads of data that they don't really know what it is. They know who it's come from.
+[17:23] And they know how it's encrypted, but they don't really know what it is. Then they have to pay to store it for an unknown amount of time.
+[17:29] And then they have to hope that that's going the money that they're going to get from like selling that data in 10 years is going to offset.
+[17:39] Oh sugar.
+[17:42] It's going to offset the cost. It took to like store it for all that time. So it's not really a big issue for individuals, but it is kind of a big issue for companies.
+[17:51] And the company where I work are sort of getting more on top of this because they're like, it becomes a bigger issue if say your company.
+[18:00] There's no anything about quantum yet and hasn't started a migration or hasn't even started thinking about immigration.
+[18:07] And so you're getting further this way on the timeline and the quantum Q day. So it's like day day, but Q day it's getting closer this way.
+[18:15] The smaller that gap is, the more cost effective harvest now to crypto later becomes and the less sort of risky it becomes because you're not.
+[18:24] So the first thing is much money to store it before it's going to be decrypted. So it does become a bigger issue than long you like leave it.
+[18:34] But like, individually it's not a big deal because like no one cares what your tax.
+[18:41] One way that big companies can sort of protect against harvest now to crypto later is through hybrid encryption.
+[18:49] So you have your sensitive document, you can encrypt that as it encrypt it in travel because there's different types of encryption using a classical K exchange method like we saw.
+[19:02] And then you can simultaneously encrypt it with a post quantum K exchange method.
+[19:07] So the classical one will be something like RSA, which is going to go away and the post quantum one will be something like ML Cam, which is developed and approved by the National Institute of
+[19:18] Standards or Science and Technology in the US. So they've developed ML Cam, but it hasn't.
+[19:26] So RSA is tested. RSA is proven to work thousands of times per second at everyone's on their phone all the time.
+[19:34] So you have the best of both worlds in that you know RSA works very well right now and then you're hedging your bats by using the post quantum K exchange method.
+[19:45] People then ask why don't we just use the post quantum K exchange method. We haven't tested it enough not even nearly to the start to the level that RSA has been tested. So there's no way to know if it's like completely below the proof yet.
+[19:58] So yeah, this goes the best of both worlds to sort of protect for no I out later.
+[20:07] Oh, one point on that. It is important to think of this in sort of the timeline of like you go from your classical to your hybrid to then your post quantum.
+[20:15] Because it builds into like my great migration timeline. So it's very helpful to sort of try all the post quantum a little bit.
+[20:23] Figure out if it works and then you can like apply different ones depending on sort of what's down there. It's come like.
+[20:29] So hybrid is like like a bit of a stepping stone in the migration journey. And speaking of the migration timeline.
+[20:37] The UK's National Cyber Security Center has set out this timeline March 25. So it's a little bit out of debt already.
+[20:46] But basically they want a faux cryptographic inventory and planning done by 2022.
+[20:53] And then they want or they're suggesting all companies abide by most most sensitive systems fully migrated to post quantum encryption by 2021.
+[21:03] And then to have the whole thing wrapped up by 2035.
+[21:09] The most sensitive ones will be stuff like payroll or HR first. And then the least sensitive ones will be like the IoT toaster in the office that no one uses like it can go last.
+[21:20] The problem with this timeline is since I wrote this conference talk in March of this year.
+[21:26] Google, Floyd Flair and Microsoft have all said they're going to deadline to 2029. Oh, it's just very 29.
+[21:33] Which is like way less than 2035. So you've only really got like, I mean we're most we're kind of halfway through 2026. You've got like three years to do all of these steps and we're meant to take 10 years.
+[21:45] The other timeline is for the financial services industry developed by a specific cyber group for financial services in the UK.
+[21:55] And you can see that like it's hitting similar sort of milestones and they've said sort of got the same idea of like there needs to be analysis and then development and then application.
+[22:06] But yeah the deadline keeps changing because the advent of generative AI actually means that like a lot of the analysis towards a quantum computer can be done much quicker.
+[22:18] But the sort of the thing that's holding it back is like research time and funding to be able to like put enough logical cubits together and also I kind of think of it as like why would a company want to migrate to post quantum it doesn't make them any money.
+[22:34] Like they're just going to do terribly and too late.
+[22:39] Because they're start to lose money, but like they're not going to do a lot of companies are applying gen AI because they can save money by firing people.
+[22:48] But there's nothing for them to gain here. There's only stuff for them to lose really.
+[22:52] So I think like that's going to be a bit of an issue that like companies are going to lag behind even this timeline until some stuff just won't ever be migrated.
+[23:02] The same way some stuff isn't even encrypted at all. Some stuff will be not encrypted encrypted classically and encrypted post quantum.
+[23:11] But yes to recap we know that classical computers use bits quantum computers use cubits which benefit from the quantum mechanics of superposition and entanglement.
+[23:23] We know that asymmetric encryption or public key cryptography relies on very, very large prime numbers and the prime factorization of the product of those very large prime numbers.
+[23:37] We know that harvest and I decrypt later can be fended off protected against by hybrid encryption.
+[23:46] And we know the three key did's which are subject to change the the NCSA have put out which are all discovery and inventory and planning done by 20 it.
+[23:56] Most important systems so you're like your code base or your payroll or like your national insurance number has to be done by 21 and then everything else has to be done by 2035.
+[24:11] If you want to take a photo of a slide it's probably this slide because you'll forget all of this.
+[24:21] But other than that that's been an explainer of fundamentals of post quantum cryptography and my name is Lucy Bell.

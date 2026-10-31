@@ -1,0 +1,197 @@
+[00:00] So, every instrument vibrates.
+[00:20] There's some physical motion that causes the sound to happen.
+[00:25] In an acoustic guitar there's a sound hole and a resonating body.
+[00:30] When you strum the string it shakes and then that sound vibration gets amplified into a sound that you end up hearing.
+[00:36] So, consider an electric guitar.
+[00:39] Same thing but no sound hole amplifier this time.
+[00:43] Instead we have a pickup which turns the motion into a voltage.
+[00:49] But what if I told you there is no guitar?
+[00:54] In fact you can just create sound from nothing.
+[00:58] You can just make a voltage.
+[00:59] So, whatever circuit you can build you can have it make some voltage and turn that voltage into sound.
+[01:05] Same way the electric guitar works just without the guitar part.
+[01:09] So, welcome to Sonnus X Nehello sound from nothing.
+[01:15] So, how do we make sound from nothing?
+[01:19] So, it starts with a sine wave.
+[01:22] So, sine wave is one of the simplest types of sounds.
+[01:27] There are two ways to look at this.
+[01:28] You'll see in the video.
+[01:30] So, we'll have on the top.
+[01:32] We'll have a time domain view they call it.
+[01:35] And on the bottom a frequency domain.
+[01:37] So, a sine is at a pure tone at a single frequency.
+[01:40] So, you'll see a single spike on the bottom.
+[01:43] And then on the top you'll see a familiar wavey shape.
+[01:52] All right.
+[02:02] So, who here has heard of Fourier analysis?
+[02:06] Pretty much everybody.
+[02:07] Wow.
+[02:07] Awesome.
+[02:07] Excellent.
+[02:08] E-m-f.
+[02:09] Yeah.
+[02:09] Where to go?
+[02:10] All right.
+[02:11] So, in case you don't know,
+[02:14] basics, a very hand-wavey explanation.
+[02:17] Any complex wave form can be turned into a sum of sine waves.
+[02:23] So, for example, we can make a chord playing just sine.
+[02:36] So, that's as if sine were your instrument.
+[02:38] But you can make any complicated waveform you like.
+[02:41] So, we'll try to make a sautu wave.
+[02:44] We don't have an infinite number of sine.
+[02:47] So, we'll be limited in how well we can reproduce the actual sautu's.
+[02:51] But we'll give it a try.
+[02:54] So, we'll have 32.
+[03:12] So, we'll need a few more sands to make a sautu exactly.
+[03:16] So, it's not practical to have an infinite number of oscillators in your synthesizer if you're trying to build one.
+[03:23] So, there are two shortcuts we can take two ways to design a synthesizer and that's subtractive and Fn.
+[03:32] So, subtractive synthesis.
+[03:36] There are three steps basically.
+[03:38] You start with a really rich complicated waveform and then you filter out the parts that you don't want.
+[03:44] Just as if you're carving or sculpting.
+[03:48] And then after that, you shape that sound over time and you can play something that sounds more musical.
+[03:56] So, one of the first synthesizers very popular to follow this technique is called the Minimog.
+[04:03] So, Minimog was a commercialization of a previous synthesizer that explored how to do
+[04:09] subtractive synthesis. It's one of the first modular synthesizers.
+[04:13] And this is quite expensive in today's money, but still cheaper than an infinite number of sine wave oscillators.
+[04:22] So, here's the architecture how it works. You have basically three oscillators that can play different wave forms.
+[04:30] You run those into a mixer to mix them all together and then you have the moglater filter.
+[04:36] This filter is a low pass filter.
+[04:40] So, it cuts out things above the cutoff, but it also has a feature called resonance where you can emphasize
+[04:46] frequencies near that cutoff point.
+[04:49] You take the output of the filter, run it through an amplifier.
+[04:53] The amplifier can also change the volume of a note over time.
+[04:57] And then that is the sound you hear at the end.
+[05:00] So, the raw material we have to work with, the what the Minimog's oscillators can do will explore each of those sounds here.
+[05:07] So, we'll have a sound triangle square and then some noise.
+[05:11] Okay, but if that's not complex enough, you can do a few different tricks on this synthesizer to make it even more thick and rich.
+[05:34] So, we'll start with the solitude. Then we will add another one, an octave up.
+[05:39] You'll see what that sounds like and then we'll add a third a little bit detuned.
+[06:05] Now, for the filter, so I've explained the resonance feature already.
+[06:09] And that is a cutoff, the cutoff is adjustable and you can tweak a knob on the front panel to control where that's at.
+[06:18] So, to show you what resonance sounds like, we'll crank up that resonance dial all the way to almost the top.
+[06:26] So, that'll turn the sine wave or sorry, they saw to with that we're outputting into basically a sine wave.
+[06:39] Okay, so the amplifier can also be controlled with an envelope. So, every time you hit a key on the keyboard,
+[06:57] you can have it play over time different levels of loudness.
+[07:03] Same thing you can do with the filter, which we'll get to next, but also you what the amplitude envelope sounds like,
+[07:08] by trying to make a plucked kind of a plucked bass sound.
+[07:17] Does it know envelope?
+[07:25] And with the envelope, it's plucked.
+[07:31] And with the filter, you can simulate brassy type sounds.
+[07:36] So, if you start with a little bit slower attack, so a little bit slower, let's say opening up the filter over time,
+[07:44] and then setting the cutback cutoff frequency back down as the notes played over time.
+[07:49] So, this is not loudness, the loudness is the same level, this is just opening and closing the filter.
+[08:06] So, the sound is a little bit slow.
+[08:17] Another thing you can do with the oscillator 3 is set it into what's called a low frequency oscillator mode.
+[08:25] So, this is low enough that we can't hear it as humans. It's around like 10 hertz, 8 hertz, something like this.
+[08:31] And you can use that oscillator output to control other things in the synthesizer.
+[08:36] So, for example, you control the pitch of another oscillator or you can control the filter itself.
+[08:43] And if you put the filter into almost resonance and have noise go into it, you can make some nice wind sounds.
+[08:50] You can see the filter open and close on the bottom.
+[09:07] All right, so putting all that together, this is March 1983.
+[09:18] You can all blue Monday release this new order, release blue Monday, and this is the bass riff from that on a mini-mok.
+[09:26] All right, so that's subjective synthesis.
+[09:43] Now, enter the Yamaha DX7. So, I'll convert it to today's money, this is less than a third the cost of the mini-mok.
+[09:51] And this was only a few months after new orders blue Monday came out.
+[09:58] Completely different sound.
+[10:12] Not many knobs or controls on this synthesizer quite hard the program, but very expressive.
+[10:21] So, where did FM come from? So, we'll have to go back in time to 1967.
+[10:27] Consider John Choney. He was a composer researcher working at sail and Stanford, their AI lab.
+[10:35] He was playing around on one of their old, not at the time old, but PDP6.
+[10:43] Music 5 program. So, he would program the computer, hey, make me a sound.
+[10:50] I want two signs. I want you to control one of the signs with the other. He'd submit the job and wait many, many minutes to see what it came back as.
+[11:02] So, we're going to do the same exact thing. So, we have a two signs. One is doing modulation of a carrier.
+[11:11] The carrier is the note you'll hear. The modulator adds the vibrato to it.
+[11:20] Music 5 program.
+[11:45] So, this was the same 200 hertz carrier the whole time. So, the same note.
+[11:49] All we were doing was changing how fast vibrato goes. Once vibrato got fast enough, like up into audio range,
+[11:55] we hear it differently. We hear it as tamper instead of a way we vibrato.
+[12:03] This is the math. If you're interested, if you're not plug-out ears.
+[12:08] All right. So, we have a sign inside of that and another sign that's how the modulation is working.
+[12:15] So, the second sign on the inside. You have a frequency in there. That's the vibrato rate,
+[12:24] the purple number. And then you have this plugged into the other sign causing it to move the way
+[12:31] back and forth, which would be the vibrato. The carrier I talked about, the 200 hertz from before is the green.
+[12:38] And index is how far you're allowed to move the FM bands away. How far the sign will affect the other one.
+[12:50] And a nice way to measure that is as a portion of the modulation frequency.
+[12:57] Okay. So, John Chounen discovered a completely new soundscape. All kinds of sounds you can you can make with FM.
+[13:04] Let's take a tour. So, first we'll do his experiment again, but instead of steps,
+[13:11] where we had to wait minutes between each step, we'll do its move. And then we'll go in the other
+[13:17] dimension. So, instead of moving frequency, we'll move the modulation depth. And then we'll do both
+[13:24] I once.
+[13:46] Pretty crazy. Most of that sounds bad, but there's a few nice points in there. You might have heard them
+[13:52] if you're listening carefully. So, the basic building block of FM synthesis is called the operator.
+[13:59] This is a combination of the oscillator and envelope. So, you can change the modulation over time as you play a note.
+[14:09] You can wire them up in what's called algorithm. Algorithm is the mapping of how operators are connected together.
+[14:16] And when you add algorithms into the mix here, you have crazy dimensional space of all kinds of sounds.
+[14:23] So, let's pick a few points that sound nice and hear what those are like.
+[14:46] So, those were in what we heard before almost. You might have missed them. But those are quite
+[14:55] nice sounds. Those were some of the presets that are shipped on the Yamaha DX7. So, the Yamaha engineers
+[15:01] discovered these points in that hyper space somehow. And after they discovered them,
+[15:07] programming, so everyone uses these presets. As I mentioned, it's quite hard to program this thing.
+[15:13] Finding a good sound in that huge space is difficult as well. So, most people just use these presets.
+[15:22] So, what's it take to build a DX7? We will need, let's say we want to play more than one note at a time.
+[15:29] So, the mini-mog was monophonic, meaning one note at a time. We want to do multiple. So, we'll do
+[15:35] 16. Because we have lots of fingers. Okay. So, if we have 16 and each one of those, we want to
+[15:43] make up of six different FM operators. We'll need 96 operators total.
+[15:51] And to run those operators, what they do is they do a sign calculation and they do an envelope
+[15:57] calculation inside each one. So, that's a lot of multiplications per second to apply all of these operations.
+[16:06] Just for comparison, we have common OS64, do about 5,000 per second.
+[16:11] IBM 35,000, the Intel PC, like 10 years into the future, still only 4 million.
+[16:19] The DX7 has to do 19 million of these. So, the tricks to build this, to make it happen,
+[16:27] is instead of computing sign, you use a lookup table for one. So, this first trick.
+[16:33] And one lookup table can make any frequency of sign. How you make different frequencies is by jumping
+[16:39] around in different stepwits. You can also take advantage of the quarter wave symmetry of the
+[16:47] sign wave. So, you don't have to store one full period of sign. You could just have to store a
+[16:53] quarter of that and flip it around and mirror it. And then you can have one quarter reduction of the space.
+[17:02] Another trick. You don't have to multiply if you can add. If we use
+[17:08] a trick from slide rules, where you take the work in log space. So, you can multiply numbers together,
+[17:15] just by adding. So, if you have log of 2, log of 3, you can make log of 6.
+[17:23] Now, if you want to get the 6 back out, you'll have to do EXP, which is fine. There's another table.
+[17:31] Or you don't have to have it another table. You could bake it in. So, it could be,
+[17:36] sorry EXP is still separate table. But to go to log space, you don't have to do another table lookup.
+[17:42] You can put that inside pre-baked into your table. So, you don't have a sign lookup table anymore.
+[17:47] You have a log of sign of EX table. So, all of that so far was either obvious. Other people knew about it.
+[18:00] Or was disclosed in Yamaha's patents for a DX7. But, can share if decapped the chip. That's
+[18:10] at the heart of the DX7 and did some very good reverse engineering work. And I'll share with you
+[18:15] what I thought was interesting from his work. So, this is the chip.
+[18:21] Opened up, put under the microscope, metal layer stripped off, and zoomed in on this log sign
+[18:35] room. So, I'm interesting patterns here, which I can't read, but can share if it
+[18:41] and explained it very well. Top recommend is blog post on the topic.
+[18:47] All right. So, first thing, they use a trick called Delta encoding. So, this is the wave table,
+[18:56] sorry, the log sign table on the right there. Even at the steepest portion, if you put the numbers
+[19:02] out each entry in that table, they're close together. So, you say we have spatial locality here.
+[19:10] Whenever you have spatial locality in your function, you're trying to build a look-up table
+[19:15] for, you can benefit from Delta encoding. So, how this works is you store every fourth value
+[19:27] as an absolute reference point. So, this is the full value. But then you only have to store
+[19:33] tiny Delta's, which you add back on as needed later. And storing those Delta's, because
+[19:39] you are leveraging spatial locality because they're close by, don't need as many bits as storing
+[19:44] the full value every time. So, for example, you have the value 77722. At the fourth entry,
+[19:55] you can store the entries before 012 with a little Delta. So, each one of those has a different
+[20:02] Delta. Everything at the multiple four position that starts at n equals 0 will be a Delta 0.
+[20:12] So, if we go to n equals 4, that would be added as a Delta 0. So, it's like a mod for operation
+[20:19] to get the which Delta family, it's belonging to. The next trick is,
+[20:26] it's a Plainer organization. So, you, you, you, you, all right. So, you put everything together
+[20:35] into a group. So, all of the Delta 0's put them into one big Delta 0 array, all of the Delta
+[20:43] ones into one big Delta 1 array, all of the Delta 2's into one big Delta 2 array, so forth.
+[20:48] Once they're together, you can take a stack of 256 of these, lay it out as 8 by 32.
+[20:56] And it looks like this blue square on the right. And then a single line of that just to show you,
+[21:02] you see the ones and zeros, these are actual bits, finally. So, the reason you organize it this way
+[21:08] is you end up with lots of zeros in rows. And when you're building a hardware, basic device,
+[21:19] zeros are free. You can leave them out. You don't need to put a transistor down unless it needs
+[21:23] to go somewhere other than default. So, you take advantage of patterns of the address lines, how things are,
+[21:31] the logic used to access the values from the chip. If it would always return zero for a class of
+[21:36] values, you can not put the transistors in. You don't need space in the chip. So, this gave the biggest savings.
+[21:46] So, we went from around almost 60,000 bits just during a log sign table at full,
+[21:53] take a quarter wave, do the delta encoding and zeroing, and you end up around 11 times smaller than
+[21:59] what you started. Okay. Do you recognize this song?
+[22:23] Sound familiar, anybody? Sure, fans? Okay, good. I made up the song. But I use the most common preset on the
+[22:40] DX7, which is electronic piano number one. So, if it sounded familiar, it's because of the sound.
+[22:44] Anyway, I didn't get any of you. Worth a try. So, in summary, we've covered three different ways to
+[22:54] make sounds out of nothing. Additives synthesis, where we have infinite number of sign waves. We've
+[22:59] covered subtractive, where you build a rich sound, and then carve out the bits you don't want.
+[23:05] And then we've also talked about FM, where things did only each other, and it gets complex.
+[23:11] All right. So, I will leave you with two best effort pianos. So, one on Juno 60 synthesizer, which is
+[23:22] using subtractive, same as the mini-moke, and then the other DX7 trying to be a grand piano.
+[23:40] All right. So, if you'd like to play around with any of those synthesizers stuff with me,
+[24:09] I'll be hanging around trash compactor, and hope to catch you there and go around with audio. Thank you.

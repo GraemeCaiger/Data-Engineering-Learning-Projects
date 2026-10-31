@@ -1,0 +1,288 @@
+[00:00] Lovely. Just a bit of a high mom she's watching at home. Only had two power cuts. One
+[00:19] less than we've had today so that's better than we're doing better than the SSE and I think.
+[00:25] So I'm going to give you a long story about my house. Get a house. It's fun until it's not
+[00:30] fun, essentially the story here. So just a bit of background. I'm a research physicist.
+[00:36] It's my day job. My night job. I'm a part technician and my in-between those two
+[00:40] jobs I'm trying to make my house suck less. I'm currently here as power. So if you have
+[00:46] a power problem, please don't call me because I'm here and the best of power people are
+[00:50] also here so you're just not going to get any service. A bit of admin as well. I'm Westy
+[00:57] Moldes on directly afterwards and they intersect between us and his audience is probably
+[01:01] a circle with me inside as well. So if the stage could delay him for some unspecified technical
+[01:07] reason that would be appreciated and I'll be taking questions in and around there afterwards.
+[01:14] A last bit of admin. I'm going to be showing you plumbing and electric and stuff. These are
+[01:18] like oven-by various bits of lore and you need professional certifications. Yes, there
+[01:24] are lots of astrates and special bypasses and weighs around it. But that's far too technically
+[01:28] complicated to get into. So generally I would say consult a professional before doing
+[01:31] any of messing around yourself. And in all the case you're seeing that has been done.
+[01:37] So we're starting my sand boiler times. So I was waking up on a February the 8th last year.
+[01:44] Got into the shower, turned the shower on and it was ice cold. So this is inside the boiler.
+[01:50] You can see here what looks like a griddle. This is what burns the gas. In the bottom you
+[01:54] see two electrodes getting close to each other. That forms a spark and the bigger long ones
+[01:58] detect. Yes, there is a flame. The boiler is working lovely. So I turn it on and it goes
+[02:04] for about 10 seconds and then stops. I look at the lights of sadness on the front and it
+[02:10] says it's not lighting. I look at the hole on the front. There's a flame there. This sensor
+[02:15] is no working. On scoping it you can see about halfway through. You can see this line starts
+[02:22] to go down. The sensor is picking something up. So the sensor is working. So the boiler
+[02:27] control board is shot. This is about 300 pounds. I'm just inclined to pay 300 pounds.
+[02:34] Even more so when I you can see that this boiler is about a month away from being replaced.
+[02:39] I was very annoyed because when you go through in your buy house, you talk to this state agent.
+[02:43] They say various things. One of the things they will always say, it's a new boiler.
+[02:48] Oh, here we go. Here's actually it's more than 300 pounds. 342 pounds.
+[02:53] So it's a new boiler. This is the inside of the boiler. Notice the date. The date is 2007. This is
+[03:01] not a new boiler. A state agent that lies. It always is seen when this is a new boiler.
+[03:07] It definitely is not. This boiler is basically the end of itself a simple lifetime.
+[03:13] So anyway, just a brief bit. I'm going to do this myself. This is my old house.
+[03:17] And some old house is right here. I have only told a couple of them that I was going to do this.
+[03:22] This is my old house. Notice the solar panels on the roof. That will become important later.
+[03:28] Oh, there we go. I lived in Southampton. I still do.
+[03:35] We had some water problems that may or may not have made their national news.
+[03:40] So there's this one. Southern water customer's face water supply issues for 48 hours.
+[03:44] In reality, it was more like three or four days. And it was this article was the 21st of December.
+[03:50] Some of our neighbors on the road didn't get water back before Christmas.
+[03:53] We got quite a hefty amount of compensation. So remember, if you get water cut off, you are entitled to do
+[03:58] to some level of statutory compensation. It happened again two months later.
+[04:04] This time, somebody connected the output of the water treatment works. And the input of the water treatment
+[04:08] together. So if unfiltered water was about to go out. And it was caught by the fell safe sensor at the end.
+[04:13] That locked the entire system down. And they had to completely clean the entire thing over course
+[04:17] about 34 days. Oh, four days as it happens. And our MP got very upset.
+[04:22] The problem with this is you get the bottled water. You can see in the photo you get also the bottled water.
+[04:29] This bottle water came from turkey of all places. And we had to use stack of it for about four or five months in our hall.
+[04:35] You can drink that as fine. It's very hard to use the toilet with bottles of water. You've got to sit there and open the top and fill it up with
+[04:41] this specially imported Turkish mineral water. Just throw your toilet up. And you need about five liters.
+[04:46] And then you give you what? Half liter bottles. So you're using most of the case to flush the toilet once.
+[04:52] And that's the main thing I'm really not sure. I can deal with drinking water, but the flushing the toilet is quite a priority here.
+[04:57] So I now have a list of requirements for my house. I want the water storage of resilience.
+[05:02] I want to be able to flush the toilet when the water company messes up, which they go into again of course.
+[05:07] I want to have a greater ability for a heat pump in the future because that's becoming the usual thing.
+[05:12] There are various reasons why I'm not having a heat pump which I can get into if you get me into the bar later.
+[05:17] I want to have backup electric heating, which I'll get onto in a bit more about that later.
+[05:24] I want to have solar hot water heating. So back to the solar panels. We were able to turn off the boiler, which was doing our central heating and hot water in the previous house.
+[05:34] We could turn it off in about March and turn it back on in about late September, October.
+[05:39] In fact, it was so we never turned it on to the point where the gas makes us actually run backwards because the thermal expansion of the gas in the house.
+[05:47] So we get warm over some. I pushed it into the gas main in the road. Of course, if you report this number to the gas port, they don't care. They just look at the differential. So they mod the difference.
+[05:58] So you actually start paying for gas short sporting back to them. So if you ever find a mac asked me to go backwards, just wait to use a bit of gas that goes forwards again and then we'll put that number.
+[06:08] I would burn her. I like quite like fires. And well, you could heat the water from the fire. My dad was looking into and of course, he ordered the wood burner thing about what 20 years ago and it's sat in the garage ever since.
+[06:23] So I want to put one in also to why my mum that I've got on before she has.
+[06:28] I want a good toilet flush. I don't know how many of you have used a toilet that doesn't flush very well.
+[06:33] I've used ones where you have to do two or three flushes because it's so inadequate it just doesn't do anything. I want a good toilet flush.
+[06:41] I also want the bath to fill reasonably fast. So last week we were staying in an Airbnb while we were doing build up.
+[06:47] And that bath took like what if I'm going to have to fill and by that point the water started to go quite cold.
+[06:53] So I want to be able to address that too. And the last thing is I want heating selectivity. I want to have to heat certain parts of the house and a lot other parts of the house.
+[07:01] So how can we do that?
+[07:05] And I want setting forget controls. So this is the most controversial thing. And I'm aware that if I say this here, I might get a hundred out of the MF camp.
+[07:13] I don't do smart heating controls. I don't do smart highmenor thing. I want like dumb 1990s, 1980s controls. I want to be able to set it.
+[07:22] Press go and then I want to be able to come back like yeah it's working lovely job done. I don't want to touch it again. I want to change batteries everywhere again.
+[07:30] So anyway, let's look at central heating. A good thing to look at.
+[07:34] If this 10 pound Amazon thing of what it works is this. So if you have an please watch Tim Huggyn secret life and machine assistant for heating system.
+[07:43] Because he explains it with nice visual props. So no sorts of bits of bombs which I can't really do here on this budget on this time in this space.
+[07:51] The only problem is this particular screen grab from the show is quite blurry. So I'll get a nice diagram.
+[07:58] So the standard UK layout for a non-conbi boiler system. You have a boiler. It produces hot water. And then that gets pumped around a looping your house.
+[08:08] And then you can have a valve that can open a close based on a thermostat which is connected to your cylinder. That heats up the cylinder.
+[08:16] And that gives you the hot water for taps and bars and showers and decreases and things.
+[08:21] You also have the cold water that gets heated. That comes in the street. And that gets tapped off and that goes to provide your cold water taps.
+[08:30] And that also feeds a tank in your roof. And this provides a local buffer of cold water to fill the hot water cylinder underneath.
+[08:38] So this is where my water resilience is coming in. I'm going to try and put one of these tanks in.
+[08:44] And then you also have another valve which can send the hot water loop around the house and heats the radiators up. And that's also open and closed on a thermostat.
+[08:52] So you can see here there's a lot of gubbins. And you can see there's where it's 1, 2, 3, 4 and whatnot. These are plumbing controls for if the loop gets too pressured. You can release the pressure.
+[09:02] If it starts to expand, you've got an expansion vessel that's like a big balloon that gets bigger and smaller to take up the expanding water until it expands too much. And then it over pressures through the pressure release.
+[09:11] It's got a filling point so you can put more water in because if you've lost some you want to put it back in at some point. And you've got a what's got a dosing point, which is where you can put anti corrosion stuff in.
+[09:21] So you've got all these valves and other stuff in there. And this is quite expensive to do. So in all the in the UK covenant climate when you're building houses you want to shave the money off. So we don't want to do any of that. We want to make this as simple as possible.
+[09:34] If you want to get rid of all of that. And go to this. So this is what combo ball does. It puts all that plumbing gubins in one box. You have your basically your entire plumbing in a box.
+[09:45] So instead of having the water tank and the cylinder we just keep on the man. So the boiler can whack out loads of heat all at once and it heats all to as it passes through.
+[09:54] And then all of these valves and things are inside the boiler itself. So let's have a look at the anatomy of a combo boiler.
+[10:02] So on the bottom you'll have this box that was probably being a kitchen which is usually where they end up being put in UK. So you have a gas pipe that comes in. So this is the stuff we burn to actually make things hot.
+[10:13] So we have a heating loop flow. So this is where the hot water comes out the boiler heat your radiators up. And we have the return where it comes back colder going back in.
+[10:22] And if you want some more information, there's a top two years ago, a year ago about how to set your temperatures up properly so it works.
+[10:29] We then also have the mains cold in. So all that hot water we want to make for using in caps. We need to be cold first and it's to come from somewhere. So that's where that comes from.
+[10:37] We then have our domestic hot out. So this is where the hot water that goes into the house comes from goes to and whatnot.
+[10:44] And then we have this filling loop which as you can see here is connected. This is actually against regulations. You shouldn't actually leave it connected because it can fill with Legion Allew and all sorts.
+[10:54] No one ever does that. So this is used for topping up the heating loop when it loses pressure.
+[11:02] And we'll come to white loses pressure in a moment. There's also the condensate pipe. So this is where some water that forms in the output gases because when you burn gas get that moisture eventually comes out of this pipe and this pipe then goes down to a drain or something.
+[11:16] So let's have a look at the other McArthur's on it. So we have a dial for hotness. How hot do I want my heating water and the sort of water I'm using in the sinks.
+[11:25] We have a dial for sport mode. This is what I would just got. It's like are we having heating are we having hot water are we having both are we having nothing.
+[11:35] We also have the likes to do which tell you what the boy is doing. In my case they were telling me very bad things.
+[11:41] We have our ticking cactus which is the horrible funny way of setting the time clock.
+[11:46] Goodness knows why these are still fitted on things because they're just hideous and we have the due squirtiness indicator.
+[11:53] So we have the pressure of the pressure dial. So now's have a look inside this box. So inside the box is all of our plumbing bits which before we're around the house where a plumber could touch them.
+[12:03] We now place all these bits inside of my cabinet were only a gas certified engineer can touch them so it's more expensive.
+[12:11] So inside this boy is a particularly sort of Victorian make it out of stone churches sort of stuff because it's inside the boy in the flame box.
+[12:20] So we have a big refractory bricks. It would be a very heavy boiler to remove. So we have our guff pumpers so this sucks all the exhaust gases and squirt it out the house.
+[12:30] And as I found out, it was squirting it technically illegally closed on my neighbours house.
+[12:35] We have the spoilers so this is the each changer which takes the hot gas that coming out and converts it into hot water.
+[12:42] We have our vernish chamber which is where the fire lives and we have our hydro accordion behind. So this is the expansion vessel.
+[12:48] On on this design they put it at the very back of the boiler so it's almost impossible to change.
+[12:52] And because it's inside the boiler it is tiny. It has an expansion range of about half a liter which means that it cycles a lot.
+[12:59] And what happens if you cycle this rubber a lot it with really hot stuff because it's right next to the boiler.
+[13:04] It fails gives up and it just fills the water so it doesn't do it. It's job anymore.
+[13:08] What happens when you're water expands? It just overfreshes it squirt out the things so you then you have to refill the completely unwater loop up almost weekly.
+[13:16] So this is one of the main reasons why they suck because they basically designed for failure. They have this iPhone of the domestic appliance world.
+[13:23] In other the piping bits of the bottom so this is where all those bits were and they what we're going to do now instead of having them in a nice air and covered where you can get to them.
+[13:30] We're going to put them in like 4 cubic inches of the bottom underneath all the hot bits in the leaky bits of the boiler so they're definitely going to get trashed.
+[13:38] And in fact the first thing to do that was that when the board didn't work was as a gas oven there usually they stick so the the the usual fix is get a screwdriver to get a hammer banging it should just on stick itself.
+[13:50] And the problem we had was in the box so one is at the bottom where the expensive board lives. There's also a pump in there because.
+[13:59] Let's put something in that you need to get to the back of the remove so we're pretty right beside the case you have to pull the ball off the water changing.
+[14:05] So if you have anything wrong with this it's usually and what most people do is they just change a whole lot because it's so fiddly and time consuming to work on you might as well replace the boiler.
+[14:16] And so we've ended up in this the situation where we've sort of replacing a single part we have to place the whole bloom in box every time and this is why anyone has anything go wrong with the boiler.
+[14:24] Oh no that's at least a grand enough half because the boiler is about 800 pounds.
+[14:30] So you can see here this is a housing is a new build housing thing initially and you can see if you look very close to you next to the down pipes on the wall or every floor there is a black blob and that's the exhaust portfolio the combi boiler in this in these flats.
+[14:43] And the problem with this is that you will usually see on ones aren't white and I brown going down the side of the building for all the rust and gun just I think it's squirted out of the pressure relief valve out first two years operation.
+[14:57] And you know we're fitting these in new build things and this is a problem when we want to be heat pumps in.
+[15:04] So what we're now going to do is play a nice game.
+[15:10] What's that pipe this is the audience interaction part so we're not only sure you're a selection of pipes from the house and you have to guess what they what's in them.
+[15:19] Yeah, yeah do I need to stand this close.
+[15:22] Oh I think this is acting as a ground screen so what's pipeline one Josh on the front row go.
+[15:30] Oh what no this is nothing this was an empty pipe.
+[15:36] It was a gas pipe and the difference between empty pipe and the gas pipe is an empty pipe is a gas pipe once you punch it.
+[15:45] Let's try number two what's this pipe.
+[15:50] Here.
+[15:51] No this is gas this the big pipe is a live gas pipe and the bottom one is the other end of the pipe number one and look if you look closely you see it is not actually connected.
+[16:02] Because let's cut the pipe off and make it look like it's connected and then to leave it in place also you can see the archaeology of all the different types of wallpaper they left on the wall in the kitchen under the cooker.
+[16:12] It's bananas and let's go to number three what's this pipe and we're looking at the big grey one in the middle.
+[16:18] Over here you.
+[16:20] Yeah exactly lead water pipe so I thought wow that's this can it lovely I've got I can go to the scrapbook and get their cash for that one.
+[16:28] Let's go in number four the black pipe in the bottom in through the wall.
+[16:33] Any takers.
+[16:35] You on the front row.
+[16:37] Go on.
+[16:40] No that's electric they put the electric in in rolled iron pipe work in the walls.
+[16:46] Oh hello.
+[16:49] There we go we want number five what's this pipe work.
+[16:54] On that is gas that's the old gas that was running the electric not the electric running the gas fire of course.
+[17:01] What's this point number six is white one.
+[17:05] No this one was a pipe that sky round through the under floor of a house to put a sky cablin.
+[17:11] And then number seven what's number seven.
+[17:16] It's not this is cold water this is a lead pipe.
+[17:22] That's the one that's feeding the house that's problematic.
+[17:26] I got I ran the water company up and they have they are legally required not to use lead pipes to this job.
+[17:32] So they send a person around to measure it and look there we go there's the lead if you find it 2.36 micrograms per liter unflushed.
+[17:39] Not a but of not exceeding the it's illegal to do this and we will get a find but they went we'll send some people around to swap it.
+[17:48] And swap it they did so you can see in the bottom right of this is the new water pump coming in and then this is connected to.
+[17:55] This point of temporary battery arrangement that I shouldn't go into because that's too much for this talk.
+[18:00] So if there's a nice you tap and this is them on the outside popping it in through the wall so.
+[18:06] Unbeknownst to me they mold them in so they dig a hole the front of the drive one of the back of the drive and they use a mold to dig through.
+[18:12] Of course trying to avoid the gas pipe the previous water pipe and the electric pipe that the electric cable that all in the very.
+[18:19] The type drive way of my house.
+[18:21] But don't worry the electric board are going to have to do that as well soon that will be a talk probably next time.
+[18:26] Sillenders this is an integral and from my crazy plan of being able to have hot water from some boiling appliance from a back boiler and from solar.
+[18:36] I need three coils and you can buy these and this is what it looks inside it looks like a core malangery you've got two sets at the top.
+[18:43] They go down to about one third from the bottom and then a small corner at the bottom.
+[18:47] So this is designed for two solar systems to be connected at the same time.
+[18:51] I'm going to send solar and the boiler at the top and the back boiler at the bottom because it's going to be unregulated.
+[18:58] So this is the why I've put this diagram in again I can't remember that I was just showing you where the cylinder is.
+[19:04] So we've got the cylinder this is the main sort of heart of the system and then I also need to put in a coffin.
+[19:11] So water tanks you can buy in various shapes and sizes but these are very nice attractive tanks because they're quite low profile long.
+[19:19] And you can fit them through loft latches easier and they're completely sealed you have a couple of hatches you put on the top and this prevents stuff falling in.
+[19:29] So we don't have the uponmus up 40 hours or we've got a dead burden tank.
+[19:33] And I also realize I'm going to run it out of time very quickly.
+[19:36] So anyway this is the plan of what going in because there's nice swept bends coming down and all looks like a fine and down.
+[19:41] And this is the inside of his is filling up for the first time I like this is filling up the second time because the first time we'll cut to an amendment.
+[19:52] We're not going to the plumbing nexus so this is what we would describe is the air uncovered so this is all the pipes are.
+[19:57] So you can see on the bottom left picture we can see three motivows which are these sort of boxy things with the voltage stick on and they are browse the open closed if we apply voltage.
+[20:05] And they also have a couple of electrical contacts that tell the plumbing system that the valve has opened or closed and we can we use that to turn to once the once the valve has opened.
+[20:15] We then use that signal to say okay the pump can now start because there is a free circuit and you can also now turn the boiler up because the pump is working and so you're not going to just cook the boiler.
+[20:26] In my previous house they bypassed number of these steps and the boiler would just over temp and turn off by itself.
+[20:31] Making very small, taking boiling noises in the process.
+[20:35] You also have a pump which is black thing so that pumps the water through the system and beside that there is a cylindrical doodaw what's it which is a magnetic filter which you now need to put on as well.
+[20:45] And people tend to put these right above the boiler where you cut if you unscrew it you now can't actually take the filter out because they put it before the boiler.
+[20:52] But my picture you can see a bit more space and we've got all the plumbing and you can see it's quite a tight space to work in.
+[20:59] At this point I should thank my dad who is watching and say that I have no idea how you can fit yourself in and contact yourself into door of that.
+[21:06] And then above all of this is the expansion vessel in the filling loop in the pressure gauge.
+[21:10] So it's quite a compact arrangement in a air and cupboard compact enough I can still put shelves in for laundry and to a bit of advice if you ever do this.
+[21:19] By the Ikea wooden ones that you can remove so if you have any to get to this you'd have to spend half a day dismantling your own cupboard.
+[21:23] You can just pull it out and then walk in and fit all of its mobs.
+[21:28] In the top right you can see a black cylinder poking out the top of the heating cylinder and that is the immersion heater.
+[21:34] So that's a three kilowatt electric heater and we went for the longest one possible.
+[21:39] On the cylinders they have a sticker that tells you the maximum permitted length.
+[21:44] But because the number causing there the company had quite calculated that length properly and it hits them so we had to take it and bend it multiple times to try and get it in the screw in so you didn't actually found on the inside.
+[21:56] Good news is how I'm going to need to replace it because the way we did that was by looking through the top port of the cylinder and eyeballing how much bend we needed.
+[22:03] I presume I have to disassemble it if I need to do that so we shouldn't talk about it any further.
+[22:08] And this is one of the ways you sold it in such a confined space so this is a sheet of aluminium that is kind of held up by a pair of G clamps and bits of words just stopped by wall being singed by a blow torch to whilst competing the solder joints.
+[22:24] Radiators.
+[22:25] We need radiators in the house most of the radiators in the house of this awful kind which are very small so they have a very small surface area.
+[22:34] They're single wall so they have a very small surface area and they're single fined so they have a very small surface area.
+[22:38] Apart from inexplicably two tiny ones in the hall and the kitchen.
+[22:44] So anyway we're going to sack them off they will knack a look or one of them was in one of the spare bedrooms that was painted like minecraft and brown up to their green and then blue above which was also painted brown.
+[22:54] We've got a few of these nice ones for upstairs so this is the advantage of having a plumber as as a dad in that they go to the merchants enough and say you know what stocks on sale and they can arrange and find things so part sourcing was incredibly easy.
+[23:11] So we've got three nice matching radiators that says nice big massive ones double wall double panel.
+[23:16] And then I'm a sucker for car style and once I got some of those in the living room.
+[23:20] So these came from a reclamation place. They need work doing which is what one of the reasons why they cheap.
+[23:26] In fact this grey one actually that's the original factory promise somebody bought it and they've fitted it.
+[23:32] I think got this gigantic one another double double double fin one that goes behind the front door and that one is basically fairly coupled to upstairs a bit so that one can basically hit a hot most of the house by itself.
+[23:44] And in the and in Bathroom got a nice towel rail and in the kitchen I thought why don't I put towel rail in the kitchen to keep the kitchen towel as dry as well.
+[23:52] That seems eminently sensible.
+[23:56] And then we thought started filling the tank up with water and I'm downstairs I'm down in the upstairs of the house my dad's in the loft and he says,
+[24:05] Oh, can you get me a bucket like how urgently do you need it very.
+[24:11] So I go down without much urgency because he didn't say extremely urgent and then I come back up and say, what do you want to look like and he's I see him leaning behind the tank hold it with his hand over something.
+[24:23] Because the one of the pipes into the tank wasn't properly inserted because he shifted the tank a bit and it popped out.
+[24:28] And water just started spewing out of it so put the bucket underneath he told me to hold on and then he went down open all the rounds that fell off the tank to try and get the water out the tank is fast as possible.
+[24:40] It takes a long time to empty water tank as I've discovered, but I've got some fantastic girl in gushing noises from the water syndrome and an eighth I wish I'd recorded it.
+[24:49] So now you can see in here this is some of the damage to my freshly repainted and sort of crack plastered ceiling that I just done the week before.
+[24:59] It's still like that now and there that's what 18 months later because they haven't been asked to fix it yet.
+[25:04] In case it happens again is my rationality for this.
+[25:09] So now have a look at conventional boilers. This is what I was intending to fit.
+[25:12] It's like a combo boiler, but all the guppins in is just boil the well doesn't boil it heaks the water and that's it you just have an input and an output gas and the condescending there.
+[25:25] That's it.
+[25:27] You don't have all this complex switch gear plumbing switching pumps and whatnot inside of this and in fact the boiler has got has two buttons reset and chimney sweep mode with a guy with a little top hat on.
+[25:39] Where it basically runs it with no gas usage and but just turns the blow on to max to basically blow the sit next door.
+[25:51] Here we go. This is the condescending on this boiler.
+[25:54] So previously they'd run it inside the house where it kind of connected to the kitchen drain.
+[25:58] Probably with this is they tend to fall with slime and it bugges up 15 your kitchen because you know how this pipe which has to have a slight fall on it to get to the sink.
+[26:08] But you know how to put a kitchen in the way and so it just makes a mess so instead we run outside you can see here goes down.
+[26:14] You notice that it's quite a wide pipe because we run it inside pipe placking inside a normal kitchen waste pipe to insulate it so it doesn't freeze because in winter because it's only a slow drip of water.
+[26:24] It has a tendency to freeze and once it freeze it backs your boiler up when your boiler gets flooded and it's incredibly sad and incredibly expensive.
+[26:32] And it terminates in the ground in a hole which is full of limestone chipings. This is on a concrete slab.
+[26:39] My dad thought was a quick 20 minute adventure to drill a hole through with a six inch hole saw on his SDS. It was not this is a 1930s house with 1930s concrete. There's six inches thick.
+[26:50] One trip to being cute to get a very much bigger SDS drill and three hours later we have a condensate drill.
+[26:57] Holding the ground.
+[27:03] So these are more appropriate names of the bits inside. So we have the we continue on in between the spoilers, the box of wires.
+[27:10] We have some Steve's and his kinque which is basically the u-bend that stops the air going back into the boiler.
+[27:16] So because the condensate is connected to the flu pipe, if that condensate trap empties you can end up with monoxide going in places it shouldn't.
+[27:25] So you need to make sure that's primed. And then we have also the noise begun. So we have a acoustic baffle in this boiler.
+[27:32] So it runs whispers quiet. I couldn't tell it was on the first time I ran it. I was expecting something like huge like almost super sunny jet to turn up.
+[27:38] And then we have you know the knob panel which is in this case a heat how hot you want the water and that's it. It hasn't got any other controls no screen or nothing.
+[27:47] You have a light that blinks on when it's on and it's off when it's not on.
+[27:51] We have a we have what what I call far control which is.
+[27:56] What is even is that? Oh, it's the gas cock. So this controls how much gas goes in the other thing eight number eight is redacted because you don't have that on this model.
+[28:03] We have a mess maker. So that's about on the bottom that if you open it's it drains the entire tube your boiler system on your kitchen work to make such a mess because it's all full of guns.
+[28:14] And we have a breathing tube which is the air that comes with the boiler.
+[28:18] And this is it fitted in the thing and because I wasn't fitting in a hurry I could clean and replace during paint behind the boiler unlike literally everyone else because with the combi boiler because that's it.
+[28:28] You're in tire hot water system that suddenly gone offline you replace that same day. It's an incredible cost so you don't have time to clear up.
+[28:35] So when I took this off the wall the previous boy was sat on top of three layers of wallpaper from different areas that were gone brown and greasy because they never bothered to change it because who she who says you know what I'm doing that a boiler for four months.
+[28:48] Well as I thought you know what I value having a painted behind the behind the cupboard I'm never going to look at instead of having water for four months.
+[28:55] Snorkelling so boilers can be snorkeled so in the regulations for built in the building control regulations which propagate through to the man my factors instructions you can and cannot put the the air inlet and exhaust output on your boiler anywhere you like you have to put it in the number of it's.
+[29:14] Specified locations and we were getting close to the closeness of the conservatory to the airport. It was too close and you could end it with a monoxide seeping under the roof line.
+[29:26] So they sell this they call it a plume displacement kit also known as a snorkel where it takes the.
+[29:32] Outlook of your boiler and you can basically run a pipe for however long you want so you can you can point it into an a bus bedroom if you wish.
+[29:38] I'm not I like my neighbors I'm not I that this isn't anything about then.
+[29:43] And so you can see here the back pipe that's the snorkel we also because we realized that we could end up after burning the kitchen extract and sending that straight into the boiler we could probably not a good idea.
+[29:52] We put a downwards facing pipe on the extractor for the kitchen hob at the same time and you that's what the other pipe is in the in the picture.
+[29:59] So you're very closely about two feet above all of this you'll see a hot like a recently covered hole in the wall about in this.
+[30:06] You'll never see it with the back projection just you right in the wall which is where the old kitchen extractor was which we didn't really like to didn't work because they they get fatated together and it will fell apart.
+[30:16] Anyway, so now we're going to talk about sundals.
+[30:18] So in the 1980s Honeywell came up with the whole loaders like wiring oh I only got one minute left good lord.
+[30:25] They came with the whole owner wiring we have s which is what I've got they have y which is crazy w which is really odd and see which you should never use.
+[30:33] This is what the wiring looks like for y it makes no sense which is why this is s which is what I'm going to use I want to actually use s plus for two sets of heating.
+[30:43] This is what the wiring diagram looks like if you want add frost protection that's where the valve goes just there that white box on the doodle what's it.
+[30:49] This is the sentence for heating wiring diagram showing all the bits and bobs.
+[30:53] This is the thermostat I've got an 80 smart home thermostat this is the cultural control box which controls all the timing things on and off.
+[31:01] This is the thing for the immersion heat this you don't leave it on costing your fortune like one of my old housemaces to do.
+[31:06] wiring centers they look all it you can buy best ones really nice ones that don't work very well.
+[31:12] You can get one one's a two small or you can make your own this is my one.
+[31:16] The electrician wants to but months we can make some so I can sell them to him.
+[31:20] I want a bad boy to make hot water this is how you kill it to dump goes in you get hot water is gravity feds there's no valve to you're not like that's on the under draw heat source.
+[31:28] Heat's hot water back in there lovely hot water radiator is where you get free heating upstairs.
+[31:33] And it needs an edge of under the floor otherwise you can a suckle the air at your house or monoxide yourself not very good they might be illegal people say they're very illegal.
+[31:43] In sahanting you're not at put one in this area here and yes it is handle map.
+[31:49] It's unscathed we have laws they do all these things we're going to look at one of them now document out.
+[31:56] It says various things including you shouldn't replace a heating source with the less efficient one.
+[32:02] My bad bull isn't a place in a heat source it's supplement you doesn't it doesn't mean doesn't apply however if you have a heat pump and you don't like it you can't put a gas one in because it's not the same thing you can't go from a three times efficient heat source to a point eight percent efficient heat source that's illegal.
+[32:18] There we go involves a fuel switch you have to be the same fine range you have to matter and if you're using renewable technology you have to make if you're placing solar right you have to put a big one in then the one you're placing which is fine until we hit the efficiency limit on solar panels and.
+[32:33] You also have to put a connection for digital heating in if you're worrying in your house and then solar heating the water goes to the panel and into the cylinder back again you can either have it pressurized or non pressurized.
+[32:44] Anyone knows the difference in what which which one is better please tell me I have no idea I haven't bought it yet.
+[32:49] Please tell me in the bar and then we get to this at the end to this is my bathroom when we took the bath out I don't have a working bath until about.
+[32:56] Six months ago.
+[32:58] So buying a house is a stressful process especially when you realize you're running out of time.
+[33:02] Any questions you can find me after Steve Molls talk.
+[33:06] Or in the bar or having electrical emergency and I might turn up.
+[33:09] There we go.
+[33:11] Thank you.

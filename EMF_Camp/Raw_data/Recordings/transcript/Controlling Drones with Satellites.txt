@@ -1,0 +1,132 @@
+[00:00] Thank you very much everyone. So drones they are everywhere. I guess easy to play
+[00:22] start is hands up if you own a drone or know someone who does. I guarantee if this was
+[00:29] 10 years earlier that will be a lot in this hands but everyone is talking about them. They are
+[00:34] everywhere. The media in particular likes to talk about all sorts of interesting things like
+[00:40] drones are going to be flying boxes over our heads in three days time. I'm still waiting for
+[00:47] that to happen but they are just everywhere and there have been a lot of changes over
+[00:54] the years and a lot of speculation I guess and hype and what I want to talk about is what
+[01:03] I've actually going on. Where actually is the technology? I'm trying to ignore all of the
+[01:09] spikes of one incident happening, everyone talks about it and everyone forgets about it.
+[01:16] So traditionally drones controlled by radio although fibroptic is another growing method but
+[01:27] effectively with radio you need to record a site there are a range limits. You can't have
+[01:33] obviously calls. So no trees, no big buildings, DJI planes, 10 kilometers. I have flown
+[01:43] my DJI drone. It is not going more than one kilometer. So there is a record of 100 kilometers
+[01:54] using ERS, some insane person managed to fly it, not sure how long it took but 100 kilometers
+[02:02] on ERLRS but that used a quite powerful transmissions that your average person probably shouldn't
+[02:09] be lasting throughout England. So one alternative that has been spoken about but perhaps not as
+[02:17] much as I'd like it to be spoken about is satellite using satellites to control drones and you may
+[02:26] think this is a solved problem. The US military has been doing this since 1994. I'll be at
+[02:35] less of a fan or science morpher blowing up children but they are able to control big drones from
+[02:45] Las Vegas going about 2000 kilometers from their home base. These are very nice. They do work. You can
+[02:56] control drones with satellites. Do you know because last time I checked I didn't have 30 million
+[03:04] pounds in my bank account. So I guess I'm not buying that but that's just for the drone as well.
+[03:15] Not for the custom military satellites or the missiles or anything else the drones come with
+[03:23] and I guess there is quite a crude method that already exists technically if you want to be technical
+[03:32] using GNSS. So I'm sure many people are aware you can control drones with just standard GNSS
+[03:41] waypoints. I mean is our RG pilots just putting some waypoints. Technically GNSS comes from a satellite
+[03:50] there for satellite controlled. So I get problem solved not really you can't let you talk to it by
+[03:59] GNSS. So you just have to set it off and hope it comes back. I have personally seen it not come
+[04:07] back before so that's not recommended and also this is a map of current GNSS signal integrity across
+[04:17] Europe as of Monday. There are a lot of places where GNSS will not work. So maybe if you're flying
+[04:26] something over the lovely Wivalre you might be okay but if you want to fly it in any of the red areas
+[04:35] you might not come back. And so what are some alternative options effectively some better ways to
+[04:43] control drones from space? Probably the most obvious most straightforward is Starlink.
+[04:50] Standard broadband into that uses I believe at the moment around 10,000 low work or a bit satellite
+[05:00] 400 kilometers up. Standard broadband into that I want to say it's like 700 megabit down.
+[05:08] Good for games 25 minutes I can later say. Sounds pretty straightforward the antenna is quite
+[05:15] chunky and it is a bit expensive. However unfortunately Starlink is not really a good option
+[05:26] because I am not an outseek. So moving on to potentially a better option we have
+[05:36] global star probably more of a bit more resounded IoT brand name they have a LIO Sasswark network
+[05:45] 24 bit less than 10,000 but you could still get as low as 25 millisecond latency.
+[05:56] It's got existing IoT services which give you the nice small form factor. Good price
+[06:05] for satellite control to be fair. They have 28 ground stations in 18 countries.
+[06:14] The RM200M for example can communicate with global star and you know you can send
+[06:23] it received data. Sounds fairly straightforward. Unfortunately global star is not really global star
+[06:31] and the satellites cannot talk to each other with global star. They have to be in range of a
+[06:39] base station which there are 28 of and I only can be so far away from them so I guess nobody
+[06:48] in Greenland is going to be using global star anytime soon and similarly to Starlink they were purchased
+[06:57] by Amazon earlier this year so I guess we're not really doing well for avoiding capitalism
+[07:07] but moving on to hopefully an option that isn't changed by an eager to school billionaire
+[07:16] in my sat via sat. Some of you may know this company for their tracking of various planes that have
+[07:25] disappeared into Buenos Aires but in my sat at the very different to global star and starlink
+[07:34] in my sat operates a fleet of geostationary satellites. So these instead of spinning around the earth
+[07:42] these stay in one place around the earth with the orbit about 35,000 kilometers up which is quite high.
+[07:51] Obviously because of our distance they're quite isolated. I don't know if anyone's tried
+[08:00] FBV flying in particular but waiting you know that fast is the second to move probably not ideal
+[08:10] if you're flying towards a building. It's also very expensive and very big. They are quite
+[08:18] chunky marine water pre-fue nets. They're very good for what they do but putting one on a DJI's
+[08:26] drone is not going to go very far and not sure the drone will fly. It's kind of essential.
+[08:34] So the next option, the radio, the radio, operates a wide fleet of 66 low earth orbit satellites
+[08:44] have a very wide range of services. They do IoT, to left-in-a asset tracking, all the right sort of
+[08:53] form factor and price point for drones and the latency because they're low as orbit,
+[09:03] it's also acceptable. The figures vary a lot but potentially as low as 30 milliseconds so again
+[09:12] maybe we're not flying FBV drones or doing anything too critical with them but it does work
+[09:19] and most importantly actually got global coverage. Sprising their global stars still doesn't
+[09:30] but yes the radio is fantastic. It is probably the best we've got at the moment given the price,
+[09:38] the size and everything. Again you could actually go around the globe which I thought would be
+[09:47] a lot more common for satellites given the quite high up. But how does this actually work in practice?
+[09:56] Thanks for that. I don't need to do that because Skylift did that fall me. Not for me.
+[10:03] So Skylift is a small enterprise based in Port Smith in the South of England.
+[10:09] They build drones and effectively they opposed to the NHS that they were to deliver.
+[10:19] Kiematherian Bajrogs with a short shelf life from QA hospital in Port Smith all the way to
+[10:27] Cip Mary's hospital on the island of White. For those not familiar it's very slow getting
+[10:33] between them and it's very expensive. It's far too expensive although it is nice going on a hovercraft
+[10:42] but yeah when you've got patients who are waiting you know have to have days of blood work
+[10:49] and you know if they don't pass the blood work they can't take the drug but the drugs last
+[10:54] one day there are a lot of medicines being wasted because they may have to make them
+[11:00] and ship them over in a van through Port Smith which takes a very long time.
+[11:07] So Skylift opposed flying them with drones and they had the first major trial of BV loss
+[11:16] beyond visual line of sight flying of drones in partnership with the Civil Aviation Authority
+[11:23] Maritime and Coast Guard Agency and many many other organisations because it is very busy
+[11:30] in the skies on the South of England. So they flew a number of drones from Port
+[11:38] Gumbland right in the bottom of Port Smith to an unspecified part of the island of White.
+[11:46] They used genesis wave pointing technically satellites I will argue that
+[11:53] they also used iridium short burst data as their communication system.
+[12:00] So these drones were flying pretty much entirely off satellites.
+[12:08] Now iridium short burst data what is it? So the sky lifts use this specific module in particular
+[12:17] the rock block 906-033. So short burst data is a specific protocol of iridium designed for
+[12:25] IoT and asset tracking widely used by a lot of companies. The rather than sticking it on a
+[12:33] container ship in the middle of the ocean they have a bit of an drone and you can send and receive
+[12:39] messages every 40 seconds up to 100 kilobytes plug and play there's an API.
+[12:48] It's actually not the worst documentation I've ever seen which is impressive.
+[12:56] And yeah they use this to control it both force data sub-bates and for emergency communications.
+[13:05] So should it not go where it should go they can tell it please do not crash into any planes
+[13:11] it really boats because that would be expensive. So what do we learn from the use trials?
+[13:21] The main thing is in order to actually run the on visual line of sight you need a lot of coordination.
+[13:29] There are a number of companies operating beyond visual line of sight on a regular basis such as
+[13:35] itline in parts of Africa like the Wanda and Ghana but relative to the UK those countries are
+[13:43] much much clearer in the skies. The UK is very congested. Pretty much everything across Atlantic
+[13:51] from Europe goes over England there is far too much air traffic to just go yeah sure fly some drones
+[14:00] trying to question we also what happened at Gallagher port in 2018 but this trail
+[14:07] effect directly into BV loss policy within government although unfortunately the biggest lesson
+[14:15] learned wasn't to do with satellites or drones really it was more to do with the British weather
+[14:25] it was significantly postponed they didn't get as much time as they wanted because it rained
+[14:32] and it stormed stormed units happened at the time which was not good
+[14:37] so maybe we've got we're doing this all year round in the UK but what can we do in the UK these days
+[14:48] because of the weather probably doing this weather though so yeah what are some of the general issues
+[14:55] that will be addressed by this trial and generally with satellites and drones one of the
+[15:04] input ones is integration they are talked about a lot but they are both still very much emerging
+[15:10] technologies there are no real fully out there all in one solutions that me and you can just buy
+[15:22] so I've all of the solutions skylift zip line all the other companies I'll making as bespoke
+[15:28] with hundreds of hours of research from teams of engineers with government money if we want
+[15:35] to to home in my end up looking a bit like a bomb and I don't think being arrested is a great
+[15:43] demonstration of the technology I'm sure some solutions were a merge over time but
+[15:52] we really are a bit of a separate way from this become a consumer available unfortunately
+[16:01] the next problem isn't really a problem for most of us bit more a problem if you're flying
+[16:08] someone you crane whether he's jamming one of the pyelights of satcom is that it's not the same
+[16:16] frequency or break anywhere from in the 2.4GHz bands to 20 30GHz you can still jam the Russians
+[16:28] have jammers everywhere that they are stopping anyone and everyone from doing stuff
+[16:37] so I guess again let's you're flying in Ukraine or somewhere else at least in Europe
+[16:42] this probably shouldn't be a problem for you I'd hope a signal strength is quite a big problem
+[16:52] so I took my little sats like transiever the same one as used by starlift
+[16:59] back to on my car in the middle of the field I'm top of the hill with no obstructions
+[17:07] nothing and I learned it wrong and as you can see a still don't receive very good signal
+[17:19] with low cost satdle like solutions you're having to cram quite a lot into quite a small package
+[17:24] and they're long distance a small low power antenna is gonna struggle quite a lot of the time
+[17:32] so if you try to fly this indoors it's not gonna work try to fly around some trees
+[17:38] probably not gonna work and especially since a certain someone has now planted 20 million more trees
+[17:48] there's 20 million more places you cannot fly drones with satelites
+[17:53] so I guess the long short of it is during the call that's like the call we're still a very
+[18:03] very long way from sky nets actually taking over the world I don't think it's gonna be happening
+[18:09] anytime soon so don't worry but yeah thank everyone for this thing if you have any questions feel
+[18:20] free to catch me around but I've this is interesting to some people

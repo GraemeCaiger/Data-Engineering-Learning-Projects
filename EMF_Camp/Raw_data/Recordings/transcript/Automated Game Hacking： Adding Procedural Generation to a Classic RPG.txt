@@ -1,0 +1,206 @@
+[00:00] I have run, welcome to the arcade workshop. This is Nikki. Nikki's been hacking games
+[00:17] since the 90s apparently, so I'm really excited to hear about this procedural generation
+[00:21] of hacking of Final Fantasy. So, over to Nikki.
+[00:30] Hello.
+[00:33] Okay, sorry. It'll take me a moment to get the microphone thing.
+[00:39] Okay, great. Yes, welcome to Automated Game Hacking.
+[00:44] So, I'm Nikki, as the Hesha said, and I'm going to talk to you about adding
+[00:50] procedural generation to a classic RPG.
+[00:54] But first thing first. So, I'm going to get some light spoilers to a game
+[00:59] that is older in some parts of the world than others, but still older than 20 years.
+[01:06] If you haven't played these games, I definitely encourage you to play them in the first
+[01:12] Final Fantasy, which I'm going to talk about the most. The light warriors go to space.
+[01:17] So, maybe that's appropriate. So, yes, we have unabed a game hacking.
+[01:26] So, before we talk about this, let's take a step back. Why would you want to hack games
+[01:35] in the first place? And so, one of the obvious things is a renewed sense of discovery.
+[01:42] So, like, if you play a game and you really enjoy it, you know, being able to re-experience
+[01:49] the world, maybe in a different setting, and that sort of thing could be fun.
+[01:54] New adventures. There's people that make that, you know, do like full conversion mods for, you know,
+[02:03] like fallout and skyrim and that sort of thing. And those are all game hacking.
+[02:09] For challenge, you might think, you know, Elder Ring is hard, sure, but what if the bosses
+[02:15] were twice as hard, being able to do that? And the other thing is like racing. So, you might want to
+[02:24] create a special version of the game that is designed for racing. And so, you might think, okay,
+[02:32] well, this is cool. And there are some people who just make these rom hacks as a one-off and
+[02:40] they're like these amazing passion projects of love. But after you do that, you might think,
+[02:47] well, what if I could automate this? And so, if you automate the sort of game generation,
+[02:55] if you typically call it a randomizer, and randomizers in particular are really popular for
+[03:03] racing for like speed running, because like when you play, for example, final fantasy.
+[03:10] If you're, if you are a speed runner at the highest levels, there's not really much
+[03:16] that changes in your runs. It's basically you want to make sure that you menu exactly, you go,
+[03:22] you take the exact steps that you want to to avoid random encounters and that sort of thing. And so,
+[03:31] and so it makes it so that there's a very high ceiling on, on getting into there. So you
+[03:38] not only have to know the game very, very well. You also have to execute the game very, very well.
+[03:45] In a randomizer, the world is is random. It's random. So like you have a lot of experience
+[03:58] with the game, and you don't necessarily know what's going to come next. So you're both kind of
+[04:05] adjusting to the challenge on the fly, which takes, makes it so that high level players are sort of
+[04:12] on equal footing. So I ended up making this game, this game randomizer called HMSG.
+[04:21] The title is in reference to the Queen of Cornelia, who is, I just figured that the name of the
+[04:29] ship will be named after her. And I, yeah, this was a lot of fun to make, and I just wanted to
+[04:39] talk you a little bit about that. And before I talk about how this works, I figured I would talk
+[04:46] a little bit about the inspiration. So before I started my randomizer, I played a lot of this
+[04:54] randomizer called Final Fantasy IV for Enterprise. And it's essentially the Final Fantasy IV is this
+[05:03] really elegant story. It's very linear. It's a really fun game to play. But Free Enterprise
+[05:11] gives you the Enterprise, which is this air-shipped that's on the, I think, and basically turns it
+[05:17] into an open-world adventure. Pinto, I really love this game that I wanted to help out.
+[05:25] So as I said, it's got great core gameplay, the developers of Final Fantasy really got into
+[05:34] their own when they got to this version. It has a great community. I was telling you about how
+[05:41] there's like racing that goes on. The community generally makes a special design, see, they call
+[05:51] them for racing each week. And so then newbies can come in and they can play the game and try it
+[05:58] out. And then sometimes during the week, people who have been in the community for a really
+[06:04] long time who are very, very familiar with the game will also play that seed and record it.
+[06:11] And so then if you're new, you can go through when you can see how you did. And then you can watch
+[06:16] your recording and see like, oh, when this player found this thing in this box, they thought,
+[06:24] oh, well, I definitely want to check this thing and I didn't think that because I was thinking
+[06:28] more along the lines of the vanilla game. And you know, fun memories like, Rida is probably one
+[06:37] of my favorite Final Fantasy characters in all of the games. There was only one tiny problem.
+[06:44] It was close source. I understood why it was close source. The developers had a very strong vision
+[06:51] of what the game was supposed to be of how the randomize or what it was supposed to work. And
+[06:59] and this is great because like, I know that some other randomizeers that give you did have a lot more
+[07:06] options and which is also really nice once you're familiar with it. But as the beginner, it's sort of
+[07:12] can put you off because you're not sure which knobs to turn for like a fun experience versus
+[07:18] really challenging. So that's what led me to decide that since I couldn't contribute to this one,
+[07:27] what I could do is I could take the Final Fantasy for the Game Boy Advance and I could build
+[07:34] randomize around it sort of inspired by the other randomizers that I played.
+[07:42] So in the Game Boy Advance version, you play as forward ventures. You can pick a number of
+[07:50] number of classes and when you start the game, you arrive outside the first city of Krenalia each holding
+[07:58] a dark crystal. So how do you make a randomizer? So the first thing is that we've got these things
+[08:08] in the ROM that are data tables and there are essentially exactly the same as in Dungeon to Dragons
+[08:15] like the Dungeon Master's book. So they have in there like if you're in a swamp tile and you roll
+[08:26] a three, this is the encounter that you're going to get. And this is what monsters are in it. This
+[08:32] is how many of them could be there and that's sort of the thing. And this is all exactly in the game.
+[08:39] And so if you know where these things are, you can just sort of mess around with the numbers,
+[08:45] shift around some of the encounters and you've got a really interesting experience.
+[08:50] There's also all of the treasure in the treasure chest, all of the magic in the shops.
+[08:58] And all weapons armor in the shops and what you find. And so
+[09:07] and I was really lucky because other people would need hacks for the Game Boy Advance version
+[09:13] and they had documented who were all the tables were. So it was just like okay well let's get going.
+[09:19] So once you know where the tables are you can decide how you want to randomize it. So
+[09:25] one of the ways that you can randomize it is that you can basically not randomize it. And you
+[09:30] might think that's a bit odd. But randomizers including mine typically add quality of life features
+[09:38] where there's like you know either like in my version you can learn magic before you would normally
+[09:45] be able to learn magic in the game so like you can learn the spell even though you can't cast it
+[09:50] so the way you level up to be able to cast it you can just immediately start using it and that's
+[09:55] not available on the vanilla game. And so you might want to have this available while you're playing
+[10:01] the original game. Here's your mind just think oh these are really nice. I mean it is from the
+[10:07] 80s so some some quality but like features could be added. You could do shuffle.
+[10:16] Shaffling is like shaffling in the deck of cards so like no matter how many times you shuffle
+[10:20] a deck of cards you're only going to find like one queen of hearts, one ace of diamonds,
+[10:26] and the same thing goes here. So you take all of the treasure in the game and you shuffle it around.
+[10:32] You're not going to find two of the best swords of the game now. You're only going to find the
+[10:36] one but you might find it in a completely different place and then the final one is random.
+[10:42] And even with a random there are a couple of different options here. We can just do completely random
+[10:49] and which can be I mean honestly it can be pretty fun because if you get a good seed and then
+[10:55] every treasure chest basically contains amazing items but it's also incredibly swingier right?
+[11:04] So one of the so another way you do it is you do weighted random numbers and this is how I
+[11:10] did it for HMS gene. So essentially what I did for for my game is I put I weighted the different
+[11:20] areas of the world. So in the middle of the of the world is where you start and it has the lowest
+[11:27] sort of value treasures and then there's the mid game and then towards the end game and then
+[11:34] the final two dungeons have the highest chance of the best items. And like it's important to note
+[11:42] that this is only a chance. So like you could get a really really powerful item right in the beginning
+[11:51] or really really weak items towards the end. I think one of the fun things is that in the
+[11:57] next to the last dungeon in the original game there's this treasure chest that you have to like
+[12:03] go walking off the beaten path for and you open it up and it has in it the armor that is the
+[12:10] very first cheapest armor that you can buy from the first town which you always see it's really
+[12:17] fun to eat. And so some randomizers just stop here like the Pokemon randomizers I think generally
+[12:30] just do this which is great because like you can randomize which starters you have you can
+[12:36] randomize which roofs they the Pokemon learn or what levels they learn them you can then you can
+[12:42] start growing really extreme and be and change which Pokemon involve evolve into which other
+[12:49] Pokemon or like which types are strong or weak against other types you sort of really have to
+[12:56] adapt on the fly while you're playing. But like I said I really really enjoyed free enterprise and I
+[13:03] really liked that sort of open world feeling and so I wanted to be able to randomize how the
+[13:09] progression went. So this is the world of Final Fantasy 1 and when you start off you start in this
+[13:17] middle town at the bottom on this peninsula and the king of Cornelia is there and he is like my
+[13:24] my daughter is just been kidnapped please rescue her and so then you you do this and you kick off this
+[13:31] adventure if it brings you around the world on so so many fetch quests you go around and you finally
+[13:41] light all the crystals and you come back and you enter the final dungeon and save the world.
+[13:48] Oh spoiler but I told you. So these are the different things specifically are the different places
+[14:00] and people that you meet on the thing and so what I wanted to be able to do is I wanted to be able to take
+[14:06] each of the things that these people gave you or each of the things you find in these locations
+[14:13] and move them to other places and these are this information is not in like a nice little table
+[14:22] this is in these scripts that are there so scripts basically run things like this where they have
+[14:33] dialogue they have the sprite movement they can check and set plot flags as you go along
+[14:41] and you can and they can initiate battles like here so in order to to do this I need to be able to
+[14:54] update these scripts the nice thing is that the scripts are pretty easy to understand so
+[15:02] there is an upcode which is basically this is what the instruction does then there's a size and then
+[15:08] the parameters so even if I don't know what the instruction does and how big it is so I can get the
+[15:15] natch instruction so if I know only a few of the instructions I can still go through and sort of
+[15:21] reverse engineer the whole thing and so like this is the script that was just running
+[15:29] but all of the commands are unknown to us so one of the things that I could do is I could and when
+[15:36] I first tried this I just said okay well let me just go in and you know I know that like this is
+[15:45] the instruction that will set a plot flag and this is the instruction that will give a key item
+[15:50] and this is the instruction that checks for key items let me just leave everything alone except
+[15:58] change these around and so I tried it and it worked out pretty well but then I got to the first
+[16:06] script where it needed to be longer in the randomizer than in the original game and so I needed to
+[16:15] figure out a way to deal with this in a better way and so I thought about it for a bit and I thought you know
+[16:21] what would be the most reasonable way to do it if I can't just do this search room place well
+[16:28] let's make a programming language so we've got these so I decided to make this for
+[16:36] programming language and I decided to make it into parts essentially there's a disassemble and a
+[16:40] assembler and so you can point it at one of the scripts in the room and it will spit off the the
+[16:46] source code and then you can point the other thing to the source code and it will turn them back
+[16:52] into the bytes for the room so the first instructions I knew were the really important ones that I
+[17:00] needed like the end of the script loading dialogue because even though I remove most of the dialogue
+[17:07] because of how it doesn't really make sense anymore there's still like you receive this item or
+[17:15] that sort of thing I the instructions for setting the plot flags for checking the plot flags
+[17:24] and forgiving and taking items and then like I said I ended up discovering that there are
+[17:32] some of these scripts that are really really compact in the original game and so I needed to also find
+[17:39] and understand how the flow control worked and so there's like go to there's conditional jumps
+[17:47] and that's sort of thing really fun one was that the treasure chests aren't aligned the same
+[17:56] grid that the that the that the that the map tiles are and so if you put a treasure chest in in the
+[18:05] script you have to move it by three pixels which is why ended up learning that instruction so yeah
+[18:14] so let's take a look at some of these scripts so in the game there's actually be two sort of
+[18:21] sets of scripts that run one set of scripts runs when you enter a map and that sort of checks
+[18:28] your where you are in the game and set up the conversations for the NPCs and different like
+[18:37] cutscenes and that sort of thing that will happen so like for this one we've got this sleeping
+[18:43] and in the game you are supposed to bring the jolt tonic to the sleeping prince to wake him up
+[18:50] and when he wakes up he gives you the mystic key and so we go we the the script when you enter
+[18:57] the map says do you have the mystic key because if you have the mystic key then obviously you
+[19:01] walk up the prince he gave it to you and so you will not only have the mystic key so you can unlock
+[19:06] the treasure vault but you also should wake up the prince because the prince is obviously awake
+[19:12] if you don't have mystic key then the prince is asleep because you didn't give you mystic key
+[19:20] then and then you can check do you have the jolt tonic because if you're going to wake him up
+[19:25] then when you want to do as you want to change the script that's on the doctor there from
+[19:33] him telling you like oh please can we need to find something to to save our our our friends
+[19:40] and turn it to the script that says oh thank you for bringing me the jolt tonic here let's wake up the
+[19:45] prince and so that yeah this is how it works in the vanilla game but then when you get to the
+[19:53] randomizer it ends up being a little bit more complicated because you still want to check if you
+[20:00] have mystic key because there's still the treasure vault that's locked so if you have the mystic key
+[20:05] you need to unlock the treasure vault but you might not have gotten a mystic key from the prince
+[20:10] so you might have the mystic key but the prince might still be asleep because it might be the sword
+[20:17] the x-caliber the sleeping x-caliber and so but you so then you you have to check
+[20:24] it's the treasure vault locked and then you say oh did do you have the reward from this location
+[20:32] if you do then the NPC is awake and he gave you the the thing if not then you can check just
+[20:42] like in vanilla if you have the jolt tonic if you have the jolt tonic then you set up the same script
+[20:48] to wake up the prince so this is what these scripts work look like so and I was saying that you know
+[20:55] this sets up a script on the doctor to give the mystic key in the original version or like in this
+[21:03] case it would be the x-caliber so how does this script look so this script looks very similar
+[21:10] except it's typically very linear it's there's sometimes a few instructions that are like
+[21:17] if the warriors of light are facing you know laughter right or up or down then do these things
+[21:24] typically you to make it so that the so that they turn around and walk to a specific place
+[21:31] but otherwise everything is basically linear and so when I made these things I added these macros
+[21:38] so we have him here like give Luke cam reward because like in this spot this is where Luke
+[21:44] had would be in the vanilla game and so there's all of these instructions around it and then it has
+[21:52] this thing in there and what I do is I have a table that I made that says you know like if baama
+[22:00] is Luke cam or if if the if the person giving you the reward is baama then these are the
+[22:10] things to do so I need to set this specific plot flag I need to give this specific key item
+[22:17] in this case baama doesn't give you a key item and then if there are any other instructions
+[22:22] that need to run because in this case there's a special instruction that basically promotes the
+[22:29] words of light from like a fighter and a black belt to a a palletin and a master
+[22:39] and so what I do is I keep these and I turn them into the commands and then I just insert the
+[22:48] commands in that macro and then boom everything works and so yeah this ended up working out really
+[22:57] well I talked way too fast. Yeah so the game worked out really well I we played it with some people
+[23:13] we it was tuned on Twitch a couple of times and it's open source if you want to grab it it's on
+[23:22] GitHub it's called HMS Jane if you just search for that but there are other there are many
+[23:29] many other types of randomizers there are randomizers as I said there's fun of how to see for
+[23:35] if I'm the original of how I'm not gonna see there's one for the NES version of fun of how to see
+[23:41] and there's also randomizers for sort of modern game more modern games like
+[23:46] an Elvin ring Hollow Knight and that sort of thing I think there's a really good randomizer
+[23:51] that's for Breath of the Wild but I'm not entirely sure how to run it but yeah this QR code
+[24:03] goes through the big list of the O-B-Rounderizers and yeah that's about it and I will take
+[24:13] questions in the Q&A tent and now I'll answer the first question so when you're randomizing things
+[24:28] how do you make it make sure that like you don't like put the mystic key into the box that has the
+[24:35] mystic key the E-N-E-T-On lock and the answer is that you use a constraint solver and I have this one file
+[24:44] that has like these are the things that this this lock requires these keys to unlock so like you can't get to
+[24:54] provokan unless you have a chef and that's sort of thing and there's a program called Klingo they just
+[25:00] solves that and spits out in a nice little json on object that I use
+[25:06] like
+[25:12] you

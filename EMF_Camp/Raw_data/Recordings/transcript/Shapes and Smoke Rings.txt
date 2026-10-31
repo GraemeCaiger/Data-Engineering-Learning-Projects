@@ -1,0 +1,765 @@
+[00:00] I'm going to introduce myself quite slowly so that we can allow a few more people to come in as few more people on the way I think.
+[00:22] I think probably before I tell you anything about shapes and smoke rings which is what we will be doing this afternoon.
+[00:28] I'm going to tell you a little bit more about myself. Probably the easiest way of understanding who I am is to say I'm a mathematician,
+[00:34] which means by study maths at school and then I went to university and I studied maths and I've done some things with maths since.
+[00:40] And now I spend a lot of my time actually I spend a lot of time in schools and at various other places science vessels, this kind of thing.
+[00:47] Just showing people the bits of maths but I think is most fun and exciting which is really great fun.
+[00:52] So it's really lovely to be here on this. I'm so glad it's slightly cooler now than it has but it's just perfect whether it's brilliant.
+[00:59] So it's very exciting to be here. So that's me. I've done a little bit on number five.
+[01:04] It's a YouTube channel about maths and very occasionally on BBC Radio 4.
+[01:10] I imagine none of you are listening. That's fine.
+[01:12] And shapes and smoke rings is I actually have to still don't think I'm going to tell you too much about it. So we've warmed our brains up a bit.
+[01:18] Actually, that's not the right phrase as it warmed up. We are already warm. We've woken our brains up a little bit with a puzzle.
+[01:24] So I'm going to give you a puzzle and your job is to your job is to wait for me to put my click on there.
+[01:30] Your job is to see if you can join up identical symbols on the screen with a line.
+[01:36] However, there are some rules. The rules are that those lines cannot cross each other.
+[01:40] And they also cannot leave the box. So you can see that that green one is right down against the edge of a box.
+[01:45] It's there for a reason you can't go round it. You also can't go over the shapes as well.
+[01:50] And actually the question I've got for you is do you think this puzzle is possible?
+[01:57] Or do you? I don't want to know now. I do rule one. Hands up.
+[02:01] No, I'm not in school. It's fine. So the question you're going to have a minute to think about it and talk to person next to you.
+[02:05] Do you think this puzzle is possible? Would you think it is not possible?
+[02:09] I'm going to give you a minute to think about it. You don't have to draw it. You can just do this kind of thing if you want to.
+[02:13] A minute or two while we wait for more people to come in, have a go. What do you think?
+[02:17] Possible. Possible. We'll have a chat. That's fine.
+[02:19] Chaps the person next to you.
+[02:22] Even if you don't know them.
+[02:31] Okay, come in. Welcome. Don't worry. You're not late. It's fine. Just fine.
+[02:36] So I'm saying, you might make sense. There's not many of you. My expenses sit round here.
+[02:40] You can hide at the back if you want to.
+[02:44] But yeah, probably make sense. You've got an ice lollipop. That is exactly what I need.
+[02:49] Oh my gosh. I'm jealous now. Right. We've got people thinking to the puzzle that people are thinking about.
+[02:54] People who've just come in. Is they are trying to work out or decide whether you think this puzzle is possible?
+[03:00] Or not possible. We're linking up identical pairs without lines crossing and the lines can't leave the box.
+[03:09] So we think it's possible. I think what we will do. You've got ten seconds to make a decision you three.
+[03:14] We're going to do a hands-up vote. I can literally count you also. No one's getting out of voting.
+[03:19] I know if you're voting on up. Everybody's got a vote for you.
+[03:22] The possible or not possible. For this puzzle, we'll see what you think.
+[03:26] It's a grown-ups too. You do also have to vote. So hand up if you think that this is impossible.
+[03:31] If you think this puzzle is impossible, a two-hand's over there. This person is extra sure.
+[03:37] But it's not everybody I don't think. Hand up if you think it's possible.
+[03:40] You think this puzzle is possible. There are about three or four who think it is possible.
+[03:43] And I would say that sort of 20% versus 80% 80% impossible.
+[03:48] And you know when I ask people this question, that's what people normally say.
+[03:51] The normally say to me, yeah, I don't think this is possible.
+[03:53] And when I first saw this as an adult, right, in a mathematician, not very long ago,
+[03:57] I thought it was not possible. But in fact, as some of you might have spotted,
+[04:01] there is indeed a solution. There is a way of doing it.
+[04:04] Just quite nice, quite satisfying isn't it? Yes, quite surprising.
+[04:08] And there's a reason, there's a reason that I start this talk with this puzzle.
+[04:13] And in order to explain that reason, I am going to show you a much easier puzzle.
+[04:18] Now, so it's exactly the same rules as last time. But it's much much easier.
+[04:22] And this time, you don't need to say anything. I just want you to put your hand up when you see a solution.
+[04:28] So soon as you see a solution, you can have a stretch and put your hand up again.
+[04:32] Even adults, thank you very much growing up as well, bringing really good stuff.
+[04:35] Yeah, this is really easy, isn't it? You're probably thinking, why should you give us something so easy?
+[04:41] And there is a reason for that. So I am going to move this blue one a bit.
+[04:45] You don't have to do anything now, I'm going to move it. And I think you'd still tell me that's fine.
+[04:49] Wouldn't you? You clearly just have to bend the lines a bit.
+[04:51] And even if we move it down here, it's the same thing, right? And I think mathematically it's the same puzzle.
+[04:56] We've just had to stretch things a bit. The way it is connected is the same.
+[05:00] And actually, if we move it down here, that's the same thing.
+[05:03] This is also even the same thing. It's totally doable. So is that.
+[05:07] So is that? What's that one? Somebody younger than 18. What's that one?
+[05:14] Is that the really tricky one? That's the really tricky one we saw at the stars, isn't it?
+[05:18] And the point that I'm trying to make is that the really easy one and the really difficult one, they are essentially their the same puzzle.
+[05:24] Right? Mathematicians will say they're the same. We've just had to stretch things a bit.
+[05:28] And there's an area of maths called topology, which some of you will know about.
+[05:32] And some of maybe the ones that have you that are a bit younger, maybe if you go to university and study maths, you will meet it.
+[05:38] And it's essentially it's all about shape and it's all about what kind of what stays the same when we stretch and we deform shapes.
+[05:46] And really topologists, they're really interested in how things are connected, not really where they are.
+[05:52] It's not really where they are in space, not really what they looked like, but how things are connected.
+[05:56] And we're going to dip our toes into a little bit of topology and add some other fun stuff in this talk.
+[06:03] And we're essentially, it's kind of an excuse for me to show you my top three shapes.
+[06:09] Right? So I've got, I mean, I've got a top ten shapes, but we've not got all day.
+[06:13] Right? So we're just going to go top three shapes, third favourite work our way up towards my ultimate favourite shape.
+[06:20] It is more exciting than I'm making it sound.
+[06:22] And in each case we're going to look at the properties of the shape a bit like a topologist.
+[06:27] And actually before I do that, before I conclude this,
+[06:30] when as soon as I put this puzzle up, even before it asks the question,
+[06:33] some people went, oh, it's impossible and they're very certain.
+[06:37] There was even somebody with two hands up which is extra certain.
+[06:41] Yeah, you're over there. And you know why I think that is, I think that's because you might be confusing it with the very famous puzzle.
+[06:48] There's a very famous puzzle which is a bit different, which asks a slightly different question.
+[06:52] It says, instead of can you join each identical symbol, it says,
+[06:56] can you join, say, the top blue one, can it be joined with all three at the bottom?
+[07:01] And can the top green one be joined with all three at the bottom and the same for the yellow one.
+[07:05] Without lines crossing. Like for example, this is the blue one,
+[07:08] and have to go with all of those ones at the bottom and then all the green and the yellow.
+[07:11] And that is not possible without lines crossing. That is not possible on a flat surface.
+[07:17] Although you might be looking at it now, not recognizing it because usually it's kind of,
+[07:23] it's kind of shown to us in a slightly different form. So usually it's shown to us like this as the utilities puzzle.
+[07:28] And the idea is can you join each house with the three utilities that it's needs?
+[07:33] Not possible on a flat surface, however, here we go, possible on the surface of a mug.
+[07:38] And so if you want to children, you need permission from your parents.
+[07:41] If you want to get a mug from your cupboard at home and a dry wipe pen, you could draw the little symbols on.
+[07:45] You could see if you can work at how you can do the puzzle without lines crossing.
+[07:50] It's also possible on the surface of a doughnut.
+[07:54] They are topologists, they are the same shape.
+[07:57] Because I said what they care about is how things are connected.
+[08:01] And these two shapes are connected in the same way.
+[08:05] If you took the cup and you kind of, imagine it's Play-Doh, imagine it's plus to see.
+[08:10] Imagine you remold it. You don't have to cut it. You don't have to,
+[08:13] if you have to do any cutting or sticking and you can remold it into the doughnut.
+[08:18] So it's connected in the same way toologists say they are the same shape.
+[08:22] So you do that again, I quite love it, it's going back again, that's nice.
+[08:25] I find that very satisfying. Anyway, to do go and do that's an extra challenge.
+[08:28] Massage, you can buy one line, I don't work for Massage, I'm just showing you that because you might be interested.
+[08:33] Or you could just draw it on yourself, that would be equally fine.
+[08:37] However, we are going to crack on with my three favorite shapes, my third favorite working away towards my ultimate favorites.
+[08:44] And actually, the third favorite allows us to do a particular magic trick.
+[08:51] So I am going to describe the trick, then you can all have a go at the trick.
+[08:56] Ooh, that should not, that's fine, really good.
+[08:58] And then I'll explain what it's going to do with Mass.
+[09:00] And if you think you've seen this trick before, then just kind of keep very still like that, like a statue.
+[09:07] While I'm describing it, once I finish describing it, you can all have a go go wild, that's fine.
+[09:12] Right, so your job is to try and get your arm from this position. So that position.
+[09:17] And without just turning it over, that's very easy. That's not a trick.
+[09:20] You have to kind of pretend that your arm is like in a cast.
+[09:23] Okay, so it's broken, you can't rotate your wrist. That's not okay.
+[09:26] You are welcome to rotate your elbow. That's completely fine.
+[09:29] You don't need to do backstroke. Anything that looks like a swimming stroke is not a solution.
+[09:35] You don't need to get out, you'll see, don't do anything with not risk assessed.
+[09:38] Right, so if you can do it, so from this position to that position without turning it over,
+[09:43] off you go, woman, it's all about the next year. So if they can do it, everyone can have a go.
+[09:46] Everyone have a go.
+[09:47] While I drink some water.
+[09:50] It feels like you're all waving at me in a kind of mathematical way, which is nice.
+[10:01] So this bizarre.
+[10:05] Hmm, got some solutions in the room. And we've got some people really trying hard to work out the solution, which is nice.
+[10:11] We've got even some grown-ups who are really unsure what to do.
+[10:17] Okay, see if I've got anyone who's done it. I think I saw someone over here who might have done it before.
+[10:22] So how to do it. Can I see anybody? I can see some people I recognize who might know how to do this, which is nice.
+[10:28] And some people are don't recognize what we all do.
+[10:30] We do it all together. Right? Do you want to read just, I think there's at least one or two people who've worked out how to do this.
+[10:35] Let's do it all nice and slow together.
+[10:38] We'll do our part, our part, our part, our part and face up like this.
+[10:42] And we'll start by doing a 90 degree bend at our elbow. So I think you tip supporting upwards.
+[10:48] Like this, lovely. It's so nice. You might, my maths robots is lovely watching a room full of people doing the same thing.
+[10:54] Lovely. Then we're going to do another 90 degree bend. So we're going to tip supporting across our bodies like that.
+[10:59] Yeah, that's going to hurt. Don't do that. That way.
+[11:03] And then you're going to do another 90 degree bend at your elbow. So you're finger tip supporting this way.
+[11:08] And then lots of you've worked out what to do. Just the same thing again.
+[11:11] Yeah, up to the top. Over the sides. Round the front. There you go. Do you want to have a little practice?
+[11:15] Yeah, super fun. Up to the top. Over the sides. You can do both arms. Can I know what I'm trying both arms?
+[11:23] Same time. If any of you are going to be dancing later on, this is the dance to be doing.
+[11:28] I'm going to be looking out for it on the dance floor. Yeah, we've got someone doing two arms there. I love it.
+[11:33] Excellent stuff. Right. So this is good fun. But somebody is probably thinking,
+[11:37] I thought this is about maths, where's the maths in this. So we'll have a little thing.
+[11:40] So essentially, when I'm doing this trick, the shape that I'm thinking of is a sphere.
+[11:45] Right, a spherical shape. A sphere because when you're doing this trick, you can imagine that your elbow is the center of the sphere.
+[11:51] You can imagine that your fingertips are always on the surface, always on the very surface of the sphere.
+[11:57] It's like your fingertips are tracing out a path on the surface of the sphere.
+[12:02] And the distance, of course, from your elbow to your fingertips, it doesn't change.
+[12:06] Right, when you do the trick unless you break your arm or something, that's always the same.
+[12:09] And of course, that's the same for a sphere. Right. So a ball shape for people a bit younger.
+[12:13] And so the distance from the center of the sphere to the surface of the sphere is always the same.
+[12:19] Right, it's always the same distance. I mean, that's the definition of a sphere really, isn't it?
+[12:23] So that's what's going on. And so I say, yes, it's a sphere, while showing a picture of not a sphere on the screen,
+[12:29] because as you might know, the Earth, not a sphere. But not far off, not far off.
+[12:34] And it makes a nice images for what we're going to do. So we're going to pretend, if that's okay with everybody,
+[12:39] we're going to pretend that the Earth is a sphere.
+[12:41] And we're going to imagine that you've dipped your fingertips in some pink paint, and they start here, kind of on the equator,
+[12:46] off the west coast of Africa there. And let's just see what this path looks like that we've just done with our fingertips.
+[12:52] So we're going to go up towards the North Pole, so it looks something like this.
+[12:56] And then we're going to go 90 degrees over towards the east. So then it's going to go over there.
+[13:00] Then we're going to do another 90 degree bend. So we're drawing up that pink triangle.
+[13:04] And then we just went over that pink triangle again, job done.
+[13:09] Now, one or two of you might have been listening really carefully.
+[13:13] And you might have heard me say 90 degree bends, 90 degree bends, 90 degrees.
+[13:18] In other words, right, those three, the three angles in that pink triangle, they are all 90 degrees.
+[13:24] Now, I am sure that there are lots of you who are very long time ago, learn something at school about triangles and angles inside.
+[13:32] And there are some of you maybe who maybe, I don't know, you maybe haven't, you maybe you've teachers may have told you by now, who knows.
+[13:37] But if they haven't, they will do soon. And if you're thinking about 180 degrees,
+[13:41] you go to school and they say, right, the angles inside a triangle add up to 180 degrees.
+[13:45] And then you see this and you're like, how on three times 90, that's two, 70, what's going on.
+[13:50] And essentially, as lots of us probably know, if you take a triangle and you draw it on something that is curved,
+[13:56] it's spherical like that, it's not a flat surface.
+[13:59] Then you'll get more than 180 degrees. Essentially, the rules of geometry just completely change.
+[14:05] So if you're not on the flat surface, everything goes a little bit wacky.
+[14:08] Right, there's some fun stuff about parallel lines.
+[14:11] I'll be a formative, you'll be reminding you of like maths degrees, I imagine now.
+[14:14] But anyway, geometry of a flat surface, very different from the geometry of something that is curved.
+[14:19] And so we draw a triangle and we get more than 180 degrees.
+[14:23] And so the 180 degrees only works for a flat surface.
+[14:26] And actually, if we drew a triangle on something that curves the other way, like that, then we're going to get less than 180 degrees.
+[14:33] And that's kind of what I like, I like this bit, because it allows us to do this trick.
+[14:38] This is what you're doing with your fingertips.
+[14:40] When you're doing this trick is you are effectively your drawing a triangle with more than 180 degrees in it.
+[14:48] And occasionally, one or two people have seen this trick and it frustrates me.
+[14:53] And do you know why they've seen it?
+[14:55] They've seen it on TikTok or some other social media.
+[14:58] Occasionally young people, I show this too, though.
+[15:00] I have seen that. And do you know what it's just?
+[15:02] So it went viral on TikTok a couple of years ago.
+[15:05] And they didn't do the maths.
+[15:07] So all these people around the country doing this trick, having no idea that what they were doing was drawing a triangle with
+[15:13] 390 degree angles and it more than 180 degrees.
+[15:16] So I thought we'd go to do the maths and go to do the maths of the viral trick in the talk.
+[15:20] So that's why I like this bit, really.
+[15:22] We are, however, we're going to, I say we're going to move onto my second favorite shape.
+[15:27] I say that.
+[15:28] But actually just before we do that, I'm going to address the elephant in the room, the question in the room.
+[15:33] Because they will be one or two people who are thinking, but that's not a triangle.
+[15:37] Because it's probably you, because those lines are not straight.
+[15:41] They look kind of curvy.
+[15:42] I've been told triangles got straight lines.
+[15:45] This one in particular, people are not happy with that.
+[15:48] So the definition of a straight line is the shortest distance between two points.
+[15:54] And if you wanted to go from, is it just north of Australia?
+[15:58] Yeah, whatever.
+[15:59] If you want to go from there to the north pole, I mean, you would just go do north.
+[16:03] Right?
+[16:04] That would be the shortest way to do it.
+[16:07] You just go do north.
+[16:08] So that is the shortest.
+[16:09] I mean, I've icey don't, lot of sea in the way.
+[16:11] It took a really long time.
+[16:13] But that is what you would do.
+[16:14] So that is the shortest route.
+[16:16] It just doesn't look like what we're used to straight lines looking like.
+[16:19] But it is a straight line.
+[16:20] It's something called a G-A-D-Z.
+[16:22] If you're interested in kind of like, you know, why do airplanes not fly?
+[16:25] What looks like a straight line?
+[16:27] Why do they fly up towards the poles?
+[16:28] There's all sorts of interesting stuff in that.
+[16:30] It all connected.
+[16:31] So this is a straight line on the surface of the sphere.
+[16:34] So they are straight lines.
+[16:35] It is a triangle.
+[16:36] It does have 270 degrees.
+[16:39] But we are going to move on swiftly on to my second favorite shape.
+[16:45] Here we go.
+[16:46] Just not this.
+[16:47] This is a rectangle.
+[16:49] Some of you have seen that before.
+[16:50] I imagine.
+[16:51] But if I take my rectangleist a paper and I do it.
+[16:56] I do this under the camera so you can see what I'm doing.
+[16:58] So I take my rectangleist a paper and I get some sticky tape or some glue, some
+[17:02] cellar tape and I do this kind of thing.
+[17:05] And I stick my cellar tape there.
+[17:07] Then I get a loop.
+[17:08] Maybe I'll call it a loop.
+[17:10] I think some of you might call it cylinder without end.
+[17:13] That's fine.
+[17:14] And it's kind of nice.
+[17:15] But actually also still not my second favorite shape.
+[17:18] But if just before we sell it, if we take one end and we turn that end over.
+[17:25] And then we sell it a bit.
+[17:27] Then we get my second favorite shape, which is the Mobius loop.
+[17:32] So it's like a loop with a little twist in it.
+[17:34] It's called the Mobius loop.
+[17:36] There we go.
+[17:37] And here's one of my earlier.
+[17:38] And true, Blue Peter's style.
+[17:40] There we go.
+[17:41] And actually to think about the Mobius loop.
+[17:43] And finally it was interesting.
+[17:44] We're going to really quickly whiz back to the normal loop.
+[17:47] Right, standard loop.
+[17:48] And I want you in your head.
+[17:49] So just imagine.
+[17:51] You can just keep it in your head.
+[17:54] Not that you're being rowdy in any way.
+[17:56] But don't shout out.
+[17:57] I'm joking.
+[17:58] All right.
+[17:59] So take a pair of scissors.
+[18:00] And we can imagine I'm cutting a line down the middle all the way around.
+[18:04] Just in your head imagine what you would get.
+[18:06] Can you nod at me if you are imagining two loops that are half the width of the
+[18:12] Thank you for two people nodding three people.
+[18:14] We've got more people nodding.
+[18:17] Some really gentle nods from the grown ups over there.
+[18:20] Thank you very much, excellent.
+[18:22] So that's what we'd expect right.
+[18:23] So that's what we imagine to happen for the normal loop.
+[18:25] So we are going to do that.
+[18:26] But we're going to do it for the twisty loop, the Mobius loop.
+[18:30] Because there is something interesting you can do with the two loops that you end up with.
+[18:34] The two halves that you get.
+[18:35] And if you do this at home, young people or even older people.
+[18:40] What I advise you do is you make a little fold like that.
+[18:43] And you do a little cut into your folds.
+[18:46] And then you get your scissors in there.
+[18:47] Because I have seen people even, even adults going kind of wild and it all just goes wrong.
+[18:51] So be real careful.
+[18:52] And you just got to start cutting down the middle.
+[18:54] It's a little bit fiddly.
+[18:56] You might have to turn it over.
+[18:57] You've got quite a lot of sell it up to go through.
+[18:59] Oh there we go.
+[19:00] My scissors have got stuck already.
+[19:02] There we go.
+[19:03] And I've got super scissors.
+[19:04] Okay, cutting on this side all the way around.
+[19:05] And we'll get our two loops.
+[19:06] And we'll see what we can do with it.
+[19:08] So I'm cutting it all the way down the middle.
+[19:10] We'll get our two loops.
+[19:12] Huh?
+[19:13] What?
+[19:14] Did I not just cut that down?
+[19:19] Did I cut that down the middle?
+[19:20] People at the front were you watching?
+[19:22] Did I ever drop to bed?
+[19:24] Is there a bit on the floor?
+[19:25] No.
+[19:26] I don't know what's going on.
+[19:27] That's weird.
+[19:28] Isn't it?
+[19:29] It's kind of fun, isn't it?
+[19:30] I imagine for some of you, this is not the first time you've seen that.
+[19:32] But we can pretend that it is, right?
+[19:34] And at the time, the first time that you see this,
+[19:36] it's a, you know, just blew my mind the first time I saw this.
+[19:39] And I was like, you know, I'm going to do this.
+[19:42] And I'm going to do this as far as my acting skills go.
+[19:45] This is what happens when you cut the movie a loop down the middle.
+[19:48] You just get this one big loopy thing.
+[19:50] So I guess it's the shape you can't cut in half if you cut it down the middle.
+[19:54] Now, if the penny has not dropped us the wider happens, the thing to do when you go home is before you cut your,
+[19:57] I'll just show you how to do it again, actually.
+[19:59] If you want to see so just before you sell it, take one end, turn it over and then sell it.
+[20:04] And just before you cut it down the middle, the thing to do.
+[20:08] It's to take your pen and start drawing this as a line on.
+[20:12] And start drawing on one side and keep going all the way around until you get back to where you started.
+[20:17] And you will notice that without trying to, you will have ended up drawing on both sides of the piece of paper.
+[20:25] Now, I've not done all of it. I've only done a bit of it, but there we go.
+[20:28] So without trying to draw on both sides of the piece of paper.
+[20:31] Now imagine if you did that for the normal loop, right? The standard one.
+[20:35] There's no way that you're going to draw on the inside, unless you deliberately go over the edge.
+[20:40] And that's kind of why this happens.
+[20:43] So I think if you draw this as a line on, this kind of being on both sides at the same time thing is really important.
+[20:49] So draw this as a line on.
+[20:50] Notice you're on both sides at the same time.
+[20:53] And actually what topology is say is they say the Mobius loop has only got one side.
+[20:58] Right? That's it's special property.
+[21:00] This being on both sides at the same time.
+[21:02] It's only got one side.
+[21:03] So draw the line on very slowly cuts.
+[21:06] And the penny might drop. You might begin to see why we just ended up with the one big loop.
+[21:11] So I do like the Mobius loop very much.
+[21:14] It's my second favorite shape.
+[21:16] But it does get a little bit better than this.
+[21:18] Right? So we can do some slightly more fun stuff with it.
+[21:20] And in order to explain the really fun thing, I'm going to have to very quickly
+[21:25] with back to the normal loops.
+[21:27] Can you see here?
+[21:28] So we've got two normal loops and they are cellulate two loops.
+[21:32] I shouldn't call them normal. Those two loops and they are cellulate types at right angles.
+[21:36] At 90 degrees you can see it's like a right angle gap there and there and that kind of thing going on.
+[21:40] And what I am going to do is I'm going to cut this one down the middle all the way around.
+[21:45] And I'm going to cut this one down the middle all the way around.
+[21:48] And we will end up with one thing.
+[21:50] So just like last time it will be one big connected thing.
+[21:53] And it is your job with a person next to you to decide what shape you think about.
+[21:57] And you have to shape you think it will be.
+[21:59] And you have the time it takes me to cut this up.
+[22:01] So if you go I will cut this one up.
+[22:03] And what shape will we get?
+[22:05] You may you may speak.
+[22:07] To each other. Right. So do this one first.
+[22:15] Oh, it's frozen. It's not happy. I'm doing things.
+[22:18] But the camera is not telling me I'm doing things.
+[22:20] Okay, that's better.
+[22:21] So I'm cutting down the middle.
+[22:23] I'm just in the doing the first one.
+[22:25] Oh, the way around down the middle.
+[22:27] Okay, we are halfway. We are at the halfway point here.
+[22:31] There we go just about.
+[22:33] And I'll say watch. I take a guess.
+[22:35] I'm going to take guess from anyone under 18.
+[22:37] And it's like the reverse of a pub.
+[22:39] So if you're under 18, you don't have to show ID.
+[22:43] If you want to have a guess at what shape you think we will get.
+[22:46] When I cut this second one down the middle.
+[22:48] So I'm going to cut this second one down the middle.
+[22:50] What shape do you think we might end up with?
+[22:53] Do you want to have a go?
+[22:55] I'm going to line.
+[22:56] You don't have to.
+[22:57] So we've got Mobius Loop.
+[22:58] I'm going to take three different guesses.
+[23:00] Maybe two. There are only two people under 18.
+[23:02] We're going for two different guesses.
+[23:03] What's your guess?
+[23:05] Maybe a circle.
+[23:08] Because we've got Mobius Loop.
+[23:10] We've got the guess of circle.
+[23:11] We've probably got some other guesses in our heads.
+[23:13] We will see.
+[23:14] We will see what we end up with.
+[23:15] And I'll tell you what's interesting is this is the last one I've got to do.
+[23:18] So this is going to be a line of symmetry.
+[23:21] And that's going to be a line of symmetry isn't it.
+[23:23] We saw some right angles at the start.
+[23:25] So that might give us a little bit of a clue.
+[23:27] So when you do this at home, you take two normal standard loops and you cut them down the middle all the way around.
+[23:34] I should probably do it that way.
+[23:36] Then you get two normal loops.
+[23:39] That takes up right angles.
+[23:41] Cut down the middle all the way around.
+[23:43] You get a square.
+[23:45] There we go.
+[23:46] That's quite nice isn't it?
+[23:49] It's quite lovely.
+[23:50] I find that very satisfying as a square.
+[23:52] It's lovely.
+[23:53] And actually, did you see when it was all cellotapes together?
+[23:56] It looked like a cross shaped and we saw.
+[23:59] We saw four right angle gaps.
+[24:02] And you can you see where they've gone?
+[24:04] One, two, three, four, boom.
+[24:06] Nice.
+[24:07] So it kind of makes sense.
+[24:08] But it does get a little bit better than this.
+[24:12] It gets a little bit more exciting.
+[24:14] And because if instead of having two normal loops and cellotaping those at right angles,
+[24:22] if we take two mobius loops, that's the twisty ones.
+[24:27] And we cellotate those at right angles.
+[24:29] And this is really important.
+[24:31] You have to twist one of them clockwise and the other one anti clockwise.
+[24:36] Right.
+[24:37] Can you remember that?
+[24:38] So twist one of them clockwise, one of them anti clockwise.
+[24:40] If we take those two mobius loops and we cellotate those at right angles,
+[24:43] and we cut both of those down the middle, then we get what is quite possibly the most romantic shape in maths,
+[24:51] which is nice.
+[24:52] Two hearts that are in cellotin.
+[24:54] Which is lovely.
+[24:55] And actually, you can see, can you see the right angles at the bottom of the heart?
+[25:01] And the right angles in the kind of any bit of the top.
+[25:04] There's probably a technical term, but I don't know.
+[25:07] That's your four right angles.
+[25:09] And actually, they're pointing in different directions because of the twists.
+[25:12] That we put into the mobius loops.
+[25:15] The interlinking bit, others, I'll let you go and think about that, that's tricky.
+[25:18] Anyway, so really lovely.
+[25:20] So I would love it if some of you go home and try that.
+[25:22] And actually what I've done for the adults in here who get easily confused,
+[25:26] I've made a worksheet.
+[25:27] Right. So I've made an instruction sheet.
+[25:29] I'm going to give you a link at the end.
+[25:30] So if any of you families or anyone else wants to feature,
+[25:32] maybe I don't know.
+[25:33] I want to go home and do this with somebody.
+[25:35] Please do.
+[25:36] I'd love it if you did.
+[25:37] You've got how long have we got now?
+[25:38] Seven months to practice a Valentine's Day.
+[25:40] If all you have to do right,
+[25:42] paramobius loops and appearances is job done.
+[25:44] Very easy.
+[25:45] Right. So that's the mobius loop.
+[25:46] We're going to move on.
+[25:47] It's not my favorite shape.
+[25:48] My favorite shape is something to do with this.
+[25:52] It's not this.
+[25:53] This is a cylinder.
+[25:54] We've seen that already.
+[25:55] But if I stretch out my cylinder,
+[25:58] and I join up the ends,
+[26:00] what do I get to say out loud if you want,
+[26:01] what do I get?
+[26:02] If I join anyone at all, anyone can say,
+[26:05] what do I get if I stretch it out and try and join these ends up?
+[26:09] Don't know, tourists.
+[26:10] We've got all sorts of words.
+[26:11] You want to go for it?
+[26:12] Yeah.
+[26:13] A circle.
+[26:14] Some really nice guess.
+[26:15] A circle is a really nice guess.
+[26:16] Because what you've done in your head is you've imagined.
+[26:18] You've imagined exactly the right shape.
+[26:20] You've probably imagined the circle shape.
+[26:22] But because it's three dimensional,
+[26:23] rather than flat,
+[26:24] we're going to give it a different name.
+[26:25] Somebody said don't know,
+[26:26] which I mean you are nothing if not predictable.
+[26:28] That's fine.
+[26:29] So it sounds joking.
+[26:30] If you said don't know,
+[26:31] or you thought don't know,
+[26:32] you're brained the right thing.
+[26:34] Well done.
+[26:35] But we don't call it a don't.
+[26:36] But just we've heard from differentsized bellows.
+[26:40] So if I keep it there's a lot of joy.
+[26:42] I mean,
+[26:42] which we made by many people at the time of putting on or various form of
+[26:46] separating them,
+[26:48] we erased and brought them away.
+[26:50] But this game doesjo
+[26:51] we mean well,
+[26:53] we may be reduced,
+[26:54] it may be reduced to minor,
+[26:55] but we opposed to it.
+[26:56] It must have been nice to hold people
+[26:56] and throw them away,
+[26:59] but like in a voice or a crowd throw them away.
+[27:01] There were really a lot of people for it.
+[27:02] And there Trump has come from the early er's
+[27:03] series of difframents.
+[27:04] different shape it would have different properties.
+[27:06] And so we're going to see that, so that's what we're going to do.
+[27:09] And essentially, your job will just be to enjoy it,
+[27:12] which is nice and easy job.
+[27:15] And in order, I'm sure, I'm going to do the rules anyway,
+[27:18] because I just always do, but I'm sure it won't be an issue.
+[27:21] But in order to allow other people to enjoy it,
+[27:22] just make sure you don't put your hands up,
+[27:24] don't disrupt it, and we'll see how far we can get this
+[27:27] tourists of smoke to go.
+[27:29] If we can get it to, it's quite warm in here,
+[27:32] and a bit worried it might move up.
+[27:34] But if we can get it to the big metal things in the middle,
+[27:38] as probably a better word for that as well.
+[27:40] But the big thing in the middle, that is great.
+[27:42] That's like round of applause, worthy.
+[27:44] If we can get it beyond that, that's incredible.
+[27:47] If we can get it towards the camera,
+[27:49] I don't think I'll get it right.
+[27:50] And might get it to the back, I'm not sure,
+[27:51] if we can get it towards the camera, that is just
+[27:53] go wild, that being credible.
+[27:55] So that's the idea that's what we're doing.
+[27:58] So you know, so I'm calling it smoke,
+[27:59] because that's the easiest word to say.
+[28:01] But it's inert, so it's not really smoke.
+[28:04] It's kind of, it's like a sugary solution,
+[28:07] and a heating element, and it kind of breaks down
+[28:09] to make it look like a smoke effect.
+[28:12] So it doesn't affect anybody with asthma,
+[28:14] and we should be all good.
+[28:16] I think we are almost ready to go.
+[28:19] And we will see it float across the room,
+[28:20] we'll see it hold its shape.
+[28:22] And after we've had a go at this,
+[28:24] then we will think about the reasons why it is so stable,
+[28:28] and why it holds its form really, really well.
+[28:32] And I'm just like an identified,
+[28:33] we've got a camera there, we've got a camera there.
+[28:34] I wonder if I can get one to that camera,
+[28:35] one to that camera, that would be brilliant.
+[28:37] Right, off we go.
+[28:38] So let's get these smoke toruses to riddle vortexes in action.
+[28:50] Okay, right, we ready.
+[28:51] So let's go to the middle.
+[28:54] Three, two, one.
+[28:56] Ooh, it's gone down, not up.
+[28:59] Interesting.
+[29:00] There we go, nice.
+[29:02] Thank you.
+[29:11] Okay, let's try another one, let's see if I can go
+[29:12] a little bit further this time.
+[29:14] Let's go this way, ready.
+[29:17] Three, two, one.
+[29:21] Why is going down?
+[29:23] Oh, there's just so going,
+[29:26] it's almost getting there, it's not too bad.
+[29:29] Let's go across the room.
+[29:30] Oh, lovely.
+[29:37] Let's go across the room.
+[29:39] Let's try and go this way.
+[29:41] Ready, three, two, one.
+[29:45] Ooh, that was less good.
+[29:46] We'll try that one, oh, nice, still kind of there.
+[29:48] It's kind of there, isn't it?
+[29:49] Fluttering around.
+[29:51] We'll do another one a little bit,
+[29:52] having a little break, and then we will try,
+[29:55] and we'll try and do a couple more in a second.
+[29:57] So we have seen, did it get to the back
+[30:01] of one whenever it went move?
+[30:02] Did it actually?
+[30:03] Kind of almost, not bad, it's a big room.
+[30:05] I think we did very well, it's a big room.
+[30:07] Right, so what you've seen is you've seen my smoke cannon,
+[30:11] that's this thing, it's a garbage waste basket,
+[30:13] in case any one is interested to make your own garbage
+[30:16] or a great spasket, and this hole is covered with tarp all in,
+[30:21] the hole that's in the basket, and this hole,
+[30:23] I cut in, because you need a little bit of like a margin,
+[30:27] essentially, so I cut that hole in.
+[30:29] So if you want to make one yourself, that's what you do.
+[30:31] And this tarp all in has to have enough gifts
+[30:32] so you can give it a good, odd, whack in it,
+[30:34] all, it will create the smoke ring.
+[30:36] And actually what's happening is you saw me punch the back
+[30:39] of the smoke ring, and what I was doing
+[30:41] was I was pushing the smoke, that orange stuff,
+[30:45] and towards the hole at the front.
+[30:48] And essentially, the smoke that is in the sensor
+[30:51] of the circle is a higher pressure than the smoke
+[30:55] around the outside, and what that does
+[30:57] is it means that it pushes the other smoke out the way,
+[30:59] kind of like this.
+[31:00] If my arm could carry on, I'd make a little circle like that,
+[31:03] so what we've got is kind of at every angle.
+[31:06] Around the circle, we've got a little circle being formed.
+[31:09] So the smoke particles are basically making a circle.
+[31:13] So that's that, a circle of circles.
+[31:15] But we are going to try and give it one more go to see
+[31:17] in real life.
+[31:17] Let's see if we can do it again.
+[31:18] So that last one, I was not happy with that last one.
+[31:20] We're going to do that one again.
+[31:22] See how far we can get it to go.
+[31:28] Let's try and do another one.
+[31:29] Let's try again.
+[31:31] Right, it's three, two, one.
+[31:34] Ooh, that's a bit better, isn't it?
+[31:35] Ooh, lovely.
+[31:37] It's going to land on someone.
+[31:41] Yay.
+[31:51] Okay, probably the last one will see.
+[31:53] Let's go to the other side during that's go this way.
+[31:55] Three, two, one.
+[31:59] I'm sorry.
+[32:02] I wasn't aiming at you, never mind.
+[32:05] These things happen.
+[32:06] I want more, try, want more.
+[32:09] It's going to land me do one more.
+[32:20] Three, let's go that way.
+[32:21] Three, two, one.
+[32:23] Ooh, no, not happy that time.
+[32:31] I've not got enough in that.
+[32:32] That is the end of that.
+[32:33] We will do round of applause.
+[32:34] Thank you very much.
+[32:36] Thank you.
+[32:39] Okay, my roommate machine says no, my roommate machine has enough,
+[32:42] but that's fine because what I've got is even better
+[32:46] smokerings for you from Mount Etna.
+[32:48] So this is a couple of years ago.
+[32:50] In Sicily, Italy, Mount Etna was blowing smoke rings.
+[32:56] And some tourists took some videos of it.
+[32:58] This is footage from the BBC.
+[33:00] They are just they blow my mind.
+[33:01] They're just huge.
+[33:03] Much more impressive than my smokerings.
+[33:08] Really very cool.
+[33:09] Lovely, isn't it?
+[33:14] That's the right noise.
+[33:15] You can come to all my talks of that as.
+[33:20] That is nice, isn't it?
+[33:26] Okay, so they're out there in the real world.
+[33:29] They're not just happening here.
+[33:30] This is what I say to young people sometimes,
+[33:32] not just happening in your school or in your classroom,
+[33:34] but they're out there in the real world.
+[33:35] And so volcanoes blowing smoke rings for the same idea.
+[33:38] You've got like a force that's pushing smoke up towards
+[33:41] the eruption, obviously, towards an aperture at the top
+[33:43] which makes the smoke ring.
+[33:46] Apparently dolphins can blow, not also,
+[33:49] so air rings, dolphins can blow air rings.
+[33:51] And apparently they don't do it for any reason.
+[33:53] There's no biological reason.
+[33:54] They just do it for fun, which I just think means dolphins
+[33:57] are amazing.
+[33:58] They're the most intelligent mathematical animals.
+[34:00] They just play with them.
+[34:01] They're videos on YouTube you can go and find.
+[34:03] Divers for the same reason,
+[34:05] divers can blow air rings as well.
+[34:07] When they go down into the water,
+[34:09] they're blowing air through their mouth, which is the whole.
+[34:11] So there's lots of other places that you can see this.
+[34:13] It is, it's a type of vortex, right?
+[34:16] So you might have heard the word vortex before.
+[34:18] So any fluid, it's the only gas or liquid
+[34:20] that has circular motion is a vortex.
+[34:23] And this is the toroidal.
+[34:25] If you want the fancy name for toroidal vortex,
+[34:26] toroidal, it's a tourist shape one.
+[34:28] Different type of vortex, toroidado.
+[34:31] Very different, circular motion, but circles on top of each other,
+[34:35] I guess, circles around a line, right?
+[34:38] That kind of thing.
+[34:39] A linear vortex, that's it, that's its name.
+[34:42] And it's a very different shape, not circles around a circle,
+[34:45] but circles around a line, different shape.
+[34:47] So different behavior, behavior is very different.
+[34:50] It's very destructive.
+[34:52] It's not stable at all.
+[34:53] And you can do that in a water bottle as well.
+[34:57] So you can whizz your water bottle around
+[34:58] and you can get, you can see the kind of tornado shape.
+[35:01] I am hoping, we've got, I've actually,
+[35:03] this is unbelievable, but I've finished with about four minutes
+[35:06] to spare, which just isn't happened, right?
+[35:09] We can get excited about that.
+[35:11] So what I'll do, actually, I'll use some of my time
+[35:13] to show you a link, so I'm going to show you this link,
+[35:14] which you can go to, to find more out about this.
+[35:17] So at this link, www.think-mats.
+[35:21] My website.co.uk forward slash smoke.
+[35:24] That's quite easy to remember, isn't it?
+[35:25] Think dash maths.uk, full slash strike.
+[35:28] Then at that link, there's lots of other bits
+[35:30] that you can look at.
+[35:30] So there's some videos from number five,
+[35:33] from somebody else talking about the maths of maps.
+[35:37] And I will talk to a little bit briefly
+[35:39] about how the geometry of a flat surface
+[35:42] is very different from the geometry of the sphere.
+[35:46] And so kind of linked to that is the idea
+[35:49] that every flat map that you ever see is wrong.
+[35:52] So every flat map you ever look at
+[35:54] will have some sort of distortion.
+[35:56] And so it's mathematically been proven
+[35:58] where you can't perfectly make a flat map.
+[36:00] Because of the difference of the geometry
+[36:02] between flat surface and surface of the globe.
+[36:05] And so for example, the Makeda map,
+[36:07] that's probably the one you most commonly see
+[36:09] in a geography classroom or so on,
+[36:11] is probably the most famous one.
+[36:13] It's distortion, is its directions,
+[36:15] are correct, right?
+[36:16] Things are in the right direction.
+[36:18] But the sizes of land masses are distorted.
+[36:22] And it distorts, it makes the land masses
+[36:24] towards the poles, look much bigger.
+[36:25] Then they should be, which makes green land,
+[36:28] look much bigger than it should.
+[36:29] If it was the real size,
+[36:30] they wonder if Trump would take less interest in it.
+[36:32] I don't know.
+[36:33] And it makes Africa look smaller than it should,
+[36:35] because it's at the equator.
+[36:37] So that's probably the most famous map,
+[36:38] but there's loads of other types of maps
+[36:39] that have different distortions.
+[36:41] And the maths of maps is just absolutely love it.
+[36:44] It's so interesting.
+[36:45] So there's some really interesting videos
+[36:46] that you can go and look at.
+[36:47] If that interests you.
+[36:49] There's also, there's the worksheet instruction sheet
+[36:51] kind of thing for mobious loops.
+[36:53] For the ones I've shown you and other things
+[36:55] that you can do with the mobious loop
+[36:56] if you want to go and try that with somebody.
+[36:58] That's on that link as well.
+[36:59] And maybe utilities, there's the utilities puzzles,
+[37:02] as well that you can download and have a go at.
+[37:04] So do go to that link if you would like.
+[37:06] I think, otherwise, all I have to say
+[37:08] is I'm hoping that you have enjoyed this session.
+[37:11] Thank you so much for coming.
+[37:13] It's lovely to be here.
+[37:15] And I will go.
+[37:16] But I don't know where the Q&A tent is.
+[37:18] I'm going to hope someone will show me.
+[37:20] And then I will be at the Q&A tent in a couple of minutes.
+[37:24] So thank you very much for listening.
+[37:24] Hopefully I'll see you there.
+[37:25] Thank you very much.
+[37:27] APPLAUSE

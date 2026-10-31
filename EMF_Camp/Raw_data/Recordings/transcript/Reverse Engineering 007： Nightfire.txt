@@ -1,0 +1,182 @@
+[00:00] I love you, everyone. So I'm starting off with a bit of context about myself. My day job
+[00:19] actually is nothing to do with games or writing games. I generally design and build hardware
+[00:24] in electronics. So I do stuff from single units to 100,000. So this is actually my first
+[00:30] time doing a reverse engineering project, although I do have some background in C, which is
+[00:35] what at least half of the game was written in. So also for context, I'm not solo on this
+[00:42] project. There's a discord community with a whole bunch of people in it. So when I say
+[00:46] I and we, that is who I'm referring to, it's not just me. That's also if you're considering
+[00:52] your own projects, finding communities and finding people to work with is absolutely
+[00:57] invaluable. This isn't something that you could really solo. So I imagine a few of you
+[01:04] recognised the name already, but for context it's a first person shooter that was released
+[01:10] in 2002. So right around the period that a lot of people started playing games of that
+[01:16] nature. So it's very nostalgic for a lot of people myself included. I have a lot of hours
+[01:22] in Skyrail. I'm sure a lot of you do as well. But there are actually three games with the same
+[01:28] name. So there is the console version, which is definitely the best version. I'm going to
+[01:33] just say that now. There were also also a PC version, which was written by Gearbox, which used
+[01:39] a version of the Gold Source engine as well. And there was also a Game Boy Advance version,
+[01:44] but I'm going to be talking about the console version specifically. So why nostalgia is clearly
+[01:51] a thing that a lot of people have. But this was also something I started around start with
+[01:56] pandemic. When a lot of people suddenly had a lot of free time. And a lot of other projects came out
+[02:01] of a similar time as well. So if anyone knows the Jack and Daxter series, there's Open Gole,
+[02:06] which is a complete source remake of all three Jack and Daxter games. If you haven't seen that,
+[02:11] really worth checking out as well. And there are people who've done the same with the GTA games as
+[02:16] well. So full source re-rites of that as well. It's a really interesting problem. So I've learned
+[02:23] a bunch of skills along the way. Going from never reverse engineering anything to being
+[02:29] comfortable with reverse engineering, understanding of principles, understanding what goes wrong,
+[02:34] well, what goes right when the compiler is doing it. But annoying when you then try and look at
+[02:38] what the compiler has outputted. There are other benefits as well. So this is how modding can be done
+[02:46] on games of this era. It's much harder when you don't have access to the source code. And when
+[02:51] it uses a completely fresh engine, which is what a lot of the game uses. It also allows us to extract
+[02:58] resources. So it's incredibly popular to create video game levels and put them into VR charts.
+[03:05] I don't know if anyone uses that as well. But that's been a thing that a lot of other people have
+[03:09] actually done with different games. And this just makes it possible to pull out all of the assets
+[03:14] and put them in places they were never meant to be. It's also weird to look at the consoles of that
+[03:20] era because they are pretty resource constraints. So the PS2 is 32 megs of RAM, the Xbox 64
+[03:28] megs. And it's one of the last generations that allowed you to use 100% of the hardware. So it
+[03:33] actually feels surprisingly close to embedded development, which is what my day job really is. So
+[03:39] some of the techniques there are surprisingly more transferable than I thought they'd be.
+[03:44] It's also really useful for speedrunners as well. People are still speedrunning the game 24 years later.
+[03:50] So in fact, within the last year people discovered a glitch that they just didn't know about before.
+[03:56] One of the levels you can just drive through the wall in a particular spot and cut out about 30
+[03:59] seconds worth of time. So yeah, things like that should be possible when you understand the collision
+[04:05] data which we still haven't done yet. There might be other holes in the level somewhere or other
+[04:09] glitches of that nature. But that's a bit of context about why you might want to do this kind of thing.
+[04:15] But where do you actually get started on a project? In my case, it was getting the disk into a computer
+[04:21] and looking at the files that are actually on the disk. So we can see there are two interesting
+[04:27] elf files that are action and driving. So one of the first things that you realize is there's
+[04:33] not one game engine. There are two completely different game engines running this thing. And they just
+[04:37] hand off between each other in the loading screens. We also see that there's one big file there.
+[04:43] Right, files.bin is a single package containing every single asset there. But yeah, we have no idea
+[04:50] how to interpret that data yet. So the next step that I took was get it into Gidra. If anyone's
+[04:56] not aware of it, Gidra is a reverse engineering tool that was released by the NSA for entirely
+[05:02] non-affirious purposes, I'm sure. But yeah, it's really good. There are plugins for pretty much
+[05:08] any platform on the Sun, including PS2, Xbox, GameCube. There are plugins you drop them in,
+[05:14] you drop in the executable and you get whatever the compiler outputed. In this case, we were actually
+[05:22] really lucky. The developers of the game didn't remove the symbols, so we can see every function
+[05:28] name in the game. That gives us a lot of context about what each function might be doing and how
+[05:32] the overall structure works, at least for the action engine. For the driving engine, they did strip out
+[05:39] the symbols. But in a previous version in Agent Under Fire, which is another game in the same
+[05:44] series with very similar context, they didn't strip out the symbols from the GameCube version.
+[05:50] And Gidra actually has some really powerful tools that takes the overall look of a function.
+[05:55] So what signature it has, how it is called by other functions, and it builds up a tree and it
+[06:01] can compare the two side by side and map likely this function here is the same as this function here
+[06:07] in the other thing. And that even works across different architectures as well. So you can take
+[06:13] the GameCube agent Under Fire, put it on top of the Gnite Fire PS2 version, and just transfer
+[06:19] the two symbols across pretty effectively. It's not perfect, but it's kind of when blowing the
+[06:23] works as well as it does. So with that, we got a reasonable understanding of how the engine
+[06:29] was structured, what the data looks like, and we were able to write some Python tools that would
+[06:35] allow us to extract a bunch of the assets. So yeah, we found what within that files.in, what the
+[06:43] levels were, how they were identified, and everything that goes into those levels as well.
+[06:50] The other things to note is that because they were very performance constrained, they like
+[06:54] hyper optimized for every platform. So the GameCube version has textures that are in a very
+[07:00] GameCube specific format. Same with the audio playback. It's not like the engine is receiving a
+[07:05] common file and interpreting it. They are baked into exactly what the platform and hardware is capable
+[07:10] of doing. Same with the PS2 models as well, for example. So the PS2 has a co-pursusor that takes
+[07:18] a bunch of data, but also tells you how to handle and draw that data. That's done by a co-pursusor,
+[07:25] but the instructions for that co-pursusor are actually mixed in with the model data. So you get a binary
+[07:30] blob that is handed over in one go and actually getting the geometry out of that is a bit
+[07:35] filthly, but it's very doable. So at the end of it, we have full level data extracted into blender.
+[07:43] Yeah, this works for PS2. It works for all of the levels and it also works for all of the assets
+[07:49] that are used to make up the game as well. The only thing that we haven't got working at this point
+[07:52] in terms of extracting models is stuff that uses skinning and face blending as well. But all of the
+[08:00] other all of the rigid stuff is extracted now. It also means when we've got the the executable
+[08:07] and we understand what all the functions are, we can start extracting the embedded stats. So here's
+[08:13] some of the audio data, but we've got the same for the weapons, for everything else that goes
+[08:18] into actually making the gameplay. And we've also been able to extract all of the audio as well
+[08:24] in original format. So one of the other things you might want to do with these projects is bring
+[08:29] up a game that was written 20 years ago for hardware that is starting to fail and get it running on
+[08:35] modern stuff. If that's your only goal, emulators work really well. So PCSX2 don't dolphin or run
+[08:41] the game perfectly, but there are limitations of those two platforms. So the GameCube audio quality
+[08:47] has been crushed to fit on the much smaller disks. So I think a GameCube disk is one and a half gigs
+[08:53] maybe. They're just physically smaller. They don't have the room for all of the full quality assets.
+[08:59] Same with PCSX2. The game looks pretty good on that platform, but yeah some of the textures
+[09:05] are not as high quality as on the Xbox version as well. So the canonical best version of the game
+[09:11] might say would be the Xbox version. There are also other limitations of the platform. So PS2 32
+[09:17] makes a RAM and they have to cut some features from the multiplayer to get it running. The Xbox
+[09:22] had I think twice that. So that was the best version to play overall if you want, I think it was
+[09:28] 14 bots or 16 bots. But yeah the Xbox version is the one that you really want and the
+[09:36] Xbox is basically just an old PC. It was cut down a bit in terms of the operating system, but
+[09:42] functionally it's an x86 processor in a box. And basically that means that the object code
+[09:47] that the game is will run on any other x80s its processor. With some capacity stuff in between
+[09:55] the two. So you need to map from the Xbox functions which are similar but not exactly
+[10:01] identical to direct x. But it turns out someone's already done that in xbx reloaded here.
+[10:07] So that this process of taking code that was written for one platform for one set of APIs
+[10:13] and running it on something similar but not identical is called high level emulation.
+[10:18] And surprisingly you can then stack that with another emulation layer which is what whine
+[10:23] kind of is but except the name tells you it's not an emulator. But that's debate but that's
+[10:29] some antics. So yeah you can play the game on Linux on a modern PC through wine and through cxbx
+[10:37] reloaded if you want to. The compatibility of that process is a bit janky. But that leaves us with
+[10:43] another thing that you can do is if you're running it on a modern PC you can inject your own code
+[10:49] into that process as well. Windows just lets you do this as a thing. So if you want to work out
+[10:56] how the game is working you can take a function you can write over the top of that function
+[11:01] you can jump into your own code at that point instead. You can then essentially do what you like.
+[11:06] You're in that process you're in that function. So you can make it do nothing at all see what it
+[11:11] was doing in the original context or you can write your own version with logging and inject it into the game.
+[11:17] In the future you could also inject the entire graphics of the system or the audio subsystem.
+[11:23] You could replace the whole thing so you don't have to have that compatibility layer anymore.
+[11:27] You can effectively swap out the front end of the game so to speak without needing to
+[11:33] rewrite the whole thing from source. But you could also repeat that process for every single
+[11:39] function in the game and eventually have a full copy of the code that you've been able to test
+[11:44] against the original code or against the rest of your code and eventually with enough effort
+[11:50] you could end up with a complete copy of the game testing at every single step along the way.
+[11:55] That isn't a concept that I came up with this was first something documented by Mac Casey.
+[12:00] I don't know if anyone has heard of him. Yep, a few people there. So yeah that technique is
+[12:06] something he demonstrated and we've built on top of. But now let's have a bit of trivia.
+[12:12] Here's a snippet of code. I will tell you that there is a bug in there somewhere.
+[12:15] I will start out a way to check. Shout out. You can swap the bug. Given that this is meant to generate key codes.
+[12:25] Anyone seeing it?
+[12:30] Well you are all, oh go on.
+[12:34] It is initialized to I've just cut that part of the snippet off. It is initialized to zero. Sorry that was my bad.
+[12:39] There is a bug in there but you are all thinking exactly the same way the game developers did.
+[12:52] If you're trying to generate numbers between zero zero zero zero and nine nine nine nine.
+[12:57] You've got to do a module O10, not module O9.
+[13:01] And that bug has been discovered for 22 years. So there we go. I shared that on the discord.
+[13:07] And yeah people agreed.
+[13:11] Until I got that message. So it is actually.
+[13:18] There we go. So what's actually going on there is surprisingly. There is another bug.
+[13:40] But yeah this was my thought process been seeing that and it took me quite a long time to work out in the end.
+[13:46] But it turns out the scrambling animation that is being done by that tool is just generating around
+[13:52] them digit and displaying it for a few frames. And it only locks that digit in on the next time the
+[13:58] animation process is run. But when you get the code completed that last the scrambling process stops.
+[14:06] The animation just remains on the last frame and it never runs that last step about baiting that last
+[14:11] so the actual code was not ending in nine. It was just that happened to be the last random
+[14:16] digit that was scrambled. So the code was correct but there was another bug that
+[14:21] confronted that. So yeah there are some other bugs in the game as well. So quite a lot of people thought
+[14:27] that the game cube version didn't have some effects for performance reasons. It turns out
+[14:31] those assets actually do exist. They're just pointing the wrong way and the game cube just calls them out.
+[14:37] There's another bug as well which was even more confusing. So I was re-implementing part of the
+[14:43] the menu and it turns out they used a placeholder of I think it's 999 or minus 999 as a placeholder for an empty
+[14:50] value. So when the original code did that it was reading outside of the balance of an array and
+[14:57] because it owns the entire processor and that was still a valid bit of memory. It just read it anyway.
+[15:03] But when I injected a new version that new version was in a new DLL which had different memory
+[15:08] mapping and so it ended up reading out of the balance of the new array and crashing even though
+[15:12] it was completely faithful re-implementation of the original. So that took a while. There are lots of
+[15:18] head scratches with this. But yeah like I said at the beginning this is not something that I
+[15:23] really think is possible solo. It's probably half a million lines of code and it's taken us
+[15:30] three years on and off to get 7% of those re-written. So not something you can do solo for sure.
+[15:38] But that's partly why I'm giving this talk is to show people how this goes. I want to make
+[15:43] more people aware of it and I want to make sure that people know how they could get involved with
+[15:46] their R interested. Obviously there is a legal question here so the game is still EAs IP even though
+[15:55] the actual rights to that are uncertain. So it's not clear who's allowed to distribute it if anyone.
+[16:01] It's not clear whether the bond trademark is still permitted to be distributed in this context.
+[16:07] So we don't think there's any commercial value to the IP anymore but it is still their IP.
+[16:13] So there's a risk that if we do open source it it would be seized or what's the word. It's
+[16:20] isn't assisted. So yeah I've talked a little bit about this but yeah we think it's not possible to
+[16:27] do and there's the double edge sort of AI here as well. So in some context it could be useful.
+[16:36] It does definitely work identifying mangled functions. It can very quickly take us a bit of code
+[16:42] say this looks similar to some other code but it does feel like you're defeating the point a
+[16:47] little bit of a passion project inspired by humans inspired by nostalgia to then farm your hobby
+[16:54] off to an AI just feels like you're really defeating the point there. So I'm kind of in two minds about
+[16:59] that one. So yeah there's a whole community of us if anyone wants to join I'll leave this up at the end
+[17:06] but I will switch over now to a quick demo and actually show that in action.
+[17:17] So it does take a while this is a terrible laptop.
+[17:48] Uh still doing something so these are all logging that has been injected into the game as well.
+[17:57] So we can see what the menu system is doing but the end of the song.
+[18:08] This is all fixed resolution but this is modified from when it
+[18:18] got a full zero to Mr Bart and just
+[18:30] I'm credited with the assistant Mr Bart persistence and fear. There are little unsaints on
+[18:37] the road that could challenge to our song on my island. Those pieces were being sinorated by turning
+[18:43] these defensiveness also into massive events. So yeah thank you very much if anyone's got any questions.
+[18:59] So two things if anyone wants to join the discord and find out more then the QR code will
+[19:03] appear on screen in a second and if anyone's got any questions I'm going to be going over to the QR
+[19:08] uh question and they unanswered tent. So yeah thank you very much.
