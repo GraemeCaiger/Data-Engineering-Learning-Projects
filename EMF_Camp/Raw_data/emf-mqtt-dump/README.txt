@@ -1,3 +1,5 @@
+# Readme from helpful repo encountered. 
+
 This is a dump of all data posted to the mqtt.emf.camp mqtt server over EMFCamp 2026.
 
 It was recorded using https://github.com/rpdswtk/mqtt_recorder and the same tool can
@@ -9,3 +11,5 @@ mqtt.emf.camp.csv.gz.1 & mqtt.emf.camp.csv.gz.2 files.
 mqttrecorder was run with the --encode_b64 option so all messages are base64 encoded.
 
 should you want them, the columns are msg.topic, payload, msg.qos, msg.retain, time_now, time_delta
+
+## For more details see original repo . "https://github.com/maxlock/mqtt.emf.camp.2026"
