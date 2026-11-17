@@ -15,7 +15,8 @@ Additional weather data from MQTT to come soon.
 ## Currently Intended Architecture. 
 
 ![alt text](Assets/image.png)
-[Notes](Assets/EMFCamp%20Notes/MQTT%20notes.md) <br>
+[Notes_Scedule](Assets/EMFCamp%20Notes/Scedule_Notes.md) <br>
+[Notes_MQTT](Assets/EMFCamp%20Notes/MQTT%20notes.md) <br>
 [Learning source1](https://www.youtube.com/watch?v=G0crKzK9Ayk)
 
 
